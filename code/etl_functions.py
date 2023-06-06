@@ -75,6 +75,31 @@ def obtener_valores(lista: str, clave: str, none_como_string_vacio=True, separad
         for d in lista:
             salida.append(obtener_valor(diccionario=d, clave=clave, none_como_string_vacio=none_como_string_vacio))
         return separador.join(salida)
+    
+def obtener_cargo_y_nombre(lista: str, none_como_string_vacio=True, separador=', '):
+    '''Esta funcion trabaja solo sobre el campo crew del dataframe credits'''
+    lista = ast.literal_eval(lista)
+    if type(lista) != list:
+        if none_como_string_vacio:
+            return ''
+        else:
+            return None
+    elif len(lista) == 0:
+        if none_como_string_vacio:
+            return ''
+        else:
+            return None
+    else:
+        salida = []
+        for d in lista:
+            cargo_y_nombre = obtener_valor(diccionario=d, clave='job', none_como_string_vacio=none_como_string_vacio)
+            cargo_y_nombre = cargo_y_nombre + ":-:"
+            cargo_y_nombre = cargo_y_nombre + obtener_valor(diccionario=d, clave='name', none_como_string_vacio=none_como_string_vacio)
+            if ":" not in cargo_y_nombre:
+                print(d)
+                print(cargo_y_nombre)
+            salida.append(cargo_y_nombre)
+        return separador.join(salida)
 
 if __name__ == '__main__':
     # Testeo las funciones
