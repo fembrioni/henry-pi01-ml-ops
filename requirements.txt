@@ -1,0 +1,7 @@
+numpy
+pandas
+uvicorn
+fastapi
+json
+ast
+datetime
