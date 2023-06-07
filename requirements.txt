@@ -2,5 +2,3 @@ numpy
 pandas
 uvicorn
 fastapi
-ast
-datetime
