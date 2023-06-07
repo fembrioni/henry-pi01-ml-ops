@@ -2,6 +2,7 @@
 
 import json
 import ast
+from datetime import datetime
 
 def obtener_dicc(cadena_json) -> dict:
     '''Esta funcion permite obtener un diccionario que se corresponde con la cadena json enviada como valor'''
@@ -100,6 +101,11 @@ def obtener_cargo_y_nombre(lista: str, none_como_string_vacio=True, separador=',
                 print(cargo_y_nombre)
             salida.append(cargo_y_nombre)
         return separador.join(salida)
+    
+def obtener_dia_de_la_semana(fecha_como_string):
+    fecha = datetime.strptime(fecha_como_string, "%Y-%m-%d")
+    dia_de_la_semana = fecha.strftime("%A")
+    return dia_de_la_semana
 
 if __name__ == '__main__':
     # Testeo las funciones
