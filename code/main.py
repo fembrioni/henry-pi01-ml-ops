@@ -5,14 +5,14 @@
 import pandas as pd
 from fastapi import FastAPI
 import uvicorn
-import etl_flow as etlf
+import etl_flow as etlflow
 import api_functions as apif
 
 # Declaro la App de FastAPI
 fastAPIApp = FastAPI()
 
 # Obtengo los dataframes procesados luego del ETL
-dataframes_d = etlf.obtener_dataframes()
+dataframes_d = etlflow.obtener_dataframes()
 
 # Endpoints
 
