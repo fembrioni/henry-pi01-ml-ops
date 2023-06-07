@@ -35,6 +35,12 @@ def obtener_dataframes() -> dict:
        # Tratamiento columna release_year
        m_df['release_year'] = m_df['release_date'].apply(lambda x: x[0:4])
 
+       # Tratamiento columna release_month (La creo para cumplir con el Endpoint 1)
+       m_df['release_month'] = m_df['release_date'].apply(lambda x: x[5:7])
+
+       # Tratamiento columna release_day (La creo para cumplir con el Endpoint 2)
+       m_df['release_day_of_week'] = m_df['release_date'].apply(etlf.obtener_dia_de_la_semana)
+
        # Tratamiento columna return
        m_df['budget'] = m_df['budget'].astype('float64')
        m_df['return'] = m_df['revenue'] / m_df['budget']
