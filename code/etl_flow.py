@@ -4,6 +4,7 @@
 # /com.docker.devenvironments.code/src/credits.csv
 
 # Imports
+import numpy as np
 import pandas as pd
 import etl_functions as etlf
 
@@ -23,6 +24,20 @@ m_df = movies_df[columns_to_store]
 # Drops de registros
 m_df.dropna(subset=['production_companies'], inplace=True)
 m_df.dropna(subset=['spoken_languages'], inplace=True)
+m_df.dropna(subset=['release_date'], inplace=True)
+
+# Validaciones en el EDA
+# release_date (luego de eliminar los nulos) tiene el formato necesario YYYY-mm-dd. No es necesario hacer modificaciones
+# revenue y budget no tienen nulos
+
+# Tratamiento columna release_year
+m_df['release_year'] = m_df['release_date'].apply(lambda x: x[0:4])
+
+# Tratamiento columna return
+m_df['budget'] = m_df['budget'].astype('float64')
+m_df['return'] = m_df['revenue'] / m_df['budget']
+m_df['return'] = m_df['return'].fillna(0)
+m_df['return'] = m_df['return'].replace(np.inf, 0)
 
 # Tratamiento columna belongs_to_collection
 m_df['collection'] = m_df['belongs_to_collection'].apply(etlf.obtener_dicc)
