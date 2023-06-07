@@ -4,15 +4,20 @@
 # /com.docker.devenvironments.code/src/credits.csv
 
 # Imports
+import os
 import numpy as np
 import pandas as pd
 import etl_functions as etlf
 
 def obtener_dataframes() -> dict:
 
+       # Obtengo el directorio raiz desde la variable de entorno DIRECTORIO_RAIZ
+       dir_raiz = os.getenv("DIRECTORIO_RAIZ")
+
        # Movies
        # ======
-       movies_df = pd.read_csv('/com.docker.devenvironments.code/src/movies_dataset.csv')
+       archivo = os.path.join(dir_raiz, 'src/movies_dataset.csv')
+       movies_df = pd.read_csv(archivo)
 
        # Me quedo con las columnas utiles segun el criterio de evaluacion
        columns_to_store = ['belongs_to_collection', 'budget', 'genres', 'id',
@@ -91,7 +96,8 @@ def obtener_dataframes() -> dict:
 
        # Credits
        # =======
-       credits_df = pd.read_csv('/com.docker.devenvironments.code/src/credits.csv')
+       archivo = os.path.join(dir_raiz, 'src/credits.csv')
+       credits_df = pd.read_csv(archivo)
 
        # Tratamiento columna cast. Genero un nuevo dataframe con los actores/actrices expandidos y el id para hacer join
        credits_df['cast_names'] = credits_df['cast'].apply(etlf.obtener_valores, args=('name',))
