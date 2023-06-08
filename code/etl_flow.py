@@ -60,7 +60,7 @@ def escribir_df_preprocesado(nombre_df: str, dataframe: pd.DataFrame):
               # Error. El dataframe no esta en la lista de preprocesados
               print('Error: El dataframe no esta en la lista de dataframes preprocesados')
 
-def preprocesar_credits_dataframes():
+def preprocesar_credits_dataframes() -> bool:
 
        # Obtengo el directorio raiz desde la variable de entorno DIRECTORIO_RAIZ
        dir_raiz = os.getenv("DIRECTORIO_RAIZ")
@@ -104,8 +104,9 @@ def preprocesar_credits_dataframes():
        # Escribo archivos preprocesados con los credits dataframes
        escribir_df_preprocesado(nombre_df='m_cast_df', dataframe=m_cast_df)
        escribir_df_preprocesado(nombre_df='m_crew_job_and_name_df', dataframe=m_crew_job_and_name_df)
+       return True
 
-def preprocesar_dataframes():
+def preprocesar_dataframes() -> bool:
 
        # Obtengo el directorio raiz desde la variable de entorno DIRECTORIO_RAIZ
        dir_raiz = os.getenv("DIRECTORIO_RAIZ")
@@ -213,3 +214,4 @@ def preprocesar_dataframes():
        escribir_df_preprocesado(nombre_df='m_companies_df', dataframe=m_companies_df)
        escribir_df_preprocesado(nombre_df='m_countries_df', dataframe=m_countries_df)
        escribir_df_preprocesado(nombre_df='m_languages_df', dataframe=m_languages_df)
+       return True
