@@ -87,6 +87,46 @@ def score_titulo(titulo_de_la_filmacion: str):
         # Respondo
         return 'La película {} fue estrenada en el año {} con un score/popularidad de {}'\
             .format(titulo_de_la_filmacion, release_year, popularity)
+    
+# Endpoint 4
+@fastAPIApp.get("/votos_titulo/{titulo_de_la_filmacion}")
+def votos_titulo(titulo_de_la_filmacion):
+    '''Se ingresa el título de una filmación esperando como respuesta
+    el título, la cantidad de votos y el valor promedio de las votaciones.
+    La misma variable deberá de contar con al menos 2000 valoraciones,
+    caso contrario, debemos contar con un mensaje avisando que no cumple
+    esta condición y que por ende, no se devuelve ningun valor.
+
+    Ejemplo de retorno: La película X fue estrenada en el año X. La misma
+    cuenta con un total de X valoraciones, con un promedio de X
+    
+    SUPUESTO DE TRABAJO: Dado que la informacion de año de estreno no se solicita, no se emitirá'''
+
+    # Evaluo la cantidad de registros con ese nombre de pelicula
+    m_df = etlflow.obtener_df_preprocesado('m_df')
+    q = m_df[m_df['title'] == titulo_de_la_filmacion].title.count()
+
+    # Si no hay registros se informa tal situacion
+    if q < 1:
+        return 'No se encuentran registros con el siguiente nombre de filmación: {}'.format(titulo_de_la_filmacion)
+    else:
+        # Existe al menos un registro. Me quedo con el primero de ellos
+        registros = m_df[m_df['title'] == titulo_de_la_filmacion]
+        registro = registros.head(1)
+
+        # Obtengo los valores de cantidad de votos
+        cant_votos = registro['vote_count'].values[0]
+
+        # Si la cantidad de votos no alcanza, emito un mensaje avisando de esa situacion
+        if cant_votos < 2000:
+            return 'La cantidad de votos es menor a 2000, por lo que no se emite la valoracion promedio'
+        else:
+            # Obtengo el promedio de las valoraciones
+            prom_votos = registro['vote_average'].values[0]
+
+            # Respondo
+            return 'La película {} cuenta con un total de {} valoraciones, con un promedio de {}'\
+                .format(titulo_de_la_filmacion, cant_votos, prom_votos)
 
 if __name__ == "__main__":
     uvicorn.run(fastAPIApp, host="0.0.0.0", port=8000)
