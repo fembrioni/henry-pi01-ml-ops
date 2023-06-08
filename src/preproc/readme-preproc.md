@@ -1,0 +1,1 @@
+El objetivo de este directorio es el de almacenar los archivos fruto del preprocesamiento en el ETL
