@@ -12,6 +12,7 @@ import api_functions as apif
 fastAPIApp = FastAPI()
 
 # Obtengo los dataframes procesados luego del ETL
+credits_dataframes_d = etlflow.obtener_credits_dataframes()
 dataframes_d = etlflow.obtener_dataframes()
 
 # Endpoints
