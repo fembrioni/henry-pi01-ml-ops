@@ -38,7 +38,7 @@ def cantidad_filmaciones_mes(mes: str):
     else:
         # Devuelvo la cantidad de peliculas que fueron estrenadas en ese mes
         m_df = etlflow.obtener_df_preprocesado('m_df')
-        q = m_df[m_df['release_month'] == mes_num].release_month.count()
+        q = m_df[m_df['release_month'] == int(mes_num)].release_month.count()
         return '{} cantidad de películas fueron estrenadas en el mes de {}'.format(str(q), mes)
 
 # Endpoint 2
