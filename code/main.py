@@ -16,7 +16,7 @@ fastAPIApp = FastAPI()
 # En produccion simplemente utilizo los archivos ya preprocesados
 # Esto es para evitar problemas de memoria con Render
 ambiente = os.getenv("AMBIENTE")
-if ambiente = 'DEV':
+if ambiente == 'DEV':
     etlflow.preprocesar_credits_dataframes()
     etlflow.preprocesar_dataframes()
 
