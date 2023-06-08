@@ -2,6 +2,7 @@
 # PI01-MLOPS de Henry
 
 # Imports
+import os
 import pandas as pd
 from fastapi import FastAPI
 import uvicorn
@@ -11,9 +12,13 @@ import api_functions as apif
 # Declaro la App de FastAPI
 fastAPIApp = FastAPI()
 
-# Preproceso los dataframes (ETL)
-etlflow.preprocesar_credits_dataframes()
-etlflow.preprocesar_dataframes()
+# Si estoy en el ambiente de desarrollo, preproceso los dataframes (ETL)
+# En produccion simplemente utilizo los archivos ya preprocesados
+# Esto es para evitar problemas de memoria con Render
+ambiente = os.getenv("AMBIENTE")
+if ambiente = 'DEV':
+    etlflow.preprocesar_credits_dataframes()
+    etlflow.preprocesar_dataframes()
 
 # Endpoints
 
