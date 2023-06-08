@@ -128,5 +128,40 @@ def votos_titulo(titulo_de_la_filmacion):
             return 'La película {} cuenta con un total de {} valoraciones, con un promedio de {}'\
                 .format(titulo_de_la_filmacion, cant_votos, prom_votos)
 
+# Endpoint 5
+@fastAPIApp.get("/get_actor/{nombre_actor}")
+def get_actor(nombre_actor):
+    '''Se ingresa el nombre de un actor que se encuentre dentro de un dataset
+    debiendo devolver el éxito del mismo medido a través del retorno.
+    Además, la cantidad de películas en las que ha participado y el promedio
+    de retorno. La definición no deberá considerar directores.
+    
+    Ejemplo de retorno: El actor X ha participado de X cantidad de filmaciones,
+    el mismo ha conseguido un retorno de X con un promedio de X por filmación'''
+
+    # Evaluo la cantidad de registros con ese nombre de actor
+    m_cast_df = etlflow.obtener_df_preprocesado('m_cast_df')
+    q = m_cast_df[m_cast_df['actor_actress_name'] == nombre_actor].actor_actress_name.count()
+
+    # Si no hay registros se informa tal situacion
+    if q < 1:
+        return 'No se encuentran registros con el siguiente nombre de actor/actriz: {}'.format(nombre_actor)
+    else:
+        # Uso los registros del actor/atriz para joinearlos con los datos de las peliculas
+        m_cast_df = m_cast_df[m_cast_df['actor_actress_name'] == nombre_actor]
+        m_df = etlflow.obtener_df_preprocesado('m_df')
+        m_join = pd.merge(left=m_cast_df, right=m_df, on='id', how='inner')
+        del m_cast_df
+        del m_df
+
+        # calculo la informacion solicitada
+        retorno = m_join['return'].sum()
+        cant_peliculas = m_join['id'].count()
+        prom_retorno = retorno / cant_peliculas
+
+        # Respondo
+        return 'El actor/actriz {} ha participado en {} filmaciones, el mismo ha conseguido un retorno de {} con un promedio de {} por filmación'\
+        .format(nombre_actor, cant_peliculas, retorno, prom_retorno)
+
 if __name__ == "__main__":
     uvicorn.run(fastAPIApp, host="0.0.0.0", port=8000)
