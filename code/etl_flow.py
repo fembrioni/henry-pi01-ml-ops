@@ -104,29 +104,29 @@ def obtener_dataframes() -> dict:
 
        # Credits
        # =======
-       archivo = os.path.join(dir_raiz, 'src/credits.csv')
-       credits_df = pd.read_csv(archivo)
+       # archivo = os.path.join(dir_raiz, 'src/credits.csv')
+       # credits_df = pd.read_csv(archivo)
 
-       # Tratamiento columna cast. Genero un nuevo dataframe con los actores/actrices expandidos y el id para hacer join
-       credits_df['cast_names'] = credits_df['cast'].apply(etlf.obtener_valores, args=('name',))
-       credits_df.drop(columns=['cast'], inplace=True)
-       m_cast_df = credits_df[['id', 'cast_names']]
-       df_expanded = m_cast_df['cast_names'].str.split(', ', expand=True).stack().reset_index(level=1, drop=True).to_frame('actor_actress_name')
-       m_cast_df = m_cast_df.join(df_expanded)
-       m_cast_df.drop(columns=['cast_names'], inplace=True)
+       # # Tratamiento columna cast. Genero un nuevo dataframe con los actores/actrices expandidos y el id para hacer join
+       # credits_df['cast_names'] = credits_df['cast'].apply(etlf.obtener_valores, args=('name',))
+       # credits_df.drop(columns=['cast'], inplace=True)
+       # m_cast_df = credits_df[['id', 'cast_names']]
+       # df_expanded = m_cast_df['cast_names'].str.split(', ', expand=True).stack().reset_index(level=1, drop=True).to_frame('actor_actress_name')
+       # m_cast_df = m_cast_df.join(df_expanded)
+       # m_cast_df.drop(columns=['cast_names'], inplace=True)
 
-       # Tratamiento columna crew. Genero un nuevo dataframe con id (Para hacer join), nombre del trabajo y nombre de la persona
-       credits_df['jobs_and_names'] = credits_df['crew'].apply(etlf.obtener_cargo_y_nombre)
-       credits_df.drop(columns=['crew'], inplace=True)
-       m_crew_job_and_name_df = credits_df[['id', 'jobs_and_names']]
-       df_expanded = m_crew_job_and_name_df['jobs_and_names'].str.split(', ', expand=True).stack().reset_index(level=1, drop=True).to_frame('job_and_name')
-       m_crew_job_and_name_df = m_crew_job_and_name_df.join(df_expanded)
-       m_crew_job_and_name_df.drop(columns=['jobs_and_names'], inplace=True)
-       m_crew_job_and_name_df[['job', 'name']] = m_crew_job_and_name_df['job_and_name'].str.split(':-:', expand=True)
-       m_crew_job_and_name_df.drop(columns=['job_and_name'], inplace=True)
+       # # Tratamiento columna crew. Genero un nuevo dataframe con id (Para hacer join), nombre del trabajo y nombre de la persona
+       # credits_df['jobs_and_names'] = credits_df['crew'].apply(etlf.obtener_cargo_y_nombre)
+       # credits_df.drop(columns=['crew'], inplace=True)
+       # m_crew_job_and_name_df = credits_df[['id', 'jobs_and_names']]
+       # df_expanded = m_crew_job_and_name_df['jobs_and_names'].str.split(', ', expand=True).stack().reset_index(level=1, drop=True).to_frame('job_and_name')
+       # m_crew_job_and_name_df = m_crew_job_and_name_df.join(df_expanded)
+       # m_crew_job_and_name_df.drop(columns=['jobs_and_names'], inplace=True)
+       # m_crew_job_and_name_df[['job', 'name']] = m_crew_job_and_name_df['job_and_name'].str.split(':-:', expand=True)
+       # m_crew_job_and_name_df.drop(columns=['job_and_name'], inplace=True)
 
-       # Libero memoria (Requerido por Render)
-       del credits_df
+       # # Libero memoria (Requerido por Render)
+       # del credits_df
 
        # RESUMEN
        # =======
@@ -140,12 +140,18 @@ def obtener_dataframes() -> dict:
        # m_crew_job_and_name_df : Es el dataframe de trabajos del reparto en cada pelicula (Clave id)
 
        # Devuelvo un diccionario con los dataframes
+       # dataframes_d = {'m_df' : m_df,
+       #                 'm_genres_df' : m_genres_df,
+       #                 'm_companies_df' : m_companies_df,
+       #                 'm_countries_df' : m_countries_df,
+       #                 'm_languages_df' : m_languages_df,
+       #                 'm_cast_df' : m_cast_df,
+       #                 'm_crew_job_and_name_df' : m_crew_job_and_name_df}
+
        dataframes_d = {'m_df' : m_df,
                        'm_genres_df' : m_genres_df,
                        'm_companies_df' : m_companies_df,
                        'm_countries_df' : m_countries_df,
-                       'm_languages_df' : m_languages_df,
-                       'm_cast_df' : m_cast_df,
-                       'm_crew_job_and_name_df' : m_crew_job_and_name_df}
+                       'm_languages_df' : m_languages_df}
        
        return dataframes_d
