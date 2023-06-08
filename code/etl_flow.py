@@ -28,6 +28,9 @@ def obtener_dataframes() -> dict:
               'vote_average', 'vote_count']
        m_df = movies_df[columns_to_store]
 
+       # Libero espacio de memoria (Requerido por Render)
+       del movies_df
+
        # Drops de registros
        m_df.dropna(subset=['production_companies'], inplace=True)
        m_df.dropna(subset=['spoken_languages'], inplace=True)
@@ -114,6 +117,9 @@ def obtener_dataframes() -> dict:
        m_crew_job_and_name_df.drop(columns=['jobs_and_names'], inplace=True)
        m_crew_job_and_name_df[['job', 'name']] = m_crew_job_and_name_df['job_and_name'].str.split(':-:', expand=True)
        m_crew_job_and_name_df.drop(columns=['job_and_name'], inplace=True)
+
+       # Libero memoria (Requerido por Render)
+       del credits_df
 
        # RESUMEN
        # =======
