@@ -9,7 +9,58 @@ import numpy as np
 import pandas as pd
 import etl_functions as etlf
 
-def obtener_credits_dataframes() -> dict:
+#                   m_df : Es el dataframe principal de movies (Clave id)
+#            m_genres_df : Es el dataframe de generos de cada pelicula (Clave id)
+#         m_companies_df : Es el dataframe de companias que producen cada pelicula (Clave id)
+#         m_countries_df : Es el dataframe de paises que producen cada pelicula (Clave id)
+#         m_languages_df : Es el dataframe de idiomas hablados en cada pelicula (Clave id)
+#              m_cast_df : Es el dataframe de actores y actrices en cada pelicula (Clave id)
+# m_crew_job_and_name_df : Es el dataframe de trabajos del reparto en cada pelicula (Clave id). Nos quedamos solo con los directores
+
+preprocesados_d = {'m_df' : ['src/preproc/m_df.tsv', '\t'],
+                   'm_genres_df' : ['src/preproc/m_genres_df.tsv', '\t'],
+                   'm_companies_df' : ['src/preproc/m_companies_df.tsv', '\t'],
+                   'm_countries_df' : ['src/preproc/m_countries_df.tsv', '\t'],
+                   'm_languages_df' : ['src/preproc/m_languages_df.tsv', '\t'],
+                   'm_cast_df' : ['src/preproc/m_cast_df.tsv', '\t'],
+                   'm_crew_job_and_name_df' : ['src/preproc/m_crew_job_and_name_df.tsv', '\t']}
+
+def obtener_df_preprocesado(nombre_df: str):
+
+       if nombre_df in preprocesados_d.keys():
+
+              # Obtengo el directorio raiz desde la variable de entorno DIRECTORIO_RAIZ
+              dir_raiz = os.getenv("DIRECTORIO_RAIZ")
+
+              # Obtengo el dataframe desde el archivo correspondiente
+              archivo = os.path.join(dir_raiz, preprocesados_d[nombre_df][0])
+              preprocesado_df = pd.read_csv(archivo, sep=preprocesados_d[nombre_df][1])
+
+              return preprocesado_df
+       
+       else:
+
+              # Error. El dataframe no ha sido preprocesado
+              print('Error: El dataframe no esta en la lista de dataframes preprocesados')
+              return None
+
+def escribir_df_preprocesado(nombre_df: str, dataframe: pd.DataFrame):
+
+       if nombre_df in preprocesados_d.keys():
+
+              # Obtengo el directorio raiz desde la variable de entorno DIRECTORIO_RAIZ
+              dir_raiz = os.getenv("DIRECTORIO_RAIZ")
+
+              # Escribo el dataframe al archivo correspondiente
+              archivo = os.path.join(dir_raiz, preprocesados_d[nombre_df][0])
+              dataframe.to_csv(archivo, sep=preprocesados_d[nombre_df][1], index=False)
+
+       else:
+
+              # Error. El dataframe no esta en la lista de preprocesados
+              print('Error: El dataframe no esta en la lista de dataframes preprocesados')
+
+def preprocesar_credits_dataframes():
 
        # Obtengo el directorio raiz desde la variable de entorno DIRECTORIO_RAIZ
        dir_raiz = os.getenv("DIRECTORIO_RAIZ")
@@ -50,13 +101,11 @@ def obtener_credits_dataframes() -> dict:
        #              m_cast_df : Es el dataframe de actores y actrices en cada pelicula (Clave id)
        # m_crew_job_and_name_df : Es el dataframe de trabajos del reparto en cada pelicula (Clave id)
 
-       # Devuelvo un diccionario con los credits dataframes
-       credits_dataframes_d = {'m_cast_df' : m_cast_df,
-                               'm_crew_job_and_name_df' : m_crew_job_and_name_df}
+       # Escribo archivos preprocesados con los credits dataframes
+       escribir_df_preprocesado(nombre_df='m_cast_df', dataframe=m_cast_df)
+       escribir_df_preprocesado(nombre_df='m_crew_job_and_name_df', dataframe=m_crew_job_and_name_df)
 
-       return credits_dataframes_d
-
-def obtener_dataframes() -> dict:
+def preprocesar_dataframes():
 
        # Obtengo el directorio raiz desde la variable de entorno DIRECTORIO_RAIZ
        dir_raiz = os.getenv("DIRECTORIO_RAIZ")
@@ -158,10 +207,9 @@ def obtener_dataframes() -> dict:
        #         m_countries_df : Es el dataframe de paises que producen cada pelicula (Clave id)
        #         m_languages_df : Es el dataframe de idiomas hablados en cada pelicula (Clave id)
 
-       dataframes_d = {'m_df' : m_df,
-                       'm_genres_df' : m_genres_df,
-                       'm_companies_df' : m_companies_df,
-                       'm_countries_df' : m_countries_df,
-                       'm_languages_df' : m_languages_df}
-       
-       return dataframes_d
+       # Escribo archivos preprocesados con los movie dataframes
+       escribir_df_preprocesado(nombre_df='m_df', dataframe=m_df)
+       escribir_df_preprocesado(nombre_df='m_genres_df', dataframe=m_genres_df)
+       escribir_df_preprocesado(nombre_df='m_companies_df', dataframe=m_companies_df)
+       escribir_df_preprocesado(nombre_df='m_countries_df', dataframe=m_countries_df)
+       escribir_df_preprocesado(nombre_df='m_languages_df', dataframe=m_languages_df)

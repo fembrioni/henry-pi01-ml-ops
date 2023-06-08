@@ -11,16 +11,11 @@ import api_functions as apif
 # Declaro la App de FastAPI
 fastAPIApp = FastAPI()
 
-# Obtengo los dataframes procesados luego del ETL
-credits_dataframes_d = etlflow.obtener_credits_dataframes()
-dataframes_d = etlflow.obtener_dataframes()
+# Preproceso los dataframes (ETL)
+etlflow.preprocesar_credits_dataframes()
+etlflow.preprocesar_dataframes()
 
 # Endpoints
-
-# Endpoint de prueba
-@fastAPIApp.get("/inicio")
-async def ruta_prueba():
-    return "Hola"
 
 # Endpoint 1
 @fastAPIApp.get("/cantidad_filmaciones_mes/{mes}")
@@ -37,7 +32,7 @@ def cantidad_filmaciones_mes(mes: str):
         return 'El nombre de mes ingresado: {} no es valido'.format(mes)
     else:
         # Devuelvo la cantidad de peliculas que fueron estrenadas en ese mes
-        m_df = dataframes_d['m_df']
+        m_df = etlflow.obtener_df_preprocesado('m_df')
         q = m_df[m_df['release_month'] == mes_num].release_month.count()
         return '{} cantidad de películas fueron estrenadas en el mes de {}'.format(str(q), mes)
 
@@ -55,7 +50,7 @@ def cantidad_filmaciones_dia(dia: str):
         return 'El nombre de dia ingresado: {} no es valido'.format(dia)
     else:
         # Devuelvo la cantidad de peliculas que fueron estrenadas ese dia
-        m_df = dataframes_d['m_df']
+        m_df = etlflow.obtener_df_preprocesado('m_df')
         q = m_df[m_df['release_day_of_week'] == dia_ingles].release_day_of_week.count()
         return '{} cantidad de películas fueron estrenadas en los dias {}'.format(str(q), dia)
 
@@ -69,7 +64,7 @@ def score_titulo(titulo_de_la_filmacion: str):
      b) el score se corresponde con el campo popularity'''
 
     # Evaluo la cantidad de registros con ese nombre de pelicula
-    m_df = dataframes_d['m_df']
+    m_df = etlflow.obtener_df_preprocesado('m_df')
     q = m_df[m_df['title'] == titulo_de_la_filmacion].title.count()
 
     # Si no hay registros se informa tal situacion
