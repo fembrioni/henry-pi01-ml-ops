@@ -57,10 +57,12 @@ def obtener_dataframes() -> dict:
 
        # Tratamiento columna belongs_to_collection
        m_df['collection'] = m_df['belongs_to_collection'].apply(etlf.obtener_dicc)
+       m_df.drop(columns=['belongs_to_collection'], inplace=True)
        m_df['collection_name'] = m_df['collection'].apply(etlf.obtener_valor, args=('name',))
 
        # Tratamiento columna genres. Genero un nuevo dataframe con los generos expandidos y el id para hacer join
        m_df['genres_names'] = m_df['genres'].apply(etlf.obtener_valores, args=('name',))
+       m_df.drop(columns=['genres'], inplace=True)
        m_genres_df = m_df[['id', 'genres_names']]
        df_expanded = m_genres_df['genres_names'].str.split(', ', expand=True).stack().reset_index(level=1, drop=True).to_frame('genre_name')
        m_genres_df = m_genres_df.join(df_expanded)
@@ -68,6 +70,7 @@ def obtener_dataframes() -> dict:
 
        # Tratamiento columna production_companies. Genero un nuevo dataframe con las companias expandidas y el id para hacer join
        m_df['companies_names'] = m_df['production_companies'].apply(etlf.obtener_valores, args=('name',))
+       m_df.drop(columns=['production_companies'], inplace=True)
        m_companies_df = m_df[['id', 'companies_names']]
        df_expanded = m_companies_df['companies_names'].str.split(', ', expand=True).stack().reset_index(level=1, drop=True).to_frame('company_name')
        m_companies_df = m_companies_df.join(df_expanded)
@@ -75,6 +78,7 @@ def obtener_dataframes() -> dict:
 
        # Tratamiento columna production_countries. Genero un nuevo dataframe con los paises expandidos y el id para hacer join
        m_df['countries_names'] = m_df['production_countries'].apply(etlf.obtener_valores, args=('name',))
+       m_df.drop(columns=['production_countries'], inplace=True)
        m_countries_df = m_df[['id', 'countries_names']]
        df_expanded = m_countries_df['countries_names'].str.split(', ', expand=True).stack().reset_index(level=1, drop=True).to_frame('country_name')
        m_countries_df = m_countries_df.join(df_expanded)
@@ -82,6 +86,7 @@ def obtener_dataframes() -> dict:
 
        # Tratamiento columna spoken_languages. Genero un nuevo dataframe con los idiomas expandidos y el id para hacer join
        m_df['languages_names'] = m_df['spoken_languages'].apply(etlf.obtener_valores, args=('name',))
+       m_df.drop(columns=['spoken_languages'], inplace=True)
        m_languages_df = m_df[['id', 'languages_names']]
        df_expanded = m_languages_df['languages_names'].str.split(', ', expand=True).stack().reset_index(level=1, drop=True).to_frame('language_name')
        m_languages_df = m_languages_df.join(df_expanded)
@@ -91,11 +96,11 @@ def obtener_dataframes() -> dict:
        m_df['id'] = m_df['id'].astype(int)
 
        # Hago drop de las columnas del movies dataframe que no utilizare
-       m_df.drop(columns=['belongs_to_collection', 'collection',
-                     'genres', 'genres_names',
-                     'production_companies', 'companies_names',
-                     'production_countries', 'countries_names',
-                     'spoken_languages', 'languages_names'], inplace=True)
+       m_df.drop(columns=['collection',
+                            'genres_names',
+                            'companies_names',
+                            'countries_names',
+                            'languages_names'], inplace=True)
 
        # Credits
        # =======
@@ -104,6 +109,7 @@ def obtener_dataframes() -> dict:
 
        # Tratamiento columna cast. Genero un nuevo dataframe con los actores/actrices expandidos y el id para hacer join
        credits_df['cast_names'] = credits_df['cast'].apply(etlf.obtener_valores, args=('name',))
+       credits_df.drop(columns=['cast'], inplace=True)
        m_cast_df = credits_df[['id', 'cast_names']]
        df_expanded = m_cast_df['cast_names'].str.split(', ', expand=True).stack().reset_index(level=1, drop=True).to_frame('actor_actress_name')
        m_cast_df = m_cast_df.join(df_expanded)
@@ -111,6 +117,7 @@ def obtener_dataframes() -> dict:
 
        # Tratamiento columna crew. Genero un nuevo dataframe con id (Para hacer join), nombre del trabajo y nombre de la persona
        credits_df['jobs_and_names'] = credits_df['crew'].apply(etlf.obtener_cargo_y_nombre)
+       credits_df.drop(columns=['crew'], inplace=True)
        m_crew_job_and_name_df = credits_df[['id', 'jobs_and_names']]
        df_expanded = m_crew_job_and_name_df['jobs_and_names'].str.split(', ', expand=True).stack().reset_index(level=1, drop=True).to_frame('job_and_name')
        m_crew_job_and_name_df = m_crew_job_and_name_df.join(df_expanded)
