@@ -2,4 +2,3 @@ numpy
 pandas
 uvicorn
 fastapi
-seaborn
