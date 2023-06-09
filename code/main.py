@@ -5,6 +5,7 @@
 import os
 import pandas as pd
 from fastapi import FastAPI
+from fastapi.responses import HTMLResponse
 import uvicorn
 import etl_flow as etlflow
 import api_functions as apif
@@ -162,6 +163,40 @@ def get_actor(nombre_actor):
         # Respondo
         return 'El actor/actriz {} ha participado en {} filmaciones, el mismo ha conseguido un retorno de {} con un promedio de {} por filmación'\
         .format(nombre_actor, cant_peliculas, retorno, prom_retorno)
+
+# Endpoint 6
+@fastAPIApp.get("/get_director/{nombre_director}")
+def get_director(nombre_director):
+    '''Se ingresa el nombre de un director que se encuentre dentro de un dataset
+    debiendo devolver el éxito del mismo medido a través del retorno. Además, deberá
+    devolver el nombre de cada película con la fecha de lanzamiento, retorno
+    individual, costo y ganancia de la misma.'''
+
+    # Evaluo la cantidad de registros con ese nombre de director
+    m_crew_df = etlflow.obtener_df_preprocesado('m_crew_job_and_name_df')
+    q = m_crew_df[m_crew_df['name'] == nombre_director].name.count()
+
+    # Si no hay registros se informa tal situacion
+    if q < 1:
+        return 'No se encuentran registros con el siguiente nombre de director(a): {}'.format(nombre_director)
+    else:
+        # Uso los registros del director para joinearlos con los datos de las peliculas
+        m_crew_df = m_crew_df[m_crew_df['name'] == nombre_director]
+        m_df = etlflow.obtener_df_preprocesado('m_df')
+        m_join = pd.merge(left=m_crew_df, right=m_df, on='id', how='inner')
+
+        # calculo la informacion solicitada
+        retorno_director = m_join['return'].sum()
+
+        # Preparo la respuesta
+        rta = '''El/la director(a) {} tiene un retorno de {} según la siguiente lista de películas:<br><br>'''\
+                .format(nombre_director, retorno_director)
+        for idx, row in m_join.iterrows():
+            rta = rta + '''Film: {}, Fecha lanz: {}, Retorno: {}, Costo: {}, Ganancia: {}<br>'''\
+            .format(row['title'], row['release_date'], row['return'], row['budget'], row['revenue'])
+
+        # Respondo con HTMLResponse para poder incluir controles HTML de fin de linea
+        return HTMLResponse(content=rta)
 
 if __name__ == "__main__":
     uvicorn.run(fastAPIApp, host="0.0.0.0", port=8000)
