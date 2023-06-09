@@ -189,13 +189,28 @@ def get_director(nombre_director):
         retorno_director = m_join['return'].sum()
 
         # Preparo la respuesta
-        rta = '''El/la director(a) {} tiene un retorno de {} según la siguiente lista de películas:<br><br>'''\
+        rta = '''<head>
+                    <style>
+                        table {
+                        table-layout: fixed;
+                        width: 100%;
+                        }
+                        
+                        td {
+                        width: 20%
+                        }
+                    </style>
+                </head>
+                <body>'''
+        rta = rta + '''El/la director(a) {} tiene un retorno de {} según la siguiente lista de películas:<br><br>'''\
                 .format(nombre_director, retorno_director)
+        rta = rta + '''<table><tr><td>Film</td><td>Fecha lanz</td><td>Retorno</td><td>Costo</td><td>Ganancia</td></tr>'''
         for idx, row in m_join.iterrows():
-            rta = rta + '''Film: {}, Fecha lanz: {}, Retorno: {}, Costo: {}, Ganancia: {}<br>'''\
+            rta = rta + '''<tr><td>{}</td><td>{}</td><td>{}</td><td>{}</td><td>{}</td></tr>'''\
             .format(row['title'], row['release_date'], row['return'], row['budget'], row['revenue'])
+        rta = rta + '''</table></body>'''
 
-        # Respondo con HTMLResponse para poder incluir controles HTML de fin de linea
+        # Respondo con HTMLResponse para poder incluir controles HTML de fin de linea y otros formatos
         return HTMLResponse(content=rta)
 
 if __name__ == "__main__":
