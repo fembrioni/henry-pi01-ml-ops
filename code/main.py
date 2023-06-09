@@ -186,7 +186,7 @@ def get_director(nombre_director):
         m_join = pd.merge(left=m_crew_df, right=m_df, on='id', how='inner')
 
         # calculo la informacion solicitada
-        retorno_director = m_join['return'].sum()
+        retorno_director = m_join['return'].mean()
 
         # Preparo la respuesta
         rta = '''<head>
@@ -202,7 +202,7 @@ def get_director(nombre_director):
                     </style>
                 </head>
                 <body>'''
-        rta = rta + '''El/la director(a) {} tiene un retorno de {} según la siguiente lista de películas:<br><br>'''\
+        rta = rta + '''El/la director(a) {} tiene un retorno promedio de {} según la siguiente lista de películas:<br><br>'''\
                 .format(nombre_director, retorno_director)
         rta = rta + '''<table><tr><td>Film</td><td>Fecha lanz</td><td>Retorno</td><td>Costo</td><td>Ganancia</td></tr>'''
         for idx, row in m_join.iterrows():
