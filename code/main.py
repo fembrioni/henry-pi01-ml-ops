@@ -22,6 +22,13 @@ if ambiente == 'DEV':
     etlflow.preprocesar_dataframes()
 
 # Endpoints
+#  1 - /cantidad_filmaciones_mes/{mes}
+#  2 - /cantidad_filmaciones_dia/{dia}
+#  3 - /score_titulo/{titulo_de_la_filmacion}
+#  4 - /votos_titulo/{titulo_de_la_filmacion}
+#  5 - /get_actor/{nombre_actor}
+#  6 - /get_director/{nombre_director}
+# ML - /recomendacion/{titulo}
 
 # Endpoint 1
 @fastAPIApp.get("/cantidad_filmaciones_mes/{mes}")
@@ -237,6 +244,14 @@ def get_director(nombre_director):
 
         # Respondo
         return rta
+
+# Endpoint recomendacion ML
+@fastAPIApp.get('/recomendacion/{titulo}')
+def recomendacion(titulo:str):
+    '''Ingresas un nombre de pelicula y te recomienda las similares en una lista'''
+    # El 9/6 pidieron return {'lista recomendada': respuesta}
+    # TODO
+    return 'TODO'
 
 if __name__ == "__main__":
     uvicorn.run(fastAPIApp, host="0.0.0.0", port=8000)
