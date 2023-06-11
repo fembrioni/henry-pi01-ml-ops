@@ -82,8 +82,6 @@ id	genre_name
 63	Science Fiction
 63	Thriller
 63	Mystery
-78802	Romance
-78802	Adventure
 9598	Fantasy
 9598	Drama
 9598	Comedy
@@ -725,8 +723,6 @@ id	genre_name
 10452	History
 12106	Action
 12106	Western
-161495	Drama
-161495	Comedy
 3586	Drama
 3586	Comedy
 110	Drama
@@ -1572,8 +1568,6 @@ id	genre_name
 11479	Family
 398959	Romance
 398959	Drama
-287305	Comedy
-339428	Comedy
 12652	Drama
 12652	Romance
 10684	Drama
@@ -1587,12 +1581,10 @@ id	genre_name
 68445	Comedy
 18989	Drama
 18989	Romance
-10801	Comedy
 54285	Horror
 54285	Mystery
 54285	Thriller
 8840	Fantasy
-278978	Drama
 124625	Drama
 11107	Action
 11107	Comedy
@@ -1670,8 +1662,6 @@ id	genre_name
 29621	Adventure
 29621	Science Fiction
 29621	Thriller
-117730	Drama
-117730	Foreign
 20762	Action
 20762	Thriller
 37144	Crime
@@ -1926,7 +1916,6 @@ id	genre_name
 172198	
 34170	Family
 34170	Comedy
-281085	
 109478	Action
 109478	Mystery
 109478	Thriller
@@ -1945,7 +1934,6 @@ id	genre_name
 12632	Foreign
 9098	Comedy
 9098	Foreign
-282919	Drama
 124614	Thriller
 18975	Animation
 18975	Family
@@ -1986,7 +1974,6 @@ id	genre_name
 9431	Comedy
 124619	Drama
 297645	
-48144	
 46986	Drama
 46986	Romance
 144982	Drama
@@ -2007,7 +1994,6 @@ id	genre_name
 66634	Music
 116690	Drama
 213917	Drama
-145925	
 100914	
 238	Drama
 238	Crime
@@ -2072,7 +2058,6 @@ id	genre_name
 19004	Adventure
 19004	Family
 101230	
-253632	Thriller
 10987	Horror
 10987	Thriller
 44705	Drama
@@ -2486,7 +2471,6 @@ id	genre_name
 42314	Documentary
 27845	Comedy
 27845	Drama
-108365	Drama
 23223	Crime
 23223	Drama
 49471	Drama
@@ -2601,8 +2585,6 @@ id	genre_name
 25750	Horror
 17642	Documentary
 427043	Comedy
-146341	Crime
-146341	Drama
 9305	Documentary
 37616	Comedy
 11112	Comedy
@@ -3319,10 +3301,6 @@ id	genre_name
 26306	Drama
 26306	Romance
 203829	Documentary
-43775	Drama
-43775	Comedy
-43775	Romance
-43775	Foreign
 14908	Action
 14908	Comedy
 14908	Romance
@@ -3372,7 +3350,6 @@ id	genre_name
 9366	Crime
 9366	Drama
 9366	Thriller
-60083	Comedy
 21915	Comedy
 90928	Documentary
 50091	Drama
@@ -5173,7 +5150,6 @@ id	genre_name
 16384	Action
 16384	Comedy
 91217	Drama
-77314	
 10699	Drama
 10699	Comedy
 10699	Thriller
@@ -5293,7 +5269,6 @@ id	genre_name
 37532	Drama
 9713	Drama
 9713	Comedy
-134368	
 85837	Drama
 85837	Action
 85837	Crime
@@ -9956,9 +9931,6 @@ id	genre_name
 13166	Comedy
 32590	Drama
 32590	Romance
-109472	Drama
-109472	Thriller
-109472	Romance
 153141	Romance
 153141	Comedy
 153141	Drama
@@ -11490,7 +11462,6 @@ id	genre_name
 11457	Drama
 10778	Crime
 10778	Drama
-78657	Comedy
 67385	Drama
 67385	Foreign
 151727	
@@ -11599,8 +11570,6 @@ id	genre_name
 14584	Thriller
 14584	Crime
 14584	Mystery
-58886	Comedy
-58886	Foreign
 72277	Drama
 72277	Mystery
 72277	Thriller
@@ -14428,7 +14397,6 @@ id	genre_name
 3028	Comedy
 3028	Horror
 3028	Science Fiction
-29224	Comedy
 81001	Comedy
 81001	Fantasy
 8219	Comedy
@@ -14542,7 +14510,6 @@ id	genre_name
 48561	Music
 30789	Horror
 30789	Thriller
-81346	
 11057	Drama
 11057	History
 47955	Horror
@@ -15080,8 +15047,6 @@ id	genre_name
 9902	Horror
 9902	Thriller
 2260	Documentary
-61939	Drama
-61939	Foreign
 18385	Drama
 584	Action
 584	Crime
@@ -20591,7 +20556,6 @@ id	genre_name
 11085	Drama
 11085	History
 53218	Drama
-65048	
 24188	Drama
 24188	Comedy
 28367	Fantasy
@@ -21590,7 +21554,6 @@ id	genre_name
 41792	Comedy
 25674	Drama
 25674	Romance
-53688	
 21338	Action
 21338	Crime
 21338	Thriller
@@ -22038,7 +22001,6 @@ id	genre_name
 18491	Animation
 18491	Drama
 18491	Science Fiction
-175739	
 13777	Comedy
 11854	Drama
 11854	Romance
@@ -22628,9 +22590,6 @@ id	genre_name
 12542	Action
 12542	Thriller
 32276	Documentary
-100594	Action
-100594	Horror
-100594	Science Fiction
 14455	Action
 14455	Drama
 14455	History
@@ -23101,7 +23060,6 @@ id	genre_name
 24749	Drama
 17657	Action
 17657	Drama
-32546	Drama
 42390	Drama
 26488	Comedy
 26488	Drama
@@ -23981,8 +23939,6 @@ id	genre_name
 13073	Drama
 35384	Comedy
 35384	Family
-113178	Comedy
-113178	Romance
 8976	Comedy
 27360	Comedy
 27360	Crime
@@ -25374,7 +25330,6 @@ id	genre_name
 27031	Romance
 27031	History
 27031	Drama
-55396	Drama
 917	Drama
 17595	Drama
 17595	Romance
@@ -25546,7 +25501,6 @@ id	genre_name
 4550	Drama
 4550	Thriller
 36380	Comedy
-68646	
 16433	Crime
 16433	Comedy
 16433	Drama
@@ -27720,8 +27674,6 @@ id	genre_name
 13916	Drama
 13916	Romance
 13916	Thriller
-52920	Comedy
-52920	Foreign
 48215	Animation
 48215	Action
 22485	Documentary
@@ -28593,7 +28545,6 @@ id	genre_name
 14123	Comedy
 88527	Drama
 88527	Romance
-155386	
 4516	Comedy
 8141	Comedy
 8141	Crime
@@ -30786,7 +30737,6 @@ id	genre_name
 14075	Action
 14075	Thriller
 14075	Crime
-22554	Comedy
 18596	Drama
 18596	Thriller
 26431	Drama
@@ -31423,7 +31373,6 @@ id	genre_name
 79090	Documentary
 79090	War
 79090	History
-47499	Drama
 60488	Adventure
 60488	Action
 60488	Romance
@@ -32216,10 +32165,8 @@ id	genre_name
 16005	Comedy
 16005	Drama
 16005	History
-55748	
 39331	Comedy
 284117	Documentary
-55500	
 14164	Action
 14164	Adventure
 14164	Fantasy
@@ -32244,7 +32191,6 @@ id	genre_name
 33726	Drama
 33726	Music
 33726	Romance
-61070	Comedy
 93562	Action
 93562	Western
 13557	Horror
@@ -32396,7 +32342,6 @@ id	genre_name
 15384	Drama
 15384	History
 15384	Thriller
-156908	
 48116	Drama
 15342	Comedy
 15342	Drama
@@ -32405,7 +32350,6 @@ id	genre_name
 17124	Crime
 17124	Drama
 17124	Mystery
-210487	Comedy
 64115	Comedy
 17532	Thriller
 17532	Crime
@@ -32419,7 +32363,6 @@ id	genre_name
 65503	Western
 65503	Comedy
 65503	Romance
-38869	Comedy
 17027	Crime
 17027	Drama
 17027	Thriller
@@ -32535,7 +32478,6 @@ id	genre_name
 18405	Thriller
 18405	Horror
 18405	Drama
-155426	Comedy
 21832	Mystery
 21832	Animation
 21832	Science Fiction
@@ -32632,8 +32574,6 @@ id	genre_name
 115306	Family
 115306	Music
 115306	Foreign
-200796	Comedy
-200796	Thriller
 27134	Fantasy
 27134	Comedy
 27134	Horror
@@ -32644,9 +32584,6 @@ id	genre_name
 53622	Western
 761	Comedy
 11914	Comedy
-64968	Drama
-64968	Romance
-64968	Foreign
 34300	Comedy
 34300	Family
 58018	Comedy
@@ -32740,7 +32677,6 @@ id	genre_name
 17610	Adventure
 8933	Drama
 8933	Comedy
-156917	
 37911	Drama
 37911	Action
 37911	Thriller
@@ -33212,8 +33148,6 @@ id	genre_name
 37047	Animation
 37047	Comedy
 37047	Romance
-66949	Drama
-66949	History
 77285	Drama
 77285	Romance
 64728	Drama
@@ -33255,10 +33189,6 @@ id	genre_name
 13797	Comedy
 13797	Horror
 12605	Drama
-128856	Drama
-128856	Action
-128856	Thriller
-128856	Foreign
 145066	Drama
 145066	Mystery
 31216	Drama
@@ -33346,7 +33276,6 @@ id	genre_name
 677	Documentary
 685	Documentary
 92011	Action
-154430	
 49835	Documentary
 18759	Horror
 18759	Science Fiction
@@ -33398,7 +33327,6 @@ id	genre_name
 21371	Drama
 23115	Action
 23115	Family
-41427	
 184781	Romance
 184781	Music
 36108	Comedy
@@ -33466,8 +33394,6 @@ id	genre_name
 52710	Comedy
 52710	Crime
 52710	Drama
-140887	Action
-140887	Adventure
 40979	Comedy
 40979	Drama
 40979	Romance
@@ -33483,7 +33409,6 @@ id	genre_name
 227370	Family
 17899	Comedy
 17899	Drama
-18120	Comedy
 106006	Documentary
 17445	Action
 17445	Animation
@@ -33597,7 +33522,6 @@ id	genre_name
 25549	Drama
 25549	Thriller
 25549	Crime
-63615	
 26009	Thriller
 26500	Drama
 35113	Thriller
@@ -34348,8 +34272,6 @@ id	genre_name
 128846	Mystery
 128846	Drama
 128846	History
-63764	Drama
-63764	Romance
 148597	Drama
 46886	Documentary
 129303	
@@ -34559,8 +34481,6 @@ id	genre_name
 291554	Drama
 149851	Comedy
 14773	Documentary
-147683	Comedy
-147683	Western
 25195	Romance
 25195	Comedy
 20504	Action
@@ -34651,7 +34571,6 @@ id	genre_name
 52429	Romance
 81895	Action
 81895	Adventure
-148435	Comedy
 46335	Drama
 46335	Music
 46335	Romance
@@ -34688,8 +34607,6 @@ id	genre_name
 13634	Comedy
 13634	Drama
 13634	Romance
-144089	Action
-144089	Western
 40229	Horror
 40229	Mystery
 40229	Thriller
@@ -34823,8 +34740,6 @@ id	genre_name
 22404	War
 27567	Comedy
 27567	Drama
-147692	Crime
-147692	Western
 41787	Thriller
 41787	Mystery
 106482	Romance
@@ -34873,8 +34788,6 @@ id	genre_name
 46336	Fantasy
 46336	Romance
 27569	Drama
-62775	Comedy
-62775	Drama
 120109	Comedy
 8349	Action
 8349	Adventure
@@ -35116,7 +35029,6 @@ id	genre_name
 22166	Thriller
 408956	
 18489	Documentary
-120280	Comedy
 19962	Comedy
 29427	Mystery
 29427	Horror
@@ -35163,8 +35075,6 @@ id	genre_name
 224642	Drama
 224642	Mystery
 224642	Thriller
-117499	Drama
-174748	
 26022	Drama
 26022	Romance
 12155	Family
@@ -35887,8 +35797,6 @@ id	genre_name
 20662	Action
 20662	Adventure
 31345	Drama
-21245	
-60677	Drama
 52620	Drama
 34626	Thriller
 34626	Action
@@ -35971,7 +35879,6 @@ id	genre_name
 37821	Romance
 261538	Comedy
 253232	Comedy
-173865	
 225503	Adventure
 225503	Action
 29069	Horror
@@ -36142,9 +36049,6 @@ id	genre_name
 25869	Drama
 25869	Foreign
 25869	Romance
-30695	Drama
-30695	Romance
-30695	Foreign
 94225	Comedy
 94225	Drama
 108224	Music
@@ -36268,7 +36172,6 @@ id	genre_name
 110901	Thriller
 110901	Horror
 211256	Drama
-46341	
 37414	Crime
 37414	Drama
 37414	Thriller
@@ -37038,7 +36941,6 @@ id	genre_name
 54182	Foreign
 39786	Documentary
 50641	Documentary
-55403	
 46697	Documentary
 46697	Music
 23631	Action
@@ -37259,8 +37161,6 @@ id	genre_name
 41486	Action
 41486	Foreign
 41482	Action
-74714	Drama
-74714	War
 35219	Comedy
 35219	Drama
 35219	Mystery
@@ -37571,7 +37471,6 @@ id	genre_name
 39514	Crime
 39514	Thriller
 213864	
-90930	
 86233	Romance
 86233	Drama
 98364	Comedy
@@ -37606,8 +37505,6 @@ id	genre_name
 127083	Foreign
 4921	Drama
 4921	Foreign
-370264	Action
-370264	Drama
 11389	Family
 11389	Comedy
 11389	Crime
@@ -37829,7 +37726,6 @@ id	genre_name
 112072	Music
 112072	Foreign
 114444	
-157178	
 68849	Fantasy
 68849	Comedy
 134569	Animation
@@ -37848,7 +37744,6 @@ id	genre_name
 43539	Crime
 39210	Comedy
 39210	Drama
-72421	Drama
 62103	Drama
 62103	Thriller
 44147	Action
@@ -38874,9 +38769,7 @@ id	genre_name
 50779	Documentary
 44411	Drama
 44411	Romance
-71732	
 85550	Drama
-116751	Drama
 72852	Drama
 48954	Comedy
 32122	Drama
@@ -38918,10 +38811,7 @@ id	genre_name
 44944	Drama
 8418	War
 8418	History
-65898	Drama
 288183	Documentary
-102527	
-148432	
 204040	Adventure
 204040	Drama
 50217	Comedy
@@ -39307,7 +39197,6 @@ id	genre_name
 45715	Science Fiction
 58232	Comedy
 58232	Romance
-53364	
 62342	
 37534	Horror
 37534	Thriller
@@ -39345,7 +39234,6 @@ id	genre_name
 13413	Family
 159878	Drama
 95242	Drama
-81414	Drama
 45189	Comedy
 43418	Drama
 43418	History
@@ -39402,7 +39290,6 @@ id	genre_name
 44898	Foreign
 20995	Comedy
 20995	Foreign
-54354	
 68629	Drama
 68629	Mystery
 68629	Science Fiction
@@ -39609,7 +39496,6 @@ id	genre_name
 9511	Comedy
 9511	Romance
 202241	Drama
-72375	Drama
 21508	Documentary
 21508	Foreign
 76816	Drama
@@ -39625,8 +39511,6 @@ id	genre_name
 36290	Action
 36290	Comedy
 36290	Thriller
-4880	Comedy
-4880	Drama
 28627	Drama
 28627	Horror
 239553	Documentary
@@ -39776,7 +39660,6 @@ id	genre_name
 47310	Animation
 47310	Fantasy
 38944	Comedy
-55408	
 40041	Horror
 40041	Mystery
 40041	Thriller
@@ -39908,7 +39791,6 @@ id	genre_name
 3107	Thriller
 3107	Horror
 131880	Documentary
-145154	
 43692	Drama
 43692	Mystery
 43692	Romance
@@ -39954,9 +39836,6 @@ id	genre_name
 104505	Romance
 104505	Foreign
 83230	Drama
-3962	Comedy
-142712	Romance
-142712	Drama
 55700	Drama
 80799	
 10420	Drama
@@ -39973,8 +39852,6 @@ id	genre_name
 83345	Drama
 83345	Comedy
 57059	Thriller
-74183	Comedy
-74183	Romance
 51170	Animation
 51170	Family
 51170	Comedy
@@ -40131,7 +40008,6 @@ id	genre_name
 89688	Documentary
 89688	Foreign
 263532	Documentary
-55763	
 44912	Adventure
 44912	Action
 44912	Thriller
@@ -40139,7 +40015,6 @@ id	genre_name
 15766	Action
 15766	Fantasy
 15766	Science Fiction
-55761	
 57536	Documentary
 56272	Action
 56272	Comedy
@@ -40218,7 +40093,6 @@ id	genre_name
 18928	Action
 18928	Western
 429876	Drama
-55754	
 61033	Comedy
 23190	TV Movie
 23190	Documentary
@@ -40228,7 +40102,6 @@ id	genre_name
 125233	Drama
 125233	TV Movie
 85430	Comedy
-148314	
 55502	
 32934	Drama
 1736	Comedy
@@ -40251,7 +40124,6 @@ id	genre_name
 42368	Comedy
 42368	Action
 42150	Drama
-289010	Drama
 147846	Drama
 27358	Horror
 27358	Science Fiction
@@ -40268,8 +40140,6 @@ id	genre_name
 12840	Comedy
 12840	Romance
 169842	Drama
-55756	
-55759	Comedy
 114514	Documentary
 126517	Drama
 12513	Drama
@@ -40398,7 +40268,6 @@ id	genre_name
 37189	Comedy
 37189	Drama
 37189	Romance
-177697	Drama
 24189	
 96105	Comedy
 109048	Music
@@ -40495,7 +40364,6 @@ id	genre_name
 27588	Drama
 27588	Horror
 27588	Romance
-404479	Documentary
 74946	Romance
 74946	Drama
 62749	Drama
@@ -40503,7 +40371,6 @@ id	genre_name
 45801	Drama
 45801	Romance
 45801	War
-55166	
 85367	Crime
 67913	Action
 67913	Comedy
@@ -40560,7 +40427,6 @@ id	genre_name
 46995	Drama
 60785	Comedy
 60785	Foreign
-230680	Drama
 57389	Drama
 26242	Drama
 65016	Fantasy
@@ -40774,7 +40640,6 @@ id	genre_name
 28793	Thriller
 26479	Drama
 26479	Action
-92465	Comedy
 120995	Drama
 49520	Comedy
 46558	Documentary
@@ -40869,8 +40734,6 @@ id	genre_name
 56288	Comedy
 56288	Action
 73930	Comedy
-105287	Music
-105287	Documentary
 117412	Comedy
 117412	Drama
 98635	Drama
@@ -41213,7 +41076,6 @@ id	genre_name
 38437	Action
 38437	Adventure
 38437	Mystery
-132227	
 24428	Science Fiction
 24428	Action
 24428	Adventure
@@ -41305,7 +41167,6 @@ id	genre_name
 105757	Drama
 13687	Drama
 13687	Comedy
-72419	
 71905	Documentary
 71905	Action
 71905	Comedy
@@ -41475,7 +41336,6 @@ id	genre_name
 91391	Comedy
 172004	Documentary
 162451	Documentary
-434973	
 440178	
 49452	Drama
 126732	Drama
@@ -41609,8 +41469,6 @@ id	genre_name
 46147	Romance
 57602	War
 57602	Drama
-86126	Drama
-86126	Crime
 28687	Horror
 28687	Science Fiction
 28687	Thriller
@@ -41665,7 +41523,6 @@ id	genre_name
 46934	Comedy
 46934	Crime
 46934	Drama
-62614	
 82020	Horror
 82020	Thriller
 70196	Action
@@ -41682,7 +41539,6 @@ id	genre_name
 79401	Romance
 69217	Drama
 69217	Thriller
-61121	Drama
 28414	Documentary
 83147	Western
 18520	Documentary
@@ -42279,8 +42135,6 @@ id	genre_name
 77866	Drama
 77866	Crime
 14163	Drama
-74878	Comedy
-74878	Crime
 72821	Western
 72821	Comedy
 389854	
@@ -42332,8 +42186,6 @@ id	genre_name
 72721	Drama
 72721	Documentary
 72721	Foreign
-162374	Drama
-162374	Comedy
 72842	Drama
 79465	Comedy
 79465	Drama
@@ -42379,8 +42231,6 @@ id	genre_name
 8368	Drama
 60938	Mystery
 60938	Drama
-145594	Drama
-145594	Comedy
 58194	Drama
 58194	Thriller
 70435	Action
@@ -42393,7 +42243,6 @@ id	genre_name
 110139	Western
 94741	Crime
 94741	Drama
-31337	Comedy
 65760	Drama
 65760	Thriller
 65760	Crime
@@ -42708,7 +42557,6 @@ id	genre_name
 29483	Mystery
 29483	Drama
 88491	Comedy
-79362	
 53174	Comedy
 84259	Comedy
 84259	Western
@@ -42757,8 +42605,6 @@ id	genre_name
 106199	Foreign
 147621	Mystery
 147621	Drama
-247500	Crime
-247500	Drama
 29750	Documentary
 29750	Music
 31400	Drama
@@ -42874,8 +42720,6 @@ id	genre_name
 15086	Comedy
 48458	Documentary
 48458	Foreign
-85883	Drama
-85883	Romance
 25831	Animation
 25831	Comedy
 25831	Family
@@ -42905,7 +42749,6 @@ id	genre_name
 73937	Comedy
 214349	Comedy
 214349	Drama
-399229	
 18705	Action
 18705	Thriller
 18705	Mystery
@@ -43258,8 +43101,6 @@ id	genre_name
 91356	Documentary
 63310	Crime
 63310	Drama
-86727	Drama
-86727	War
 84404	Drama
 84404	Documentary
 74447	Drama
@@ -43374,8 +43215,6 @@ id	genre_name
 159900	
 162284	Crime
 162284	Drama
-61361	Crime
-61361	Drama
 57119	Comedy
 148371	Drama
 15135	Horror
@@ -43479,7 +43318,6 @@ id	genre_name
 22683	Drama
 132122	
 110573	Drama
-362151	Drama
 288165	Drama
 97038	Drama
 167408	Drama
@@ -43809,7 +43647,6 @@ id	genre_name
 34433	Animation
 34433	Adventure
 34433	Family
-78999	
 76333	Drama
 76333	Comedy
 76333	Science Fiction
@@ -44124,8 +43961,6 @@ id	genre_name
 63988	Action
 63988	Family
 77953	Comedy
-116019	War
-116019	Drama
 85414	Action
 85414	Thriller
 82696	Drama
@@ -44216,9 +44051,6 @@ id	genre_name
 36859	Science Fiction
 36859	Thriller
 75680	Comedy
-458428	Action
-458428	Adventure
-458428	Comedy
 79224	Drama
 79224	Action
 79224	History
@@ -44305,9 +44137,6 @@ id	genre_name
 119698	Adventure
 48034	Comedy
 48034	Drama
-110491	Documentary
-110491	Adventure
-110491	History
 79694	Horror
 79694	Thriller
 83540	Drama
@@ -44331,7 +44160,6 @@ id	genre_name
 39369	Comedy
 12677	Horror
 12677	Thriller
-79034	Drama
 27349	Action
 27349	Western
 40629	Drama
@@ -44352,9 +44180,6 @@ id	genre_name
 84344	Comedy
 53336	Comedy
 53336	Drama
-35623	Drama
-35623	Romance
-35623	Foreign
 86785	Drama
 27146	Drama
 27146	Comedy
@@ -44493,10 +44318,6 @@ id	genre_name
 48654	Comedy
 19823	Drama
 19823	Thriller
-112973	Adventure
-112973	Comedy
-112973	Drama
-112973	Romance
 38091	Thriller
 38091	Foreign
 122930	Comedy
@@ -44543,9 +44364,6 @@ id	genre_name
 83589	Documentary
 38719	Romance
 38719	Drama
-76703	Romance
-76703	Drama
-76703	Comedy
 97310	Documentary
 97310	Music
 17165	Action
@@ -44955,7 +44773,6 @@ id	genre_name
 117266	Adventure
 117266	Documentary
 87826	Comedy
-262988	Documentary
 181628	
 288298	
 51911	Action
@@ -45205,10 +45022,8 @@ id	genre_name
 108282	Action
 108282	Thriller
 108282	Mystery
-156180	Drama
 13678	Adventure
 13678	Drama
-62012	Comedy
 13728	Comedy
 101519	Comedy
 101519	Thriller
@@ -45292,7 +45107,6 @@ id	genre_name
 75204	Drama
 48161	Action
 48161	Crime
-328712	Drama
 114490	Documentary
 288292	Documentary
 288296	Documentary
@@ -45352,7 +45166,6 @@ id	genre_name
 18867	Action
 220106	Comedy
 220106	Drama
-26152	Comedy
 13679	Adventure
 13679	Animation
 13679	Family
@@ -45411,9 +45224,6 @@ id	genre_name
 104718	Documentary
 80220	Comedy
 80220	Drama
-128637	Action
-128637	Thriller
-128637	Foreign
 83389	Animation
 83389	Drama
 71883	Fantasy
@@ -45450,8 +45260,6 @@ id	genre_name
 125409	Drama
 125409	Thriller
 125409	Crime
-64362	Comedy
-64362	Drama
 81850	Animation
 81850	Science Fiction
 34280	Adventure
@@ -45785,9 +45593,6 @@ id	genre_name
 73283	Science Fiction
 18038	Comedy
 161273	Science Fiction
-177522	Drama
-177522	Mystery
-177522	Science Fiction
 30252	Comedy
 86819	Animation
 86819	Drama
@@ -45831,8 +45636,6 @@ id	genre_name
 94135	Drama
 94135	War
 77775	Drama
-72678	Comedy
-57307	Comedy
 35436	Comedy
 112304	Action
 112304	Adventure
@@ -46051,7 +45854,6 @@ id	genre_name
 29630	Action
 29630	Adventure
 29630	Drama
-128644	
 14078	Comedy
 134673	Drama
 134673	History
@@ -46182,7 +45984,6 @@ id	genre_name
 118557	Documentary
 288151	Drama
 83125	Comedy
-76686	
 117974	Comedy
 117974	Crime
 117974	Adventure
@@ -46264,7 +46065,6 @@ id	genre_name
 89750	Documentary
 114562	Drama
 114562	Documentary
-334317	Science Fiction
 281007	Drama
 57436	Documentary
 57436	Drama
@@ -46688,7 +46488,6 @@ id	genre_name
 30198	Science Fiction
 62301	Foreign
 62301	Science Fiction
-81225	Documentary
 126186	
 144789	Comedy
 80437	
@@ -46733,10 +46532,6 @@ id	genre_name
 210621	
 130816	History
 130816	Drama
-134806	TV Movie
-134806	Drama
-134806	Western
-134806	Romance
 23524	Documentary
 68047	Drama
 68047	Comedy
@@ -46756,7 +46551,6 @@ id	genre_name
 126748	
 247695	Mystery
 247695	Crime
-62130	Documentary
 119001	Drama
 43550	Romance
 43550	Comedy
@@ -46840,11 +46634,9 @@ id	genre_name
 62878	Science Fiction
 62878	Thriller
 160660	Drama
-131822	
 20989	Action
 20989	Adventure
 20989	Comedy
-142989	
 219302	Western
 17501	Action
 17501	Drama
@@ -46892,7 +46684,6 @@ id	genre_name
 91694	Crime
 91694	Drama
 91694	Mystery
-54356	
 14607	Action
 14607	Crime
 14607	Drama
@@ -47016,7 +46807,6 @@ id	genre_name
 103707	Drama
 32599	Comedy
 32599	Drama
-149469	
 110420	Animation
 110420	Drama
 110420	Family
@@ -47032,8 +46822,6 @@ id	genre_name
 186606	Comedy
 46451	Comedy
 81623	Drama
-65646	Romance
-65646	Drama
 43023	Horror
 43023	Romance
 43023	Science Fiction
@@ -47113,7 +46901,6 @@ id	genre_name
 50787	Horror
 24133	Comedy
 24133	Horror
-55524	
 36549	Drama
 36549	Mystery
 36549	Science Fiction
@@ -47164,7 +46951,6 @@ id	genre_name
 156306	Comedy
 156306	Drama
 103731	Drama
-82662	Drama
 42587	Documentary
 42587	Mystery
 32100	Action
@@ -47373,7 +47159,6 @@ id	genre_name
 27861	Comedy
 27861	Family
 97686	Documentary
-38875	Thriller
 156236	Drama
 156236	Comedy
 168676	War
@@ -47617,7 +47402,6 @@ id	genre_name
 6636	Foreign
 62211	Animation
 62211	Family
-388046	Documentary
 192538	History
 192538	Action
 192538	Adventure
@@ -47716,7 +47500,6 @@ id	genre_name
 199687	
 174772	Science Fiction
 174772	Thriller
-67272	Comedy
 179826	Mystery
 179826	Thriller
 180050	Drama
@@ -47729,9 +47512,6 @@ id	genre_name
 120303	Horror
 153420	
 55655	Documentary
-83342	Music
-83342	Drama
-83342	Foreign
 93456	Animation
 93456	Comedy
 93456	Family
@@ -47892,7 +47672,6 @@ id	genre_name
 106848	Drama
 61330	Documentary
 178946	Comedy
-60824	
 111969	Drama
 111969	Comedy
 30963	Comedy
@@ -47907,7 +47686,6 @@ id	genre_name
 5898	Thriller
 5898	Science Fiction
 157354	Drama
-173914	
 116432	Drama
 116432	Comedy
 247749	Romance
@@ -48289,8 +48067,6 @@ id	genre_name
 204128	Drama
 115782	Drama
 115782	History
-65958	Drama
-65958	History
 215134	Documentary
 123553	Action
 123553	Adventure
@@ -48405,9 +48181,6 @@ id	genre_name
 39005	Action
 39005	Adventure
 39005	Comedy
-217038	Crime
-217038	Comedy
-217038	Romance
 140708	
 29231	Action
 29231	Crime
@@ -48869,7 +48642,6 @@ id	genre_name
 146238	Crime
 146238	Thriller
 146238	Drama
-77776	Comedy
 152584	Romance
 152584	Drama
 97006	Drama
@@ -48900,8 +48672,6 @@ id	genre_name
 1803	Thriller
 1803	Crime
 49393	Documentary
-161073	Comedy
-161073	Drama
 65481	Drama
 209262	History
 209262	Drama
@@ -49020,9 +48790,6 @@ id	genre_name
 293109	
 91745	Drama
 91745	Romance
-19623	Action
-19623	Foreign
-19623	Thriller
 38273	Thriller
 38273	Mystery
 214100	Music
@@ -49165,7 +48932,6 @@ id	genre_name
 81538	Documentary
 81538	Foreign
 214217	Drama
-153196	Documentary
 55651	Documentary
 19241	Horror
 19241	Thriller
@@ -49217,7 +48983,6 @@ id	genre_name
 50441	Crime
 50441	Drama
 50441	Thriller
-82627	Documentary
 103195	Documentary
 19594	Animation
 19594	Comedy
@@ -49334,8 +49099,6 @@ id	genre_name
 96924	Comedy
 56579	Documentary
 127880	Drama
-52045	Comedy
-52045	Drama
 85822	Documentary
 61936	Comedy
 61936	Romance
@@ -49994,7 +49757,6 @@ id	genre_name
 158990	Crime
 27190	Adventure
 27190	Comedy
-430985	
 154226	Comedy
 154226	Drama
 37168	Adventure
@@ -50044,7 +49806,6 @@ id	genre_name
 82679	Comedy
 91551	Animation
 91551	Drama
-85469	
 79113	Comedy
 79113	Drama
 79113	Family
@@ -50060,16 +49821,11 @@ id	genre_name
 118778	Foreign
 420743	Drama
 420743	Comedy
-388182	Mystery
-388182	Crime
-388182	Drama
 5995	Comedy
 5995	Drama
 246314	Comedy
 203060	Drama
 203060	Romance
-130233	Drama
-130233	Romance
 130694	Comedy
 130694	Drama
 117467	Comedy
@@ -50207,7 +49963,6 @@ id	genre_name
 13632	Action
 13632	Adventure
 76127	Documentary
-267219	
 183654	Drama
 257618	Mystery
 257618	Comedy
@@ -50331,7 +50086,6 @@ id	genre_name
 193638	Romance
 193638	War
 4949	Western
-110992	Drama
 27093	Drama
 225235	Drama
 245170	Animation
@@ -50428,20 +50182,15 @@ id	genre_name
 79316	Horror
 242661	Comedy
 163875	Documentary
-81600	Thriller
-81600	Foreign
 19551	Horror
 31769	Action
 31769	Animation
 31769	Science Fiction
-91380	Mystery
-91380	Crime
 2442	Action
 2442	Drama
 2442	Thriller
 29403	Horror
 29403	Thriller
-101352	Comedy
 55922	Comedy
 84178	Thriller
 84178	Horror
@@ -50485,7 +50234,6 @@ id	genre_name
 31780	Documentary
 164353	
 255576	Drama
-297560	Comedy
 266549	Comedy
 266549	Romance
 134096	Comedy
@@ -50500,7 +50248,6 @@ id	genre_name
 71622	Thriller
 11188	Action
 177047	Drama
-331958	Comedy
 288526	Comedy
 53063	Action
 53063	Thriller
@@ -50509,7 +50256,6 @@ id	genre_name
 174344	Thriller
 25003	Documentary
 60976	Documentary
-52150	
 78308	Horror
 114638	Comedy
 217993	Animation
@@ -50632,8 +50378,6 @@ id	genre_name
 127687	Documentary
 107203	Drama
 112575	Drama
-216369	Drama
-216369	Romance
 171540	Comedy
 171540	Crime
 164328	Comedy
@@ -50797,7 +50541,6 @@ id	genre_name
 42325	Drama
 87293	Thriller
 219318	Comedy
-172890	Comedy
 87358	War
 87358	Action
 87358	Drama
@@ -50818,8 +50561,6 @@ id	genre_name
 4883	Mystery
 27952	Romance
 27952	Drama
-52147	Drama
-52147	Mystery
 190341	Romance
 190341	Drama
 174688	Documentary
@@ -50850,7 +50591,6 @@ id	genre_name
 140873	
 141043	Comedy
 141043	Drama
-246320	Comedy
 197082	Drama
 84362	Horror
 232898	Family
@@ -50905,8 +50645,6 @@ id	genre_name
 31295	Mystery
 31295	Foreign
 12124	Drama
-32547	Documentary
-219931	
 162987	
 33563	Comedy
 39341	Horror
@@ -50925,8 +50663,6 @@ id	genre_name
 237692	Drama
 237692	Documentary
 237692	Comedy
-418029	Action
-418029	Science Fiction
 71055	Comedy
 71055	Adventure
 210047	Crime
@@ -50994,7 +50730,6 @@ id	genre_name
 253046	Drama
 253046	Thriller
 21474	Comedy
-142984	
 13934	Animation
 13934	Family
 13061	Animation
@@ -51026,7 +50761,6 @@ id	genre_name
 248507	Comedy
 127847	Action
 127847	Thriller
-204765	Comedy
 183836	Comedy
 220286	Thriller
 220286	Mystery
@@ -51275,7 +51009,6 @@ id	genre_name
 40346	Comedy
 45514	
 109404	
-68827	Comedy
 182827	Drama
 64047	
 74343	Action
@@ -51288,9 +51021,6 @@ id	genre_name
 24202	Drama
 24202	Romance
 238972	Drama
-116894	Thriller
-116894	Drama
-116894	Mystery
 145995	Comedy
 145995	Drama
 159464	
@@ -51333,8 +51063,6 @@ id	genre_name
 101242	Romance
 157690	Drama
 157690	Comedy
-55825	Drama
-55825	Foreign
 72962	Animation
 72962	Family
 186971	Drama
@@ -51359,7 +51087,6 @@ id	genre_name
 85620	Romance
 192577	Animation
 192577	Science Fiction
-394403	Drama
 26286	Drama
 26286	Mystery
 26286	Romance
@@ -51728,7 +51455,6 @@ id	genre_name
 262481	History
 262481	Comedy
 262481	Documentary
-202183	
 196027	Drama
 196027	Mystery
 226448	Drama
@@ -52098,10 +51824,7 @@ id	genre_name
 260339	Crime
 171795	Documentary
 49514	Action
-272543	TV Movie
-272543	Drama
 213270	Documentary
-173151	
 232672	Comedy
 198277	Comedy
 198277	Music
@@ -52667,7 +52390,6 @@ id	genre_name
 40222	Science Fiction
 106402	Horror
 73250	Horror
-206574	Horror
 71704	Action
 71704	Drama
 71704	Thriller
@@ -52823,8 +52545,6 @@ id	genre_name
 70476	Drama
 26566	Action
 26566	Comedy
-60106	Mystery
-60106	Comedy
 35837	Action
 35837	Animation
 82120	Comedy
@@ -52853,7 +52573,6 @@ id	genre_name
 161056	Drama
 161056	Crime
 161056	Thriller
-164419	
 243683	Romance
 243683	Drama
 243683	Music
@@ -52905,7 +52624,6 @@ id	genre_name
 261813	Documentary
 4992	Action
 4992	Thriller
-44155	Comedy
 239566	Drama
 239566	Music
 192143	Documentary
@@ -52939,7 +52657,6 @@ id	genre_name
 253306	Thriller
 94196	Family
 94196	Animation
-64934	Comedy
 84986	Horror
 18628	Comedy
 228194	Drama
@@ -53220,8 +52937,6 @@ id	genre_name
 47571	Crime
 47571	Mystery
 47571	Thriller
-74950	Music
-74950	Drama
 252956	Crime
 252956	Drama
 273656	
@@ -53243,7 +52958,6 @@ id	genre_name
 247182	Thriller
 207780	Horror
 207780	Thriller
-2692	Documentary
 254775	Documentary
 241848	Mystery
 241848	Thriller
@@ -53255,7 +52969,6 @@ id	genre_name
 94590	Science Fiction
 94590	Adventure
 94590	Comedy
-76846	Comedy
 242683	Drama
 98250	Action
 98250	Western
@@ -53289,7 +53002,6 @@ id	genre_name
 35568	Action
 35568	Science Fiction
 35568	Thriller
-329227	Documentary
 76047	Comedy
 76047	Romance
 291162	Documentary
@@ -53421,8 +53133,6 @@ id	genre_name
 179519	Comedy
 16986	Documentary
 79016	Drama
-343693	Animation
-343693	Family
 248504	Thriller
 248504	Horror
 248504	Science Fiction
@@ -53501,8 +53211,6 @@ id	genre_name
 42553	Drama
 111479	Drama
 111479	Music
-182799	Drama
-182799	Crime
 67493	Drama
 67493	History
 264656	Western
@@ -53605,7 +53313,6 @@ id	genre_name
 179822	Documentary
 53042	Drama
 53042	Romance
-230295	Comedy
 295507	Western
 295507	Comedy
 15916	Animation
@@ -53631,7 +53338,6 @@ id	genre_name
 263855	Drama
 246403	Comedy
 246403	Horror
-42416	Comedy
 37630	Drama
 37630	Foreign
 254375	Adventure
@@ -54220,8 +53926,6 @@ id	genre_name
 89888	Adventure
 17082	Action
 17082	Thriller
-273510	Drama
-273510	Romance
 103081	
 141950	War
 141950	Drama
@@ -54437,7 +54141,6 @@ id	genre_name
 293028	Documentary
 256679	History
 256679	Documentary
-12076	Comedy
 55472	Action
 55472	Western
 51649	Action
@@ -55186,7 +54889,6 @@ id	genre_name
 7267	Thriller
 7267	Crime
 15149	Comedy
-204768	Comedy
 201759	Thriller
 202215	Comedy
 283726	Drama
@@ -55350,10 +55052,6 @@ id	genre_name
 135397	Thriller
 215032	Documentary
 293310	Documentary
-117678	Comedy
-129966	Comedy
-129966	Drama
-198130	Comedy
 46473	Comedy
 46473	Horror
 21861	Comedy
@@ -55564,8 +55262,6 @@ id	genre_name
 300441	Family
 116149	Family
 116149	Comedy
-204965	Comedy
-204965	Romance
 135714	Western
 203834	Thriller
 203834	Horror
@@ -55761,7 +55457,6 @@ id	genre_name
 2139	Action
 2139	Adventure
 2139	Drama
-151730	Documentary
 171357	
 17135	Science Fiction
 44503	
@@ -55841,11 +55536,9 @@ id	genre_name
 99261	Thriller
 46570	Western
 46570	Thriller
-124207	
 89652	Action
 89652	Drama
 89652	Thriller
-42438	
 99361	Comedy
 96477	Crime
 74018	Comedy
@@ -55868,15 +55561,9 @@ id	genre_name
 128555	
 42499	Mystery
 42499	Horror
-56971	
 106970	Action
 106970	Crime
 106970	Thriller
-42441	Comedy
-38366	Romance
-38366	Drama
-38366	Comedy
-121510	Comedy
 105398	Comedy
 105398	Crime
 105398	Drama
@@ -55892,7 +55579,6 @@ id	genre_name
 105906	Thriller
 105906	Foreign
 268662	
-48935	Comedy
 78566	Drama
 78566	Action
 78566	Crime
@@ -56151,31 +55837,21 @@ id	genre_name
 292063	Drama
 61086	
 87093	Drama
-205349	Comedy
 224141	Fantasy
 224141	Comedy
 224141	Music
-285532	Romance
-285532	Comedy
-285532	Animation
 61925	Drama
 61925	Action
 61925	Thriller
 61925	Crime
 52914	Comedy
 52914	Action
-255906	Comedy
-255906	Action
 50758	
 52913	Comedy
 52913	Crime
-52238	
-165159	
 62715	Comedy
 62715	Crime
 62715	Action
-127760	
-62725	Comedy
 46001	Crime
 46001	Comedy
 46001	Thriller
@@ -56260,14 +55936,11 @@ id	genre_name
 81116	Comedy
 81116	Mystery
 274985	Documentary
-212503	TV Movie
-212503	Comedy
 142119	Documentary
 261820	Comedy
 120605	Action
 120605	Crime
 120605	Thriller
-307113	
 259018	Comedy
 175555	Comedy
 175555	Drama
@@ -56278,7 +55951,6 @@ id	genre_name
 145162	Romance
 13759	Animation
 13759	Family
-129062	Western
 241432	Drama
 44936	Horror
 18755	Comedy
@@ -56314,7 +55986,6 @@ id	genre_name
 81393	Romance
 81393	Family
 62836	Drama
-302118	Family
 33582	Drama
 145186	Comedy
 145186	Fantasy
@@ -56389,7 +56060,6 @@ id	genre_name
 37529	Thriller
 266080	Documentary
 214761	Thriller
-55553	
 278334	Thriller
 176079	Drama
 73661	Thriller
@@ -56482,8 +56152,6 @@ id	genre_name
 67219	Horror
 43548	Comedy
 64666	Horror
-197335	Comedy
-82341	Comedy
 67221	Action
 67221	Science Fiction
 84729	Drama
@@ -56493,7 +56161,6 @@ id	genre_name
 275239	Science Fiction
 275239	Horror
 275239	Adventure
-48805	Comedy
 272165	
 101125	Adventure
 101125	Action
@@ -56747,7 +56414,6 @@ id	genre_name
 42012	Action
 42012	Adventure
 81586	Documentary
-128946	Comedy
 42759	Action
 42759	Adventure
 42759	Drama
@@ -56928,35 +56594,22 @@ id	genre_name
 37775	Comedy
 37768	Comedy
 37777	Comedy
-59040	Comedy
 23273	Comedy
 62491	Comedy
-56825	Comedy
-56825	Drama
-60014	
-56551	
-58189	
 56804	
-58081	
-42674	Comedy
 44933	Comedy
 22728	Comedy
-43544	
 38327	Comedy
 20414	Family
 36298	Comedy
 36298	Drama
-93855	Comedy
-93855	Drama
 267573	Action
 221437	Horror
 221437	Drama
-255456	Comedy
 43477	Animation
 43477	Music
 261768	Drama
 199925	Horror
-211710	
 267872	Documentary
 38187	Action
 30091	Action
@@ -56968,7 +56621,6 @@ id	genre_name
 51939	Romance
 38185	Action
 38185	Adventure
-251555	Comedy
 132601	Animation
 132601	Family
 84197	Drama
@@ -57269,9 +56921,6 @@ id	genre_name
 242452	Drama
 118139	Crime
 118139	Drama
-269165	TV Movie
-269165	Drama
-269165	Crime
 185207	Drama
 276819	Fantasy
 276819	Animation
@@ -57387,10 +57036,8 @@ id	genre_name
 4344	Family
 4344	Foreign
 4344	Horror
-3539	Drama
 12115	Drama
 12115	Romance
-80472	
 48193	Adventure
 48193	Action
 48193	Fantasy
@@ -57415,9 +57062,6 @@ id	genre_name
 96106	Action
 105083	Horror
 105083	Thriller
-211179	Action
-211179	Adventure
-211179	Drama
 112481	Horror
 240334	History
 48594	Thriller
@@ -57666,7 +57310,6 @@ id	genre_name
 42187	Foreign
 29052	Horror
 3686	Western
-241982	Comedy
 45752	Animation
 45752	Comedy
 45752	Family
@@ -57682,7 +57325,6 @@ id	genre_name
 75958	Crime
 75958	Mystery
 161243	
-129359	
 315362	Thriller
 315362	Crime
 315362	Mystery
@@ -58000,8 +57642,6 @@ id	genre_name
 67659	Action
 67659	Western
 30027	Comedy
-30028	Comedy
-30028	Thriller
 31277	Romance
 31277	Family
 31277	Comedy
@@ -58352,8 +57992,6 @@ id	genre_name
 82868	Romance
 155208	Romance
 155208	Drama
-58757	Drama
-58757	Family
 53573	Comedy
 53573	Crime
 176627	Drama
@@ -58560,7 +58198,6 @@ id	genre_name
 66963	Romance
 130633	Horror
 130633	War
-79892	
 146926	
 76829	Romance
 76829	Adventure
@@ -58919,7 +58556,6 @@ id	genre_name
 44014	Thriller
 223497	Comedy
 223497	Romance
-10639	Comedy
 169832	Action
 169832	Comedy
 190091	Drama
@@ -59329,8 +58965,6 @@ id	genre_name
 85615	Drama
 74550	Comedy
 74550	Mystery
-145194	Comedy
-145194	Drama
 128779	Documentary
 91715	Comedy
 82418	Action
@@ -59815,7 +59449,6 @@ id	genre_name
 38556	Action
 38556	Drama
 38556	Romance
-11719	Comedy
 63706	Horror
 63706	Science Fiction
 63706	Thriller
@@ -60040,8 +59673,6 @@ id	genre_name
 299104	War
 299104	Comedy
 218233	
-168300	War
-168300	Drama
 168994	Drama
 130241	Drama
 112244	Romance
@@ -60159,7 +59790,6 @@ id	genre_name
 51780	Comedy
 283536	Drama
 252637	Documentary
-131503	
 203321	Romance
 203321	Comedy
 203321	Drama
@@ -60241,7 +59871,6 @@ id	genre_name
 44342	Comedy
 52207	Family
 52207	Animation
-123283	
 197592	Action
 197592	Drama
 197592	Adventure
@@ -60333,7 +59962,6 @@ id	genre_name
 190352	Family
 190352	Comedy
 69168	Comedy
-58587	Documentary
 29286	Comedy
 29286	Horror
 29286	Mystery
@@ -60364,8 +59992,6 @@ id	genre_name
 159704	Romance
 201561	Drama
 130677	Drama
-72917	Drama
-72917	Romance
 76198	Foreign
 76198	Comedy
 76198	Drama
@@ -60380,20 +60006,16 @@ id	genre_name
 13734	Comedy
 13734	Romance
 269714	Drama
-76642	Comedy
-76642	Drama
 20220	Fantasy
 20220	Comedy
 20220	Adventure
 31985	Fantasy
 31985	Action
 31985	Science Fiction
-64357	Comedy
 77280	Drama
 77280	Comedy
 271327	
 79051	Comedy
-157787	
 55638	Family
 55638	Comedy
 226363	Comedy
@@ -60486,7 +60108,6 @@ id	genre_name
 253287	Comedy
 253287	Romance
 250066	Action
-102534	Thriller
 248231	Drama
 321130	TV Movie
 321130	Drama
@@ -60577,7 +60198,6 @@ id	genre_name
 36674	Comedy
 36674	Romance
 77331	Comedy
-30149	Comedy
 27599	Family
 27600	Comedy
 27600	Family
@@ -60592,7 +60212,6 @@ id	genre_name
 92690	Western
 92690	Action
 92690	Drama
-28573	Drama
 29167	Thriller
 267268	Horror
 267268	Thriller
@@ -60905,11 +60524,9 @@ id	genre_name
 161491	Drama
 254721	Drama
 42316	Documentary
-226163	
 223202	Comedy
 103758	Drama
 103758	Comedy
-57342	
 3168	Drama
 128508	Drama
 252063	Drama
@@ -61030,7 +60647,6 @@ id	genre_name
 274990	Drama
 57438	Drama
 57438	Romance
-62352	Drama
 167810	Fantasy
 167810	Thriller
 125305	
@@ -61055,8 +60671,6 @@ id	genre_name
 86598	
 320316	Comedy
 225184	Drama
-237171	Drama
-237171	War
 146563	History
 146563	War
 73984	Action
@@ -61344,8 +60958,6 @@ id	genre_name
 273248	Drama
 273248	Mystery
 273248	Western
-63775	Fantasy
-63775	Mystery
 251016	Comedy
 133459	Comedy
 133459	Family
@@ -61535,8 +61147,6 @@ id	genre_name
 127853	Music
 259358	Adventure
 259358	Family
-227383	Drama
-227383	Romance
 315049	Comedy
 130805	TV Movie
 130805	Drama
@@ -61569,33 +61179,22 @@ id	genre_name
 284568	Documentary
 15468	Thriller
 88309	Drama
-74822	Drama
-74822	Crime
 5602	Drama
 5602	Thriller
-152635	Thriller
-152635	History
 122229	Crime
-183962	Thriller
-183962	Crime
-183962	Mystery
 91571	Crime
 91571	Drama
-267654	
 3004	Comedy
 118150	Drama
 118150	Comedy
 118150	Crime
 118150	Thriller
-287391	Crime
 38421	Thriller
 38421	Drama
 38421	Crime
 142979	Comedy
 163333	
-65718	Drama
 44541	Documentary
-131507	
 213831	Documentary
 105403	
 127092	Crime
@@ -61756,7 +61355,6 @@ id	genre_name
 277686	Horror
 277686	Thriller
 277686	Crime
-288313	Drama
 326536	Horror
 326536	Fantasy
 315010	Drama
@@ -61799,9 +61397,6 @@ id	genre_name
 271164	Music
 271164	Romance
 271164	Drama
-117913	Crime
-117913	Drama
-242240	
 69974	
 42590	Drama
 42590	Comedy
@@ -61849,7 +61444,6 @@ id	genre_name
 37455	Action
 37455	Crime
 37455	Thriller
-246049	Science Fiction
 96987	Comedy
 243881	Drama
 306293	Drama
@@ -61941,10 +61535,8 @@ id	genre_name
 37028	Comedy
 37028	Drama
 37028	Music
-211561	
 26296	Crime
 26296	Drama
-146596	
 89351	Horror
 104549	Drama
 104549	Music
@@ -61965,7 +61557,6 @@ id	genre_name
 159652	Comedy
 159652	Romance
 253284	
-66584	
 57681	Drama
 282624	Comedy
 113655	Comedy
@@ -61976,9 +61567,6 @@ id	genre_name
 75086	Western
 46448	Comedy
 198326	
-121513	Mystery
-121513	Comedy
-121513	Drama
 196421	Comedy
 198772	
 14505	Comedy
@@ -62002,7 +61590,6 @@ id	genre_name
 40419	Comedy
 13643	Comedy
 65534	Comedy
-70989	Comedy
 59163	Comedy
 59163	Drama
 59163	Foreign
@@ -62075,9 +61662,6 @@ id	genre_name
 63067	Romance
 63067	Comedy
 38396	Comedy
-50531	Comedy
-50531	Drama
-66700	
 79683	Action
 79683	Western
 29498	Thriller
@@ -62189,7 +61773,6 @@ id	genre_name
 105384	Crime
 260839	
 105145	Thriller
-199985	Drama
 157152	
 205865	Drama
 205865	History
@@ -62290,9 +61873,6 @@ id	genre_name
 112454	Horror
 137370	Comedy
 324279	Documentary
-330275	Drama
-142528	Science Fiction
-142528	Drama
 59346	Drama
 85025	Drama
 135281	Comedy
@@ -62579,7 +62159,6 @@ id	genre_name
 261375	Romance
 69619	Action
 71924	Drama
-62243	Drama
 252714	Comedy
 252888	Crime
 252888	Drama
@@ -62804,7 +62383,6 @@ id	genre_name
 181283	Thriller
 78402	Horror
 39041	Drama
-105766	
 74119	Comedy
 74119	Drama
 118083	Drama
@@ -62863,7 +62441,6 @@ id	genre_name
 80527	Adventure
 80527	Thriller
 80527	Science Fiction
-259616	Comedy
 35177	Fantasy
 35177	Science Fiction
 35177	Family
@@ -62887,7 +62464,6 @@ id	genre_name
 150056	Comedy
 61104	Documentary
 11207	Comedy
-257734	
 16119	Animation
 16119	Romance
 16119	Family
@@ -62904,7 +62480,6 @@ id	genre_name
 21385	Family
 33719	Family
 33719	Animation
-114438	Comedy
 238302	Animation
 238302	Comedy
 238302	Family
@@ -62922,12 +62497,7 @@ id	genre_name
 333324	Documentary
 12128	Horror
 12128	Comedy
-71191	Comedy
-15713	Comedy
 10659	Comedy
-96872	Animation
-96872	Comedy
-96872	Family
 48411	Action
 48411	Comedy
 48411	Drama
@@ -63226,8 +62796,6 @@ id	genre_name
 117509	
 46578	Comedy
 46578	Crime
-62545	Comedy
-62545	Romance
 177354	Drama
 177354	Romance
 27200	Thriller
@@ -63344,7 +62912,6 @@ id	genre_name
 158455	
 111149	Comedy
 276902	Thriller
-284189	Comedy
 51883	Romance
 51883	Comedy
 9803	Comedy
@@ -63396,7 +62963,6 @@ id	genre_name
 29108	Comedy
 47946	Music
 47946	Drama
-334651	
 43030	Comedy
 43030	Drama
 43030	Romance
@@ -63450,14 +63016,12 @@ id	genre_name
 37582	Action
 37582	Thriller
 322460	Comedy
-107525	
 255157	Thriller
 255157	Crime
 255157	Drama
 167221	Drama
 229328	Drama
 136345	Foreign
-330588	Drama
 215658	Drama
 283708	Drama
 283708	War
@@ -63469,12 +63033,8 @@ id	genre_name
 208333	Animation
 208333	Comedy
 208333	War
-289126	Thriller
-320299	Thriller
-335141	
 335145	Drama
 335145	Romance
-267623	Drama
 74087	Horror
 74087	Mystery
 74087	Thriller
@@ -63616,7 +63176,6 @@ id	genre_name
 274415	Family
 274415	Adventure
 274415	Comedy
-86258	
 94739	Music
 299353	Drama
 299353	Comedy
@@ -63637,8 +63196,6 @@ id	genre_name
 20036	Comedy
 20036	Romance
 165321	Documentary
-275244	Family
-275244	Animation
 28855	Horror
 128614	Drama
 91683	Horror
@@ -63687,9 +63244,6 @@ id	genre_name
 139862	War
 139862	History
 139862	Drama
-75066	Drama
-75066	Mystery
-75066	Thriller
 289720	Action
 294517	
 282631	Adventure
@@ -63738,10 +63292,7 @@ id	genre_name
 284289	Thriller
 325382	Science Fiction
 284470	Documentary
-332759	Action
-332759	TV Movie
 228381	Drama
-290043	Crime
 254936	Crime
 254936	Drama
 254936	Comedy
@@ -63859,7 +63410,6 @@ id	genre_name
 77128	Foreign
 27698	Comedy
 27698	Mystery
-252845	
 250349	Comedy
 50113	Animation
 108309	Drama
@@ -64400,8 +63950,6 @@ id	genre_name
 254470	Comedy
 254470	Music
 59839	Documentary
-62363	Thriller
-62363	Foreign
 121927	Western
 223895	Drama
 264471	Documentary
@@ -64423,7 +63971,6 @@ id	genre_name
 97987	Crime
 97987	Thriller
 107193	
-218772	
 72949	Drama
 94527	Drama
 94527	Foreign
@@ -64445,7 +63992,6 @@ id	genre_name
 258099	Comedy
 258099	Drama
 258099	Romance
-337101	Drama
 90879	Comedy
 108969	Drama
 108969	Romance
@@ -64488,7 +64034,6 @@ id	genre_name
 27998	Romance
 27998	Thriller
 277662	Drama
-66082	
 127142	Drama
 29846	Crime
 208517	Drama
@@ -64817,7 +64362,6 @@ id	genre_name
 95431	History
 95431	War
 107705	Drama
-156145	
 46567	Comedy
 46567	Western
 112601	Western
@@ -64854,8 +64398,6 @@ id	genre_name
 118794	Drama
 64483	Drama
 179288	Drama
-41703	Drama
-41703	Comedy
 23898	
 25936	Comedy
 64268	Drama
@@ -64978,8 +64520,6 @@ id	genre_name
 27937	Fantasy
 337789	Music
 337789	Comedy
-89330	Comedy
-89330	Crime
 154397	Action
 154397	War
 198240	Crime
@@ -65003,7 +64543,6 @@ id	genre_name
 169618	
 65651	Drama
 10986	Comedy
-119409	Comedy
 190940	
 19025	Comedy
 19025	Horror
@@ -65078,37 +64617,25 @@ id	genre_name
 26861	Crime
 26861	Thriller
 229702	Thriller
-58611	Comedy
 43211	
 38262	Comedy
-58615	
 58613	Comedy
-57918	Fantasy
-57918	Comedy
 43646	Comedy
-173177	Comedy
 43648	Comedy
-61303	Comedy
 43649	Comedy
-75001	Comedy
 328720	Comedy
 58191	Comedy
-38285	Comedy
 43571	Comedy
 43571	Romance
-121516	Comedy
 75336	Comedy
 82066	Comedy
 82066	Drama
 279568	
-139563	Comedy
 49352	Horror
 246917	Thriller
 246917	Horror
 39895	Comedy
 39895	Horror
-2197	Drama
-2197	War
 101029	Drama
 19095	Horror
 30993	Comedy
@@ -65130,10 +64657,6 @@ id	genre_name
 222936	Drama
 222936	Comedy
 222936	Romance
-44486	Animation
-44486	Comedy
-44486	Science Fiction
-44486	Romance
 39309	Drama
 39309	Romance
 132551	Drama
@@ -65145,7 +64668,6 @@ id	genre_name
 231625	
 98120	Drama
 135695	Drama
-161545	Comedy
 250235	Comedy
 173847	Romance
 173847	Crime
@@ -65183,7 +64705,6 @@ id	genre_name
 159967	Drama
 46923	Comedy
 146045	Comedy
-221171	Animation
 46809	Drama
 46809	Comedy
 146030	Comedy
@@ -65228,10 +64749,6 @@ id	genre_name
 51604	Fantasy
 150473	Thriller
 76101	Action
-61035	Family
-61035	Comedy
-61035	Drama
-61035	Music
 223932	Comedy
 2462	Comedy
 2462	Science Fiction
@@ -65401,7 +64918,6 @@ id	genre_name
 38248	Science Fiction
 38248	Thriller
 122525	
-222517	Comedy
 59871	Comedy
 260899	Crime
 157683	Comedy
@@ -65439,21 +64955,16 @@ id	genre_name
 39060	Drama
 39060	Romance
 5302	Comedy
-107052	Comedy
-59156	
 42220	History
 42220	Drama
 68882	
 82114	Comedy
-79750	Drama
-79750	Comedy
 108535	Comedy
 103216	
 90659	Documentary
 68816	Comedy
 68816	Adventure
 68816	Fantasy
-56369	
 58404	Comedy
 193641	Comedy
 59336	Drama
@@ -65465,7 +64976,6 @@ id	genre_name
 54398	Drama
 54398	Fantasy
 54398	Horror
-82481	Comedy
 199222	Comedy
 75442	Documentary
 35995	Music
@@ -65474,17 +64984,13 @@ id	genre_name
 71063	Comedy
 71063	Drama
 105616	
-186630	Comedy
 81871	Comedy
 81871	Romance
-61911	
 221527	
 99916	Comedy
 63687	Documentary
 63687	Foreign
-195413	Comedy
 62036	Comedy
-48937	Comedy
 105778	Drama
 105778	Documentary
 105778	Romance
@@ -65674,19 +65180,11 @@ id	genre_name
 63774	Comedy
 63774	Drama
 63178	Comedy
-80374	Comedy
 82113	Comedy
 82113	Drama
 43294	Comedy
 51912	Comedy
-56920	Comedy
-340961	Crime
-340961	Comedy
-340961	Adventure
-340961	Drama
 58701	Comedy
-54166	War
-54166	Comedy
 11048	Action
 11048	Comedy
 11048	Crime
@@ -65747,7 +65245,6 @@ id	genre_name
 240581	Comedy
 223946	Comedy
 14406	Comedy
-44937	Comedy
 96382	Drama
 96382	Thriller
 333346	Documentary
@@ -65917,7 +65414,6 @@ id	genre_name
 38546	Comedy
 224087	Action
 224087	Drama
-13733	Comedy
 38238	Crime
 38238	Drama
 32782	TV Movie
@@ -66281,18 +65777,13 @@ id	genre_name
 146132	Comedy
 73827	Drama
 73827	Comedy
-58188	Comedy
 221717	Drama
 61799	Comedy
 81831	Comedy
-162382	Comedy
-62397	Drama
-62397	Comedy
 56343	Drama
 67377	Adventure
 67377	Comedy
 67377	War
-60046	Comedy
 48955	Drama
 48955	War
 59249	Comedy
@@ -66303,7 +65794,6 @@ id	genre_name
 56435	Comedy
 56435	Drama
 79025	Comedy
-60195	Comedy
 82470	Comedy
 20983	Comedy
 20983	Drama
@@ -66382,14 +65872,11 @@ id	genre_name
 323660	Fantasy
 57784	Drama
 57784	Thriller
-325780	Comedy
 281783	Comedy
 281783	Drama
 281783	History
-60038	Comedy
 57999	
 47245	Comedy
-82350	
 72886	Action
 72886	Animation
 75101	Comedy
@@ -66411,7 +65898,6 @@ id	genre_name
 302960	Animation
 302960	Family
 32195	
-213095	Action
 90029	Horror
 90029	Foreign
 13354	Action
@@ -66495,7 +65981,6 @@ id	genre_name
 3405	Drama
 3405	Romance
 94770	Drama
-105509	Drama
 19373	Crime
 19373	Drama
 92853	
@@ -66630,13 +66115,9 @@ id	genre_name
 225728	History
 225728	Drama
 225728	War
-200117	
 208305	Drama
-246422	Drama
 182873	Action
 182873	Drama
-202980	Comedy
-202980	Drama
 61901	Science Fiction
 61901	Animation
 52474	Comedy
@@ -66752,13 +66233,7 @@ id	genre_name
 327833	Action
 327833	Drama
 346838	Adventure
-82806	Drama
-82806	Comedy
-82806	Foreign
 165790	
-64155	Thriller
-64155	Horror
-58525	
 39335	Science Fiction
 220471	Horror
 220471	Thriller
@@ -66775,7 +66250,6 @@ id	genre_name
 335805	Drama
 128209	Drama
 43371	Comedy
-84056	
 214146	Comedy
 214146	Mystery
 57967	Comedy
@@ -66836,7 +66310,6 @@ id	genre_name
 319986	Drama
 4199	History
 4199	Adventure
-285649	
 279984	Drama
 81009	Horror
 81009	Mystery
@@ -66851,9 +66324,6 @@ id	genre_name
 206237	
 38918	Comedy
 38918	Romance
-217412	Comedy
-217412	Drama
-217412	Romance
 213950	Drama
 213950	Science Fiction
 316776	Action
@@ -67026,7 +66496,6 @@ id	genre_name
 103635	Thriller
 103635	Drama
 103635	Mystery
-288668	Mystery
 69393	Drama
 157655	
 38330	Drama
@@ -67173,8 +66642,6 @@ id	genre_name
 174350	Documentary
 189080	Music
 234555	Documentary
-209248	Comedy
-209248	Music
 44647	Comedy
 44647	Thriller
 44647	Mystery
@@ -67258,7 +66725,6 @@ id	genre_name
 124042	Drama
 124042	Mystery
 202722	Adventure
-58487	Comedy
 159389	Drama
 125911	Drama
 125911	Romance
@@ -67294,7 +66760,6 @@ id	genre_name
 54099	Horror
 49701	Comedy
 45948	Romance
-143344	Drama
 49711	Horror
 43027	Comedy
 43027	Drama
@@ -67420,7 +66885,6 @@ id	genre_name
 226188	Thriller
 137310	TV Movie
 137310	Drama
-332354	Comedy
 248426	Horror
 107262	Crime
 107262	Drama
@@ -67510,7 +66974,6 @@ id	genre_name
 169962	War
 169962	Action
 344560	
-131830	
 37501	Comedy
 156140	Comedy
 87194	Animation
@@ -67547,7 +67010,6 @@ id	genre_name
 105087	Thriller
 27743	Horror
 27743	Comedy
-293270	
 124504	Adventure
 124504	Comedy
 53121	Drama
@@ -67723,10 +67185,7 @@ id	genre_name
 348507	Drama
 348528	Documentary
 62134	Comedy
-57311	
 54627	
-77000	Comedy
-77000	Family
 85038	Comedy
 61940	Comedy
 24168	Drama
@@ -67735,112 +67194,68 @@ id	genre_name
 42679	Thriller
 56041	
 139504	
-63190	
-147868	Comedy
 63365	Drama
-133788	
-108664	
 23509	Comedy
 73869	Drama
 73869	Science Fiction
-46128	Drama
-57713	
-77944	Comedy
-58518	Comedy
-58518	Drama
 22182	Comedy
 56844	
 56014	Comedy
 59570	Comedy
-58453	
 60650	Comedy
-145872	
 56400	Comedy
 56400	Drama
 58531	
 72057	Drama
 123375	Romance
 123375	Drama
-160844	Comedy
 49850	Drama
 169692	Drama
 137315	Comedy
-219067	Documentary
-166262	Comedy
 141810	Drama
-162282	Comedy
-58013	Comedy
 146364	Drama
 146364	Comedy
-238705	
 195544	Comedy
-171826	Comedy
 175116	Comedy
-156547	Comedy
 158182	Comedy
 158182	Drama
 184681	
-270479	Comedy
 178915	Comedy
-186982	Comedy
-182415	Drama
-182415	Comedy
-169069	Comedy
 201010	Crime
 201010	Drama
 58204	Comedy
 250219	Comedy
-249457	Comedy
 191820	Drama
 153774	Drama
 262789	Romance
 262789	Comedy
 24243	Comedy
-247218	Comedy
-231565	Comedy
 197089	Comedy
 197089	Drama
 215628	Comedy
 215628	Thriller
 226936	Comedy
-234356	Comedy
-234356	Drama
 56853	Drama
 56853	History
-228290	Comedy
 235208	Drama
 287935	Family
 287935	Adventure
-301272	Comedy
-262785	
 348544	History
 348544	Drama
-38328	
-57112	Comedy
 42808	Drama
-58703	Comedy
-58703	Drama
 57110	
-58714	Drama
-62349	Drama
 84739	
-42675	Comedy
 56994	Comedy
 51917	Romance
 51917	Drama
 51917	Comedy
 56974	Comedy
 23619	Comedy
-58011	Comedy
 58400	
 15681	Comedy
-53957	Comedy
 56339	Comedy
-35554	Comedy
 58060	Drama
-78854	Comedy
 62029	Comedy
-105884	
 165550	Thriller
 165550	Action
 165550	Drama
@@ -67871,7 +67286,6 @@ id	genre_name
 89847	Crime
 273084	Thriller
 273084	Mystery
-128625	Documentary
 191094	Thriller
 38162	Action
 38162	Drama
@@ -67948,7 +67362,6 @@ id	genre_name
 54155	Drama
 54155	Comedy
 54155	Romance
-284362	Documentary
 293299	Animation
 293299	Comedy
 293299	Drama
@@ -68226,7 +67639,6 @@ id	genre_name
 76850	Action
 76850	Comedy
 342003	Comedy
-267557	Comedy
 329134	Comedy
 329134	Thriller
 329134	Horror
@@ -68235,7 +67647,6 @@ id	genre_name
 55951	Comedy
 55951	Drama
 55951	Family
-62713	
 42129	
 143754	Western
 90540	Western
@@ -68355,7 +67766,6 @@ id	genre_name
 12424	
 57052	Drama
 55717	Drama
-44211	
 24169	Comedy
 59582	Drama
 59582	Romance
@@ -68504,7 +67914,6 @@ id	genre_name
 197297	Crime
 257249	Documentary
 342052	Documentary
-108497	
 244776	Drama
 339065	Documentary
 289510	Thriller
@@ -68528,7 +67937,6 @@ id	genre_name
 212996	Crime
 212996	Drama
 212996	Foreign
-218688	Comedy
 350931	Thriller
 122320	Documentary
 284303	Drama
@@ -68615,7 +68023,6 @@ id	genre_name
 348857	Comedy
 67362	Drama
 67362	Mystery
-262987	Comedy
 162954	Romance
 162954	Crime
 162954	Drama
@@ -68739,30 +68146,23 @@ id	genre_name
 42727	Science Fiction
 236329	Thriller
 236329	Drama
-325645	Drama
-325645	Comedy
 49321	Comedy
 246457	
 42395	Comedy
-120922	Comedy
 43592	
-41669	Comedy
 41668	Drama
 41668	Romance
 41668	Foreign
 64822	Comedy
-41665	Comedy
 37770	Comedy
 52106	Comedy
 41664	Comedy
-38315	
 82080	Comedy
 38313	
 30459	Comedy
 30459	Horror
 38310	Comedy
 26285	Comedy
-106256	
 41610	
 342896	Horror
 342896	Mystery
@@ -68770,7 +68170,6 @@ id	genre_name
 231616	Drama
 329289	Horror
 24161	Comedy
-58070	
 63274	Comedy
 63274	Romance
 37765	Comedy
@@ -68859,7 +68258,6 @@ id	genre_name
 61719	Romance
 264644	Drama
 264644	Thriller
-204771	
 135697	Comedy
 79456	Drama
 79456	Romance
@@ -68874,7 +68272,6 @@ id	genre_name
 192911	Animation
 192911	Fantasy
 102831	Comedy
-238925	
 226458	Thriller
 226458	Horror
 230095	
@@ -68915,8 +68312,6 @@ id	genre_name
 328425	Mystery
 18380	Fantasy
 18380	Drama
-171873	Romance
-171873	Comedy
 137853	Documentary
 80648	Thriller
 277847	Drama
@@ -69049,7 +68444,6 @@ id	genre_name
 7092	Horror
 35178	Drama
 35178	Family
-60071	
 86543	TV Movie
 86543	Western
 50503	Drama
@@ -69098,7 +68492,6 @@ id	genre_name
 106355	Action
 106355	Adventure
 106355	Science Fiction
-124523	Drama
 142064	Comedy
 25180	Drama
 25180	Family
@@ -69250,8 +68643,6 @@ id	genre_name
 155685	Western
 107427	Western
 105687	Comedy
-276155	History
-276155	Drama
 15531	Action
 15531	Comedy
 347528	Comedy
@@ -69415,9 +68806,6 @@ id	genre_name
 284674	Science Fiction
 39773	Comedy
 39773	Family
-307293	Adventure
-307293	History
-307293	TV Movie
 259300	Action
 259300	Science Fiction
 56672	Fantasy
@@ -69434,7 +68822,6 @@ id	genre_name
 216580	Drama
 216580	Horror
 216580	Thriller
-8930	Documentary
 319337	Drama
 319337	War
 319340	Comedy
@@ -69477,7 +68864,6 @@ id	genre_name
 202456	Drama
 107039	Drama
 107039	Foreign
-292387	Comedy
 297641	Drama
 80754	Comedy
 225408	Drama
@@ -69517,7 +68903,6 @@ id	genre_name
 52761	Comedy
 52761	Western
 256836	Documentary
-64383	Comedy
 351043	Thriller
 351043	Mystery
 351043	Drama
@@ -69566,8 +68951,6 @@ id	genre_name
 26189	Family
 26189	Mystery
 26189	TV Movie
-243059	Comedy
-231009	
 339327	Music
 339327	Documentary
 91624	Drama
@@ -69581,23 +68964,16 @@ id	genre_name
 336251	Drama
 336251	Documentary
 325263	Documentary
-76871	Action
-76871	Drama
-76871	Romance
 353898	Drama
 336203	Drama
 336203	Romance
 306543	Comedy
-316170	Comedy
 50341	Action
 50341	Adventure
 50341	Drama
 50341	Foreign
 50341	History
 65628	Comedy
-116236	Romance
-116236	Comedy
-116236	Drama
 297505	Comedy
 289679	
 270463	Comedy
@@ -69851,7 +69227,6 @@ id	genre_name
 336655	Drama
 295111	Drama
 260313	Drama
-284048	
 320643	
 58858	Comedy
 32671	Drama
@@ -69992,7 +69367,6 @@ id	genre_name
 330421	Drama
 330421	Family
 330421	Thriller
-177104	
 348296	Comedy
 26847	TV Movie
 26847	Comedy
@@ -70165,7 +69539,6 @@ id	genre_name
 319910	Mystery
 319910	Drama
 319910	Crime
-252773	Comedy
 284279	Action
 284279	Comedy
 313922	Horror
@@ -70481,7 +69854,6 @@ id	genre_name
 358982	Horror
 218576	Documentary
 356149	Horror
-315335	Comedy
 81704	Drama
 65953	Drama
 222939	Documentary
@@ -70504,9 +69876,6 @@ id	genre_name
 139156	Comedy
 100243	Drama
 100243	Thriller
-68023	Adventure
-68023	History
-68023	Romance
 28538	Science Fiction
 91265	Action
 91265	Thriller
@@ -70518,8 +69887,6 @@ id	genre_name
 22726	Science Fiction
 22726	Thriller
 35611	Science Fiction
-46436	Crime
-46436	Comedy
 27909	Science Fiction
 27909	Horror
 150839	Action
@@ -70565,7 +69932,6 @@ id	genre_name
 340382	Drama
 332839	Thriller
 332839	Drama
-63276	Drama
 84858	Action
 84858	Crime
 84858	Drama
@@ -70666,7 +70032,6 @@ id	genre_name
 211755	Animation
 211755	Adventure
 321228	Documentary
-257237	
 239523	Adventure
 239523	Animation
 239523	Action
@@ -70686,14 +70051,11 @@ id	genre_name
 157843	History
 353686	Thriller
 353686	Horror
-300839	Thriller
-300839	Drama
 359105	Comedy
 359105	Action
 359105	Drama
 359105	History
 359105	War
-154671	
 315841	Comedy
 315841	Action
 91007	Action
@@ -70702,7 +70064,6 @@ id	genre_name
 11142	Action
 11142	Crime
 11142	Thriller
-243473	
 18303	Comedy
 42427	Thriller
 322434	Documentary
@@ -70821,9 +70182,6 @@ id	genre_name
 61502	Drama
 61502	Mystery
 61502	Thriller
-66447	Foreign
-66447	Drama
-66447	Comedy
 119478	Horror
 87706	Horror
 87706	Science Fiction
@@ -70957,8 +70315,6 @@ id	genre_name
 126227	Western
 144111	Drama
 20361	Western
-295314	History
-295314	Drama
 337730	Drama
 95807	Mystery
 95807	Thriller
@@ -71123,7 +70479,6 @@ id	genre_name
 224778	Action
 224778	Adventure
 224778	Horror
-142982	
 91926	Crime
 91926	Thriller
 179847	Documentary
@@ -71194,7 +70549,6 @@ id	genre_name
 295317	Documentary
 339320	Crime
 339320	Drama
-292539	Documentary
 301228	Thriller
 301228	Mystery
 301228	Science Fiction
@@ -71225,7 +70579,6 @@ id	genre_name
 326333	Romance
 250535	Family
 250535	Comedy
-320028	Comedy
 250230	History
 250230	Drama
 111732	Comedy
@@ -71326,9 +70679,6 @@ id	genre_name
 55011	Thriller
 99760	Drama
 133560	
-338312	Action
-338312	Comedy
-338312	Crime
 273197	Thriller
 273197	Drama
 273197	Mystery
@@ -71430,7 +70780,6 @@ id	genre_name
 217185	Comedy
 217185	Music
 85285	Drama
-322453	Comedy
 118876	Drama
 118876	Action
 118876	Thriller
@@ -71438,9 +70787,6 @@ id	genre_name
 118876	Crime
 4196	Drama
 4196	History
-64526	Action
-64526	Adventure
-64526	Crime
 106944	Comedy
 106944	Romance
 58658	Drama
@@ -71510,7 +70856,6 @@ id	genre_name
 20430	Romance
 73455	Documentary
 199184	
-60193	Comedy
 105529	
 106224	Drama
 198661	
@@ -71540,21 +70885,15 @@ id	genre_name
 56287	Romance
 56287	Comedy
 61829	
-82368	Comedy
-92586	
 76575	Comedy
-193732	Comedy
 45005	Comedy
 2969	Drama
 2969	Fantasy
 2969	Science Fiction
 2969	Horror
-273868	History
-273868	Comedy
 231304	Comedy
 36817	Family
 36817	Comedy
-337014	
 47158	Drama
 47158	Foreign
 270487	Comedy
@@ -71692,10 +71031,8 @@ id	genre_name
 74657	Drama
 74657	Crime
 122787	Western
-80443	Comedy
 136572	History
 136572	Drama
-107035	
 74656	Drama
 74656	War
 291866	Horror
@@ -71782,8 +71119,6 @@ id	genre_name
 190250	Science Fiction
 190250	Thriller
 165181	Science Fiction
-268212	Crime
-268212	Adventure
 262945	Crime
 262945	Drama
 37679	Thriller
@@ -72435,9 +71770,7 @@ id	genre_name
 28416	Horror
 28416	Foreign
 292035	Comedy
-172396	
 76040	Documentary
-160106	Family
 798	Drama
 356161	Adventure
 356161	Animation
@@ -72567,10 +71900,6 @@ id	genre_name
 337473	Documentary
 53689	Comedy
 314462	
-77241	
-52183	Drama
-52183	Romance
-52183	Crime
 239534	Romance
 236317	Drama
 171160	
@@ -72672,7 +72001,6 @@ id	genre_name
 287636	Drama
 117435	Adventure
 117435	Action
-5881	Comedy
 55240	Drama
 4893	Action
 4893	Thriller
@@ -72711,14 +72039,11 @@ id	genre_name
 113782	Drama
 294016	Drama
 324178	Comedy
-121329	Comedy
 96368	Western
 129847	Western
 129851	Western
 156988	
 156995	
-146970	Western
-146970	Comedy
 157724	Western
 157724	Comedy
 179178	Comedy
@@ -72843,7 +72168,6 @@ id	genre_name
 97632	Science Fiction
 258075	Thriller
 258075	Science Fiction
-310126	Comedy
 37055	TV Movie
 37055	Crime
 37055	Drama
@@ -72886,7 +72210,6 @@ id	genre_name
 321039	Thriller
 321039	Science Fiction
 148451	
-267389	
 37216	Thriller
 37216	Drama
 37216	Crime
@@ -73133,7 +72456,6 @@ id	genre_name
 266764	Comedy
 266764	Documentary
 325690	Comedy
-42436	Comedy
 127017	
 225403	
 78329	Drama
@@ -73246,8 +72568,6 @@ id	genre_name
 228198	Drama
 228198	Comedy
 299851	Documentary
-367006	Thriller
-367006	Drama
 277435	War
 277435	Documentary
 365188	Drama
@@ -73339,7 +72659,6 @@ id	genre_name
 17875	Documentary
 362077	Documentary
 171174	
-365340	Documentary
 44282	Comedy
 44282	Drama
 44282	Romance
@@ -73408,7 +72727,6 @@ id	genre_name
 306952	Romance
 347258	Thriller
 347258	Science Fiction
-50189	
 60810	Comedy
 60810	Drama
 280182	
@@ -73479,7 +72797,6 @@ id	genre_name
 58720	TV Movie
 14558	Comedy
 39317	Comedy
-74922	Comedy
 251584	Drama
 167424	Drama
 133521	Drama
@@ -73517,10 +72834,6 @@ id	genre_name
 56978	Drama
 57310	Crime
 57914	Drama
-45990	Comedy
-45990	Drama
-60018	
-64948	
 60191	Drama
 59857	Foreign
 59857	Horror
@@ -73531,12 +72844,10 @@ id	genre_name
 121464	Drama
 8430	History
 8430	Drama
-61217	
 75532	Drama
 75532	Comedy
 155956	Drama
 155956	History
-42579	
 56922	
 293264	Romance
 293264	Comedy
@@ -73566,8 +72877,6 @@ id	genre_name
 291006	Documentary
 276536	Documentary
 200823	Comedy
-327383	Drama
-327383	Comedy
 287426	Drama
 23857	Thriller
 23857	Drama
@@ -73587,23 +72896,16 @@ id	genre_name
 59959	Comedy
 11530	Comedy
 207402	Comedy
-49907	Comedy
-67177	
 107812	Comedy
 107812	Foreign
 198474	
-183964	
 24195	
 71995	Comedy
 274131	
-62034	Romance
-62034	Comedy
 220565	
-217648	Comedy
 63074	
 60175	Comedy
 24260	Comedy
-53179	Comedy
 58833	Drama
 52557	Comedy
 271388	Comedy
@@ -73618,8 +72920,6 @@ id	genre_name
 79212	Comedy
 79212	Family
 79212	Crime
-332534	Comedy
-332534	Drama
 27721	Drama
 193544	Drama
 193544	Romance
@@ -73709,9 +73009,6 @@ id	genre_name
 4228	War
 4228	History
 4228	Thriller
-59349	War
-59349	Comedy
-59349	Drama
 76793	Comedy
 50213	Comedy
 71767	Comedy
@@ -73752,10 +73049,6 @@ id	genre_name
 42952	Thriller
 64046	Adventure
 64044	Adventure
-84774	Animation
-84774	Family
-84774	Fantasy
-84774	Foreign
 65099	Comedy
 140966	Adventure
 140966	Action
@@ -73766,8 +73059,6 @@ id	genre_name
 37015	Crime
 37015	Drama
 37015	Romance
-207696	Action
-207696	Drama
 63537	Adventure
 63537	History
 72888	Comedy
@@ -73856,7 +73147,6 @@ id	genre_name
 62040	Action
 62040	Thriller
 59455	Comedy
-263873	Comedy
 80386	Music
 77720	Comedy
 83614	Drama
@@ -73865,7 +73155,6 @@ id	genre_name
 74852	Adventure
 126846	
 72093	
-72095	
 60199	Mystery
 60199	Drama
 60199	Comedy
@@ -73960,9 +73249,6 @@ id	genre_name
 43456	Drama
 43503	Drama
 43503	Music
-265351	Drama
-265351	Action
-265351	Crime
 333886	Drama
 333886	Comedy
 268413	Crime
@@ -73970,8 +73256,6 @@ id	genre_name
 268413	Drama
 64433	Comedy
 64433	Drama
-30634	Comedy
-49828	
 320349	Thriller
 320349	Documentary
 352327	Drama
@@ -74030,7 +73314,6 @@ id	genre_name
 335869	Romance
 51403	Drama
 369230	Comedy
-257593	Comedy
 324259	Comedy
 324259	Drama
 188981	
@@ -74082,7 +73365,6 @@ id	genre_name
 161620	Adventure
 161620	Fantasy
 161620	TV Movie
-166207	Comedy
 356898	Drama
 293982	Drama
 293982	Romance
@@ -74253,7 +73535,6 @@ id	genre_name
 341895	Comedy
 341895	Music
 341895	Romance
-48845	Comedy
 345575	
 103947	Comedy
 79825	Drama
@@ -74288,9 +73569,6 @@ id	genre_name
 130754	Documentary
 336884	Horror
 339751	Documentary
-295748	Action
-295748	Comedy
-295748	Drama
 34666	Comedy
 34666	Romance
 34666	Drama
@@ -74344,7 +73622,6 @@ id	genre_name
 321666	Drama
 307103	Drama
 307103	Crime
-326874	Comedy
 103012	Drama
 255869	Drama
 255869	Music
@@ -74390,10 +73667,7 @@ id	genre_name
 16422	Thriller
 272255	Western
 272255	Comedy
-285908	Crime
-285908	Drama
 254918	Drama
-358980	Drama
 13591	Comedy
 345637	Animation
 336882	Action
@@ -74407,14 +73681,11 @@ id	genre_name
 256546	Drama
 105085	Horror
 105085	Thriller
-279179	Romance
-279179	Comedy
 61535	Comedy
 61535	Romance
 256375	Documentary
 79435	Drama
 334028	Horror
-152539	
 58384	Horror
 58384	Thriller
 68437	Mystery
@@ -74492,7 +73763,6 @@ id	genre_name
 23153	Action
 23166	Animation
 23167	Animation
-366548	Comedy
 351694	Fantasy
 351694	Animation
 351694	Comedy
@@ -74506,7 +73776,6 @@ id	genre_name
 301816	TV Movie
 301816	Drama
 301816	Science Fiction
-338438	Adventure
 107100	Action
 107100	Science Fiction
 81409	War
@@ -74574,7 +73843,6 @@ id	genre_name
 72246	Crime
 72246	Romance
 72246	Foreign
-248706	Drama
 347969	Comedy
 347969	Western
 166178	Action
@@ -74645,15 +73913,9 @@ id	genre_name
 156135	
 78101	Drama
 78101	War
-163706	Crime
-163706	Drama
-163706	Thriller
 73954	Thriller
-182843	
-162056	Comedy
 93064	Drama
 93064	Foreign
-150958	
 27009	Action
 27009	Horror
 27009	Mystery
@@ -74749,7 +74011,6 @@ id	genre_name
 180929	Crime
 180929	Comedy
 105153	
-299165	Comedy
 303867	Animation
 303867	Comedy
 303867	Science Fiction
@@ -74929,7 +74190,6 @@ id	genre_name
 30644	Action
 30644	Adventure
 30644	Horror
-131897	
 282069	Science Fiction
 282069	Horror
 282070	Science Fiction
@@ -74937,18 +74197,11 @@ id	genre_name
 373541	Horror
 373541	Mystery
 373541	Thriller
-252028	Comedy
-252028	Drama
 299585	Drama
 299585	Family
 299585	TV Movie
 36771	Comedy
-55254	
 62900	
-55776	Comedy
-62898	Comedy
-62896	Comedy
-62897	Comedy
 62894	Comedy
 145912	Comedy
 36772	Comedy
@@ -74961,9 +74214,7 @@ id	genre_name
 40836	Family
 351819	Romance
 351819	Comedy
-58074	Comedy
 56975	Comedy
-56068	Comedy
 66177	Comedy
 94641	Drama
 94641	War
@@ -75280,8 +74531,6 @@ id	genre_name
 127642	Drama
 127642	Horror
 127642	Thriller
-315319	Comedy
-298722	Comedy
 370835	Drama
 370835	Crime
 61464	
@@ -75326,7 +74575,6 @@ id	genre_name
 342927	Horror
 68507	Romance
 68507	Drama
-272426	Comedy
 357940	Crime
 357940	Action
 357940	Drama
@@ -75337,7 +74585,6 @@ id	genre_name
 73976	Drama
 37817	Music
 37817	Comedy
-82745	Drama
 85389	Drama
 73919	Drama
 69846	Action
@@ -75378,7 +74625,6 @@ id	genre_name
 352200	Thriller
 352200	Documentary
 352200	Drama
-366566	Comedy
 337075	Family
 337075	Fantasy
 337075	Mystery
@@ -75476,8 +74722,6 @@ id	genre_name
 181426	Action
 44459	Drama
 44459	Romance
-153717	Fantasy
-153717	Family
 289673	
 337208	Science Fiction
 337208	Action
@@ -75519,9 +74763,6 @@ id	genre_name
 44751	Crime
 44751	Drama
 44751	Thriller
-68360	Drama
-68444	Drama
-68444	Romance
 276608	Drama
 12135	Drama
 12135	Foreign
@@ -75572,9 +74813,6 @@ id	genre_name
 22454	Drama
 22454	Foreign
 141145	Drama
-73628	Drama
-73628	Family
-73628	Romance
 86482	Drama
 164366	Comedy
 94630	Drama
@@ -75583,7 +74821,6 @@ id	genre_name
 287344	Romance
 287344	Drama
 287344	History
-374698	
 218238	Family
 218238	Mystery
 73222	
@@ -75596,7 +74833,6 @@ id	genre_name
 15994	
 36712	Comedy
 36712	Drama
-182545	Comedy
 35639	Family
 63044	Drama
 74436	Adventure
@@ -75604,8 +74840,6 @@ id	genre_name
 74436	Romance
 255647	Adventure
 255647	Comedy
-54832	Comedy
-54832	Drama
 111480	Action
 111480	Crime
 44478	Comedy
@@ -75648,7 +74882,6 @@ id	genre_name
 54330	
 129119	Drama
 328480	Thriller
-284250	Drama
 82655	Horror
 82655	Thriller
 82655	Mystery
@@ -75699,8 +74932,6 @@ id	genre_name
 329440	Thriller
 41518	Drama
 41518	Romance
-277934	Romance
-277934	Drama
 141901	Fantasy
 141901	Romance
 94555	Drama
@@ -75759,7 +74990,6 @@ id	genre_name
 118026	
 284050	Drama
 284050	Comedy
-105991	
 287497	Drama
 320420	Documentary
 77194	Adventure
@@ -75889,7 +75119,6 @@ id	genre_name
 294825	Thriller
 61662	Documentary
 31343	
-150049	Documentary
 13713	Comedy
 347155	Animation
 38883	Crime
@@ -75901,7 +75130,6 @@ id	genre_name
 277631	Drama
 329407	Documentary
 329407	Music
-135307	Comedy
 212753	Drama
 358238	Drama
 358238	Fantasy
@@ -75915,7 +75143,6 @@ id	genre_name
 86232	Romance
 139712	
 106739	Documentary
-372113	
 150054	
 321974	Documentary
 321974	Music
@@ -76017,11 +75244,8 @@ id	genre_name
 36620	Documentary
 26314	Comedy
 176535	Drama
-74921	
 153266	Comedy
 78326	Thriller
-58553	Comedy
-58553	Romance
 36626	Comedy
 31855	Drama
 31855	Music
@@ -76037,10 +75261,7 @@ id	genre_name
 144942	Comedy
 144942	TV Movie
 176037	Thriller
-329550	Comedy
-329550	Romance
 38941	
-282768	Comedy
 90909	Animation
 93862	Drama
 93862	Foreign
@@ -76057,7 +75278,6 @@ id	genre_name
 110372	Thriller
 110372	Science Fiction
 110372	Foreign
-48431	Thriller
 108246	Drama
 133255	Western
 63654	Action
@@ -76105,13 +75325,11 @@ id	genre_name
 5067	Horror
 5067	Drama
 5067	Mystery
-84035	
 76777	Mystery
 76777	Drama
 76775	Drama
 76772	Drama
 76772	Thriller
-147360	Drama
 4709	Comedy
 68754	Drama
 43462	Drama
@@ -76163,7 +75381,6 @@ id	genre_name
 47363	Fantasy
 28920	Comedy
 28920	Science Fiction
-359807	Documentary
 56589	Comedy
 259835	Action
 259835	Adventure
@@ -76182,9 +75399,7 @@ id	genre_name
 312669	Romance
 377565	Comedy
 377565	Drama
-53301	Drama
 47367	
-59264	
 27069	Drama
 27069	Action
 27069	Comedy
@@ -76213,7 +75428,6 @@ id	genre_name
 217587	Documentary
 158431	Adventure
 158431	Thriller
-46442	Documentary
 53290	Documentary
 53290	Foreign
 187633	Drama
@@ -76262,11 +75476,7 @@ id	genre_name
 74197	Western
 149691	Western
 150708	Western
-222619	Action
-222619	Fantasy
-222619	Science Fiction
 26703	Horror
-264036	
 104081	Drama
 104081	Foreign
 64462	Drama
@@ -76278,7 +75488,6 @@ id	genre_name
 35411	Drama
 35411	Foreign
 109690	
-222030	
 42107	Documentary
 331962	Drama
 331962	Crime
@@ -76336,7 +75545,6 @@ id	genre_name
 220029	TV Movie
 157293	Drama
 157293	Music
-187737	
 220176	Drama
 220176	History
 377136	
@@ -76448,13 +75656,10 @@ id	genre_name
 329004	Thriller
 76851	Thriller
 76851	Foreign
-235450	
 58500	Drama
 376530	Family
 376530	Documentary
 376530	Adventure
-365065	Drama
-365065	Science Fiction
 67844	
 334918	Drama
 345775	Adventure
@@ -76520,7 +75725,6 @@ id	genre_name
 18874	Crime
 18874	Science Fiction
 347495	Documentary
-171902	Documentary
 11089	Documentary
 301325	Drama
 301325	Mystery
@@ -76641,7 +75845,6 @@ id	genre_name
 43735	Romance
 43735	Family
 298986	War
-333888	Comedy
 332709	Comedy
 18230	Action
 18230	Drama
@@ -76683,7 +75886,6 @@ id	genre_name
 336663	War
 17720	Drama
 17720	War
-335031	Comedy
 42526	Drama
 42526	Horror
 42526	Thriller
@@ -76775,7 +75977,6 @@ id	genre_name
 348674	Drama
 348674	War
 164443	Comedy
-61314	Comedy
 282084	Documentary
 342381	Music
 92060	Horror
@@ -76797,7 +75998,6 @@ id	genre_name
 360387	Adventure
 360387	Action
 366249	Comedy
-78340	Comedy
 257081	Adventure
 257081	Drama
 228647	Mystery
@@ -76863,20 +76063,14 @@ id	genre_name
 44637	Comedy
 86186	TV Movie
 86186	Drama
-84865	Comedy
-359154	History
-359154	Drama
 33842	Foreign
 33842	Thriller
-82157	Family
-82157	Drama
 124480	
 157447	Drama
 110395	Adventure
 110395	Animation
 110395	Family
 110395	Fantasy
-43292	
 211317	Documentary
 278514	
 100669	Drama
@@ -76930,8 +76124,6 @@ id	genre_name
 93193	Crime
 93193	Drama
 93193	Mystery
-128866	Horror
-128866	Science Fiction
 161374	Adventure
 161374	Thriller
 18044	Horror
@@ -76973,7 +76165,6 @@ id	genre_name
 86495	Drama
 151062	
 27674	Horror
-370168	Documentary
 58769	Animation
 125087	Drama
 74942	History
@@ -76992,10 +76183,6 @@ id	genre_name
 85512	Horror
 85512	Mystery
 85512	Thriller
-27941	Horror
-27941	Science Fiction
-27941	Family
-27941	Foreign
 28686	Horror
 44385	Horror
 44385	Thriller
@@ -77054,8 +76241,6 @@ id	genre_name
 82094	Animation
 82094	Fantasy
 82094	Horror
-367492	Romance
-367492	Drama
 100275	Horror
 100275	Comedy
 73800	Action
@@ -77081,7 +76266,6 @@ id	genre_name
 23529	Drama
 23529	Family
 23529	Foreign
-54769	Comedy
 20221	Comedy
 114922	Comedy
 114922	Foreign
@@ -77090,7 +76274,6 @@ id	genre_name
 290365	Drama
 290365	Science Fiction
 46258	Comedy
-225244	Comedy
 253395	Drama
 82153	Documentary
 82153	Music
@@ -77111,7 +76294,6 @@ id	genre_name
 353609	Family
 208431	Drama
 208431	Romance
-331354	Comedy
 9321	Action
 9321	Thriller
 183176	Documentary
@@ -77139,15 +76321,12 @@ id	genre_name
 114354	Drama
 112631	Thriller
 112631	Drama
-234815	Crime
-234815	Drama
 240628	Adventure
 240628	Drama
 258450	Drama
 312101	
 186066	Comedy
 186066	Drama
-82265	Drama
 157153	Comedy
 43953	Family
 43953	Animation
@@ -77232,15 +76411,12 @@ id	genre_name
 382155	Drama
 382155	Crime
 382155	Thriller
-74919	Action
-74919	Crime
 139635	
 44528	Drama
 127329	Action
 127329	Drama
 85580	Family
 9939	
-379873	Comedy
 137269	Documentary
 44239	Animation
 20534	Drama
@@ -77303,12 +76479,10 @@ id	genre_name
 184522	
 161898	
 303982	Comedy
-228184	Comedy
 153695	Thriller
 300602	Comedy
 300602	Animation
 300602	Adventure
-258585	Drama
 41093	Romance
 41093	Comedy
 41093	Drama
@@ -77445,7 +76619,6 @@ id	genre_name
 87394	Documentary
 217247	
 27598	Family
-245324	Drama
 78547	Drama
 73094	Animation
 73094	Adventure
@@ -77490,8 +76663,6 @@ id	genre_name
 336970	Drama
 336970	TV Movie
 155052	Drama
-92988	Thriller
-92988	Drama
 45204	Drama
 45204	Foreign
 10500	Drama
@@ -77521,15 +76692,12 @@ id	genre_name
 108639	Romance
 80990	Drama
 56487	
-66541	
 65504	Science Fiction
 65504	Family
 65504	Animation
 85904	Music
 85904	Drama
 85904	Fantasy
-152653	
-185153	
 70503	Drama
 121740	Drama
 46212	Drama
@@ -77598,7 +76766,6 @@ id	genre_name
 64944	Thriller
 88302	Foreign
 180695	Music
-218728	Drama
 70794	
 1837	Romance
 1837	Drama
@@ -77610,10 +76777,7 @@ id	genre_name
 35749	Drama
 302436	Fantasy
 302436	Family
-49941	
 189556	Documentary
-89560	Comedy
-89560	Drama
 136141	Documentary
 47900	War
 47900	Comedy
@@ -77674,8 +76838,6 @@ id	genre_name
 16403	Drama
 16403	Comedy
 16403	Fantasy
-79048	Drama
-79048	Comedy
 106538	Romance
 106538	Drama
 361980	Adventure
@@ -77690,14 +76852,11 @@ id	genre_name
 293313	Comedy
 293313	Family
 140278	
-353641	Family
 270936	Documentary
 293471	Family
 364387	Family
 52775	Comedy
 52775	Music
-64504	Romance
-64504	Comedy
 61320	Animation
 61320	Family
 61313	Animation
@@ -77744,14 +76903,12 @@ id	genre_name
 352720	Romance
 352720	Drama
 352720	War
-316111	Comedy
 260163	Horror
 260163	Drama
 286367	Horror
 178687	Horror
 52416	Horror
 51205	Drama
-280045	Comedy
 205943	Horror
 205943	Thriller
 205943	Mystery
@@ -77796,9 +76953,6 @@ id	genre_name
 226092	Thriller
 28389	Horror
 72661	
-41078	Adventure
-41078	Animation
-41078	Fantasy
 73129	Drama
 61552	
 103539	Drama
@@ -77812,16 +76966,12 @@ id	genre_name
 47723	Drama
 21751	Family
 21751	Drama
-104172	
 318851	Romance
 318851	Drama
 118727	Animation
 118727	Family
 150578	
 291122	
-319179	Fantasy
-319179	Drama
-319179	Family
 121754	Family
 121754	Drama
 162458	Music
@@ -77913,9 +77063,6 @@ id	genre_name
 105033	Action
 105033	Crime
 161535	
-71630	Drama
-71630	Adventure
-71630	Comedy
 145909	War
 145909	Drama
 384262	Documentary
@@ -77934,7 +77081,6 @@ id	genre_name
 341007	Animation
 341007	Adventure
 241927	Horror
-77958	Drama
 20294	Drama
 20294	Action
 20294	Comedy
@@ -78004,8 +77150,6 @@ id	genre_name
 21822	Drama
 21822	Foreign
 36919	Comedy
-342163	Romance
-342163	Comedy
 106414	Action
 371462	Drama
 75282	Drama
@@ -78044,14 +77188,12 @@ id	genre_name
 83299	Drama
 83299	Foreign
 83299	Comedy
-44517	
 61699	Documentary
 61699	War
 182768	Fantasy
 182768	Action
 182768	Animation
 182768	Science Fiction
-96497	
 10129	Drama
 76350	Drama
 76350	Romance
@@ -78138,18 +77280,13 @@ id	genre_name
 20891	Fantasy
 117790	Drama
 112346	Drama
-199879	
-96594	
 52073	Drama
-308671	Drama
 97547	
 189420	Documentary
-284620	
 76099	Crime
 76099	Drama
 76099	History
 209312	
-238456	Documentary
 24603	Action
 24603	Comedy
 24603	Foreign
@@ -78159,7 +77296,6 @@ id	genre_name
 20507	Horror
 20507	Mystery
 82279	Family
-267035	Comedy
 74661	Drama
 138449	Comedy
 50730	Family
@@ -78204,10 +77340,8 @@ id	genre_name
 88377	Thriller
 88377	Crime
 88377	Foreign
-79836	Comedy
 61540	Mystery
 61540	Thriller
-73835	Comedy
 81521	Horror
 61203	Foreign
 61203	Crime
@@ -78276,8 +77410,6 @@ id	genre_name
 41039	Drama
 64935	Crime
 64935	Mystery
-2764	
-286512	Drama
 17302	
 326305	Documentary
 57983	History
@@ -78289,7 +77421,6 @@ id	genre_name
 48489	Romance
 48489	Thriller
 78539	Drama
-296225	Comedy
 369366	Animation
 369366	Crime
 369366	Documentary
@@ -78300,11 +77431,6 @@ id	genre_name
 72615	Thriller
 72615	Drama
 72615	Romance
-71496	Drama
-71496	Fantasy
-53472	Romance
-53472	Mystery
-53472	Thriller
 3048	Documentary
 3048	Foreign
 78072	Action
@@ -78342,7 +77468,6 @@ id	genre_name
 288286	Romance
 16803	Comedy
 16803	Drama
-347465	Comedy
 173421	Drama
 173421	Romance
 48128	Science Fiction
@@ -78377,17 +77502,10 @@ id	genre_name
 73123	Drama
 73123	Family
 107767	Drama
-220154	Animation
-220154	Family
-220154	Adventure
-119816	Romance
-119816	Comedy
-119816	Drama
 47231	Drama
 9084	Animation
 9084	Family
 9084	Foreign
-324408	
 50294	Family
 50294	Adventure
 81389	
@@ -78410,10 +77528,8 @@ id	genre_name
 799	Family
 54560	Documentary
 53524	Drama
-70119	Comedy
 267415	Romance
 267415	Drama
-85690	Drama
 21070	Crime
 21070	Drama
 38553	Thriller
@@ -78435,8 +77551,6 @@ id	genre_name
 8651	Drama
 361181	Comedy
 127286	
-51839	
-164288	
 85787	Music
 85787	Animation
 50179	Adventure
@@ -78501,10 +77615,7 @@ id	genre_name
 253072	Drama
 253072	Thriller
 253072	Fantasy
-24199	Drama
-24199	Comedy
 49323	Comedy
-295782	Drama
 52088	Drama
 52088	Thriller
 9608	Drama
@@ -78531,8 +77642,6 @@ id	genre_name
 50583	Action
 50583	Comedy
 50583	Thriller
-153541	Drama
-153541	Comedy
 12495	Fantasy
 12495	Family
 97138	Drama
@@ -78555,8 +77664,6 @@ id	genre_name
 53463	Science Fiction
 53463	Horror
 53463	Mystery
-19812	Comedy
-19812	Family
 135204	Animation
 135204	Comedy
 135204	Action
@@ -78579,7 +77686,6 @@ id	genre_name
 27730	Horror
 27730	Foreign
 18265	Comedy
-56344	
 349008	
 111114	Documentary
 65885	Drama
@@ -78650,14 +77756,11 @@ id	genre_name
 45490	Romance
 45490	Thriller
 297288	Comedy
-297745	Comedy
 24235	Documentary
 57394	Action
 57394	Documentary
 57394	Drama
 57394	Foreign
-274110	Comedy
-274110	Romance
 64304	Foreign
 64304	Action
 43833	Comedy
@@ -78724,14 +77827,11 @@ id	genre_name
 116318	Animation
 128061	Drama
 128061	Foreign
-211158	Drama
 361131	Thriller
 361131	Drama
 105304	Documentary
 105304	Family
 257095	Animation
-64437	Drama
-64437	Romance
 357959	Drama
 45205	Animation
 45205	Comedy
@@ -78741,7 +77841,6 @@ id	genre_name
 76784	Comedy
 76784	Drama
 317988	
-142406	
 263627	Comedy
 263627	Drama
 263627	TV Movie
@@ -78792,7 +77891,6 @@ id	genre_name
 302528	Thriller
 137200	Animation
 137200	Family
-262713	Documentary
 130993	Documentary
 130993	Romance
 256316	Thriller
@@ -78824,18 +77922,12 @@ id	genre_name
 258210	Action
 159630	
 89337	
-69610	
 42911	Action
 42911	Adventure
 163313	Crime
 163313	Action
 347835	Documentary
-187238	Comedy
-383809	Comedy
-383809	Documentary
-135536	
 101553	Western
-138273	
 137599	Drama
 50268	Drama
 37265	Comedy
@@ -78852,13 +77944,10 @@ id	genre_name
 10125	Drama
 329010	Thriller
 324340	
-367596	Drama
-367596	Comedy
 27836	Thriller
 27836	Drama
 96161	Drama
 96161	Romance
-297207	
 26329	Comedy
 367275	TV Movie
 367275	Documentary
@@ -78986,8 +78075,6 @@ id	genre_name
 94702	Fantasy
 94702	Comedy
 85220	Comedy
-140554	Comedy
-140554	Music
 277796	Romance
 277796	Drama
 263976	Documentary
@@ -79013,7 +78100,6 @@ id	genre_name
 333352	Thriller
 333352	War
 367524	Documentary
-64407	Crime
 63224	Drama
 98302	Comedy
 98302	Romance
@@ -79161,8 +78247,6 @@ id	genre_name
 347689	Comedy
 347689	Family
 339984	Drama
-54566	
-55495	Comedy
 379925	Fantasy
 379925	Romance
 347881	Comedy
@@ -79208,13 +78292,8 @@ id	genre_name
 376311	Romance
 315664	Comedy
 315664	Drama
-49834	Music
-49834	Drama
-49834	Comedy
 24258	Comedy
 24258	Drama
-47683	Drama
-47683	Comedy
 258800	Drama
 163018	Drama
 163018	Comedy
@@ -79350,8 +78429,6 @@ id	genre_name
 34158	History
 34158	Documentary
 214170	Documentary
-341745	Drama
-276157	
 122544	Horror
 296360	Comedy
 296360	Drama
@@ -79377,7 +78454,6 @@ id	genre_name
 33419	Horror
 33419	Thriller
 33419	Mystery
-76746	
 36818	Comedy
 36818	Fantasy
 36818	Science Fiction
@@ -79432,21 +78508,16 @@ id	genre_name
 304869	
 251220	Documentary
 229353	Documentary
-302802	Drama
 204506	
 387893	Adventure
 387893	Animation
 387893	Comedy
 387893	Family
 387893	TV Movie
-109261	Comedy
-109261	Drama
 287717	Documentary
 45103	Comedy
 27923	Family
 27923	Adventure
-74705	Adventure
-74705	Family
 334629	Documentary
 246415	Western
 246415	Drama
@@ -79454,7 +78525,6 @@ id	genre_name
 125531	Documentary
 163042	Drama
 163042	Romance
-177714	
 131027	
 83234	Romance
 83234	Comedy
@@ -79661,7 +78731,6 @@ id	genre_name
 29829	Mystery
 29829	Crime
 46196	Crime
-206099	Adventure
 29390	Thriller
 29390	Horror
 29398	Science Fiction
@@ -79744,7 +78813,6 @@ id	genre_name
 26768	Drama
 354924	Horror
 354924	Thriller
-254439	Comedy
 96186	Fantasy
 96186	Drama
 52854	Horror
@@ -79858,8 +78926,6 @@ id	genre_name
 356090	Drama
 290188	Drama
 290188	TV Movie
-87992	History
-87992	Drama
 54440	Drama
 340187	Horror
 340187	Comedy
@@ -79892,9 +78958,6 @@ id	genre_name
 23854	Adventure
 62132	Horror
 62132	Comedy
-75537	Drama
-75537	Horror
-75537	Thriller
 333123	Drama
 333123	Thriller
 333123	Science Fiction
@@ -79913,8 +78976,6 @@ id	genre_name
 38243	Family
 38243	Fantasy
 38243	Comedy
-279090	Comedy
-279090	Drama
 348025	Comedy
 348025	Drama
 56948	Drama
@@ -79978,8 +79039,6 @@ id	genre_name
 51393	Foreign
 51393	Mystery
 51393	Romance
-102444	Science Fiction
-102444	Western
 114394	Drama
 168616	
 37048	Action
@@ -80022,7 +79081,6 @@ id	genre_name
 83266	Romance
 83266	Comedy
 38995	Comedy
-343042	
 206630	Drama
 206630	Horror
 206630	Mystery
@@ -80070,7 +79128,6 @@ id	genre_name
 320639	Romance
 320639	Comedy
 320639	Drama
-220515	
 142611	Documentary
 113347	Music
 113347	Documentary
@@ -80436,10 +79493,7 @@ id	genre_name
 390520	Documentary
 392891	Comedy
 306523	Comedy
-306555	Drama
 305455	Comedy
-265717	Comedy
-264454	
 234004	Action
 234004	Adventure
 234004	Animation
@@ -80451,8 +79505,6 @@ id	genre_name
 114521	
 25019	Music
 97943	
-14263	Music
-14263	Documentary
 323262	Comedy
 323262	Horror
 214187	Documentary
@@ -80470,7 +79522,6 @@ id	genre_name
 65887	Drama
 65887	Thriller
 210615	Drama
-66187	Drama
 271919	Drama
 12266	Drama
 334889	Thriller
@@ -80495,14 +79546,11 @@ id	genre_name
 59126	Music
 41617	Documentary
 41617	Music
-120268	Comedy
-120268	Drama
 342850	
 313511	Comedy
 313511	Documentary
 313511	Music
 184561	Documentary
-231540	Comedy
 107248	Music
 235690	Documentary
 235690	Music
@@ -80525,7 +79573,6 @@ id	genre_name
 355890	Romance
 355890	Drama
 127259	Drama
-388055	Documentary
 245013	
 97253	Documentary
 97253	Music
@@ -80559,7 +79606,6 @@ id	genre_name
 47096	Drama
 305815	Drama
 94709	Drama
-119820	Comedy
 323573	
 379387	Documentary
 211337	Documentary
@@ -80664,7 +79710,6 @@ id	genre_name
 72655	Drama
 97844	Drama
 97844	Romance
-124013	Crime
 45537	
 189996	Comedy
 255511	
@@ -80768,14 +79813,11 @@ id	genre_name
 11767	Drama
 11767	Romance
 119433	Comedy
-288694	Crime
-288694	Documentary
 96958	
 371695	Documentary
 11681	Action
 11681	Adventure
 11681	Comedy
-155011	
 219247	Horror
 41808	Drama
 41808	Comedy
@@ -80962,9 +80004,7 @@ id	genre_name
 66944	Comedy
 66944	Drama
 284154	Drama
-112931	Documentary
 61711	Drama
-58007	Comedy
 61532	Drama
 61532	Thriller
 216138	Comedy
@@ -81199,7 +80239,6 @@ id	genre_name
 211125	Drama
 85887	Family
 85887	Romance
-227552	Romance
 81416	TV Movie
 81416	Family
 208035	TV Movie
@@ -81616,7 +80655,6 @@ id	genre_name
 41149	Foreign
 25787	Drama
 280178	
-269306	Drama
 109380	Drama
 109380	War
 103941	Drama
@@ -81784,7 +80822,6 @@ id	genre_name
 82819	Drama
 82819	War
 75198	Comedy
-51334	
 94659	Drama
 117472	Romance
 117472	Drama
@@ -81815,7 +80852,6 @@ id	genre_name
 87335	Comedy
 87335	Horror
 87335	Mystery
-205557	
 61581	Western
 389427	Comedy
 144341	
@@ -81863,7 +80899,6 @@ id	genre_name
 25079	Animation
 25079	Family
 80699	Drama
-130638	Documentary
 363889	Comedy
 363889	Horror
 355598	Drama
@@ -81925,7 +80960,6 @@ id	genre_name
 258322	Drama
 258322	Comedy
 324181	Documentary
-63398	
 4948	Drama
 51444	Drama
 31453	Crime
@@ -82040,7 +81074,6 @@ id	genre_name
 110490	TV Movie
 110490	Comedy
 110490	Drama
-278935	Crime
 183855	Crime
 183855	Drama
 48502	Foreign
@@ -82105,7 +81138,6 @@ id	genre_name
 85043	Comedy
 85043	Romance
 85043	Foreign
-202984	
 324820	Drama
 337965	Drama
 337965	Documentary
@@ -82211,8 +81243,6 @@ id	genre_name
 9031	Adventure
 9031	Action
 9031	Comedy
-259634	
-46572	
 315439	Drama
 315439	History
 302161	Documentary
@@ -82230,10 +81260,7 @@ id	genre_name
 367999	Drama
 367999	Comedy
 356758	Drama
-371942	Drama
-371942	TV Movie
 359156	Drama
-359152	Drama
 343173	Horror
 390512	Drama
 27123	War
@@ -82335,7 +81362,6 @@ id	genre_name
 137308	Romance
 137308	Drama
 156967	
-156954	Drama
 66780	Documentary
 137826	Comedy
 262829	Thriller
@@ -82470,7 +81496,6 @@ id	genre_name
 44510	Drama
 376812	Drama
 376812	Action
-342213	Comedy
 148615	
 389180	Drama
 262542	Thriller
@@ -82480,7 +81505,6 @@ id	genre_name
 16909	Science Fiction
 372297	Drama
 372297	Romance
-126043	Documentary
 405621	Drama
 405621	TV Movie
 103396	Drama
@@ -82496,7 +81520,6 @@ id	genre_name
 393834	Thriller
 366514	Comedy
 366514	Romance
-63989	Comedy
 328901	Drama
 388862	Thriller
 388862	Action
@@ -82510,8 +81533,6 @@ id	genre_name
 316268	Thriller
 316268	Horror
 316268	Science Fiction
-293516	Drama
-293516	Comedy
 360249	Action
 360249	Adventure
 360249	Drama
@@ -82597,7 +81618,6 @@ id	genre_name
 28073	Mystery
 175427	Documentary
 175427	Drama
-237799	Comedy
 40585	Comedy
 318052	
 254251	Comedy
@@ -82640,11 +81660,6 @@ id	genre_name
 8383	Crime
 325240	TV Movie
 325240	Western
-112675	History
-112675	Action
-112675	War
-112675	Adventure
-112675	Thriller
 46879	Drama
 46879	Horror
 46879	Mystery
@@ -82774,7 +81789,6 @@ id	genre_name
 73772	Family
 38622	Comedy
 38622	Fantasy
-183073	
 76199	Drama
 38494	Mystery
 38494	Thriller
@@ -82821,7 +81835,6 @@ id	genre_name
 67617	Drama
 67617	Romance
 397365	Thriller
-208173	
 190326	Drama
 140423	Romance
 140423	Drama
@@ -82902,10 +81915,8 @@ id	genre_name
 368940	Family
 118195	Drama
 118195	Comedy
-338079	Comedy
 334304	Adventure
 334304	Family
-340119	
 62009	Comedy
 62009	Romance
 54107	Romance
@@ -82917,8 +81928,6 @@ id	genre_name
 408140	Thriller
 408140	Comedy
 369605	Documentary
-378607	Horror
-378607	Thriller
 228496	Horror
 268893	Animation
 268893	Family
@@ -83160,7 +82169,6 @@ id	genre_name
 407389	Horror
 407389	Thriller
 384111	Drama
-256916	
 31111	Drama
 31111	Action
 31111	Thriller
@@ -83360,7 +82368,6 @@ id	genre_name
 270774	Action
 270774	Comedy
 33317	
-144421	
 29890	Action
 29890	Science Fiction
 99313	
@@ -83385,12 +82392,6 @@ id	genre_name
 87343	TV Movie
 87343	Comedy
 82686	Documentary
-267497	Action
-267497	Science Fiction
-267497	Thriller
-267506	Science Fiction
-267506	Action
-267506	Thriller
 260916	Animation
 260916	Science Fiction
 69870	Horror
@@ -83601,8 +82602,6 @@ id	genre_name
 231020	Documentary
 403936	Comedy
 297399	Comedy
-262786	Drama
-262786	Comedy
 231145	Comedy
 370664	Crime
 370664	Thriller
@@ -83697,12 +82696,10 @@ id	genre_name
 144105	Comedy
 287603	Comedy
 48250	Comedy
-279842	Documentary
 142966	Comedy
 347105	Comedy
 336736	Comedy
 33495	
-246829	
 239783	Comedy
 77137	Comedy
 77147	
@@ -83710,9 +82707,6 @@ id	genre_name
 46028	Comedy
 58773	Comedy
 41583	Comedy
-124202	Comedy
-73755	Comedy
-38289	Comedy
 42290	Comedy
 45037	Comedy
 45037	Documentary
@@ -83720,8 +82714,6 @@ id	genre_name
 363969	Comedy
 363969	Drama
 125926	Drama
-105734	Comedy
-105734	Drama
 139195	Drama
 139195	Comedy
 162818	Romance
@@ -83797,12 +82789,9 @@ id	genre_name
 65755	Comedy
 65755	Family
 238204	
-407965	Adventure
-407965	Documentary
 358807	Drama
 352890	Drama
 352890	Romance
-59858	
 310442	Drama
 360321	Thriller
 360321	Horror
@@ -83856,7 +82845,6 @@ id	genre_name
 270251	
 16257	Action
 16257	Animation
-320037	Drama
 63186	Drama
 63186	War
 36163	Animation
@@ -83943,8 +82931,6 @@ id	genre_name
 413235	Drama
 413235	Action
 413235	Adventure
-372640	Drama
-372640	Comedy
 295621	Drama
 382873	Drama
 377852	Drama
@@ -84083,7 +83069,6 @@ id	genre_name
 30858	Drama
 30858	Thriller
 30858	Action
-413430	
 218993	Drama
 363841	Drama
 363841	War
@@ -84190,8 +83175,6 @@ id	genre_name
 88535	Foreign
 91088	Animation
 334175	Horror
-244971	Drama
-244971	History
 414827	Horror
 250388	Action
 250388	Crime
@@ -84354,7 +83337,6 @@ id	genre_name
 24007	Mystery
 24007	Drama
 46149	Comedy
-162899	
 40653	Drama
 191595	Crime
 191595	Comedy
@@ -84393,7 +83375,6 @@ id	genre_name
 412093	Romance
 412093	Drama
 352199	Drama
-375167	Comedy
 393857	Drama
 393857	Thriller
 365707	Documentary
@@ -84423,13 +83404,11 @@ id	genre_name
 35701	Documentary
 35701	Adventure
 329802	Thriller
-347666	Comedy
 39922	Crime
 39922	Horror
 81477	Adventure
 81477	Horror
 81477	Science Fiction
-413806	
 40216	Animation
 72733	Comedy
 72733	Romance
@@ -84555,9 +83534,6 @@ id	genre_name
 161908	Romance
 98277	Drama
 98277	Thriller
-132608	Drama
-132608	Comedy
-73160	
 103785	Drama
 38156	Thriller
 38156	Crime
@@ -84721,8 +83697,6 @@ id	genre_name
 345924	Drama
 345924	Crime
 292022	Mystery
-321779	Comedy
-321779	Drama
 411009	Documentary
 295886	Drama
 253154	Drama
@@ -84731,13 +83705,10 @@ id	genre_name
 159432	Drama
 410455	
 160821	Comedy
-175791	Comedy
 295832	Romance
 295832	Comedy
 363757	Romance
 363757	Comedy
-333884	Drama
-53805	Thriller
 414719	Action
 414719	Thriller
 130885	Comedy
@@ -84755,9 +83726,7 @@ id	genre_name
 321497	Mystery
 321497	Drama
 321497	Thriller
-378087	Comedy
 356189	Drama
-359483	Drama
 117592	
 162686	
 413834	Documentary
@@ -84787,7 +83756,6 @@ id	genre_name
 388243	Thriller
 376565	Action
 376565	Drama
-322455	Documentary
 382170	Drama
 84195	Drama
 377492	Romance
@@ -84806,9 +83774,6 @@ id	genre_name
 370203	Documentary
 185564	Romance
 185564	Comedy
-352917	Thriller
-402612	Drama
-402612	Comedy
 363383	Crime
 363383	Comedy
 29211	Documentary
@@ -85024,8 +83989,6 @@ id	genre_name
 407655	Family
 407655	Fantasy
 407655	Music
-34092	Drama
-34092	Family
 39772	Drama
 35840	Drama
 24862	Science Fiction
@@ -85061,8 +84024,6 @@ id	genre_name
 56413	Thriller
 155191	
 407806	Documentary
-318184	TV Movie
-318184	Comedy
 53216	Comedy
 53216	Romance
 40470	Animation
@@ -85354,7 +84315,6 @@ id	genre_name
 290100	Romance
 290100	Comedy
 290100	Drama
-420703	Comedy
 385737	Thriller
 332742	Documentary
 360284	Drama
@@ -85382,7 +84342,6 @@ id	genre_name
 121111	Comedy
 121111	Romance
 121111	Drama
-421958	Drama
 333072	Horror
 333072	Action
 269057	Science Fiction
@@ -85396,8 +84355,6 @@ id	genre_name
 348320	Comedy
 348320	Thriller
 87035	Drama
-315252	Comedy
-258113	Fantasy
 111457	Romance
 111457	Comedy
 81420	TV Movie
@@ -85420,9 +84377,6 @@ id	genre_name
 22579	Drama
 22579	Comedy
 22579	Romance
-263260	Comedy
-263260	Family
-263260	Fantasy
 419771	Mystery
 419771	Comedy
 419771	Science Fiction
@@ -85432,7 +84386,6 @@ id	genre_name
 421281	Animation
 421281	Drama
 421281	Western
-366887	Comedy
 421619	Drama
 365267	Thriller
 365267	Drama
@@ -85754,7 +84707,6 @@ id	genre_name
 393158	Thriller
 417406	Thriller
 417406	Horror
-393407	Comedy
 375082	Comedy
 375082	Drama
 336445	Comedy
@@ -85983,39 +84935,11 @@ id	genre_name
 316015	Mystery
 316015	Crime
 316015	Fantasy
-203539	Music
-203539	Comedy
-226001	Family
-226001	Fantasy
-266568	Family
-266568	Fantasy
-266568	TV Movie
 410314	TV Movie
 410314	Drama
 410314	Romance
-410774	Family
-410774	Fantasy
-410774	TV Movie
 149786	Drama
 149786	Family
-216647	
-51959	Family
-51959	Fantasy
-313896	TV Movie
-313896	Horror
-313896	Family
-313896	Fantasy
-374319	Mystery
-374319	Family
-374319	TV Movie
-279558	Fantasy
-279558	Family
-279558	TV Movie
-268712	Family
-268712	Fantasy
-374247	TV Movie
-374247	Fantasy
-374247	Family
 6103	Crime
 6103	Mystery
 329981	Drama
@@ -86033,7 +84957,6 @@ id	genre_name
 167644	
 59853	Adventure
 59853	Drama
-73077	Comedy
 41599	
 150065	Drama
 49927	Drama
@@ -86064,9 +84987,6 @@ id	genre_name
 383807	Drama
 402693	Comedy
 402693	Drama
-41619	Comedy
-41619	Crime
-41619	Romance
 63244	Music
 63244	Documentary
 40690	Music
@@ -86096,7 +85016,6 @@ id	genre_name
 254047	Comedy
 254047	Romance
 128104	Drama
-64965	
 396232	Documentary
 378480	Documentary
 393961	Documentary
@@ -86258,7 +85177,6 @@ id	genre_name
 210234	Drama
 121173	Comedy
 121173	Drama
-148479	Comedy
 346347	Comedy
 346347	Science Fiction
 414977	Romance
@@ -86312,9 +85230,6 @@ id	genre_name
 296633	Drama
 116323	Drama
 381284	Drama
-297298	Comedy
-371153	
-140485	
 378435	
 425498	Comedy
 359246	Horror
@@ -86333,9 +85248,6 @@ id	genre_name
 57739	Romance
 161808	Comedy
 161808	Romance
-223551	Foreign
-223551	Drama
-223551	Comedy
 45017	Thriller
 45017	Horror
 272072	Romance
@@ -86359,7 +85271,6 @@ id	genre_name
 187897	Action
 187897	Foreign
 424889	Animation
-80961	
 217672	Comedy
 215736	Adventure
 215736	Drama
@@ -86477,7 +85388,6 @@ id	genre_name
 311324	Adventure
 311324	Fantasy
 283146	Animation
-56486	
 99004	
 401593	Comedy
 85944	Comedy
@@ -86499,7 +85409,6 @@ id	genre_name
 89463	Thriller
 136921	Science Fiction
 36123	Documentary
-59046	Comedy
 409447	Comedy
 409447	Music
 332746	Documentary
@@ -86565,14 +85474,10 @@ id	genre_name
 297814	Comedy
 1608	Drama
 203059	Comedy
-365544	War
-365544	Animation
-365544	Adventure
 248946	Romance
 248946	Drama
 248946	Comedy
 110549	Comedy
-290911	Crime
 298522	Comedy
 323690	Comedy
 38610	Action
@@ -86617,7 +85522,6 @@ id	genre_name
 411632	Action
 411632	Crime
 411632	Thriller
-361340	
 296288	Comedy
 324263	Documentary
 160372	
@@ -86715,8 +85619,6 @@ id	genre_name
 391004	Drama
 391004	Romance
 259468	Drama
-53693	Family
-53693	Comedy
 30124	Comedy
 30124	Drama
 30124	Romance
@@ -86811,9 +85713,6 @@ id	genre_name
 63163	Fantasy
 315112	Drama
 315112	Mystery
-430514	Romance
-430514	Comedy
-430514	Fantasy
 382127	Drama
 94105	Drama
 94105	Mystery
@@ -86900,8 +85799,6 @@ id	genre_name
 87852	Horror
 415396	Comedy
 415396	Drama
-390547	Drama
-390547	Comedy
 388399	Crime
 388399	Drama
 388399	Thriller
@@ -86965,8 +85862,6 @@ id	genre_name
 342473	Family
 342473	Adventure
 342473	Comedy
-356461	Drama
-392832	Comedy
 369059	
 26630	Drama
 26630	Action
@@ -87003,7 +85898,6 @@ id	genre_name
 431742	Comedy
 431742	Adventure
 431742	Fantasy
-424014	Comedy
 356324	Documentary
 124101	Documentary
 210079	Thriller
@@ -87034,7 +85928,6 @@ id	genre_name
 382501	Romance
 173189	Comedy
 134680	Comedy
-375872	Comedy
 404791	Adventure
 404791	Comedy
 369698	History
@@ -87107,8 +86000,6 @@ id	genre_name
 264170	Animation
 256421	Documentary
 256421	Animation
-327083	TV Movie
-327083	Documentary
 148039	
 16487	Animation
 16487	Comedy
@@ -87265,12 +86156,6 @@ id	genre_name
 411081	TV Movie
 411081	Romance
 369054	Family
-254299	Family
-254299	Fantasy
-82716	Family
-82716	Fantasy
-82716	Comedy
-4652	Fantasy
 80544	Family
 80544	Drama
 80544	Comedy
@@ -87401,8 +86286,6 @@ id	genre_name
 24439	Comedy
 424661	Adventure
 424661	Family
-83271	Comedy
-83271	Foreign
 378485	Drama
 378485	Horror
 378485	Fantasy
@@ -87423,8 +86306,6 @@ id	genre_name
 382125	Comedy
 35992	Comedy
 332665	
-428645	Comedy
-409082	Comedy
 380622	Drama
 358901	Crime
 362202	Crime
@@ -87471,7 +86352,6 @@ id	genre_name
 293167	Action
 293167	Adventure
 293167	Fantasy
-43989	Comedy
 201430	Comedy
 201430	Fantasy
 201430	Horror
@@ -87521,8 +86401,6 @@ id	genre_name
 57305	
 301491	Drama
 301491	Comedy
-369603	
-297342	
 328216	Horror
 328216	Thriller
 31142	Drama
@@ -87551,7 +86429,6 @@ id	genre_name
 125114	Family
 125114	Adventure
 125114	Drama
-376188	Drama
 416988	
 388586	
 274857	Action
@@ -87589,7 +86466,6 @@ id	genre_name
 380124	Horror
 388235	Documentary
 18955	Comedy
-72822	Comedy
 295693	Animation
 295693	Comedy
 295693	Family
@@ -87627,9 +86503,6 @@ id	genre_name
 280723	Drama
 421365	Thriller
 421365	Mystery
-437253	Drama
-437253	Comedy
-47241	Comedy
 35396	Comedy
 87908	Comedy
 136339	Comedy
@@ -87657,8 +86530,6 @@ id	genre_name
 174487	Drama
 123846	
 371806	
-394723	Drama
-394723	Romance
 416680	Drama
 416680	Music
 132298	Animation
@@ -87670,7 +86541,6 @@ id	genre_name
 362227	Horror
 416635	Adventure
 416635	Comedy
-437838	Drama
 414779	Crime
 414779	Action
 414779	Adventure
@@ -87690,7 +86560,6 @@ id	genre_name
 66733	Family
 418378	Comedy
 418378	Drama
-384373	
 382212	Documentary
 230867	
 268297	Drama
@@ -87731,12 +86600,9 @@ id	genre_name
 429698	Action
 429698	Comedy
 429698	Crime
-58928	Drama
-58928	War
 396920	Drama
 396920	Comedy
 437752	Comedy
-357155	Comedy
 380623	Drama
 380623	Thriller
 374251	Animation
@@ -87775,18 +86641,15 @@ id	genre_name
 30253	Comedy
 208366	Family
 208366	Adventure
-265432	Drama
 15642	Family
 15642	Comedy
 22154	Action
 22154	Animation
 22154	Fantasy
 29896	Horror
-83729	Comedy
 30680	Crime
 30680	Drama
 30680	Thriller
-177979	
 85699	Comedy
 10248	Comedy
 186532	War
@@ -87798,7 +86661,6 @@ id	genre_name
 341174	Romance
 346681	Drama
 346681	Comedy
-407430	
 173494	Comedy
 173494	Drama
 389272	Adventure
@@ -88052,7 +86914,6 @@ id	genre_name
 385761	Documentary
 201752	Drama
 174371	Documentary
-320318	Thriller
 416688	Thriller
 416688	Drama
 416688	Science Fiction
@@ -88448,9 +87309,6 @@ id	genre_name
 375355	Horror
 375355	Thriller
 336000	Drama
-439263	Music
-439263	Comedy
-442752	Crime
 393732	Drama
 393732	Thriller
 427451	Documentary
@@ -88543,8 +87401,6 @@ id	genre_name
 317560	Comedy
 75944	Adventure
 75944	Comedy
-56947	Drama
-56947	Comedy
 327231	Comedy
 416166	Thriller
 352845	TV Movie
@@ -88580,18 +87436,14 @@ id	genre_name
 227970	Comedy
 261461	Comedy
 132518	
-224233	Comedy
 345938	Drama
 345938	Fantasy
-278475	Romance
-278475	Comedy
 334939	Family
 334939	Adventure
 203273	Drama
 422715	Mystery
 422715	Horror
 422715	Thriller
-408550	Documentary
 172297	Documentary
 395992	Horror
 395992	Science Fiction
@@ -88664,7 +87516,6 @@ id	genre_name
 423536	Horror
 126204	
 390930	Drama
-346758	
 53962	
 115161	TV Movie
 115161	Music
@@ -88674,7 +87525,6 @@ id	genre_name
 126889	Horror
 126889	Science Fiction
 126889	Thriller
-419522	Comedy
 173631	Drama
 154718	Drama
 334521	Action
@@ -88899,13 +87749,10 @@ id	genre_name
 22450	Horror
 22450	Action
 22450	Thriller
-342011	Drama
 112293	Mystery
 112293	Comedy
 112293	Drama
 269572	Comedy
-391438	Romance
-391438	Drama
 227627	Comedy
 77451	Drama
 77451	War
@@ -88921,7 +87768,6 @@ id	genre_name
 430156	Music
 430156	Documentary
 408435	Drama
-416569	Drama
 28264	Horror
 84167	Drama
 444193	Horror
@@ -89003,8 +87849,6 @@ id	genre_name
 380075	Drama
 336956	
 409820	Documentary
-109861	Romance
-109861	Drama
 52655	Action
 52655	Crime
 52655	Foreign
@@ -89044,12 +87888,10 @@ id	genre_name
 418718	Comedy
 418718	Drama
 418718	Romance
-362617	Drama
 14681	Comedy
 17028	Comedy
 17028	Romance
 25833	Comedy
-227964	Comedy
 326198	Drama
 168022	Drama
 168022	Romance
@@ -89081,8 +87923,6 @@ id	genre_name
 420648	Horror
 420648	Thriller
 420648	Comedy
-342684	Science Fiction
-342684	Thriller
 4882	Action
 4882	Drama
 4882	Crime
@@ -89091,7 +87931,6 @@ id	genre_name
 60415	Drama
 334299	Comedy
 334299	Romance
-359413	Comedy
 295049	Comedy
 152611	
 20105	History
@@ -89125,7 +87964,6 @@ id	genre_name
 43685	Science Fiction
 43685	Romance
 66085	
-77564	
 104376	Drama
 56372	Action
 363056	Drama
@@ -89173,8 +88011,6 @@ id	genre_name
 26509	Comedy
 219924	War
 219924	Drama
-327909	Romance
-327909	Comedy
 430419	Action
 430419	Science Fiction
 310814	Romance
@@ -89214,7 +88050,6 @@ id	genre_name
 37520	Documentary
 186292	Drama
 186292	Thriller
-449863	Documentary
 32635	Action
 32635	Drama
 172705	Drama
@@ -89236,7 +88071,6 @@ id	genre_name
 74312	Drama
 74312	Romance
 74312	Thriller
-142478	Documentary
 14606	Comedy
 14606	Crime
 283591	Drama
@@ -89368,7 +88202,6 @@ id	genre_name
 407757	Drama
 407757	Horror
 407757	Thriller
-41663	Comedy
 61541	Comedy
 61541	Fantasy
 61541	Romance
@@ -89462,7 +88295,6 @@ id	genre_name
 382614	Thriller
 382614	Drama
 382614	Crime
-185180	Drama
 420714	Documentary
 378108	Animation
 378108	Drama
@@ -89478,7 +88310,6 @@ id	genre_name
 361617	Action
 411013	Documentary
 453062	Documentary
-428950	Documentary
 18334	Horror
 375898	Comedy
 375898	Drama
@@ -89492,8 +88323,6 @@ id	genre_name
 56385	Comedy
 345906	Drama
 345906	Comedy
-440508	Action
-152100	Comedy
 258116	
 278901	Animation
 278901	Comedy
@@ -89533,8 +88362,6 @@ id	genre_name
 30655	Science Fiction
 30655	Action
 256283	Documentary
-167330	Crime
-167330	Thriller
 412202	Drama
 70665	Animation
 70665	Science Fiction
@@ -89582,7 +88409,6 @@ id	genre_name
 401689	Fantasy
 401689	Action
 156045	Horror
-220669	Drama
 271404	Action
 271404	Science Fiction
 321757	Comedy
@@ -89664,10 +88490,6 @@ id	genre_name
 199602	Drama
 305198	Documentary
 445605	Comedy
-240992	Horror
-240992	Action
-240992	Adventure
-240992	Mystery
 413782	Documentary
 233444	Thriller
 233444	Crime
@@ -89705,15 +88527,7 @@ id	genre_name
 279965	Action
 79009	Comedy
 402455	Drama
-38547	Comedy
-38547	History
-38547	Romance
 157559	
-366759	Adventure
-366759	Action
-366759	Comedy
-148697	Comedy
-49833	Comedy
 220002	Comedy
 220002	Family
 220002	Drama
@@ -89721,34 +88535,15 @@ id	genre_name
 296901	Comedy
 236041	Comedy
 236041	Drama
-48763	
-452606	Romance
-452606	Family
-452606	Comedy
-65010	Comedy
-65010	Drama
-65010	Family
-101217	Comedy
 53206	
-236053	Comedy
-236053	Science Fiction
-123592	
-109671	
-69319	
 110029	Comedy
 110029	Family
 38614	
-74171	
-327935	Romance
-327935	Comedy
-327935	Drama
 110040	Comedy
-123601	
 86256	Adventure
 86256	Fantasy
 307020	Comedy
 307020	Foreign
-123611	Comedy
 38794	Comedy
 49057	Comedy
 49057	Drama
@@ -89822,7 +88617,6 @@ id	genre_name
 427095	Drama
 268652	Drama
 85971	Comedy
-453596	Comedy
 31059	
 231510	Drama
 24149	Comedy
@@ -89861,9 +88655,6 @@ id	genre_name
 36566	Comedy
 110486	Drama
 110486	Family
-142802	Adventure
-142802	Horror
-142802	Mystery
 56746	Drama
 14243	Drama
 52805	Drama
@@ -89928,10 +88719,6 @@ id	genre_name
 441652	Documentary
 34325	Music
 34521	Comedy
-439998	Comedy
-77534	Drama
-77534	Comedy
-77534	Foreign
 20543	Comedy
 72386	Documentary
 72386	Comedy
@@ -89967,7 +88754,6 @@ id	genre_name
 54514	Drama
 54514	Comedy
 54514	Crime
-143883	TV Movie
 61672	Animation
 227334	Documentary
 44265	Horror
@@ -90075,7 +88861,6 @@ id	genre_name
 55429	Horror
 55429	Comedy
 109354	Comedy
-354133	Horror
 371833	Drama
 371833	Horror
 76638	Animation
@@ -90095,7 +88880,6 @@ id	genre_name
 79234	Drama
 79234	Comedy
 79234	Fantasy
-191486	
 63572	Family
 63572	Drama
 27316	Crime
@@ -90130,7 +88914,6 @@ id	genre_name
 381518	Comedy
 35967	Thriller
 35967	Drama
-127803	Comedy
 398798	Comedy
 398798	Horror
 450530	TV Movie
@@ -90234,7 +89017,6 @@ id	genre_name
 227717	Comedy
 119855	Animation
 401150	Comedy
-271495	
 11070	Comedy
 409903	Comedy
 409903	Drama
@@ -90608,7 +89390,6 @@ id	genre_name
 20946	Fantasy
 20946	Comedy
 20946	Family
-244575	Animation
 8128	Animation
 8128	Drama
 429070	Drama
@@ -90622,7 +89403,6 @@ id	genre_name
 332512	Comedy
 347382	War
 347382	Drama
-246438	
 80178	Comedy
 59529	Action
 59529	Crime
@@ -90644,9 +89424,6 @@ id	genre_name
 31772	Comedy
 31772	Western
 398920	Comedy
-362844	Action
-362844	Horror
-362844	Science Fiction
 429107	Comedy
 429107	Drama
 164144	
@@ -90668,8 +89445,6 @@ id	genre_name
 51299	Documentary
 117878	TV Movie
 117878	Romance
-36264	War
-36264	Comedy
 57813	Drama
 57813	Action
 57813	Foreign
@@ -90683,7 +89458,6 @@ id	genre_name
 51000	Family
 51000	Foreign
 65595	
-270908	
 63899	Drama
 138724	Comedy
 138724	Romance
@@ -90716,7 +89490,6 @@ id	genre_name
 16269	Comedy
 16269	Drama
 16322	Documentary
-14210	Science Fiction
 41978	Comedy
 41978	Action
 456781	Action
@@ -90739,7 +89512,6 @@ id	genre_name
 375746	
 102935	Crime
 102935	Documentary
-376934	Drama
 87296	Music
 87296	Comedy
 87296	Action
@@ -90768,7 +89540,6 @@ id	genre_name
 62688	Comedy
 62688	Action
 30619	Action
-213321	Animation
 72203	Adventure
 72203	Animation
 72203	Family
@@ -90821,7 +89592,6 @@ id	genre_name
 56147	Fantasy
 67742	Horror
 384371	Comedy
-380438	Drama
 17101	Action
 17101	Animation
 17101	Adventure
@@ -90831,8 +89601,6 @@ id	genre_name
 456187	Drama
 203780	Comedy
 203780	Drama
-41493	Family
-41493	Animation
 71186	Drama
 71186	Action
 71186	Crime
@@ -90850,7 +89618,6 @@ id	genre_name
 16331	Western
 10917	Crime
 10917	Drama
-93461	Comedy
 62643	Action
 62643	Drama
 62643	Romance
@@ -90903,10 +89670,6 @@ id	genre_name
 143380	Comedy
 143380	Crime
 71382	Comedy
-63838	Action
-63838	Romance
-63838	Thriller
-63838	Science Fiction
 62721	Action
 62721	Thriller
 20884	Comedy
@@ -90929,9 +89692,6 @@ id	genre_name
 25571	Comedy
 82077	Drama
 82077	Crime
-197057	Drama
-197057	Comedy
-143005	
 53086	Thriller
 53086	Action
 53086	Science Fiction
@@ -90940,8 +89700,6 @@ id	genre_name
 62997	Romance
 62731	Comedy
 62731	Fantasy
-336484	Action
-336484	Drama
 160046	Adventure
 160046	Animation
 160046	Family
@@ -90970,8 +89728,6 @@ id	genre_name
 37695	Crime
 37695	Drama
 17210	Documentary
-159810	Drama
-159810	History
 95190	Drama
 95190	Science Fiction
 195065	Adventure
@@ -91001,13 +89757,8 @@ id	genre_name
 57207	Romance
 57207	Drama
 62787	Thriller
-51275	Drama
-51275	History
-51275	War
 111332	Documentary
 34417	Comedy
-420481	Romance
-69976	
 35908	Horror
 35908	Thriller
 30203	TV Movie
@@ -91060,9 +89811,6 @@ id	genre_name
 107170	Science Fiction
 107170	Thriller
 107170	War
-26792	Drama
-26792	History
-37603	
 444623	TV Movie
 79833	Drama
 79833	Science Fiction
@@ -91256,8 +90004,6 @@ id	genre_name
 31244	Fantasy
 31134	Horror
 31134	Science Fiction
-48209	Fantasy
-48209	Drama
 31392	Horror
 77889	Horror
 77889	Science Fiction
@@ -91337,7 +90083,6 @@ id	genre_name
 13741	Comedy
 15449	Comedy
 187672	Comedy
-57382	Comedy
 297680	Thriller
 297680	Horror
 297680	Science Fiction
@@ -91420,9 +90165,6 @@ id	genre_name
 447236	Adventure
 447236	Drama
 447236	History
-110131	Romance
-110131	Drama
-110131	History
 41075	
 37587	Family
 37587	Animation
@@ -91430,7 +90172,6 @@ id	genre_name
 8776	Drama
 8776	War
 8776	Comedy
-41689	Drama
 60800	Animation
 60800	Family
 354296	Thriller
@@ -91471,7 +90212,6 @@ id	genre_name
 356167	Music
 356167	Documentary
 404518	
-458808	Documentary
 272610	Drama
 272610	Crime
 272610	Action
@@ -91493,7 +90233,6 @@ id	genre_name
 44458	Music
 44458	Romance
 392734	Documentary
-400552	Comedy
 54000	Drama
 54000	Romance
 121888	Horror
@@ -91540,7 +90279,6 @@ id	genre_name
 76812	Thriller
 430448	Crime
 430448	Documentary
-419601	Drama
 59738	Horror
 210183	Crime
 66526	Foreign
@@ -91561,7 +90299,6 @@ id	genre_name
 44268	Comedy
 12816	Documentary
 12816	Foreign
-14644	Comedy
 205908	Science Fiction
 205908	Action
 198951	Animation
@@ -91581,10 +90318,6 @@ id	genre_name
 193288	Drama
 193288	Science Fiction
 36695	Drama
-82495	Action
-82495	Thriller
-82495	Science Fiction
-82495	Foreign
 135210	Crime
 135210	Horror
 135210	Thriller
@@ -91610,7 +90343,6 @@ id	genre_name
 41237	Science Fiction
 41237	Thriller
 41237	TV Movie
-64827	
 76012	Mystery
 76012	Action
 76012	Adventure
@@ -91706,7 +90438,6 @@ id	genre_name
 275054	Drama
 275054	Foreign
 275054	TV Movie
-103301	Comedy
 62664	Mystery
 62664	Thriller
 62664	Fantasy
@@ -91817,8 +90548,6 @@ id	genre_name
 456098	Comedy
 456098	Action
 456098	Adventure
-301876	Science Fiction
-301876	Thriller
 83413	Science Fiction
 83413	Horror
 41961	Drama
@@ -91834,7 +90563,6 @@ id	genre_name
 72811	Comedy
 72811	Romance
 72811	Drama
-73545	Comedy
 63299	Comedy
 63299	Romance
 109262	Drama
@@ -91845,12 +90573,9 @@ id	genre_name
 204802	History
 195503	Romance
 195503	Comedy
-448879	Animation
 37174	Comedy
 37174	Drama
 37174	Romance
-457307	Mystery
-457307	Documentary
 381525	
 336549	Drama
 336549	History
@@ -91880,7 +90605,6 @@ id	genre_name
 460024	Adventure
 460024	Science Fiction
 448763	Romance
-396987	Comedy
 84016	Drama
 43464	Adventure
 426469	Comedy
@@ -92020,7 +90744,6 @@ id	genre_name
 431490	Comedy
 431490	TV Movie
 104694	Documentary
-153561	Drama
 336890	Comedy
 262447	Drama
 324631	Comedy
@@ -92119,7 +90842,6 @@ id	genre_name
 49270	Drama
 174565	Animation
 176896	Documentary
-366860	Comedy
 336544	Documentary
 67488	Drama
 67488	Family
@@ -92148,7 +90870,6 @@ id	genre_name
 179549	Comedy
 192301	
 298296	Horror
-202865	Horror
 204611	Horror
 204611	Science Fiction
 204611	Thriller
@@ -92166,7 +90887,6 @@ id	genre_name
 53355	Thriller
 138943	Horror
 138943	Thriller
-9765	Drama
 461805	Documentary
 432602	Documentary
 59406	Documentary
@@ -92193,10 +90913,6 @@ id	genre_name
 429713	Thriller
 429713	Science Fiction
 291495	Comedy
-213683	Romance
-57770	Comedy
-57770	Adventure
-57770	Family
 338546	Mystery
 338546	Drama
 63540	Comedy
@@ -92303,7 +91019,6 @@ id	genre_name
 116753	Foreign
 411007	Documentary
 56784	Comedy
-142320	Comedy
 142830	Comedy
 218901	Drama
 39903	Thriller
@@ -92367,7 +91082,6 @@ id	genre_name
 448847	Crime
 441728	Romance
 441728	Comedy
-430058	Comedy
 143876	Mystery
 143876	Comedy
 143876	Crime
@@ -92384,7 +91098,6 @@ id	genre_name
 457470	Mystery
 36464	Drama
 36464	History
-54309	
 167556	Horror
 167556	Drama
 167556	Crime
@@ -92436,7 +91149,6 @@ id	genre_name
 436882	Romance
 436882	Drama
 184363	Documentary
-445840	Comedy
 92475	Documentary
 189505	Documentary
 176407	Animation
@@ -92494,13 +91206,11 @@ id	genre_name
 217917	Drama
 42616	Western
 74384	Comedy
-64043	Comedy
 70207	Drama
 29458	Crime
 29458	Drama
 160788	Drama
 38286	Comedy
-73649	Comedy
 38397	Comedy
 238008	War
 238008	Documentary
@@ -92511,8 +91221,6 @@ id	genre_name
 269795	Drama
 269795	Thriller
 71133	Comedy
-57996	Comedy
-63179	Comedy
 398924	Drama
 175910	
 32228	Science Fiction
@@ -92556,8 +91264,6 @@ id	genre_name
 412204	Drama
 59423	Drama
 59423	Foreign
-353713	Adventure
-353713	History
 51946	Drama
 51946	Romance
 390526	Drama
@@ -92597,7 +91303,6 @@ id	genre_name
 353491	Science Fiction
 353491	Fantasy
 353491	Horror
-458335	Drama
 369406	Science Fiction
 444935	Comedy
 444935	Drama
@@ -92676,7 +91381,6 @@ id	genre_name
 79701	Animation
 79701	Family
 419786	Science Fiction
-298207	
 429918	
 194097	Action
 194097	Crime
@@ -92689,8 +91393,6 @@ id	genre_name
 42642	Mystery
 256520	Romance
 256520	Family
-382995	Family
-382995	Comedy
 290217	Romance
 444902	Music
 444902	Drama
@@ -92723,8 +91425,6 @@ id	genre_name
 76498	Documentary
 76498	Music
 413049	Documentary
-422005	Comedy
-422005	Family
 393945	Drama
 297956	Drama
 464207	Documentary
@@ -92748,12 +91448,10 @@ id	genre_name
 168235	
 52803	Animation
 52803	Horror
-26969	Comedy
 196649	Animation
 196649	Family
 196649	Fantasy
 51212	Comedy
-91673	Animation
 130278	
 51195	Comedy
 273202	Animation
@@ -92860,7 +91558,6 @@ id	genre_name
 153100	Documentary
 137180	Romance
 137180	Comedy
-68063	Comedy
 369363	
 395834	Action
 395834	Crime
@@ -92968,8 +91665,6 @@ id	genre_name
 82029	Comedy
 82029	Romance
 33704	Comedy
-103344	Comedy
-275272	Comedy
 68637	Comedy
 454774	Drama
 454774	Music
@@ -92994,7 +91689,6 @@ id	genre_name
 12097	Adventure
 12097	Family
 280640	Drama
-231216	Comedy
 66247	Comedy
 66247	Drama
 66247	Action
@@ -93075,7 +91769,6 @@ id	genre_name
 31856	Comedy
 358511	Comedy
 358511	Drama
-79343	Drama
 155939	Drama
 56350	Documentary
 56350	Foreign
@@ -93100,11 +91793,9 @@ id	genre_name
 108331	Drama
 108331	Foreign
 291224	Animation
-418757	
 103462	
 38876	Comedy
 38876	Animation
-369444	Drama
 81318	Comedy
 81318	Drama
 81318	Romance
@@ -93153,8 +91844,6 @@ id	genre_name
 50977	Comedy
 50977	Fantasy
 50977	Science Fiction
-395767	Thriller
-199887	Drama
 248705	Comedy
 90063	Fantasy
 90063	Horror
@@ -93222,7 +91911,6 @@ id	genre_name
 413421	Drama
 261871	Comedy
 261871	Romance
-317389	Adventure
 91563	Documentary
 91563	Foreign
 227143	
@@ -93255,10 +91943,6 @@ id	genre_name
 97797	Horror
 149946	
 61385	
-468707	Romance
-468707	Comedy
-280422	Crime
-280422	Comedy
 38326	Mystery
 38326	Drama
 240789	Drama

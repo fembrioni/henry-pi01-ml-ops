@@ -44,7 +44,6 @@ id	language_name
 9909	English
 63	English
 63	Français
-78802	English
 9598	English
 47018	English
 687	English
@@ -413,7 +412,6 @@ id	language_name
 10452	Français
 10452	Italiano
 12106	English
-161495	English
 3586	Français
 3586	Italiano
 3586	Pусский
@@ -846,8 +844,6 @@ id	language_name
 10988	English
 11479	Français
 398959	Deutsch
-287305	
-339428	Deutsch
 12652	Français
 10684	English
 954	English
@@ -858,10 +854,8 @@ id	language_name
 68445	日本語
 68445	English
 18989	English
-10801	Deutsch
 54285	한국어/조선말
 8840	English
-278978	Deutsch
 124625	English
 124625	Deutsch
 11107	English
@@ -912,7 +906,6 @@ id	language_name
 105045	Deutsch
 40001	English
 29621	English
-117730	עִבְרִית
 20762	Italiano
 20762	English
 37144	English
@@ -1050,7 +1043,6 @@ id	language_name
 11511	English
 172198	Magyar
 34170	English
-281085	English
 109478	English
 124645	English
 12606	English
@@ -1061,7 +1053,6 @@ id	language_name
 4837	English
 12632	Deutsch
 9098	Deutsch
-282919	
 124614	English
 18975	English
 18975	Italiano
@@ -1083,7 +1074,6 @@ id	language_name
 9431	Español
 124619	
 297645	普通话
-48144	普通话
 46986	English
 46986	Deutsch
 46986	日本語
@@ -1097,7 +1087,6 @@ id	language_name
 66634	English
 116690	日本語
 213917	Français
-145925	Italiano
 100914	
 238	English
 238	Italiano
@@ -1136,7 +1125,6 @@ id	language_name
 19004	English
 101230	Nederlands
 101230	English
-253632	
 10987	English
 44705	English
 44705	Español
@@ -1366,8 +1354,6 @@ id	language_name
 42314	English
 27845	Italiano
 27845	English
-108365	English
-108365	Français
 23223	English
 49471	English
 38153	English
@@ -1440,8 +1426,6 @@ id	language_name
 25750	English
 17642	English
 427043	Deutsch
-146341	български език
-146341	English
 9305	Français
 37616	English
 11112	English
@@ -1909,7 +1893,6 @@ id	language_name
 4104	Português
 26306	English
 203829	
-43775	Español
 14908	English
 784	Český
 784	Pусский
@@ -1937,7 +1920,6 @@ id	language_name
 9366	日本語
 9366	English
 9366	Italiano
-60083	Français
 21915	English
 90928	English
 50091	
@@ -2954,7 +2936,6 @@ id	language_name
 16384	English
 16384	Magyar
 91217	English
-77314	
 10699	English
 11597	English
 218624	English
@@ -3025,7 +3006,6 @@ id	language_name
 4975	English
 37532	
 9713	English
-134368	English
 85837	English
 1039	Deutsch
 9821	English
@@ -5642,7 +5622,6 @@ id	language_name
 9290	English
 13166	English
 32590	English
-109472	
 153141	English
 52654	English
 52654	Italiano
@@ -6470,7 +6449,6 @@ id	language_name
 10034	English
 11457	English
 10778	English
-78657	Français
 67385	Français
 151727	
 11456	English
@@ -6530,7 +6508,6 @@ id	language_name
 35284	Italiano
 14584	English
 14584	Deutsch
-58886	Nederlands
 72277	English
 72277	Italiano
 5781	Français
@@ -8133,7 +8110,6 @@ id	language_name
 37191	English
 210092	English
 3028	English
-29224	svenska
 81001	English
 8219	Español
 27088	
@@ -8201,7 +8177,6 @@ id	language_name
 9699	English
 48561	Italiano
 30789	English
-81346	Español
 11057	Deutsch
 47955	English
 19322	English
@@ -8508,7 +8483,6 @@ id	language_name
 9654	Italiano
 9902	English
 2260	English
-61939	Português
 18385	普通话
 584	English
 584	Español
@@ -11708,7 +11682,6 @@ id	language_name
 11085	English
 11085	Magyar
 53218	
-65048	
 24188	Deutsch
 24188	Italiano
 24188	Latin
@@ -12300,7 +12273,6 @@ id	language_name
 9588	English
 41792	English
 25674	English
-53688	svenska
 21338	English
 123778	English
 94666	English
@@ -12553,7 +12525,6 @@ id	language_name
 62825	suomi
 17074	English
 18491	日本語
-175739	suomi
 13777	English
 13777	Italiano
 11854	हिन्दी
@@ -12921,7 +12892,6 @@ id	language_name
 14527	English
 12542	English
 32276	English
-100594	suomi
 14455	日本語
 25757	English
 24092	日本語
@@ -13198,7 +13168,6 @@ id	language_name
 43504	English
 24749	English
 17657	English
-32546	Español
 42390	English
 42390	עִבְרִית
 42390	Deutsch
@@ -13731,7 +13700,6 @@ id	language_name
 13073	English
 13073	עִבְרִית
 35384	English
-113178	English
 8976	English
 27360	English
 29078	English
@@ -14601,7 +14569,6 @@ id	language_name
 14695	English
 14695	Español
 27031	日本語
-55396	
 917	हिन्दी
 17595	English
 43322	Polski
@@ -14718,7 +14685,6 @@ id	language_name
 4550	日本語
 4550	한국어/조선말
 36380	Polski
-68646	
 16433	English
 30669	English
 78315	English
@@ -16009,7 +15975,6 @@ id	language_name
 29965	English
 29965	普通话
 13916	English
-52920	Polski
 48215	日本語
 22485	English
 13393	Türkçe
@@ -16521,7 +16486,6 @@ id	language_name
 14123	English
 14123	Español
 88527	日本語
-155386	Español
 4516	Français
 8141	English
 59995	English
@@ -17895,7 +17859,6 @@ id	language_name
 102305	Español
 35854	普通话
 14075	English
-22554	suomi
 18596	English
 26431	English
 38019	普通话
@@ -18265,7 +18228,6 @@ id	language_name
 9050	普通话
 86082	עִבְרִית
 79090	
-47499	Français
 60488	English
 60488	Deutsch
 111302	
@@ -18716,11 +18678,9 @@ id	language_name
 22705	English
 22705	Italiano
 16005	English
-55748	
 39331	Polski
 284117	English
 284117	Nederlands
-55500	suomi
 14164	English
 14164	日本語
 14164	हिन्दी
@@ -18734,7 +18694,6 @@ id	language_name
 1940	English
 33726	English
 33726	Français
-61070	suomi
 93562	English
 13557	English
 10041	English
@@ -18829,14 +18788,12 @@ id	language_name
 19350	Deutsch
 15384	普通话
 15384	ภาษาไทย
-156908	
 48116	Română
 15342	Français
 25004	suomi
 17124	Český
 17124	English
 17124	Français
-210487	Polski
 64115	Polski
 17532	English
 10946	English
@@ -18844,7 +18801,6 @@ id	language_name
 23590	English
 30416	English
 65503	English
-38869	Polski
 17027	English
 15577	English
 13448	English
@@ -18914,7 +18870,6 @@ id	language_name
 14126	Français
 17332	English
 18405	English
-155426	Polski
 21832	日本語
 16871	English
 16871	Español
@@ -18964,13 +18919,11 @@ id	language_name
 16345	हिन्दी
 81512	English
 115306	suomi
-200796	
 27134	English
 37024	日本語
 53622	English
 761	Français
 11914	Français
-64968	Français
 34300	English
 58018	Polski
 70806	
@@ -19024,7 +18977,6 @@ id	language_name
 48288	
 17610	English
 8933	Norsk
-156917	
 37911	English
 38773	English
 8269	Srpski
@@ -19292,7 +19244,6 @@ id	language_name
 38107	English
 15137	日本語
 37047	日本語
-66949	Français
 77285	日本語
 64728	日本語
 11115	English
@@ -19315,7 +19266,6 @@ id	language_name
 13797	English
 13797	Español
 12605	Deutsch
-128856	Deutsch
 145066	English
 31216	English
 19556	English
@@ -19366,7 +19316,6 @@ id	language_name
 677	Deutsch
 685	Deutsch
 92011	English
-154430	
 49835	English
 18759	English
 106028	
@@ -19397,7 +19346,6 @@ id	language_name
 21371	Español
 21371	Wolof
 23115	English
-41427	Italiano
 184781	English
 36108	Dansk
 36108	English
@@ -19447,8 +19395,6 @@ id	language_name
 15809	Deutsch
 29914	English
 52710	Français
-140887	English
-140887	Deutsch
 40979	English
 22494	English
 37903	Deutsch
@@ -19458,8 +19404,6 @@ id	language_name
 227370	suomi
 227370	svenska
 17899	Español
-18120	English
-18120	Español
 106006	English
 17445	English
 17445	Español
@@ -19535,7 +19479,6 @@ id	language_name
 30685	Deutsch
 30685	English
 25549	English
-63615	Español
 26009	English
 26500	العربية
 26500	English
@@ -19989,7 +19932,6 @@ id	language_name
 47046	ภาษาไทย
 82404	Português
 128846	Deutsch
-63764	Français
 148597	普通话
 46886	Eesti
 46886	suomi
@@ -20134,8 +20076,6 @@ id	language_name
 291554	English
 149851	English
 14773	
-147683	Română
-147683	English
 25195	English
 20504	English
 33613	svenska
@@ -20191,7 +20131,6 @@ id	language_name
 52429	English
 81895	English
 81895	Français
-148435	suomi
 46335	Français
 46335	Español
 18476	English
@@ -20223,8 +20162,6 @@ id	language_name
 83430	
 83430	Español
 13634	English
-144089	English
-144089	Română
 40229	English
 10800	Français
 277622	
@@ -20299,7 +20236,6 @@ id	language_name
 72241	English
 22404	English
 27567	Español
-147692	Română
 41787	English
 106482	English
 26752	Română
@@ -20326,7 +20262,6 @@ id	language_name
 84104	English
 46336	English
 27569	English
-62775	suomi
 120109	English
 8349	Deutsch
 8349	Français
@@ -20452,7 +20387,6 @@ id	language_name
 22166	English
 408956	
 18489	English
-120280	suomi
 19962	English
 19962	Português
 29427	English
@@ -20476,8 +20410,6 @@ id	language_name
 17473	English
 200664	
 224642	suomi
-117499	suomi
-174748	
 26022	English
 26022	हिन्दी
 26022	اردو
@@ -20909,8 +20841,6 @@ id	language_name
 20662	English
 20662	ภาษาไทย
 31345	Français
-21245	suomi
-60677	suomi
 52620	English
 34626	Bahasa indonesia
 47737	English
@@ -20956,7 +20886,6 @@ id	language_name
 37821	English
 261538	日本語
 253232	日本語
-173865	suomi
 225503	No Language
 29069	English
 26962	English
@@ -21063,7 +20992,6 @@ id	language_name
 3589	Italiano
 3589	English
 25869	हिन्दी
-30695	हिन्दी
 94225	English
 108224	English
 88192	English
@@ -21128,7 +21056,6 @@ id	language_name
 37711	日本語
 110901	日本語
 211256	日本語
-46341	Español
 37414	English
 44680	English
 108705	Italiano
@@ -21584,7 +21511,6 @@ id	language_name
 54182	普通话
 39786	
 50641	English
-55403	
 46697	English
 23631	English
 23631	Español
@@ -21725,7 +21651,6 @@ id	language_name
 37596	ελληνικά
 41486	日本語
 41482	日本語
-74714	Français
 35219	English
 72913	English
 94959	English
@@ -21905,7 +21830,6 @@ id	language_name
 39514	English
 39514	Pусский
 213864	
-90930	
 86233	English
 98364	English
 44716	Dansk
@@ -21932,9 +21856,6 @@ id	language_name
 4921	Nederlands
 4921	Deutsch
 4921	Italiano
-370264	Magyar
-370264	Polski
-370264	Pусский
 11389	Dansk
 45336	Español
 165911	فارسی
@@ -22075,7 +21996,6 @@ id	language_name
 38368	ภาษาไทย
 112072	suomi
 114444	English
-157178	Polski
 68849	English
 134569	한국어/조선말
 44048	English
@@ -22087,7 +22007,6 @@ id	language_name
 43539	English
 39210	English
 39210	Italiano
-72421	
 62103	English
 62103	Español
 44147	English
@@ -22747,9 +22666,7 @@ id	language_name
 79785	English
 50779	English
 44411	Português
-71732	Français
 85550	한국어/조선말
-116751	Français
 72852	Français
 72852	العربية
 48954	
@@ -22782,11 +22699,8 @@ id	language_name
 13746	Français
 44944	English
 8418	Deutsch
-65898	Français
 288183	
 288183	English
-102527	suomi
-148432	
 204040	English
 50217	English
 80988	ελληνικά
@@ -23018,7 +22932,6 @@ id	language_name
 45715	ελληνικά
 58232	Deutsch
 58232	English
-53364	
 62342	Español
 37534	English
 37534	Français
@@ -23050,7 +22963,6 @@ id	language_name
 13413	English
 159878	
 95242	
-81414	
 45189	Español
 43418	English
 41616	English
@@ -23092,7 +23004,6 @@ id	language_name
 44898	עִבְרִית
 20995	Deutsch
 20995	svenska
-54354	
 68629	
 82460	English
 51290	
@@ -23229,7 +23140,6 @@ id	language_name
 12078	Český
 9511	Deutsch
 202241	English
-72375	Français
 21508	Español
 76816	Português
 51520	普通话
@@ -23240,10 +23150,6 @@ id	language_name
 48515	日本語
 87673	日本語
 36290	English
-4880	English
-4880	Deutsch
-4880	Íslenska
-4880	Italiano
 28627	No Language
 239553	日本語
 60315	Español
@@ -23352,7 +23258,6 @@ id	language_name
 92341	English
 47310	English
 38944	suomi
-55408	
 40041	English
 62077	Polski
 62077	Español
@@ -23442,7 +23347,6 @@ id	language_name
 38931	English
 3107	日本語
 131880	English
-145154	English
 43692	English
 42889	English
 42889	Français
@@ -23478,9 +23382,6 @@ id	language_name
 58529	Magyar
 104505	Français
 83230	Português
-3962	Deutsch
-142712	English
-142712	Deutsch
 55700	Português
 80799	Français
 80799	Deutsch
@@ -23496,7 +23397,6 @@ id	language_name
 83345	Español
 57059	Nederlands
 57059	Polski
-74183	suomi
 51170	English
 60164	English
 41504	Français
@@ -23590,10 +23490,8 @@ id	language_name
 105981	English
 89688	Español
 263532	
-55763	
 44912	English
 15766	日本語
-55761	
 57536	Català
 57536	English
 57536	Español
@@ -23640,7 +23538,6 @@ id	language_name
 128042	
 18928	Italiano
 429876	
-55754	
 61033	English
 23190	English
 47975	
@@ -23648,7 +23545,6 @@ id	language_name
 61546	English
 125233	English
 85430	English
-148314	
 55502	suomi
 32934	Español
 1736	Deutsch
@@ -23661,7 +23557,6 @@ id	language_name
 18125	English
 42368	
 42150	Italiano
-289010	
 147846	English
 27358	English
 22907	English
@@ -23671,8 +23566,6 @@ id	language_name
 41593	Italiano
 12840	Français
 169842	English
-55756	suomi
-55759	suomi
 114514	English
 126517	日本語
 12513	Français
@@ -23748,7 +23641,6 @@ id	language_name
 32691	Français
 54690	한국어/조선말
 37189	Français
-177697	Deutsch
 24189	
 96105	English
 109048	ภาษาไทย
@@ -23807,12 +23699,10 @@ id	language_name
 63287	Español
 27588	Français
 27588	Deutsch
-404479	suomi
 74946	English
 62749	English
 45801	Deutsch
 45801	English
-55166	
 85367	English
 67913	Gaeilge
 67913	English
@@ -23844,7 +23734,6 @@ id	language_name
 28039	普通话
 46995	English
 60785	广州话 / 廣州話
-230680	Deutsch
 57389	Italiano
 26242	English
 26242	Français
@@ -23980,8 +23869,6 @@ id	language_name
 35257	English
 28793	English
 26479	English
-92465	suomi
-92465	svenska
 120995	
 49520	English
 46558	Español
@@ -24043,7 +23930,6 @@ id	language_name
 47261	Español
 56288	English
 73930	Português
-105287	
 117412	日本語
 98635	日本語
 111960	English
@@ -24264,7 +24150,6 @@ id	language_name
 13616	Magyar
 13616	Pусский
 38437	English
-132227	Español
 24428	English
 82260	
 82260	English
@@ -24321,7 +24206,6 @@ id	language_name
 105757	English
 105757	Deutsch
 13687	English
-72419	Deutsch
 71905	English
 114060	Deutsch
 114060	English
@@ -24432,7 +24316,6 @@ id	language_name
 91391	English
 172004	
 162451	
-434973	
 440178	
 49452	Français
 126732	Bosanski
@@ -24519,7 +24402,6 @@ id	language_name
 46147	Norsk
 46147	svenska
 57602	Français
-86126	Español
 28687	English
 140003	Deutsch
 140003	Español
@@ -24554,7 +24436,6 @@ id	language_name
 81315	
 61891	English
 46934	English
-62614	
 82020	English
 70196	English
 56122	Italiano
@@ -24564,7 +24445,6 @@ id	language_name
 72494	Deutsch
 79401	English
 69217	English
-61121	svenska
 28414	Dansk
 83147	English
 18520	
@@ -24928,7 +24808,6 @@ id	language_name
 76785	English
 77866	English
 14163	हिन्दी
-74878	Français
 72821	
 389854	
 43984	فارسی
@@ -24967,7 +24846,6 @@ id	language_name
 35156	English
 72721	English
 72721	Español
-162374	Français
 72842	English
 79465	English
 79896	English
@@ -24994,7 +24872,6 @@ id	language_name
 72313	English
 8368	English
 60938	English
-145594	Español
 58194	English
 70435	English
 70435	Español
@@ -25004,8 +24881,6 @@ id	language_name
 105548	English
 110139	English
 94741	English
-31337	English
-31337	Deutsch
 65760	English
 65760	Română
 65760	Pусский
@@ -25227,7 +25102,6 @@ id	language_name
 64029	suomi
 29483	English
 88491	Pусский
-79362	Deutsch
 53174	Deutsch
 84259	English
 71184	English
@@ -25258,7 +25132,6 @@ id	language_name
 81111	English
 106199	Español
 147621	No Language
-247500	Français
 29750	English
 31400	Srpski
 81716	English
@@ -25332,7 +25205,6 @@ id	language_name
 15086	English
 15086	Français
 48458	English
-85883	Français
 25831	English
 116231	Français
 52264	Français
@@ -25347,7 +25219,6 @@ id	language_name
 25228	svenska
 73937	English
 214349	
-399229	
 18705	English
 75674	English
 75674	Pусский
@@ -25561,7 +25432,6 @@ id	language_name
 91356	English
 63310	Nederlands
 63310	Français
-86727	
 84404	English
 74447	English
 18591	English
@@ -25632,7 +25502,6 @@ id	language_name
 91352	English
 159900	No Language
 162284	English
-61361	
 57119	English
 148371	日本語
 15135	English
@@ -25708,7 +25577,6 @@ id	language_name
 22683	English
 132122	Italiano
 110573	Français
-362151	suomi
 288165	Français
 97038	Español
 167408	English
@@ -25902,7 +25770,6 @@ id	language_name
 105795	
 39104	日本語
 34433	
-78999	English
 76333	Español
 95516	English
 1930	English
@@ -26079,8 +25946,6 @@ id	language_name
 21145	Français
 63988	English
 77953	English
-116019	suomi
-116019	svenska
 85414	English
 82696	English
 24410	日本語
@@ -26136,7 +26001,6 @@ id	language_name
 265579	
 36859	English
 75680	English
-458428	Español
 79224	한국어/조선말
 85836	日本語
 84203	English
@@ -26186,7 +26050,6 @@ id	language_name
 119698	English
 119698	Polski
 48034	Français
-110491	English
 79694	English
 83540	English
 108762	suomi
@@ -26202,7 +26065,6 @@ id	language_name
 39369	Français
 12677	English
 12677	Español
-79034	
 27349	English
 27349	Deutsch
 27349	svenska
@@ -26218,7 +26080,6 @@ id	language_name
 84344	English
 84344	ภาษาไทย
 53336	English
-35623	עִבְרִית
 86785	Italiano
 27146	English
 27146	Français
@@ -26310,7 +26171,6 @@ id	language_name
 67441	Español
 48654	
 19823	English
-112973	English
 38091	Español
 122930	English
 128280	English
@@ -26346,7 +26206,6 @@ id	language_name
 101803	
 83589	English
 38719	English
-76703	Français
 97310	English
 17165	日本語
 223195	English
@@ -26623,7 +26482,6 @@ id	language_name
 82684	English
 117266	English
 87826	English
-262988	English
 181628	
 288298	svenska
 51911	English
@@ -26778,10 +26636,8 @@ id	language_name
 25746	日本語
 49363	日本語
 108282	English
-156180	Português
 13678	English
 13678	Français
-62012	Français
 13728	Français
 101519	English
 22969	English
@@ -26829,7 +26685,6 @@ id	language_name
 48161	English
 48161	Français
 48161	Norsk
-328712	
 114490	English
 288292	English
 288296	Español
@@ -26878,7 +26733,6 @@ id	language_name
 18867	广州话 / 廣州話
 18867	普通话
 220106	Français
-26152	Français
 13679	Français
 51594	English
 26168	English
@@ -26911,7 +26765,6 @@ id	language_name
 104718	Español
 104718	English
 80220	Français
-128637	English
 83389	日本語
 71883	日本語
 259292	English
@@ -26931,7 +26784,6 @@ id	language_name
 18707	广州话 / 廣州話
 18707	English
 125409	English
-64362	Français
 81850	日本語
 34280	English
 34280	Français
@@ -27143,7 +26995,6 @@ id	language_name
 73283	English
 18038	English
 161273	suomi
-177522	suomi
 30252	svenska
 86819	Český
 74726	Español
@@ -27174,8 +27025,6 @@ id	language_name
 106344	English
 94135	English
 77775	English
-72678	Français
-57307	Français
 35436	Français
 112304	English
 127533	日本語
@@ -27315,7 +27164,6 @@ id	language_name
 79983	English
 79983	Español
 29630	
-128644	English
 14078	svenska
 134673	Français
 32168	English
@@ -27415,9 +27263,6 @@ id	language_name
 118557	Pусский
 288151	Español
 83125	English
-76686	Deutsch
-76686	English
-76686	فارسی
 117974	English
 28830	日本語
 60304	English
@@ -27471,7 +27316,6 @@ id	language_name
 89750	English
 114562	English
 114562	Español
-334317	Français
 281007	Norsk
 57436	Dansk
 57436	English
@@ -27762,7 +27606,6 @@ id	language_name
 30198	日本語
 62301	日本語
 62301	普通话
-81225	Deutsch
 126186	English
 144789	Español
 80437	Español
@@ -27794,7 +27637,6 @@ id	language_name
 107250	English
 210621	
 130816	English
-134806	English
 23524	English
 68047	Español
 84316	English
@@ -27806,7 +27648,6 @@ id	language_name
 188524	
 126748	English
 247695	English
-62130	
 119001	English
 43550	English
 30631	English
@@ -27858,10 +27699,7 @@ id	language_name
 62878	English
 160660	English
 160660	Deutsch
-131822	suomi
-131822	English
 20989	
-142989	English
 219302	English
 219302	Français
 17501	हिन्दी
@@ -27897,7 +27735,6 @@ id	language_name
 55144	English
 127544	日本語
 91694	日本語
-54356	
 14607	English
 148034	Srpski
 25516	Deutsch
@@ -27979,7 +27816,6 @@ id	language_name
 78056	English
 103707	English
 32599	English
-149469	
 110420	日本語
 50221	English
 62472	Deutsch
@@ -27992,7 +27828,6 @@ id	language_name
 186606	English
 46451	English
 81623	Español
-65646	Français
 43023	English
 43023	Deutsch
 43113	Deutsch
@@ -28040,7 +27875,6 @@ id	language_name
 221656	English
 50787	English
 24133	English
-55524	
 36549	English
 130804	български език
 109414	English
@@ -28069,7 +27903,6 @@ id	language_name
 2966	English
 156306	English
 103731	English
-82662	Italiano
 42587	Deutsch
 32100	English
 19989	English
@@ -28199,7 +28032,6 @@ id	language_name
 27861	ქართული
 27861	Pусский
 97686	English
-38875	Polski
 156236	Français
 156236	Italiano
 168676	English
@@ -28380,7 +28212,6 @@ id	language_name
 96936	English
 6636	Español
 62211	English
-388046	Português
 192538	English
 112161	English
 88057	English
@@ -28443,7 +28274,6 @@ id	language_name
 174772	English
 174772	普通话
 174772	Pусский
-67272	svenska
 179826	English
 180050	Română
 101449	English
@@ -28451,7 +28281,6 @@ id	language_name
 120303	Español
 153420	日本語
 55655	
-83342	Deutsch
 93456	English
 117251	English
 107985	English
@@ -28558,7 +28387,6 @@ id	language_name
 106848	
 61330	
 178946	English
-60824	Français
 111969	English
 30963	English
 61198	English
@@ -28568,7 +28396,6 @@ id	language_name
 24646	svenska
 5898	English
 157354	English
-173914	Latviešu
 116432	Latviešu
 247749	Latviešu
 64519	English
@@ -28798,7 +28625,6 @@ id	language_name
 198210	English
 204128	svenska
 115782	English
-65958	Français
 215134	English
 215134	普通话
 123553	English
@@ -28871,7 +28697,6 @@ id	language_name
 25756	English
 169209	English
 39005	English
-217038	suomi
 140708	suomi
 29231	English
 29231	Français
@@ -29163,7 +28988,6 @@ id	language_name
 43727	English
 139725	Français
 146238	English
-77776	
 152584	Français
 152584	English
 97006	English
@@ -29187,7 +29011,6 @@ id	language_name
 102420	English
 1803	English
 49393	Português
-161073	Français
 65481	Deutsch
 209262	English
 128089	English
@@ -29259,7 +29082,6 @@ id	language_name
 85889	English
 293109	
 91745	English
-19623	हिन्दी
 38273	English
 214100	English
 10006	English
@@ -29347,7 +29169,6 @@ id	language_name
 81538	Deutsch
 81538	עִבְרִית
 214217	suomi
-153196	
 55651	
 19241	English
 15866	English
@@ -29375,7 +29196,6 @@ id	language_name
 293412	
 40221	English
 50441	Deutsch
-82627	English
 103195	Český
 103195	English
 103195	Deutsch
@@ -29454,7 +29274,6 @@ id	language_name
 96924	English
 56579	English
 127880	Español
-52045	Français
 85822	
 61936	English
 121674	English
@@ -29871,7 +29690,6 @@ id	language_name
 42213	English
 158990	English
 27190	English
-430985	English
 154226	English
 37168	Français
 180894	English
@@ -29898,7 +29716,6 @@ id	language_name
 82679	English
 91551	English
 91551	Deutsch
-85469	Deutsch
 79113	English
 79113	Français
 233063	Deutsch
@@ -29910,11 +29727,9 @@ id	language_name
 189803	Français
 118778	Français
 420743	فارسی
-388182	
 5995	svenska
 246314	Deutsch
 203060	suomi
-130233	Deutsch
 130694	Deutsch
 117467	Deutsch
 52477	English
@@ -30006,7 +29821,6 @@ id	language_name
 13632	English
 13632	Français
 76127	English
-267219	
 183654	हिन्दी
 183654	اردو
 257618	Español
@@ -30095,7 +29909,6 @@ id	language_name
 173467	English
 193638	English
 4949	English
-110992	
 27093	Français
 225235	Pусский
 245170	English
@@ -30162,14 +29975,11 @@ id	language_name
 79316	English
 242661	Deutsch
 163875	English
-81600	Nederlands
 19551	English
 19551	Deutsch
 31769	日本語
-91380	Français
 2442	English
 29403	English
-101352	Français
 55922	English
 55922	Português
 84178	English
@@ -30196,7 +30006,6 @@ id	language_name
 31780	English
 164353	English
 255576	
-297560	ελληνικά
 266549	ελληνικά
 266549	English
 134096	Español
@@ -30208,14 +30017,12 @@ id	language_name
 71622	Español
 11188	English
 177047	English
-331958	ελληνικά
 288526	ελληνικά
 53063	
 72872	English
 174344	English
 25003	English
 60976	
-52150	Türkçe
 78308	English
 114638	English
 217993	English
@@ -30302,7 +30109,6 @@ id	language_name
 107203	Português
 112575	Português
 112575	Español
-216369	Português
 171540	العربية
 171540	עִבְרִית
 171540	Español
@@ -30406,7 +30212,6 @@ id	language_name
 219318	ελληνικά
 219318	Français
 219318	shqip
-172890	Français
 87358	Italiano
 87358	English
 87358	Deutsch
@@ -30417,7 +30222,6 @@ id	language_name
 16032	Dansk
 4883	English
 27952	Türkçe
-52147	Türkçe
 190341	suomi
 174688	
 103717	Français
@@ -30441,7 +30245,6 @@ id	language_name
 146490	English
 140873	English
 141043	English
-246320	Français
 197082	Deutsch
 197082	Français
 84362	Español
@@ -30472,8 +30275,6 @@ id	language_name
 157847	English
 31295	English
 12124	Español
-32547	Español
-219931	
 162987	Français
 33563	Italiano
 39341	English
@@ -30487,7 +30288,6 @@ id	language_name
 133441	
 103732	English
 237692	English
-418029	
 71055	Français
 210047	English
 17684	Français
@@ -30525,7 +30325,6 @@ id	language_name
 253046	English
 21474	Español
 21474	English
-142984	English
 13934	English
 13061	English
 24589	English
@@ -30551,7 +30350,6 @@ id	language_name
 127847	
 127847	한국어/조선말
 127847	Español
-204765	Français
 183836	Français
 183836	Polski
 220286	English
@@ -30692,7 +30490,6 @@ id	language_name
 45514	Français
 45514	English
 109404	
-68827	Français
 182827	日本語
 64047	English
 74343	English
@@ -30703,7 +30500,6 @@ id	language_name
 94331	English
 24202	
 238972	
-116894	English
 145995	English
 159464	English
 68713	Français
@@ -30737,7 +30533,6 @@ id	language_name
 39293	Deutsch
 101242	English
 157690	Français
-55825	
 72962	English
 186971	Deutsch
 186971	Français
@@ -30753,7 +30548,6 @@ id	language_name
 4111	English
 85620	Français
 192577	日本語
-394403	
 26286	English
 45007	English
 22592	English
@@ -30985,7 +30779,6 @@ id	language_name
 172385	English
 172385	Português
 262481	English
-202183	
 196027	svenska
 226448	English
 214314	English
@@ -31228,9 +31021,7 @@ id	language_name
 171795	English
 49514	广州话 / 廣州話
 49514	English
-272543	Deutsch
 213270	
-173151	
 232672	English
 198277	English
 253270	English
@@ -31596,7 +31387,6 @@ id	language_name
 40222	English
 106402	
 73250	
-206574	Deutsch
 71704	English
 71704	Pусский
 262267	English
@@ -31692,7 +31482,6 @@ id	language_name
 31896	English
 70476	English
 26566	Français
-60106	Français
 35837	Español
 82120	No Language
 27906	English
@@ -31712,7 +31501,6 @@ id	language_name
 262904	Deutsch
 262904	English
 161056	suomi
-164419	suomi
 243683	English
 118953	English
 46076	English
@@ -31740,7 +31528,6 @@ id	language_name
 157845	English
 261813	
 4992	English
-44155	Français
 239566	English
 192143	
 217316	English
@@ -31769,7 +31556,6 @@ id	language_name
 253306	English
 94196	Français
 94196	Deutsch
-64934	Français
 84986	English
 18628	Français
 228194	हिन्दी
@@ -31936,7 +31722,6 @@ id	language_name
 38462	English
 40951	English
 47571	English
-74950	Deutsch
 252956	English
 273656	
 242090	English
@@ -31950,7 +31735,6 @@ id	language_name
 88573	ภาษาไทย
 247182	Español
 207780	English
-2692	Deutsch
 254775	English
 241848	English
 187458	
@@ -31958,7 +31742,6 @@ id	language_name
 250777	
 402857	English
 94590	English
-76846	svenska
 242683	English
 98250	English
 198567	বাংলা
@@ -31977,7 +31760,6 @@ id	language_name
 242131	English
 118245	English
 35568	English
-329227	
 76047	svenska
 291162	
 285946	English
@@ -32059,7 +31841,6 @@ id	language_name
 16986	English
 16986	Deutsch
 79016	Deutsch
-343693	
 248504	English
 270302	English
 169917	English
@@ -32105,7 +31886,6 @@ id	language_name
 42553	English
 111479	English
 111479	Deutsch
-182799	English
 67493	
 264656	English
 68004	广州话 / 廣州話
@@ -32164,7 +31944,6 @@ id	language_name
 93115	English
 179822	English
 53042	Português
-230295	svenska
 295507	English
 15916	日本語
 140481	
@@ -32179,7 +31958,6 @@ id	language_name
 190859	English
 263855	English
 246403	English
-42416	Italiano
 37630	Český
 254375	Deutsch
 254375	English
@@ -32521,7 +32299,6 @@ id	language_name
 89888	English
 17082	广州话 / 廣州話
 17082	普通话
-273510	
 103081	English
 141950	Français
 141950	Deutsch
@@ -32650,7 +32427,6 @@ id	language_name
 199336	
 293028	
 256679	English
-12076	Norsk
 55472	English
 51649	English
 25896	English
@@ -33118,8 +32894,6 @@ id	language_name
 7267	Français
 7267	Nederlands
 15149	Dansk
-204768	العربية
-204768	Français
 201759	Français
 202215	Français
 283726	Français
@@ -33222,9 +32996,6 @@ id	language_name
 293310	English
 293310	Deutsch
 293310	Português
-117678	Français
-129966	Français
-198130	Français
 46473	English
 46473	Français
 21861	Français
@@ -33357,7 +33128,6 @@ id	language_name
 40192	Français
 300441	English
 116149	English
-204965	Deutsch
 135714	English
 203834	English
 294254	English
@@ -33475,7 +33245,6 @@ id	language_name
 57387	Français
 2139	English
 2139	普通话
-151730	
 171357	English
 17135	English
 44503	
@@ -33519,9 +33288,7 @@ id	language_name
 23076	Italiano
 99261	Italiano
 46570	Italiano
-124207	Italiano
 89652	Italiano
-42438	Italiano
 99361	Deutsch
 96477	Italiano
 74018	English
@@ -33537,11 +33304,7 @@ id	language_name
 128555	Deutsch
 128555	Italiano
 42499	Italiano
-56971	Italiano
 106970	Italiano
-42441	Italiano
-38366	Italiano
-121510	
 105398	Italiano
 28844	Italiano
 118802	Italiano
@@ -33549,7 +33312,6 @@ id	language_name
 260893	
 105906	
 268662	
-48935	Italiano
 78566	
 101231	Italiano
 285423	English
@@ -33699,22 +33461,13 @@ id	language_name
 87093	Italiano
 87093	English
 87093	Français
-205349	Deutsch
-205349	Italiano
 224141	English
-285532	
 61925	Italiano
 52914	Italiano
-255906	Italiano
 50758	Italiano
 52913	Deutsch
 52913	Italiano
-52238	Deutsch
-52238	Italiano
-165159	Italiano
 62715	Italiano
-127760	Italiano
-62725	Italiano
 46001	Italiano
 58083	Italiano
 52113	Italiano
@@ -33768,11 +33521,9 @@ id	language_name
 132936	English
 81116	English
 274985	
-212503	Deutsch
 142119	English
 261820	English
 120605	English
-307113	
 259018	English
 175555	English
 277368	Nederlands
@@ -33780,7 +33531,6 @@ id	language_name
 277368	Português
 145162	English
 13759	English
-129062	Italiano
 241432	English
 44936	English
 18755	English
@@ -33804,7 +33554,6 @@ id	language_name
 26540	English
 81393	English
 62836	English
-302118	Deutsch
 33582	English
 145186	Français
 158828	English
@@ -33856,7 +33605,6 @@ id	language_name
 37529	Română
 266080	English
 214761	Español
-55553	
 278334	English
 176079	English
 73661	English
@@ -33916,14 +33664,11 @@ id	language_name
 43548	Italiano
 64666	Italiano
 64666	English
-197335	Italiano
-82341	Italiano
 67221	English
 67221	Italiano
 67221	Español
 84729	
 275239	Italiano
-48805	Italiano
 272165	
 101125	Deutsch
 101125	English
@@ -34091,7 +33836,6 @@ id	language_name
 42012	English
 42012	ภาษาไทย
 81586	
-128946	svenska
 42759	English
 39485	
 36339	English
@@ -34208,30 +33952,19 @@ id	language_name
 37775	Italiano
 37768	Italiano
 37777	
-59040	Italiano
 23273	Italiano
 62491	Italiano
-56825	Italiano
-60014	Italiano
-56551	
-58189	
 56804	Italiano
-58081	Italiano
-42674	Italiano
 44933	Italiano
 22728	Italiano
-43544	
 38327	Italiano
 20414	Italiano
 36298	Italiano
-93855	Italiano
 267573	한국어/조선말
 221437	日本語
-255456	Italiano
 43477	English
 261768	English
 199925	日本語
-211710	
 267872	English
 38187	English
 38187	Español
@@ -34240,7 +33973,6 @@ id	language_name
 38190	English
 51939	English
 38185	English
-251555	Español
 132601	English
 84197	
 137079	العربية
@@ -34414,7 +34146,6 @@ id	language_name
 160704	한국어/조선말
 242452	한국어/조선말
 118139	English
-269165	Deutsch
 185207	
 276819	English
 3483	English
@@ -34481,10 +34212,7 @@ id	language_name
 4344	Deutsch
 4344	हिन्दी
 4344	ภาษาไทย
-3539	Türkçe
-3539	Deutsch
 12115	Deutsch
-80472	
 48193	English
 260872	Italiano
 292133	Italiano
@@ -34496,7 +34224,6 @@ id	language_name
 29352	Italiano
 96106	Italiano
 105083	Italiano
-211179	
 112481	English
 240334	
 48594	Deutsch
@@ -34647,7 +34374,6 @@ id	language_name
 42187	Deutsch
 29052	English
 3686	Deutsch
-241982	Français
 45752	English
 209401	English
 33037	English
@@ -34656,7 +34382,6 @@ id	language_name
 75958	English
 75958	Italiano
 161243	Deutsch
-129359	svenska
 315362	svenska
 120657	English
 171446	English
@@ -34833,7 +34558,6 @@ id	language_name
 60853	English
 67659	English
 30027	English
-30028	English
 31277	English
 73548	English
 77874	English
@@ -35017,7 +34741,6 @@ id	language_name
 33733	English
 82868	
 155208	English
-58757	Deutsch
 53573	
 176627	English
 107073	Español
@@ -35139,7 +34862,6 @@ id	language_name
 38808	English
 66963	Français
 130633	Français
-79892	Français
 146926	English
 76829	Français
 76829	English
@@ -35336,7 +35058,6 @@ id	language_name
 166221	English
 44014	English
 223497	English
-10639	Deutsch
 169832	English
 190091	Český
 158114	English
@@ -35560,7 +35281,6 @@ id	language_name
 95578	English
 85615	English
 74550	English
-145194	svenska
 128779	English
 128779	Français
 91715	English
@@ -35825,8 +35545,6 @@ id	language_name
 70916	普通话
 56412	
 38556	English
-11719	English
-11719	Italiano
 63706	
 85768	Español
 31362	English
@@ -35944,7 +35662,6 @@ id	language_name
 85637	
 299104	日本語
 218233	日本語
-168300	日本語
 168994	日本語
 130241	日本語
 112244	日本語
@@ -36008,7 +35725,6 @@ id	language_name
 51780	English
 283536	English
 252637	English
-131503	
 203321	English
 210860	English
 216015	English
@@ -36052,7 +35768,6 @@ id	language_name
 234377	
 44342	
 52207	English
-123283	English
 197592	English
 238090	English
 81294	English
@@ -36104,7 +35819,6 @@ id	language_name
 36003	
 190352	English
 69168	
-58587	Español
 29286	English
 16048	English
 52216	Français
@@ -36120,7 +35834,6 @@ id	language_name
 159704	Italiano
 201561	English
 130677	English
-72917	Français
 76198	Français
 37688	हिन्दी
 37688	اردو
@@ -36132,14 +35845,11 @@ id	language_name
 266723	Español
 13734	Français
 269714	Français
-76642	Français
 20220	Français
 31985	English
-64357	
 77280	Français
 271327	
 79051	Español
-157787	Français
 55638	
 226363	English
 253851	English
@@ -36203,7 +35913,6 @@ id	language_name
 253287	Français
 253287	Türkçe
 250066	English
-102534	
 248231	Français
 321130	Pусский
 258049	euskera
@@ -36261,7 +35970,6 @@ id	language_name
 286805	English
 36674	svenska
 77331	svenska
-30149	svenska
 27599	svenska
 27600	svenska
 35927	English
@@ -36269,7 +35977,6 @@ id	language_name
 30576	svenska
 135337	svenska
 92690	Español
-28573	Italiano
 29167	Italiano
 267268	Español
 83897	Português
@@ -36487,15 +36194,8 @@ id	language_name
 42316	Italiano
 42316	Pусский
 42316	svenska
-226163	English
-226163	Italiano
-226163	Deutsch
-226163	Español
 223202	
 103758	Italiano
-57342	English
-57342	Italiano
-57342	Español
 3168	Français
 3168	Italiano
 3168	
@@ -36580,7 +36280,6 @@ id	language_name
 88599	Español
 274990	Dansk
 57438	Norsk
-62352	svenska
 167810	English
 125305	English
 217477	
@@ -36604,7 +36303,6 @@ id	language_name
 86598	
 320316	Italiano
 225184	Italiano
-237171	
 146563	English
 73984	Magyar
 73984	English
@@ -36804,7 +36502,6 @@ id	language_name
 36769	Español
 273248	Español
 273248	English
-63775	Français
 251016	English
 133459	svenska
 226673	한국어/조선말
@@ -36949,7 +36646,6 @@ id	language_name
 175503	Deutsch
 127853	English
 259358	Deutsch
-227383	suomi
 315049	suomi
 130805	
 248933	Deutsch
@@ -36975,27 +36671,19 @@ id	language_name
 15468	Français
 88309	English
 88309	Français
-74822	Français
 5602	Français
-152635	English
 122229	Français
-183962	Français
 91571	Français
-267654	Français
 3004	English
 118150	Français
 118150	Deutsch
 118150	Italiano
-287391	Français
 38421	English
 38421	Français
 142979	Italiano
 163333	Français
 163333	English
-65718	Français
-65718	Italiano
 44541	
-131507	
 213831	
 105403	
 127092	Italiano
@@ -37083,7 +36771,6 @@ id	language_name
 13587	English
 88318	English
 277686	Latviešu
-288313	Italiano
 326536	English
 315010	English
 98554	English
@@ -37109,8 +36796,6 @@ id	language_name
 271164	English
 271164	Français
 271164	Italiano
-117913	Italiano
-242240	
 69974	
 42590	Italiano
 218262	English
@@ -37140,7 +36825,6 @@ id	language_name
 162821	Français
 4274	Français
 37455	Français
-246049	Français
 96987	English
 243881	
 306293	العربية
@@ -37203,9 +36887,7 @@ id	language_name
 327924	English
 195382	Italiano
 37028	English
-211561	
 26296	Italiano
-146596	Italiano
 89351	English
 104549	日本語
 268238	English
@@ -37216,7 +36898,6 @@ id	language_name
 243919	普通话
 159652	English
 253284	English
-66584	Français
 57681	English
 282624	English
 113655	English
@@ -37225,7 +36906,6 @@ id	language_name
 75086	Italiano
 46448	Italiano
 198326	English
-121513	Italiano
 196421	Italiano
 198772	Italiano
 14505	English
@@ -37243,7 +36923,6 @@ id	language_name
 13643	English
 13643	Pусский
 65534	Français
-70989	
 59163	
 38017	English
 54064	Français
@@ -37289,8 +36968,6 @@ id	language_name
 298396	Nederlands
 63067	Italiano
 38396	Italiano
-50531	Italiano
-66700	Italiano
 79683	Español
 29498	English
 29498	Español
@@ -37352,7 +37029,6 @@ id	language_name
 105384	Italiano
 260839	Italiano
 105145	Italiano
-199985	Italiano
 157152	
 205865	Polski
 174650	Italiano
@@ -37415,8 +37091,6 @@ id	language_name
 137370	Français
 324279	Español
 324279	English
-330275	Français
-142528	Français
 59346	Français
 85025	Français
 135281	Français
@@ -37585,7 +37259,6 @@ id	language_name
 69619	广州话 / 廣州話
 69619	ภาษาไทย
 71924	
-62243	Italiano
 252714	English
 252888	English
 125990	English
@@ -37729,7 +37402,6 @@ id	language_name
 78402	Deutsch
 78402	Italiano
 39041	English
-105766	
 74119	Français
 74119	Polski
 118083	English
@@ -37763,7 +37435,6 @@ id	language_name
 328032	Deutsch
 96217	Español
 80527	English
-259616	Deutsch
 35177	English
 1269	Deutsch
 51450	Deutsch
@@ -37780,7 +37451,6 @@ id	language_name
 61104	Deutsch
 11207	Deutsch
 11207	Türkçe
-257734	
 16119	English
 167161	
 11651	Deutsch
@@ -37789,7 +37459,6 @@ id	language_name
 79361	Deutsch
 21385	English
 33719	English
-114438	
 238302	English
 130798	Deutsch
 50166	Français
@@ -37802,10 +37471,7 @@ id	language_name
 78694	Deutsch
 333324	English
 12128	Deutsch
-71191	Français
-15713	Français
 10659	Deutsch
-96872	
 48411	한국어/조선말
 1615	Deutsch
 1616	Deutsch
@@ -37996,7 +37662,6 @@ id	language_name
 142216	English
 117509	
 46578	English
-62545	Italiano
 177354	English
 27200	English
 12601	English
@@ -38085,7 +37750,6 @@ id	language_name
 158455	فارسی
 111149	English
 276902	English
-284189	Français
 51883	
 9803	Deutsch
 332356	English
@@ -38126,7 +37790,6 @@ id	language_name
 248559	English
 29108	English
 47946	English
-334651	
 43030	English
 31344	Français
 44672	English
@@ -38161,12 +37824,10 @@ id	language_name
 294083	English
 37582	English
 322460	English
-107525	
 255157	English
 167221	Italiano
 229328	English
 136345	
-330588	Deutsch
 215658	
 283708	العربية
 283708	Français
@@ -38176,11 +37837,7 @@ id	language_name
 250665	English
 250665	Español
 208333	English
-289126	Français
-320299	Français
-335141	
 335145	
-267623	Français
 74087	Deutsch
 74087	Italiano
 292262	English
@@ -38258,7 +37915,6 @@ id	language_name
 61865	Türkçe
 85184	English
 274415	Deutsch
-86258	English
 94739	English
 299353	Deutsch
 92716	English
@@ -38272,8 +37928,6 @@ id	language_name
 47944	English
 20036	English
 165321	Português
-275244	日本語
-275244	Pусский
 28855	English
 128614	English
 91683	English
@@ -38300,7 +37954,6 @@ id	language_name
 94205	日本語
 225982	English
 139862	Deutsch
-75066	Français
 289720	English
 294517	
 282631	日本語
@@ -38337,10 +37990,8 @@ id	language_name
 284470	Deutsch
 284470	Italiano
 284470	Español
-332759	Deutsch
 228381	Deutsch
 228381	Pусский
-290043	Deutsch
 254936	English
 21461	हिन्दी
 295592	English
@@ -38417,7 +38068,6 @@ id	language_name
 60591	English
 77128	English
 27698	日本語
-252845	Italiano
 250349	Français
 50113	日本語
 108309	Español
@@ -38757,7 +38407,6 @@ id	language_name
 327476	suomi
 254470	English
 59839	English
-62363	Français
 121927	Italiano
 223895	Deutsch
 223895	Slovenščina
@@ -38777,7 +38426,6 @@ id	language_name
 187447	普通话
 97987	Italiano
 107193	Italiano
-218772	Italiano
 72949	Pусский
 94527	
 136368	Deutsch
@@ -38795,7 +38443,6 @@ id	language_name
 190795	English
 261033	Español
 258099	English
-337101	Español
 90879	English
 108969	English
 187219	
@@ -38818,7 +38465,6 @@ id	language_name
 213857	
 27998	English
 277662	English
-66082	Français
 127142	Deutsch
 29846	English
 208517	
@@ -39015,7 +38661,6 @@ id	language_name
 20870	Pусский
 95431	Pусский
 107705	Pусский
-156145	Italiano
 46567	Italiano
 112601	Italiano
 277778	English
@@ -39037,8 +38682,6 @@ id	language_name
 118794	Pусский
 64483	Pусский
 179288	English
-41703	English
-41703	Pусский
 23898	Pусский
 25936	Pусский
 64268	Pусский
@@ -39118,7 +38761,6 @@ id	language_name
 45210	Pусский
 27937	Pусский
 337789	English
-89330	suomi
 154397	
 198240	English
 122767	English
@@ -39138,7 +38780,6 @@ id	language_name
 65651	English
 10986	Magyar
 10986	Italiano
-119409	Español
 190940	English
 190940	हिन्दी
 190940	
@@ -39183,33 +38824,23 @@ id	language_name
 29510	English
 26861	English
 229702	English
-58611	Italiano
 43211	Italiano
 38262	Italiano
-58615	
 58613	Italiano
-57918	Italiano
 43646	Italiano
-173177	Italiano
 43648	Italiano
-61303	Italiano
 43649	Italiano
-75001	Italiano
 328720	Italiano
 58191	Italiano
-38285	Italiano
 43571	
-121516	
 75336	Magyar
 75336	Italiano
 82066	Italiano
 279568	
-139563	Italiano
 49352	English
 246917	English
 39895	English
 39895	Deutsch
-2197	Français
 101029	English
 19095	Français
 30993	English
@@ -39222,7 +38853,6 @@ id	language_name
 86700	普通话
 222936	Pусский
 222936	English
-44486	Deutsch
 39309	English
 132551	Hrvatski
 34449	Bosanski
@@ -39235,7 +38865,6 @@ id	language_name
 231625	English
 98120	Italiano
 135695	Italiano
-161545	Italiano
 250235	Italiano
 173847	Italiano
 169683	
@@ -39264,7 +38893,6 @@ id	language_name
 159967	Français
 46923	Eesti
 146045	Eesti
-221171	Eesti
 46809	Eesti
 146030	Eesti
 47150	Eesti
@@ -39288,7 +38916,6 @@ id	language_name
 51604	Český
 150473	Eesti
 76101	English
-61035	Deutsch
 223932	English
 223932	Français
 223932	עִבְרִית
@@ -39391,7 +39018,6 @@ id	language_name
 38248	Português
 38248	Srpski
 122525	Español
-222517	Italiano
 59871	
 260899	Italiano
 157683	Italiano
@@ -39417,24 +39043,19 @@ id	language_name
 87851	English
 39060	Bahasa indonesia
 5302	English
-107052	Italiano
-59156	
 42220	Italiano
 68882	
 82114	Italiano
-79750	Italiano
 108535	Italiano
 103216	Italiano
 90659	
 68816	
-56369	Italiano
 58404	Italiano
 193641	Italiano
 59336	Italiano
 60063	English
 55960	Italiano
 54398	
-82481	Italiano
 199222	Italiano
 75442	English
 35995	
@@ -39443,17 +39064,12 @@ id	language_name
 71063	Français
 71063	Italiano
 105616	
-186630	Italiano
-186630	Español
 81871	English
 81871	Italiano
-61911	
 221527	Italiano
 99916	Italiano
 63687	Español
-195413	
 62036	Italiano
-48937	Italiano
 105778	English
 32728	English
 46278	ελληνικά
@@ -39558,15 +39174,11 @@ id	language_name
 175606	Français
 63774	Français
 63178	Italiano
-80374	
 82113	
 43294	Italiano
 51912	Italiano
-56920	Italiano
-340961	Italiano
 58701	English
 58701	Italiano
-54166	Italiano
 11048	Italiano
 11053	Italiano
 11055	Italiano
@@ -39602,7 +39214,6 @@ id	language_name
 240581	Français
 223946	Français
 14406	Français
-44937	Français
 96382	English
 333346	
 111237	Pусский
@@ -39691,7 +39302,6 @@ id	language_name
 43083	עִבְרִית
 38546	English
 224087	English
-13733	Français
 38238	Español
 32782	English
 73147	עִבְרִית
@@ -39918,17 +39528,13 @@ id	language_name
 56341	Italiano
 146132	Italiano
 73827	Italiano
-58188	Italiano
 221717	Deutsch
 221717	Italiano
 61799	Italiano
 81831	Italiano
-162382	Italiano
-62397	Italiano
 56343	Deutsch
 56343	Italiano
 67377	English
-60046	Italiano
 48955	Italiano
 59249	Italiano
 5839	Deutsch
@@ -39936,7 +39542,6 @@ id	language_name
 56340	Italiano
 56435	Italiano
 79025	Italiano
-60195	Italiano
 82470	
 20983	English
 20983	Français
@@ -39984,12 +39589,9 @@ id	language_name
 323660	English
 57784	English
 57784	Pусский
-325780	Italiano
 281783	Italiano
-60038	Italiano
 57999	
 47245	Italiano
-82350	
 72886	English
 75101	English
 37668	English
@@ -39999,7 +39601,6 @@ id	language_name
 302960	English
 302960	svenska
 32195	English
-213095	Italiano
 90029	English
 90029	Italiano
 13354	English
@@ -40032,7 +39633,6 @@ id	language_name
 71776	
 3405	Italiano
 94770	Italiano
-105509	Italiano
 19373	English
 92853	
 117890	Italiano
@@ -40117,11 +39717,8 @@ id	language_name
 273926	
 321697	English
 225728	English
-200117	
 208305	Français
-246422	Français
 182873	English
-202980	Français
 61901	English
 61901	Français
 61901	Deutsch
@@ -40200,10 +39797,7 @@ id	language_name
 327833	ภาษาไทย
 327833	English
 346838	English
-82806	
 165790	
-64155	Italiano
-58525	
 39335	Español
 220471	English
 268508	English
@@ -40214,7 +39808,6 @@ id	language_name
 335805	English
 128209	Español
 43371	English
-84056	Italiano
 214146	Italiano
 57967	Italiano
 38517	English
@@ -40252,7 +39845,6 @@ id	language_name
 308017	English
 319986	English
 4199	English
-285649	
 279984	English
 81009	English
 20121	English
@@ -40262,7 +39854,6 @@ id	language_name
 33723	ภาษาไทย
 206237	Deutsch
 38918	Deutsch
-217412	Deutsch
 213950	English
 316776	English
 316776	Kiswahili
@@ -40364,7 +39955,6 @@ id	language_name
 159763	English
 159763	Français
 103635	English
-288668	English
 69393	English
 157655	English
 38330	English
@@ -40449,7 +40039,6 @@ id	language_name
 174350	English
 189080	
 234555	English
-209248	Deutsch
 44647	English
 240154	English
 285024	English
@@ -40502,7 +40091,6 @@ id	language_name
 86326	
 124042	English
 202722	
-58487	Français
 159389	English
 125911	
 19598	English
@@ -40523,7 +40111,6 @@ id	language_name
 54099	
 49701	Français
 45948	Français
-143344	Español
 49711	Français
 43027	বাংলা
 45997	Italiano
@@ -40597,7 +40184,6 @@ id	language_name
 226188	English
 226188	Français
 137310	English
-332354	Español
 248426	English
 107262	
 56608	
@@ -40639,7 +40225,6 @@ id	language_name
 82191	English
 169962	English
 344560	
-131830	
 37501	Italiano
 156140	Italiano
 87194	
@@ -40659,7 +40244,6 @@ id	language_name
 294819	Italiano
 105087	Italiano
 27743	
-293270	
 124504	
 53121	English
 114594	English
@@ -40768,11 +40352,9 @@ id	language_name
 348507	
 348528	
 62134	
-57311	Français
 54627	Français
 54627	Deutsch
 54627	Italiano
-77000	Italiano
 85038	Italiano
 61940	Italiano
 24168	Italiano
@@ -40780,106 +40362,66 @@ id	language_name
 42679	Italiano
 56041	Italiano
 139504	Italiano
-63190	
-147868	Italiano
 63365	Italiano
-133788	
-108664	Italiano
 23509	Italiano
 73869	Italiano
-46128	Italiano
-57713	
-77944	Italiano
-58518	
 22182	Italiano
 56844	Italiano
 56014	Italiano
 59570	Italiano
-58453	
 60650	Français
 60650	Italiano
-145872	
 56400	Italiano
 58531	shqip
 58531	Italiano
 72057	Italiano
 123375	Italiano
-160844	Italiano
 49850	English
 49850	Deutsch
 49850	Italiano
 169692	Italiano
 137315	Français
 137315	Italiano
-219067	Italiano
-166262	Italiano
 141810	Italiano
-162282	Italiano
-58013	Italiano
 146364	Italiano
-238705	Italiano
 195544	Italiano
-171826	Italiano
 175116	Italiano
-156547	
 158182	Italiano
 158182	Português
 184681	Italiano
-270479	
 178915	Italiano
-186982	
-182415	Italiano
-169069	
 201010	Français
 58204	Italiano
 250219	Italiano
-249457	Italiano
 191820	English
 153774	English
 153774	Italiano
 153774	Español
 262789	Italiano
 24243	Português
-247218	Italiano
-231565	Italiano
 197089	English
 197089	Français
 197089	Italiano
 215628	Italiano
 226936	Italiano
-234356	Italiano
 56853	Italiano
-228290	Italiano
 235208	Italiano
 287935	English
-301272	Italiano
-262785	
 348544	
-38328	Italiano
-57112	Italiano
 42808	Italiano
 42808	Deutsch
-58703	
 57110	
-58714	
-62349	
 84739	
-42675	Italiano
 56994	Italiano
 51917	Italiano
 56974	Italiano
 23619	Italiano
-58011	Italiano
 58400	Italiano
 15681	Italiano
-53957	Italiano
 56339	Italiano
-35554	Italiano
 58060	Italiano
-78854	Italiano
 62029	Deutsch
 62029	Italiano
-105884	Italiano
 165550	English
 165550	한국어/조선말
 85009	English
@@ -40892,7 +40434,6 @@ id	language_name
 82115	
 89847	English
 273084	English
-128625	English
 191094	
 38162	English
 38162	Français
@@ -40943,7 +40484,6 @@ id	language_name
 70570	
 18618	English
 54155	Français
-284362	
 293299	English
 44869	English
 39318	English
@@ -41102,10 +40642,8 @@ id	language_name
 76850	తెలుగు
 76850	தமிழ்
 342003	தமிழ்
-267557	Italiano
 329134	தமிழ்
 55951	தமிழ்
-62713	
 42129	Italiano
 143754	English
 143754	Italiano
@@ -41186,7 +40724,6 @@ id	language_name
 55717	Français
 55717	Italiano
 55717	
-44211	Italiano
 24169	Italiano
 59582	Français
 29804	English
@@ -41274,7 +40811,6 @@ id	language_name
 197297	Türkçe
 257249	English
 342052	
-108497	
 244776	English
 339065	English
 289510	العربية
@@ -41284,7 +40820,6 @@ id	language_name
 273481	Español
 273481	English
 212996	广州话 / 廣州話
-218688	Deutsch
 350931	English
 122320	English
 284303	Deutsch
@@ -41334,7 +40869,6 @@ id	language_name
 109695	
 348857	
 67362	
-262987	Italiano
 162954	
 38812	English
 311615	English
@@ -41415,32 +40949,25 @@ id	language_name
 197276	English
 42727	English
 236329	English
-325645	Italiano
 49321	Italiano
 246457	Italiano
 42395	Italiano
-120922	
 43592	Italiano
-41669	
 41668	Italiano
 64822	Italiano
-41665	Italiano
 37770	Italiano
 52106	
 41664	Italiano
-38315	Italiano
 82080	Italiano
 38313	Italiano
 30459	Italiano
 38310	Italiano
 26285	Italiano
-106256	
 41610	Italiano
 342896	English
 231616	English
 329289	English
 24161	Italiano
-58070	Italiano
 63274	
 37765	Italiano
 11441	Italiano
@@ -41512,7 +41039,6 @@ id	language_name
 192023	English
 61719	English
 264644	English
-204771	
 135697	Español
 79456	
 295723	English
@@ -41523,7 +41049,6 @@ id	language_name
 192911	English
 102831	Français
 102831	English
-238925	
 226458	English
 230095	
 5871	български език
@@ -41544,7 +41069,6 @@ id	language_name
 331251	한국어/조선말
 328425	English
 18380	Français
-171873	Deutsch
 137853	English
 80648	English
 80648	Deutsch
@@ -41618,7 +41142,6 @@ id	language_name
 7092	English
 7092	Español
 35178	English
-60071	English
 86543	English
 50503	English
 57857	English
@@ -41643,7 +41166,6 @@ id	language_name
 121001	English
 121959	English
 106355	English
-124523	English
 142064	English
 25180	English
 25180	Deutsch
@@ -41724,7 +41246,6 @@ id	language_name
 155685	English
 107427	English
 105687	Italiano
-276155	Italiano
 15531	English
 15531	Español
 347528	English
@@ -41836,13 +41357,11 @@ id	language_name
 16923	English
 284674	English
 39773	
-307293	Deutsch
 259300	日本語
 56672	English
 42053	English
 135579	Magyar
 216580	English
-8930	Français
 319337	Deutsch
 319340	Français
 126862	English
@@ -41868,7 +41387,6 @@ id	language_name
 202456	Español
 107039	العربية
 107039	Français
-292387	Français
 297641	Español
 80754	Italiano
 80754	Deutsch
@@ -41895,7 +41413,6 @@ id	language_name
 43651	English
 52761	Français
 256836	English
-64383	Français
 351043	English
 150191	Italiano
 260891	Italiano
@@ -41924,22 +41441,17 @@ id	language_name
 4705	Italiano
 274820	English
 26189	English
-243059	Italiano
-231009	
 339327	
 91624	English
 287628	العربية
 336251	English
 325263	English
-76871	Français
 353898	हिन्दी
 336203	Français
 336203	हिन्दी
 306543	Nederlands
-316170	Italiano
 50341	한국어/조선말
 65628	Italiano
-116236	Italiano
 297505	Italiano
 289679	
 270463	Deutsch
@@ -42080,7 +41592,6 @@ id	language_name
 295111	Deutsch
 260313	euskera
 260313	Español
-284048	Español
 320643	Pусский
 58858	Français
 32671	English
@@ -42169,7 +41680,6 @@ id	language_name
 319513	Nederlands
 191718	Français
 330421	தமிழ்
-177104	Italiano
 348296	English
 26847	English
 287241	English
@@ -42270,7 +41780,6 @@ id	language_name
 266433	English
 347328	עִבְרִית
 319910	English
-252773	Français
 284279	Norsk
 313922	English
 37923	English
@@ -42460,7 +41969,6 @@ id	language_name
 358982	English
 218576	English
 356149	English
-315335	Deutsch
 81704	English
 81704	Deutsch
 81704	Italiano
@@ -42478,7 +41986,6 @@ id	language_name
 46025	Français
 139156	Français
 100243	Deutsch
-68023	Français
 28538	Italiano
 91265	English
 91265	Italiano
@@ -42487,7 +41994,6 @@ id	language_name
 84584	Italiano
 22726	Italiano
 35611	Italiano
-46436	Italiano
 27909	
 150839	English
 101444	English
@@ -42517,7 +42023,6 @@ id	language_name
 10317	English
 340382	日本語
 332839	English
-63276	Italiano
 84858	English
 84858	हिन्दी
 84858	
@@ -42589,7 +42094,6 @@ id	language_name
 211755	日本語
 321228	Deutsch
 321228	Türkçe
-257237	Italiano
 239523	日本語
 19430	Deutsch
 109632	English
@@ -42607,17 +42111,13 @@ id	language_name
 157843	English
 353686	Español
 353686	English
-300839	English
-300839	Français
 359105	Español
 359105	
 359105	English
-154671	svenska
 315841	日本語
 91007	广州话 / 廣州話
 11142	Deutsch
 11142	Pусский
-243473	Français
 18303	Français
 42427	Français
 322434	Français
@@ -42682,7 +42182,6 @@ id	language_name
 84449	English
 84449	Deutsch
 61502	English
-66447	Français
 119478	English
 87706	English
 58432	Español
@@ -42769,8 +42268,6 @@ id	language_name
 126227	English
 144111	English
 20361	Italiano
-295314	العربية
-295314	Français
 337730	Français
 95807	English
 336149	Italiano
@@ -42877,7 +42374,6 @@ id	language_name
 85207	English
 204582	English
 224778	English
-142982	
 91926	English
 179847	Polski
 39793	日本語
@@ -42924,7 +42420,6 @@ id	language_name
 295317	Deutsch
 339320	English
 339320	Español
-292539	English
 301228	English
 330112	English
 362046	English
@@ -42955,7 +42450,6 @@ id	language_name
 326333	Magyar
 326333	日本語
 250535	English
-320028	Italiano
 250230	العربية
 250230	
 250230	English
@@ -43025,7 +42519,6 @@ id	language_name
 55011	
 99760	Español
 133560	日本語
-338312	Magyar
 273197	普通话
 67977	
 295799	English
@@ -43096,10 +42589,8 @@ id	language_name
 217185	English
 85285	Italiano
 85285	English
-322453	
 118876	Italiano
 4196	English
-64526	
 106944	Italiano
 58658	Italiano
 152846	Italiano
@@ -43150,7 +42641,6 @@ id	language_name
 20430	English
 73455	Español
 199184	
-60193	
 105529	Italiano
 106224	Český
 106224	Italiano
@@ -43173,16 +42663,11 @@ id	language_name
 92572	Italiano
 56287	Italiano
 61829	Italiano
-82368	Italiano
-92586	
 76575	Italiano
-193732	Italiano
 45005	Italiano
 2969	
-273868	
 231304	Italiano
 36817	
-337014	
 47158	
 270487	English
 214717	English
@@ -43268,9 +42753,7 @@ id	language_name
 49456	Italiano
 74657	Italiano
 122787	Italiano
-80443	Italiano
 136572	Italiano
-107035	Italiano
 74656	Italiano
 291866	Pусский
 291866	English
@@ -43320,7 +42803,6 @@ id	language_name
 248417	English
 190250	English
 165181	
-268212	Deutsch
 262945	Deutsch
 37679	English
 27364	English
@@ -43687,9 +43169,7 @@ id	language_name
 72664	Deutsch
 28416	English
 292035	Nederlands
-172396	English
 76040	English
-160106	Český
 798	Deutsch
 356161	Français
 336811	English
@@ -43775,8 +43255,6 @@ id	language_name
 337473	English
 53689	svenska
 314462	
-77241	Türkçe
-52183	Türkçe
 239534	Türkçe
 236317	Türkçe
 171160	Türkçe
@@ -43838,8 +43316,6 @@ id	language_name
 44135	English
 287636	English
 117435	English
-5881	English
-5881	Français
 55240	Deutsch
 55240	English
 4893	English
@@ -43870,13 +43346,11 @@ id	language_name
 113782	Italiano
 294016	English
 324178	English
-121329	Italiano
 96368	Italiano
 129847	Italiano
 129851	Italiano
 156988	Italiano
 156995	Italiano
-146970	Italiano
 157724	Italiano
 179178	Italiano
 115042	Español
@@ -43966,7 +43440,6 @@ id	language_name
 139945	فارسی
 97632	English
 258075	English
-310126	
 37055	English
 107596	
 79329	English
@@ -43989,7 +43462,6 @@ id	language_name
 321039	English
 321039	Français
 148451	
-267389	
 37216	English
 139609	Français
 139609	Español
@@ -44149,7 +43621,6 @@ id	language_name
 266764	
 266764	English
 325690	Italiano
-42436	Italiano
 127017	
 225403	
 78329	English
@@ -44218,7 +43689,6 @@ id	language_name
 169090	svenska
 228198	Português
 299851	Português
-367006	English
 277435	English
 365188	suomi
 355436	suomi
@@ -44271,8 +43741,6 @@ id	language_name
 17875	English
 362077	English
 171174	Lietuvikai
-365340	Deutsch
-365340	Pусский
 44282	Español
 339342	Lietuvikai
 339342	English
@@ -44319,8 +43787,6 @@ id	language_name
 25354	English
 306952	English
 347258	English
-50189	Italiano
-50189	Pусский
 60810	Italiano
 280182	
 63825	தமிழ்
@@ -44365,7 +43831,6 @@ id	language_name
 58720	English
 14558	Polski
 39317	Polski
-74922	Polski
 251584	Polski
 167424	Deutsch
 167424	Română
@@ -44391,19 +43856,14 @@ id	language_name
 56978	Italiano
 57310	Italiano
 57914	Italiano
-45990	Italiano
-60018	Italiano
-64948	
 60191	Italiano
 59857	
 64032	Italiano
 78812	Italiano
 121464	Italiano
 8430	Italiano
-61217	
 75532	Italiano
 155956	Italiano
-42579	Italiano
 56922	Italiano
 293264	Italiano
 157827	English
@@ -44429,7 +43889,6 @@ id	language_name
 291006	English
 276536	Deutsch
 200823	Français
-327383	Español
 287426	English
 23857	Français
 332502	English
@@ -44443,22 +43902,15 @@ id	language_name
 59959	Français
 11530	Français
 207402	English
-49907	Français
-49907	Italiano
-67177	Italiano
 107812	English
 198474	
-183964	
 24195	Italiano
 71995	Italiano
 274131	
-62034	Italiano
 220565	
-217648	Italiano
 63074	Italiano
 60175	Français
 24260	Français
-53179	Français
 58833	Français
 52557	Français
 271388	Español
@@ -44471,7 +43923,6 @@ id	language_name
 39850	Italiano
 39850	普通话
 79212	Türkçe
-332534	
 27721	Türkçe
 193544	Türkçe
 297308	Magyar
@@ -44531,8 +43982,6 @@ id	language_name
 329724	Français
 4228	English
 4228	Français
-59349	Deutsch
-59349	Français
 76793	Français
 50213	Français
 71767	Español
@@ -44567,7 +44016,6 @@ id	language_name
 42952	Pусский
 64046	Pусский
 64044	Pусский
-84774	Pусский
 65099	Pусский
 140966	Pусский
 44617	
@@ -44575,7 +44023,6 @@ id	language_name
 364684	
 37015	Italiano
 37015	English
-207696	
 63537	Pусский
 72888	Pусский
 63304	Pусский
@@ -44619,14 +44066,12 @@ id	language_name
 92737	
 62040	English
 59455	Français
-263873	English
 80386	
 77720	Pусский
 83614	Pусский
 74852	Pусский
 126846	Pусский
 72093	Pусский
-72095	Pусский
 60199	English
 116544	日本語
 227998	Pусский
@@ -44675,12 +44120,9 @@ id	language_name
 18512	English
 43456	English
 43503	English
-265351	Türkçe
 333886	Türkçe
 268413	Türkçe
 64433	Türkçe
-30634	
-49828	Türkçe
 320349	English
 352327	English
 172520	English
@@ -44717,7 +44159,6 @@ id	language_name
 51403	Română
 51403	Español
 369230	Italiano
-257593	
 324259	Nederlands
 188981	日本語
 44785	日本語
@@ -44744,7 +44185,6 @@ id	language_name
 334527	English
 60836	English
 161620	
-166207	Español
 356898	广州话 / 廣州話
 293982	Français
 293982	Deutsch
@@ -44862,7 +44302,6 @@ id	language_name
 42809	日本語
 341895	
 341895	தமிழ்
-48845	ελληνικά
 345575	Dansk
 345575	English
 345575	Deutsch
@@ -44888,7 +44327,6 @@ id	language_name
 339751	English
 339751	Français
 339751	日本語
-295748	Türkçe
 34666	English
 34666	Deutsch
 34666	Italiano
@@ -44920,7 +44358,6 @@ id	language_name
 321666	English
 321666	Español
 307103	Français
-326874	Français
 103012	English
 103012	हिन्दी
 103012	isiZulu
@@ -44949,9 +44386,7 @@ id	language_name
 161076	English
 16422	English
 272255	English
-285908	Français
 254918	English
-358980	
 13591	English
 345637	English
 336882	Norsk
@@ -44959,13 +44394,11 @@ id	language_name
 315868	Français
 256546	Türkçe
 105085	Italiano
-279179	
 61535	English
 256375	Français
 79435	Français
 79435	Deutsch
 334028	English
-152539	Français
 58384	Deutsch
 58384	svenska
 68437	svenska
@@ -45014,7 +44447,6 @@ id	language_name
 23153	日本語
 23166	日本語
 23167	日本語
-366548	Français
 351694	广州话 / 廣州話
 351694	普通话
 260928	English
@@ -45023,8 +44455,6 @@ id	language_name
 15706	English
 15706	Español
 301816	English
-338438	English
-338438	Italiano
 107100	English
 81409	Italiano
 74082	Italiano
@@ -45062,7 +44492,6 @@ id	language_name
 333968	ภาษาไทย
 17223	Italiano
 72246	Español
-248706	English
 347969	English
 166178	ภาษาไทย
 166178	English
@@ -45113,12 +44542,8 @@ id	language_name
 267094	广州话 / 廣州話
 156135	Italiano
 78101	Italiano
-163706	Italiano
 73954	
-182843	Italiano
-162056	Italiano
 93064	Italiano
-150958	Italiano
 27009	English
 30922	English
 25568	English
@@ -45179,7 +44604,6 @@ id	language_name
 326425	English
 180929	English
 105153	No Language
-299165	Español
 303867	English
 103502	Français
 28138	English
@@ -45294,19 +44718,12 @@ id	language_name
 346472	Latin
 346472	Español
 30644	English
-131897	
 282069	日本語
 282070	日本語
 373541	English
-252028	Nederlands
 299585	English
 36771	suomi
-55254	
 62900	suomi
-55776	suomi
-62898	suomi
-62896	
-62897	suomi
 62894	suomi
 145912	suomi
 36772	suomi
@@ -45318,9 +44735,7 @@ id	language_name
 322270	
 40836	English
 351819	English
-58074	Italiano
 56975	Italiano
-56068	Italiano
 66177	
 94641	English
 53834	English
@@ -45501,8 +44916,6 @@ id	language_name
 43020	Español
 127642	
 127642	English
-315319	Italiano
-298722	
 370835	English
 61464	
 60116	Italiano
@@ -45534,7 +44947,6 @@ id	language_name
 373357	
 342927	English
 68507	ภาษาไทย
-272426	Deutsch
 357940	普通话
 41032	
 292523	English
@@ -45542,7 +44954,6 @@ id	language_name
 28997	Português
 73976	Português
 37817	Português
-82745	Português
 85389	Português
 73919	Português
 73919	Deutsch
@@ -45564,7 +44975,6 @@ id	language_name
 267955	English
 352200	English
 352200	עִבְרִית
-366566	Français
 337075	English
 309811	English
 281291	English
@@ -45613,7 +45023,6 @@ id	language_name
 99729	English
 181426	English
 44459	English
-153717	Deutsch
 289673	English
 337208	English
 262234	English
@@ -45636,8 +45045,6 @@ id	language_name
 132561	Nederlands
 132561	Türkçe
 44751	Nederlands
-68360	Français
-68444	Nederlands
 276608	
 12135	Nederlands
 76202	English
@@ -45673,14 +45080,12 @@ id	language_name
 52738	
 22454	Nederlands
 141145	Nederlands
-73628	
 86482	Nederlands
 164366	Nederlands
 94630	Nederlands
 280437	Nederlands
 287344	English
 287344	Nederlands
-374698	
 218238	Nederlands
 73222	
 142085	Magyar
@@ -45690,7 +45095,6 @@ id	language_name
 52260	Nederlands
 15994	Nederlands
 36712	Nederlands
-182545	Nederlands
 35639	Nederlands
 63044	Nederlands
 74436	Português
@@ -45699,7 +45103,6 @@ id	language_name
 255647	Español
 255647	Srpski
 255647	English
-54832	English
 111480	Français
 111480	Deutsch
 44478	Français
@@ -45727,9 +45130,6 @@ id	language_name
 54330	한국어/조선말
 129119	Türkçe
 328480	English
-284250	
-284250	Türkçe
-284250	ελληνικά
 82655	English
 325134	Türkçe
 159109	English
@@ -45754,7 +45154,6 @@ id	language_name
 168379	Español
 329440	English
 41518	हिन्दी
-277934	Türkçe
 141901	Türkçe
 94555	한국어/조선말
 46494	English
@@ -45783,7 +45182,6 @@ id	language_name
 43856	English
 118026	日本語
 284050	Español
-105991	普通话
 287497	български език
 320420	
 77194	日本語
@@ -45876,7 +45274,6 @@ id	language_name
 294825	English
 61662	Français
 31343	Français
-150049	Français
 13713	Français
 347155	
 38883	Français
@@ -45885,7 +45282,6 @@ id	language_name
 84782	Pусский
 277631	English
 329407	English
-135307	Français
 212753	English
 358238	English
 376823	
@@ -45894,7 +45290,6 @@ id	language_name
 86232	English
 139712	Deutsch
 106739	
-372113	
 150054	العربية
 321974	English
 80970	Français
@@ -45960,11 +45355,9 @@ id	language_name
 36620	Polski
 26314	Polski
 176535	Polski
-74921	Polski
 153266	Polski
 153266	English
 78326	Polski
-58553	Polski
 36626	Deutsch
 36626	Polski
 31855	Polski
@@ -45976,9 +45369,7 @@ id	language_name
 144942	English
 144942	Magyar
 176037	
-329550	Polski
 38941	Polski
-282768	
 90909	
 93862	English
 152388	English
@@ -45986,7 +45377,6 @@ id	language_name
 169009	English
 285011	English
 110372	English
-48431	
 108246	
 133255	English
 63654	தமிழ்
@@ -46017,12 +45407,9 @@ id	language_name
 42690	Deutsch
 115162	Français
 5067	Français
-84035	
 76777	Français
 76775	Français
 76772	Français
-147360	Français
-147360	Deutsch
 4709	Français
 68754	Français
 43462	Français
@@ -46056,7 +45443,6 @@ id	language_name
 47360	English
 47363	English
 28920	English
-359807	Português
 56589	Français
 259835	Italiano
 373355	English
@@ -46068,9 +45454,7 @@ id	language_name
 323675	English
 312669	English
 377565	ελληνικά
-53301	
 47367	Italiano
-59264	
 27069	English
 27069	Deutsch
 366924	English
@@ -46086,7 +45470,6 @@ id	language_name
 276898	
 217587	English
 158431	English
-46442	Deutsch
 53290	Nederlands
 53290	English
 53290	Français
@@ -46122,9 +45505,7 @@ id	language_name
 149691	Italiano
 149691	Español
 150708	
-222619	English
 26703	English
-264036	
 104081	Español
 64462	Español
 65795	English
@@ -46133,8 +45514,6 @@ id	language_name
 161024	Español
 35411	Español
 109690	Español
-222030	Español
-222030	English
 42107	English
 331962	English
 27428	한국어/조선말
@@ -46168,7 +45547,6 @@ id	language_name
 97666	Pусский
 220029	English
 157293	हिन्दी
-187737	
 220176	한국어/조선말
 377136	
 156220	English
@@ -46232,11 +45610,9 @@ id	language_name
 373472	English
 329004	English
 76851	English
-235450	English
 58500	English
 376530	English
 376530	қазақ
-365065	English
 67844	
 334918	Français
 345775	Dansk
@@ -46276,8 +45652,6 @@ id	language_name
 300673	English
 18874	日本語
 347495	
-171902	Français
-171902	Deutsch
 11089	Español
 11089	Deutsch
 301325	English
@@ -46355,7 +45729,6 @@ id	language_name
 135713	English
 43735	
 298986	Italiano
-333888	Italiano
 332709	Italiano
 18230	English
 44566	हिन्दी
@@ -46381,7 +45754,6 @@ id	language_name
 336663	Français
 336663	فارسی
 17720	English
-335031	
 42526	English
 76200	Français
 346651	English
@@ -46446,7 +45818,6 @@ id	language_name
 164443	English
 164443	Deutsch
 164443	Polski
-61314	Italiano
 282084	English
 342381	English
 92060	English
@@ -46461,7 +45832,6 @@ id	language_name
 365187	తెలుగు
 360387	English
 366249	suomi
-78340	Français
 257081	English
 228647	English
 87612	English
@@ -46509,17 +45879,12 @@ id	language_name
 76282	
 44637	English
 86186	English
-84865	Italiano
-359154	Català
-359154	Español
 33842	Español
-82157	Deutsch
 124480	Español
 124480	Português
 157447	English
 110395	English
 110395	Español
-43292	Italiano
 211317	English
 211317	日本語
 211317	Italiano
@@ -46555,7 +45920,6 @@ id	language_name
 56309	English
 127688	English
 93193	English
-128866	English
 161374	Deutsch
 161374	Français
 161374	English
@@ -46578,7 +45942,6 @@ id	language_name
 86495	English
 151062	English
 27674	English
-370168	
 58769	Deutsch
 125087	
 74942	English
@@ -46590,7 +45953,6 @@ id	language_name
 47655	English
 47655	हिन्दी
 85512	English
-27941	English
 28686	English
 44385	English
 96334	English
@@ -46626,7 +45988,6 @@ id	language_name
 354857	English
 65707	Français
 82094	Český
-367492	Türkçe
 100275	English
 73800	广州话 / 廣州話
 365222	广州话 / 廣州話
@@ -46642,7 +46003,6 @@ id	language_name
 67327	日本語
 67327	ภาษาไทย
 23529	Español
-54769	Deutsch
 20221	Español
 114922	Español
 182219	Český
@@ -46650,7 +46010,6 @@ id	language_name
 81666	Italiano
 290365	Français
 46258	Deutsch
-225244	
 253395	suomi
 82153	
 77585	English
@@ -46668,7 +46027,6 @@ id	language_name
 278771	English
 353609	English
 208431	ελληνικά
-331354	Español
 9321	Deutsch
 183176	
 228204	English
@@ -46688,12 +46046,10 @@ id	language_name
 114354	Español
 112631	English
 112631	Español
-234815	Español
 240628	Español
 258450	Español
 312101	Español
 186066	Español
-82265	
 157153	Español
 43953	Dansk
 128177	Español
@@ -46741,7 +46097,6 @@ id	language_name
 104548	日本語
 313108	한국어/조선말
 382155	Polski
-74919	Polski
 139635	
 44528	Deutsch
 127329	广州话 / 廣州話
@@ -46749,7 +46104,6 @@ id	language_name
 127329	普通话
 85580	English
 9939	
-379873	Italiano
 137269	
 44239	English
 20534	हिन्दी
@@ -46787,12 +46141,10 @@ id	language_name
 184522	
 161898	
 303982	Português
-228184	Português
 153695	English
 300602	Català
 300602	English
 300602	Español
-258585	suomi
 41093	Magyar
 53871	
 283424	
@@ -46874,7 +46226,6 @@ id	language_name
 87394	
 217247	Polski
 27598	svenska
-245324	
 78547	Français
 73094	English
 175380	Deutsch
@@ -46907,7 +46258,6 @@ id	language_name
 62759	English
 336970	svenska
 155052	Pусский
-92988	Deutsch
 45204	Nederlands
 10500	Deutsch
 101965	日本語
@@ -46935,13 +46285,10 @@ id	language_name
 108639	Español
 80990	Français
 56487	Deutsch
-66541	Français
 65504	Français
 85904	English
 85904	Français
 85904	Deutsch
-152653	
-185153	English
 70503	Nederlands
 121740	svenska
 46212	Český
@@ -47002,7 +46349,6 @@ id	language_name
 88302	ქართული
 88302	Pусский
 180695	Polski
-218728	Deutsch
 70794	Français
 1837	Français
 98642	Pусский
@@ -47013,9 +46359,7 @@ id	language_name
 89757	
 35749	English
 302436	Pусский
-49941	Deutsch
 189556	Pусский
-89560	Français
 136141	No Language
 47900	Slovenčina
 115239	Polski
@@ -47055,7 +46399,6 @@ id	language_name
 28525	Português
 198450	Português
 16403	Srpski
-79048	
 106538	Français
 361980	suomi
 163077	
@@ -47063,13 +46406,11 @@ id	language_name
 65120	
 293313	suomi
 140278	
-353641	suomi
 270936	
 293471	suomi
 364387	suomi
 364387	Deutsch
 52775	Nederlands
-64504	Français
 61320	Český
 61313	Český
 69120	
@@ -47100,13 +46441,11 @@ id	language_name
 278778	English
 352720	Pусский
 352720	Deutsch
-316111	
 260163	English
 286367	English
 178687	English
 52416	한국어/조선말
 51205	Français
-280045	Español
 205943	English
 169865	English
 216068	English
@@ -47130,7 +46469,6 @@ id	language_name
 226092	हिन्दी
 28389	English
 72661	Íslenska
-41078	Magyar
 73129	Magyar
 61552	Deutsch
 103539	қазақ
@@ -47140,12 +46478,10 @@ id	language_name
 42346	Nederlands
 47723	svenska
 21751	Nederlands
-104172	
 318851	Nederlands
 118727	
 150578	
 291122	
-319179	
 121754	svenska
 162458	Français
 242289	Português
@@ -47208,7 +46544,6 @@ id	language_name
 70967	Français
 105033	Français
 161535	
-71630	Français
 145909	suomi
 384262	English
 384262	suomi
@@ -47222,7 +46557,6 @@ id	language_name
 351981	Español
 341007	اردو
 241927	English
-77958	Italiano
 20294	हिन्दी
 36204	हिन्दी
 20454	हिन्दी
@@ -47258,8 +46592,6 @@ id	language_name
 55376	हिन्दी
 21822	हिन्दी
 36919	Český
-342163	Magyar
-342163	Español
 106414	
 371462	English
 75282	English
@@ -47285,11 +46617,9 @@ id	language_name
 69016	English
 38668	Deutsch
 83299	日本語
-44517	Español
 61699	English
 61699	עִבְרִית
 182768	日本語
-96497	
 10129	Deutsch
 76350	Français
 40522	Français
@@ -47335,22 +46665,16 @@ id	language_name
 20891	Pусский
 117790	Nederlands
 112346	Nederlands
-199879	English
-96594	
 52073	Français
-308671	Deutsch
 97547	Nederlands
 97547	Deutsch
 189420	No Language
-284620	Français
 76099	Français
 209312	বাংলা
-238456	
 24603	हिन्दी
 82409	Português
 20507	हिन्दी
 82279	Český
-267035	Deutsch
 74661	Deutsch
 74661	Nederlands
 138449	
@@ -47379,9 +46703,7 @@ id	language_name
 354388	Français
 112947	English
 88377	English
-79836	Italiano
 61540	Italiano
-73835	Italiano
 81521	English
 61203	हिन्दी
 61203	English
@@ -47431,8 +46753,6 @@ id	language_name
 64190	English
 41039	English
 64935	Français
-2764	Nederlands
-286512	Français
 17302	English
 326305	English
 57983	Český
@@ -47440,14 +46760,10 @@ id	language_name
 48489	Italiano
 48489	ภาษาไทย
 78539	Français
-296225	
 369366	
 64649	日本語
 75179	Nederlands
 72615	svenska
-71496	Français
-53472	Nederlands
-53472	English
 3048	English
 78072	
 201214	
@@ -47473,7 +46789,6 @@ id	language_name
 321377	English
 288286	Português
 16803	ελληνικά
-347465	
 173421	ελληνικά
 48128	ελληνικά
 48122	ελληνικά
@@ -47497,11 +46812,8 @@ id	language_name
 78202	Deutsch
 73123	Nederlands
 107767	Français
-220154	English
-119816	Deutsch
 47231	Nederlands
 9084	Deutsch
-324408	
 50294	Český
 50294	English
 81389	Nederlands
@@ -47518,9 +46830,7 @@ id	language_name
 799	Deutsch
 54560	
 53524	
-70119	Français
 267415	Deutsch
-85690	Deutsch
 21070	Français
 38553	English
 15201	
@@ -47534,8 +46844,6 @@ id	language_name
 8651	Deutsch
 361181	
 127286	
-51839	Nederlands
-164288	
 85787	日本語
 50179	English
 50179	Deutsch
@@ -47574,10 +46882,7 @@ id	language_name
 37600	Nederlands
 37600	English
 253072	English
-24199	Nederlands
-24199	English
 49323	
-295782	
 52088	English
 52088	Deutsch
 9608	English
@@ -47591,7 +46896,6 @@ id	language_name
 76323	Dansk
 168712	English
 50583	ภาษาไทย
-153541	
 12495	Deutsch
 97138	English
 29101	Français
@@ -47607,7 +46911,6 @@ id	language_name
 15838	Dansk
 15838	English
 53463	English
-19812	Dansk
 135204	Eesti
 61863	English
 49877	
@@ -47619,7 +46922,6 @@ id	language_name
 27730	Deutsch
 27730	Français
 18265	Íslenska
-56344	
 349008	
 111114	English
 65885	Français
@@ -47681,10 +46983,8 @@ id	language_name
 45490	English
 45490	日本語
 297288	Italiano
-297745	
 24235	English
 57394	한국어/조선말
-274110	Español
 64304	普通话
 43833	English
 193460	English
@@ -47730,16 +47030,13 @@ id	language_name
 116318	English
 116318	日本語
 128061	Nederlands
-211158	Deutsch
 361131	हिन्दी
 105304	Français
 257095	Český
-64437	Français
 357959	
 45205	日本語
 76784	Nederlands
 317988	
-142406	
 263627	English
 355211	
 261562	Pусский
@@ -47778,7 +47075,6 @@ id	language_name
 302528	Deutsch
 302528	English
 137200	Deutsch
-262713	svenska
 130993	English
 256316	한국어/조선말
 121998	Italiano
@@ -47795,15 +47091,10 @@ id	language_name
 159630	
 89337	English
 89337	Italiano
-69610	Türkçe
 42911	
 163313	
 347835	
-187238	
-383809	Français
-135536	Italiano
 101553	Italiano
-138273	
 137599	Italiano
 50268	Deutsch
 50268	Italiano
@@ -47817,10 +47108,8 @@ id	language_name
 10125	Hrvatski
 329010	English
 324340	Deutsch
-367596	
 27836	English
 96161	English
-297207	
 26329	English
 367275	suomi
 77829	English
@@ -47882,9 +47171,6 @@ id	language_name
 144436	
 94702	No Language
 85220	No Language
-140554	English
-140554	Deutsch
-140554	Español
 277796	English
 263976	Português
 369245	Italiano
@@ -47902,7 +47188,6 @@ id	language_name
 333352	Somali
 333352	English
 367524	English
-64407	Français
 63224	Français
 98302	Français
 359025	English
@@ -47988,8 +47273,6 @@ id	language_name
 41988	English
 347689	English
 339984	English
-54566	
-55495	
 379925	English
 347881	English
 359549	
@@ -48023,9 +47306,7 @@ id	language_name
 376311	English
 376311	Português
 315664	English
-49834	Türkçe
 24258	ελληνικά
-47683	ελληνικά
 258800	ελληνικά
 163018	ελληνικά
 377799	العربية
@@ -48127,8 +47408,6 @@ id	language_name
 34158	English
 34158	Español
 214170	English
-341745	Deutsch
-276157	
 122544	English
 296360	English
 257044	English
@@ -48142,7 +47421,6 @@ id	language_name
 60410	English
 33419	English
 33419	Italiano
-76746	Pусский
 36818	English
 242631	English
 134238	English
@@ -48180,16 +47458,13 @@ id	language_name
 304869	
 251220	English
 229353	
-302802	
 204506	Español
 387893	English
-109261	Français
 287717	English
 287717	Français
 287717	Deutsch
 45103	English
 27923	Pусский
-74705	Pусский
 334629	English
 246415	Pусский
 246415	English
@@ -48197,7 +47472,6 @@ id	language_name
 125531	Pусский
 163042	Pусский
 163042	Український
-177714	Español
 131027	Magyar
 83234	ქართული
 78476	Français
@@ -48339,7 +47613,6 @@ id	language_name
 29490	English
 29829	English
 46196	English
-206099	English
 29390	English
 29398	English
 300769	English
@@ -48396,7 +47669,6 @@ id	language_name
 200558	
 26768	English
 354924	English
-254439	Português
 96186	No Language
 52854	普通话
 227077	Magyar
@@ -48483,7 +47755,6 @@ id	language_name
 356090	suomi
 356090	Français
 290188	
-87992	svenska
 54440	English
 340187	English
 328594	日本語
@@ -48504,7 +47775,6 @@ id	language_name
 23854	Português
 62132	English
 62132	Français
-75537	
 333123	English
 39899	English
 3941	English
@@ -48514,7 +47784,6 @@ id	language_name
 1652	Deutsch
 1655	Deutsch
 38243	
-279090	Deutsch
 348025	Français
 56948	Español
 353326	
@@ -48555,7 +47824,6 @@ id	language_name
 58792	English
 375572	Italiano
 51393	한국어/조선말
-102444	English
 114394	English
 168616	English
 168616	Íslenska
@@ -48580,7 +47848,6 @@ id	language_name
 51298	English
 83266	Español
 38995	
-343042	
 206630	English
 202637	English
 39704	English
@@ -48609,8 +47876,6 @@ id	language_name
 53999	
 140652	English
 320639	English
-220515	English
-220515	Français
 142611	Hrvatski
 142611	English
 142611	Srpski
@@ -48805,10 +48070,7 @@ id	language_name
 390520	English
 392891	English
 306523	Italiano
-306555	
 305455	Français
-265717	
-264454	
 234004	English
 44157	English
 282266	
@@ -48816,7 +48078,6 @@ id	language_name
 114521	English
 25019	English
 97943	普通话
-14263	English
 323262	English
 214187	English
 173587	Nederlands
@@ -48829,7 +48090,6 @@ id	language_name
 9547	Deutsch
 65887	Français
 210615	Français
-66187	Français
 271919	Français
 12266	Français
 334889	svenska
@@ -48843,13 +48103,9 @@ id	language_name
 33827	English
 59126	English
 41617	
-120268	Français
-120268	Deutsch
-120268	Pусский
 342850	
 313511	
 184561	English
-231540	Deutsch
 107248	普通话
 235690	
 277459	
@@ -48864,7 +48120,6 @@ id	language_name
 200868	
 355890	English
 127259	普通话
-388055	
 245013	
 97253	
 202515	普通话
@@ -48887,7 +48142,6 @@ id	language_name
 47096	Italiano
 305815	日本語
 94709	Italiano
-119820	Deutsch
 323573	
 379387	
 211337	
@@ -48960,7 +48214,6 @@ id	language_name
 82098	Deutsch
 72655	Français
 97844	Français
-124013	Français
 45537	Français
 189996	Français
 255511	Français
@@ -49032,12 +48285,10 @@ id	language_name
 35752	日本語
 11767	English
 119433	English
-288694	Italiano
 96958	svenska
 371695	English
 11681	Italiano
 11681	English
-155011	Italiano
 219247	English
 41808	English
 303360	English
@@ -49155,9 +48406,7 @@ id	language_name
 361733	Hrvatski
 66944	Hrvatski
 284154	Srpski
-112931	Français
 61711	Français
-58007	Italiano
 61532	
 216138	Español
 216138	English
@@ -49300,7 +48549,6 @@ id	language_name
 145840	English
 211125	English
 85887	English
-227552	English
 81416	English
 208035	English
 389995	Español
@@ -49596,7 +48844,6 @@ id	language_name
 41149	English
 25787	English
 280178	
-269306	svenska
 109380	Český
 103941	Español
 361146	Português
@@ -49698,7 +48945,6 @@ id	language_name
 245913	Pусский
 82819	English
 75198	Français
-51334	Türkçe
 94659	日本語
 117472	日本語
 117767	Polski
@@ -49719,7 +48965,6 @@ id	language_name
 281238	
 145244	Italiano
 87335	Italiano
-205557	Italiano
 61581	Italiano
 389427	English
 144341	Italiano
@@ -49755,7 +49000,6 @@ id	language_name
 170898	Hrvatski
 25079	日本語
 80699	Dansk
-130638	
 363889	English
 355598	English
 323372	Español
@@ -49791,7 +49035,6 @@ id	language_name
 226437	Polski
 258322	Italiano
 324181	English
-63398	Français
 4948	Français
 51444	English
 31453	English
@@ -49862,7 +49105,6 @@ id	language_name
 57458	ภาษาไทย
 267192	English
 110490	English
-278935	
 183855	Português
 48502	Español
 199883	Português
@@ -49899,8 +49141,6 @@ id	language_name
 68256	
 68256	हिन्दी
 85043	हिन्दी
-202984	English
-202984	
 324820	
 337965	
 360606	English
@@ -49953,8 +49193,6 @@ id	language_name
 55035	Français
 12529	Italiano
 9031	Italiano
-259634	Italiano
-46572	Italiano
 315439	한국어/조선말
 302161	English
 340611	English
@@ -49967,9 +49205,7 @@ id	language_name
 369228	Italiano
 367999	Italiano
 356758	Italiano
-371942	Italiano
 359156	Italiano
-359152	
 343173	English
 390512	English
 27123	Deutsch
@@ -50034,7 +49270,6 @@ id	language_name
 254664	普通话
 137308	
 156967	English
-156954	Deutsch
 66780	
 137826	English
 262829	English
@@ -50119,14 +49354,12 @@ id	language_name
 44510	English
 376812	English
 376812	हिन्दी
-342213	Español
 148615	English
 389180	Français
 262542	English
 16909	Dansk
 372297	हिन्दी
 372297	
-126043	Português
 405621	
 103396	Deutsch
 130957	Deutsch
@@ -50135,13 +49368,11 @@ id	language_name
 98644	English
 393834	English
 366514	Français
-63989	Français
 328901	English
 388862	English
 263416	English
 150871	
 316268	English
-293516	
 360249	Deutsch
 360249	Norsk
 28406	Español
@@ -50198,7 +49429,6 @@ id	language_name
 392885	English
 28073	English
 175427	اردو
-237799	Français
 40585	Français
 318052	עִבְרִית
 254251	English
@@ -50221,8 +49451,6 @@ id	language_name
 17288	Türkçe
 8383	Deutsch
 325240	English
-112675	Deutsch
-112675	Română
 46879	Deutsch
 46879	Español
 162874	English
@@ -50302,7 +49530,6 @@ id	language_name
 24057	English
 73772	English
 38622	English
-183073	Italiano
 76199	English
 38494	
 161796	English
@@ -50329,7 +49556,6 @@ id	language_name
 404073	English
 67617	Português
 397365	हिन्दी
-208173	Español
 190326	Pусский
 140423	עִבְרִית
 347642	English
@@ -50390,16 +49616,13 @@ id	language_name
 368940	Deutsch
 368940	ภาษาไทย
 118195	Español
-338079	
 334304	Français
-340119	
 62009	Français
 62009	Deutsch
 54107	English
 49855	
 408140	
 369605	
-378607	Norsk
 228496	English
 268893	English
 261410	English
@@ -50540,7 +49763,6 @@ id	language_name
 336455	English
 407389	English
 384111	Eesti
-256916	Español
 31111	Italiano
 336265	English
 306966	English
@@ -50669,7 +49891,6 @@ id	language_name
 270774	English
 270774	普通话
 33317	
-144421	No Language
 29890	English
 99313	
 207413	
@@ -50684,8 +49905,6 @@ id	language_name
 71559	Français
 87343	English
 82686	English
-267497	
-267506	
 260916	English
 69870	English
 82405	العربية
@@ -50821,7 +50040,6 @@ id	language_name
 231020	Italiano
 403936	English
 297399	English
-262786	Italiano
 231145	
 370664	English
 27605	Español
@@ -50892,27 +50110,21 @@ id	language_name
 144105	
 287603	English
 48250	Italiano
-279842	
 142966	English
 347105	
 336736	English
 33495	Italiano
-246829	Italiano
 239783	
 77137	Italiano
 77147	Italiano
 46028	Italiano
 58773	
 41583	Italiano
-124202	Italiano
-73755	Italiano
-38289	
 42290	Italiano
 45037	
 287982	English
 363969	Polski
 125926	svenska
-105734	svenska
 139195	svenska
 162818	svenska
 197528	svenska
@@ -50957,11 +50169,9 @@ id	language_name
 280416	English
 65755	
 238204	فارسی
-407965	
 358807	English
 352890	Deutsch
 352890	English
-59858	
 310442	
 360321	English
 356757	Italiano
@@ -51002,7 +50212,6 @@ id	language_name
 54837	Español
 270251	
 16257	日本語
-320037	Español
 63186	Italiano
 36163	Pусский
 94055	English
@@ -51056,7 +50265,6 @@ id	language_name
 44868	English
 413232	
 413235	
-372640	Français
 295621	العربية
 382873	Hrvatski
 377852	English
@@ -51160,7 +50368,6 @@ id	language_name
 334461	English
 390782	English
 30858	Pусский
-413430	suomi
 218993	Français
 363841	euskera
 363841	English
@@ -51236,7 +50443,6 @@ id	language_name
 88535	日本語
 91088	한국어/조선말
 334175	Türkçe
-244971	普通话
 414827	Türkçe
 250388	English
 395925	English
@@ -51352,7 +50558,6 @@ id	language_name
 24007	English
 24007	Polski
 46149	日本語
-162899	
 40653	English
 191595	No Language
 106394	
@@ -51376,7 +50581,6 @@ id	language_name
 390669	Italiano
 412093	Italiano
 352199	Italiano
-375167	Italiano
 393857	English
 393857	Français
 393857	Italiano
@@ -51399,10 +50603,8 @@ id	language_name
 376166	Español
 35701	English
 329802	svenska
-347666	Español
 39922	English
 81477	English
-413806	
 40216	English
 40216	Français
 72733	ภาษาไทย
@@ -51467,8 +50669,6 @@ id	language_name
 161908	Português
 98277	Français
 98277	Pусский
-132608	Português
-73160	Português
 103785	Türkçe
 38156	English
 70666	Português
@@ -51571,8 +50771,6 @@ id	language_name
 391486	
 345924	English
 292022	English
-321779	Français
-321779	Český
 411009	English
 411009	Italiano
 295886	English
@@ -51581,11 +50779,8 @@ id	language_name
 159432	Dansk
 410455	
 160821	Français
-175791	
 295832	Italiano
 363757	Italiano
-333884	Italiano
-53805	Italiano
 414719	English
 130885	English
 285398	
@@ -51596,9 +50791,7 @@ id	language_name
 45505	广州话 / 廣州話
 45505	日本語
 321497	English
-378087	Español
 356189	English
-359483	Deutsch
 117592	Français
 162686	Français
 413834	English
@@ -51617,7 +50810,6 @@ id	language_name
 148558	English
 388243	English
 376565	Pусский
-322455	
 382170	日本語
 84195	Português
 377492	English
@@ -51634,8 +50826,6 @@ id	language_name
 390376	Pусский
 370203	English
 185564	English
-352917	Magyar
-402612	Magyar
 363383	
 29211	
 412437	suomi
@@ -51739,7 +50929,6 @@ id	language_name
 34075	English
 79737	English
 407655	English
-34092	Nederlands
 39772	Nederlands
 35840	
 24862	English
@@ -51758,8 +50947,6 @@ id	language_name
 56413	
 155191	
 407806	English
-318184	English
-318184	Eesti
 53216	English
 40470	English
 70278	Eesti
@@ -51944,7 +51131,6 @@ id	language_name
 243987	
 403330	
 290100	Nederlands
-420703	Português
 385737	English
 332742	اردو
 332742	English
@@ -51960,7 +51146,6 @@ id	language_name
 291356	English
 109841	English
 121111	English
-421958	Deutsch
 333072	日本語
 269057	English
 385722	English
@@ -51969,8 +51154,6 @@ id	language_name
 348320	Nederlands
 348320	Deutsch
 87035	
-315252	Nederlands
-258113	Nederlands
 111457	English
 81420	English
 120055	English
@@ -51979,12 +51162,10 @@ id	language_name
 247158	
 61736	
 22579	English
-263260	
 419771	Pусский
 405656	English
 339894	Deutsch
 421281	English
-366887	Nederlands
 421619	Hrvatski
 365267	Polski
 365267	svenska
@@ -52191,8 +51372,6 @@ id	language_name
 361777	Español
 393158	Español
 417406	
-393407	Français
-393407	Italiano
 375082	
 336445	English
 34836	English
@@ -52314,20 +51493,8 @@ id	language_name
 167012	English
 279229	Deutsch
 316015	English
-203539	Deutsch
-226001	Nederlands
-226001	Deutsch
-266568	Deutsch
 410314	Deutsch
-410774	Deutsch
 149786	English
-216647	Deutsch
-51959	Český
-313896	Deutsch
-374319	
-279558	Deutsch
-268712	Deutsch
-374247	Deutsch
 6103	English
 329981	English
 30374	English
@@ -52340,7 +51507,6 @@ id	language_name
 387558	English
 167644	
 59853	Italiano
-73077	Italiano
 41599	English
 150065	English
 49927	普通话
@@ -52364,7 +51530,6 @@ id	language_name
 395763	Français
 383807	Français
 402693	Español
-41619	Deutsch
 63244	English
 40690	English
 102622	English
@@ -52382,7 +51547,6 @@ id	language_name
 128104	English
 128104	Français
 128104	עִבְרִית
-64965	Italiano
 396232	English
 378480	
 393961	English
@@ -52487,7 +51651,6 @@ id	language_name
 291328	English
 210234	
 121173	
-148479	suomi
 346347	English
 414977	English
 31245	English
@@ -52519,9 +51682,6 @@ id	language_name
 296633	한국어/조선말
 116323	한국어/조선말
 381284	English
-297298	Türkçe
-371153	Türkçe
-140485	Türkçe
 378435	Türkçe
 425498	English
 359246	English
@@ -52533,7 +51693,6 @@ id	language_name
 77862	
 57739	Türkçe
 161808	Türkçe
-223551	
 45017	English
 272072	English
 137619	English
@@ -52553,7 +51712,6 @@ id	language_name
 187897	普通话
 424889	English
 424889	Deutsch
-80961	Türkçe
 217672	English
 215736	English
 215736	Italiano
@@ -52633,7 +51791,6 @@ id	language_name
 311324	普通话
 311324	Español
 283146	English
-56486	Deutsch
 99004	Español
 401593	English
 85944	English
@@ -52649,7 +51806,6 @@ id	language_name
 89463	English
 136921	English
 36123	English
-59046	
 409447	English
 332746	
 59356	
@@ -52691,10 +51847,8 @@ id	language_name
 297814	
 1608	English
 203059	English
-365544	
 248946	English
 110549	English
-290911	
 298522	English
 323690	English
 38610	English
@@ -52715,7 +51869,6 @@ id	language_name
 340194	English
 173845	svenska
 411632	English
-361340	English
 296288	Português
 324263	
 160372	
@@ -52785,7 +51938,6 @@ id	language_name
 363790	한국어/조선말
 391004	日本語
 259468	Polski
-53693	Dansk
 30124	English
 227668	English
 416251	English
@@ -52842,7 +51994,6 @@ id	language_name
 28275	Deutsch
 63163	Pусский
 315112	Deutsch
-430514	Français
 382127	English
 382127	Italiano
 94105	English
@@ -52903,7 +52054,6 @@ id	language_name
 81440	Pусский
 87852	English
 415396	Español
-390547	
 388399	العربية
 388399	English
 388399	普通话
@@ -52949,8 +52099,6 @@ id	language_name
 46522	English
 125077	English
 342473	English
-356461	
-392832	Italiano
 369059	
 26630	English
 161246	Deutsch
@@ -52971,7 +52119,6 @@ id	language_name
 372490	Français
 403570	English
 431742	English
-424014	
 356324	English
 124101	
 210079	Italiano
@@ -52990,7 +52137,6 @@ id	language_name
 382501	Français
 173189	English
 134680	English
-375872	Español
 404791	svenska
 369698	Norsk
 369698	Pусский
@@ -53025,7 +52171,6 @@ id	language_name
 269246	English
 264170	English
 256421	No Language
-327083	English
 148039	English
 16487	English
 16486	English
@@ -53128,11 +52273,6 @@ id	language_name
 393658	English
 411081	English
 369054	English
-254299	Nederlands
-254299	Deutsch
-82716	Český
-82716	Slovenčina
-4652	Deutsch
 80544	English
 360365	Español
 245792	English
@@ -53200,7 +52340,6 @@ id	language_name
 236655	English
 24439	English
 424661	English
-83271	Español
 378485	Español
 264418	English
 264418	Español
@@ -53223,8 +52362,6 @@ id	language_name
 382125	Kiswahili
 35992	English
 332665	English
-428645	Português
-409082	Pусский
 380622	Français
 358901	
 362202	English
@@ -53251,7 +52388,6 @@ id	language_name
 263115	English
 263115	Español
 293167	English
-43989	
 201430	English
 408626	English
 180863	български език
@@ -53277,8 +52413,6 @@ id	language_name
 183388	ελληνικά
 57305	ελληνικά
 301491	ελληνικά
-369603	
-297342	ελληνικά
 328216	English
 31142	English
 109074	English
@@ -53293,7 +52427,6 @@ id	language_name
 154339	
 369778	Français
 125114	English
-376188	Pусский
 416988	
 388586	
 274857	English
@@ -53323,7 +52456,6 @@ id	language_name
 380124	English
 388235	English
 18955	Français
-72822	Français
 295693	English
 408220	English
 408220	Deutsch
@@ -53351,9 +52483,6 @@ id	language_name
 280723	Nederlands
 280723	Deutsch
 421365	ελληνικά
-437253	
-47241	Deutsch
-47241	ελληνικά
 35396	ελληνικά
 87908	ελληνικά
 136339	ελληνικά
@@ -53380,7 +52509,6 @@ id	language_name
 174487	
 123846	
 371806	
-394723	Español
 416680	Español
 132298	Español
 127021	Español
@@ -53388,7 +52516,6 @@ id	language_name
 362227	English
 416635	English
 416635	Eesti
-437838	Deutsch
 414779	
 40895	English
 40895	Français
@@ -53398,7 +52525,6 @@ id	language_name
 435921	Italiano
 66733	English
 418378	
-384373	
 382212	
 230867	English
 230867	Türkçe
@@ -53421,11 +52547,9 @@ id	language_name
 398792	English
 328840	English
 429698	English
-58928	Français
 396920	Français
 396920	
 437752	English
-357155	Español
 380623	Français
 374251	English
 81556	Français
@@ -53459,14 +52583,10 @@ id	language_name
 17008	Deutsch
 30253	Deutsch
 208366	Deutsch
-265432	Deutsch
 15642	Deutsch
 22154	English
 29896	English
-83729	Deutsch
-83729	Türkçe
 30680	English
-177979	Deutsch
 85699	Deutsch
 85699	Italiano
 85699	Pусский
@@ -53477,7 +52597,6 @@ id	language_name
 198677	Polski
 341174	English
 346681	English
-407430	日本語
 173494	ქართული
 389272	English
 401513	Pусский
@@ -53660,7 +52779,6 @@ id	language_name
 201752	العربية
 201752	Français
 174371	English
-320318	Français
 416688	English
 178222	Srpski
 167858	Pусский
@@ -53949,8 +53067,6 @@ id	language_name
 400001	Español
 375355	English
 336000	English
-439263	suomi
-442752	suomi
 393732	English
 427451	English
 378018	English
@@ -54012,7 +53128,6 @@ id	language_name
 416499	English
 317560	English
 75944	Français
-56947	Français
 327231	svenska
 416166	English
 352845	English
@@ -54038,13 +53153,10 @@ id	language_name
 227970	Português
 261461	Português
 132518	ภาษาไทย
-224233	Português
 345938	English
-278475	Türkçe
 334939	Nederlands
 203273	English
 422715	Pусский
-408550	
 172297	Français
 395992	广州话 / 廣州話
 395992	English
@@ -54098,12 +53210,10 @@ id	language_name
 423536	English
 126204	No Language
 390930	日本語
-346758	
 53962	
 115161	English
 305470	English
 126889	English
-419522	Italiano
 173631	Deutsch
 154718	Deutsch
 334521	English
@@ -54250,10 +53360,8 @@ id	language_name
 364834	
 22450	English
 22450	Polski
-342011	Español
 112293	Dansk
 269572	Español
-391438	Español
 227627	
 77451	Español
 253332	English
@@ -54264,7 +53372,6 @@ id	language_name
 430156	English
 408435	
 408435	svenska
-416569	suomi
 28264	English
 84167	日本語
 444193	English
@@ -54313,7 +53420,6 @@ id	language_name
 380075	Deutsch
 336956	
 409820	English
-109861	
 52655	English
 256921	
 57088	English
@@ -54338,12 +53444,10 @@ id	language_name
 54548	Deutsch
 73541	English
 418718	Español
-362617	Español
 14681	English
 17028	English
 17028	Español
 25833	English
-227964	Português
 326198	Español
 168022	English
 20033	English
@@ -54364,11 +53468,9 @@ id	language_name
 413658	普通话
 420648	Deutsch
 420648	Español
-342684	Español
 4882	English
 60415	普通话
 334299	Français
-359413	Français
 295049	
 152611	Español
 20105	No Language
@@ -54392,7 +53494,6 @@ id	language_name
 341445	English
 43685	Pусский
 66085	Pусский
-77564	Pусский
 104376	Pусский
 56372	Pусский
 363056	English
@@ -54425,7 +53526,6 @@ id	language_name
 413927	Français
 26509	English
 219924	Español
-327909	Magyar
 430419	English
 310814	English
 22984	English
@@ -54452,7 +53552,6 @@ id	language_name
 368006	தமிழ்
 37520	English
 186292	suomi
-449863	Español
 32635	Español
 172705	Deutsch
 172705	Bahasa indonesia
@@ -54465,7 +53564,6 @@ id	language_name
 128169	English
 128169	日本語
 74312	
-142478	English
 14606	English
 283591	English
 72215	Pусский
@@ -54538,8 +53636,6 @@ id	language_name
 370722	English
 392818	English
 407757	English
-41663	Magyar
-41663	Italiano
 61541	English
 386172	Srpski
 386172	English
@@ -54588,7 +53684,6 @@ id	language_name
 378221	English
 435737	English
 382614	English
-185180	Español
 420714	English
 378108	日本語
 1631	Français
@@ -54600,7 +53695,6 @@ id	language_name
 361617	English
 411013	English
 453062	Deutsch
-428950	English
 18334	日本語
 375898	Français
 24177	Italiano
@@ -54609,9 +53703,6 @@ id	language_name
 23476	English
 56385	English
 345906	Español
-440508	Pусский
-440508	English
-152100	Italiano
 258116	English
 278901	English
 45031	English
@@ -54636,7 +53727,6 @@ id	language_name
 436769	
 30655	English
 256283	English
-167330	Deutsch
 412202	English
 70665	English
 104391	English
@@ -54669,7 +53759,6 @@ id	language_name
 85901	Український
 401689	English
 156045	广州话 / 廣州話
-220669	
 271404	English
 321757	English
 61708	English
@@ -54729,7 +53818,6 @@ id	language_name
 305198	Français
 305198	English
 445605	Italiano
-240992	Español
 413782	English
 413782	日本語
 233444	English
@@ -54757,33 +53845,17 @@ id	language_name
 79009	Český
 402455	日本語
 402455	Türkçe
-38547	Türkçe
 157559	
-366759	
-148697	
-49833	Türkçe
 220002	Türkçe
 64468	Türkçe
 296901	Türkçe
 236041	Türkçe
-48763	Türkçe
-452606	Türkçe
-65010	Türkçe
-101217	Türkçe
 53206	Türkçe
-236053	Türkçe
-123592	Türkçe
-109671	Türkçe
-69319	Türkçe
 110029	Türkçe
 38614	
-74171	
-327935	Türkçe
 110040	Türkçe
-123601	
 86256	Türkçe
 307020	
-123611	
 38794	Türkçe
 49057	English
 382518	Français
@@ -54829,7 +53901,6 @@ id	language_name
 427095	Nederlands
 268652	Español
 85971	English
-453596	Türkçe
 31059	Pусский
 231510	Український
 24149	
@@ -54855,7 +53926,6 @@ id	language_name
 194089	No Language
 36566	English
 110486	
-142802	Pусский
 56746	Español
 14243	English
 52805	English
@@ -54900,8 +53970,6 @@ id	language_name
 441652	English
 34325	English
 34521	English
-439998	Italiano
-77534	Pусский
 20543	English
 72386	English
 183339	English
@@ -54923,7 +53991,6 @@ id	language_name
 95990	
 371859	Français
 54514	Pусский
-143883	Pусский
 61672	Français
 227334	English
 44265	Deutsch
@@ -54986,7 +54053,6 @@ id	language_name
 67308	广州话 / 廣州話
 55429	Polski
 109354	Pусский
-354133	
 371833	English
 76638	Český
 41581	Pусский
@@ -54994,7 +54060,6 @@ id	language_name
 331641	Español
 83495	Pусский
 79234	Pусский
-191486	
 63572	Pусский
 27316	한국어/조선말
 33045	日本語
@@ -55014,7 +54079,6 @@ id	language_name
 401698	Français
 381518	English
 35967	Português
-127803	English
 398798	
 450530	English
 447818	English
@@ -55067,7 +54131,6 @@ id	language_name
 227717	Français
 119855	
 401150	
-271495	Pусский
 11070	Deutsch
 409903	Pусский
 295588	English
@@ -55285,7 +54348,6 @@ id	language_name
 39962	日本語
 118015	English
 20946	Pусский
-244575	Pусский
 8128	Český
 429070	Français
 56525	Pусский
@@ -55295,7 +54357,6 @@ id	language_name
 177950	
 332512	Pусский
 347382	Pусский
-246438	
 80178	Dansk
 59529	Pусский
 248223	Pусский
@@ -55308,7 +54369,6 @@ id	language_name
 216046	Pусский
 31772	English
 398920	Français
-362844	English
 429107	English
 429107	Español
 164144	English
@@ -55325,7 +54385,6 @@ id	language_name
 266135	
 51299	English
 117878	English
-36264	Polski
 57813	
 203665	العربية
 203665	Français
@@ -55334,7 +54393,6 @@ id	language_name
 114047	Español
 51000	Polski
 65595	
-270908	
 63899	Pусский
 138724	Pусский
 98581	Pусский
@@ -55352,7 +54410,6 @@ id	language_name
 16269	English
 16269	广州话 / 廣州話
 16322	English
-14210	English
 41978	Pусский
 456781	English
 425961	Polski
@@ -55370,7 +54427,6 @@ id	language_name
 375746	Polski
 375746	Français
 102935	English
-376934	
 87296	日本語
 62978	Français
 351067	English
@@ -55381,7 +54437,6 @@ id	language_name
 145760	Pусский
 62688	Pусский
 30619	Pусский
-213321	Pусский
 72203	Pусский
 77759	Pусский
 77762	Pусский
@@ -55418,14 +54473,12 @@ id	language_name
 56147	Italiano
 67742	
 384371	Français
-380438	Français
 17101	日本語
 153556	Português
 153556	English
 320311	
 456187	English
 203780	Pусский
-41493	svenska
 71186	Pусский
 62999	Pусский
 41957	Pусский
@@ -55433,7 +54486,6 @@ id	language_name
 63930	Pусский
 16331	English
 10917	English
-93461	
 62643	Pусский
 288126	English
 64199	Pусский
@@ -55465,7 +54517,6 @@ id	language_name
 61139	Pусский
 143380	Pусский
 71382	Pусский
-63838	Pусский
 62721	Pусский
 20884	Pусский
 64805	Français
@@ -55481,12 +54532,9 @@ id	language_name
 25571	Deutsch
 82077	English
 82077	Italiano
-197057	Pусский
-143005	Pусский
 53086	Pусский
 62997	Pусский
 62731	Pусский
-336484	Pусский
 160046	Pусский
 90001	Pусский
 186766	
@@ -55501,7 +54549,6 @@ id	language_name
 146414	Pусский
 37695	Pусский
 17210	Deutsch
-159810	
 95190	English
 195065	Pусский
 227462	
@@ -55520,11 +54567,8 @@ id	language_name
 19312	Pусский
 57207	Pусский
 62787	Pусский
-51275	Pусский
 111332	English
 34417	English
-420481	Pусский
-69976	Pусский
 35908	English
 30203	English
 51267	Pусский
@@ -55547,9 +54591,6 @@ id	language_name
 77094	ภาษาไทย
 148347	Pусский
 107170	English
-26792	Pусский
-37603	Pусский
-37603	Deutsch
 444623	
 79833	English
 196633	Pусский
@@ -55648,7 +54689,6 @@ id	language_name
 31276	English
 31244	English
 31134	English
-48209	Deutsch
 31392	Deutsch
 77889	English
 423988	English
@@ -55708,7 +54748,6 @@ id	language_name
 13741	Français
 15449	Français
 187672	Français
-57382	Français
 297680	English
 329013	Pусский
 425383	Dansk
@@ -55761,12 +54800,10 @@ id	language_name
 2104	Français
 66926	Magyar
 447236	Magyar
-110131	Magyar
 41075	
 37587	Magyar
 41055	
 8776	Magyar
-41689	Magyar
 60800	Magyar
 354296	Pусский
 165095	Pусский
@@ -55793,7 +54830,6 @@ id	language_name
 49168	Türkçe
 356167	English
 404518	
-458808	
 272610	English
 272610	Pусский
 144804	Pусский
@@ -55812,7 +54848,6 @@ id	language_name
 44458	English
 44458	普通话
 392734	English
-400552	
 54000	English
 54000	Français
 54000	ελληνικά
@@ -55850,7 +54885,6 @@ id	language_name
 382589	Français
 76812	English
 430448	English
-419601	Pусский
 59738	English
 210183	English
 66526	தமிழ்
@@ -55867,7 +54901,6 @@ id	language_name
 12816	Italiano
 12816	Polski
 12816	svenska
-14644	Français
 205908	Český
 198951	Pусский
 58296	Pусский
@@ -55877,7 +54910,6 @@ id	language_name
 57757	Pусский
 193288	Pусский
 36695	Pусский
-82495	Français
 135210	Pусский
 6436	English
 95197	Français
@@ -55891,7 +54923,6 @@ id	language_name
 81509	Deutsch
 64278	English
 41237	English
-64827	Italiano
 76012	English
 48584	Français
 50227	English
@@ -55934,7 +54965,6 @@ id	language_name
 22099	Deutsch
 333953	Pусский
 275054	Pусский
-103301	Pусский
 62664	Pусский
 143073	Pусский
 142757	Pусский
@@ -56002,8 +55032,6 @@ id	language_name
 17725	
 326011	Pусский
 456098	
-301876	English
-301876	Français
 83413	English
 41961	Pусский
 129806	Pусский
@@ -56011,15 +55039,12 @@ id	language_name
 129830	Pусский
 391700	Français
 72811	Pусский
-73545	Pусский
 63299	Pусский
 109262	English
 63584	Pусский
 204802	Pусский
 195503	Pусский
-448879	Pусский
 37174	Pусский
-457307	Pусский
 381525	Deutsch
 381525	English
 336549	Pусский
@@ -56040,7 +55065,6 @@ id	language_name
 460024	English
 460024	Português
 448763	Português
-396987	Pусский
 84016	
 43464	Italiano
 426469	English
@@ -56129,7 +55153,6 @@ id	language_name
 360007	English
 431490	English
 104694	No Language
-153561	
 336890	English
 262447	Pусский
 324631	Český
@@ -56197,7 +55220,6 @@ id	language_name
 49270	English
 174565	
 176896	English
-366860	Español
 336544	English
 67488	
 155169	English
@@ -56217,7 +55239,6 @@ id	language_name
 179549	No Language
 192301	
 298296	
-202865	
 204611	English
 434758	English
 345915	English
@@ -56228,7 +55249,6 @@ id	language_name
 407173	English
 53355	English
 138943	English
-9765	Deutsch
 461805	English
 461805	Pусский
 432602	English
@@ -56251,8 +55271,6 @@ id	language_name
 455963	
 429713	
 291495	English
-213683	
-57770	Pусский
 338546	Français
 63540	Pусский
 49169	English
@@ -56309,7 +55327,6 @@ id	language_name
 116753	
 411007	English
 56784	Italiano
-142320	Italiano
 142830	Pусский
 218901	ภาษาไทย
 39903	Deutsch
@@ -56350,7 +55367,6 @@ id	language_name
 441881	हिन्दी
 448847	English
 441728	English
-430058	Français
 143876	Pусский
 50196	Italiano
 296855	
@@ -56359,7 +55375,6 @@ id	language_name
 460822	English
 457470	English
 36464	English
-54309	Italiano
 167556	English
 408024	Français
 381507	English
@@ -56387,7 +55402,6 @@ id	language_name
 331110	Español
 436882	Nederlands
 184363	No Language
-445840	Español
 92475	Pусский
 189505	No Language
 176407	Pусский
@@ -56429,14 +55443,12 @@ id	language_name
 217917	English
 42616	English
 74384	
-64043	
 70207	English
 29458	Italiano
 160788	Français
 160788	Deutsch
 160788	Español
 38286	Italiano
-73649	Italiano
 38397	Italiano
 238008	English
 373546	English
@@ -56444,8 +55456,6 @@ id	language_name
 204997	English
 269795	English
 71133	Italiano
-57996	Italiano
-63179	Italiano
 398924	Français
 398924	Deutsch
 175910	
@@ -56489,7 +55499,6 @@ id	language_name
 412204	Deutsch
 412204	Polski
 59423	한국어/조선말
-353713	Español
 51946	English
 390526	English
 98870	English
@@ -56519,7 +55528,6 @@ id	language_name
 455675	English
 345916	English
 353491	English
-458335	
 369406	English
 444935	Español
 290283	English
@@ -56571,7 +55579,6 @@ id	language_name
 65104	Pусский
 79701	Pусский
 419786	English
-298207	Deutsch
 429918	日本語
 194097	Italiano
 20110	English
@@ -56579,7 +55586,6 @@ id	language_name
 51962	Dansk
 42642	Pусский
 256520	Pусский
-382995	English
 290217	普通话
 444902	English
 54988	English
@@ -56598,7 +55604,6 @@ id	language_name
 390747	English
 76498	English
 413049	English
-422005	suomi
 393945	Français
 297956	
 464207	English
@@ -56617,11 +55622,9 @@ id	language_name
 62447	日本語
 168235	English
 52803	No Language
-26969	Español
 196649	Pусский
 51212	English
 51212	Français
-91673	Pусский
 130278	English
 51195	Français
 273202	Pусский
@@ -56692,7 +55695,6 @@ id	language_name
 153100	
 137180	தமிழ்
 137180	हिन्दी
-68063	Italiano
 369363	
 395834	English
 34671	Deutsch
@@ -56761,8 +55763,6 @@ id	language_name
 128571	English
 82029	Français
 33704	Français
-103344	Français
-275272	Français
 68637	Français
 454774	English
 454774	Deutsch
@@ -56780,7 +55780,6 @@ id	language_name
 12097	svenska
 12097	Deutsch
 280640	Français
-231216	Deutsch
 66247	
 66247	தமிழ்
 49074	தமிழ்
@@ -56839,7 +55838,6 @@ id	language_name
 31856	Polski
 358511	English
 358511	Polski
-79343	
 155939	Polski
 56350	
 25667	Polski
@@ -56856,10 +55854,8 @@ id	language_name
 168819	Polski
 108331	Español
 291224	Polski
-418757	
 103462	
 38876	Polski
-369444	
 81318	Polski
 152912	Polski
 68802	Polski
@@ -56891,8 +55887,6 @@ id	language_name
 430365	Français
 430365	Pусский
 50977	English
-395767	Français
-199887	English
 248705	Français
 90063	Español
 37440	English
@@ -56933,7 +55927,6 @@ id	language_name
 408624	English
 413421	हिन्दी
 261871	Pусский
-317389	Italiano
 91563	English
 227143	Український
 432789	English
@@ -56955,8 +55948,6 @@ id	language_name
 97797	Pусский
 149946	Pусский
 61385	Pусский
-468707	suomi
-280422	Pусский
 38326	Pусский
 240789	Pусский
 293654	Pусский

@@ -3,3 +3,5 @@ pandas
 uvicorn
 fastapi
 seaborn
+nltk
+scikit-learn

@@ -135,6 +135,8 @@ def preprocesar_dataframes() -> bool:
        m_df.dropna(subset=['production_companies'], inplace=True)
        m_df.dropna(subset=['spoken_languages'], inplace=True)
        m_df.dropna(subset=['release_date'], inplace=True)
+       m_df.dropna(subset=['overview'], inplace=True)
+       m_df.reset_index(drop=True, inplace=True)
 
        # Validaciones en el EDA
        # release_date (luego de eliminar los nulos) tiene el formato necesario YYYY-mm-dd. No es necesario hacer modificaciones

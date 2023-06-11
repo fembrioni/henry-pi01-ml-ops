@@ -98,7 +98,6 @@ id	company_name
 63	Universal Pictures
 63	Atlas Entertainment
 63	Classico
-78802	Iwerks Entertainment
 9598	Universal Pictures
 9598	Kennedy Miller Productions
 47018	StudioCanal
@@ -694,9 +693,6 @@ id	company_name
 10452	Miramax
 10452	RCS Films & TV
 12106	TriStar Pictures
-161495	Hollywood Pictures
-161495	Interscope Communications
-161495	Nomura Babcock & Brown
 3586	Miramax Films
 110	Zespół Filmowy TOR
 110	Le Studio Canal+
@@ -1402,8 +1398,6 @@ id	company_name
 11479	Ice Films
 398959	Roxy Film
 398959	Made in Munich Filmproduktion
-287305	Westdeutscher Rundfunk (WDR)
-339428	Senator Film Produktion
 12652	
 10684	Twentieth Century Fox Film Corporation
 10684	Davis Entertainment
@@ -1415,10 +1409,8 @@ id	company_name
 18989	Trilogy Entertainment Group
 18989	Metro-Goldwyn-Mayer (MGM)
 18989	Spelling Films
-10801	Constantin Film
 54285	Park Chul-Soo Films Ltd.
 8840	Universal Pictures
-278978	
 124625	
 11107	Hollywood Pictures
 11107	PolyGram Filmed Entertainment
@@ -1486,7 +1478,6 @@ id	company_name
 29621	Van Peebles Films
 29621	Triumph Films
 29621	Orpheus Films
-117730	
 20762	Live Entertainment
 37144	
 48260	Dan Films
@@ -1743,7 +1734,6 @@ id	company_name
 34170	United Artists
 34170	Trilogy Entertainment Group
 34170	Majestic Films International
-281085	
 109478	
 124645	British Broadcasting Corporation (BBC)
 12606	Paramount Pictures
@@ -1756,7 +1746,6 @@ id	company_name
 12632	
 9098	TLA Releasing
 9098	Cobra Film
-282919	
 124614	
 18975	New Line Cinema
 18975	The Kushner-Locke Company
@@ -1793,7 +1782,6 @@ id	company_name
 9431	Universal City Studios
 124619	
 297645	
-48144	
 46986	
 144982	Zeta Entertainment
 47907	Castle Rock Entertainment
@@ -1817,7 +1805,6 @@ id	company_name
 66634	Vertigo Productions
 116690	Shochiku Company
 213917	MK2 Production
-145925	
 100914	
 238	Paramount Pictures
 238	Alfran Productions
@@ -1875,7 +1862,6 @@ id	company_name
 56077	Polaris Pictures
 19004	Universal Cartoon Studios
 101230	
-253632	
 10987	Miramax Films
 44705	Fine Line Features
 44705	BBC Films
@@ -2121,7 +2107,6 @@ id	company_name
 42314	Jam Productions
 42314	Chal Productions
 27845	
-108365	
 23223	Fine Line Features
 23223	Spelling Entertainment
 23223	Normal Life Productions
@@ -2222,7 +2207,6 @@ id	company_name
 25750	Dimension Films
 17642	Discovery Channel Productions
 427043	Wega Film
-146341	
 9305	Bac Films
 9305	Galatée Films
 9305	Canal+
@@ -2894,7 +2878,6 @@ id	company_name
 4104	Metro-Goldwyn-Mayer (MGM)
 26306	Hollywood Pictures
 203829	
-43775	
 14908	Universal Pictures
 14908	The Bubble Factory
 14908	Sheinberg Productions
@@ -2945,7 +2928,6 @@ id	company_name
 9366	Mark Johnson Productions
 9366	Phoenix Pictures
 9366	Baltimore Pictures
-60083	
 21915	Columbia Pictures
 90928	
 50091	Stand See
@@ -4392,7 +4374,6 @@ id	company_name
 91217	Geffen Company
 91217	The
 91217	Warner Bros.
-77314	
 10699	Columbia Pictures
 11597	Twentieth Century Fox Film Corporation
 11597	Baltimore Pictures
@@ -4489,7 +4470,6 @@ id	company_name
 37532	
 9713	Caravan Pictures
 9713	Touchstone Pictures
-134368	Patriot Pictures
 85837	Holly Hill Productions
 1039	Bayerischer Rundfunk
 1039	Dor Film Produktionsgesellschaft GmbH
@@ -8433,7 +8413,6 @@ id	company_name
 13166	MBST/Lloyd Productions
 32590	Redeemable Features
 32590	Artisan Entertainment
-109472	
 153141	Oil Factory
 153141	Filmfour
 153141	British Screen Productions
@@ -9718,7 +9697,6 @@ id	company_name
 10034	Touchstone Pictures
 11457	New Line Cinema
 10778	The KL Line
-78657	
 67385	
 151727	
 11456	Paramount Pictures
@@ -9809,7 +9787,6 @@ id	company_name
 14584	Columbia Pictures Corporation
 14584	Rastar Pictures
 14584	EMI Films
-58886	
 72277	Australian Film Commission
 5781	Greenwich Film Productions
 5781	In-Cine Compania Industrial Cinematografica
@@ -12192,12 +12169,6 @@ id	company_name
 37191	
 210092	Shelter Films
 3028	
-29224	Nordisk Film
-29224	Svensk Filmindustri (SF)
-29224	Svenska Filminstitutet (SFI)
-29224	Nordisk Tonefilm
-29224	Papphammar Produktion
-29224	Prodekta AB
 81001	Twentieth Century Fox Film Corporation
 81001	Boardwalk Productions
 8219	
@@ -12299,7 +12270,6 @@ id	company_name
 48561	
 30789	Morison Film Group
 30789	Venom Productions Limited
-81346	
 11057	
 47955	Paramount Pictures
 19322	Richmond Light Horse Productions
@@ -12785,7 +12755,6 @@ id	company_name
 9902	Media Cooperation One
 9902	DCP Wrong Turn Productions
 2260	
-61939	
 18385	
 584	Mikona Productions GmbH & Co. KG
 584	Universal Pictures
@@ -17179,7 +17148,6 @@ id	company_name
 11085	Metro-Goldwyn-Mayer (MGM)
 11085	Arcola Pictures
 53218	
-65048	
 24188	Fair Film
 24188	Incei Film
 24188	Sancro Film
@@ -17928,7 +17896,6 @@ id	company_name
 41792	Working Title Films
 25674	Universal Pictures
 25674	Robert Simonds Productions
-53688	
 21338	Stone Group Pictures
 21338	Vision International
 123778	First Run Features
@@ -18283,7 +18250,6 @@ id	company_name
 18491	Production I.G.
 18491	Project Eva
 18491	Star Child Recording
-175739	
 13777	
 11854	
 87489	
@@ -18821,7 +18787,6 @@ id	company_name
 12542	Century Time (H.K.) Ltd.
 12542	GFT Beast Films Inc.
 32276	
-100594	
 14455	Shochiku Company
 25757	Creative Light Entertainment
 24092	Times In
@@ -19265,11 +19230,6 @@ id	company_name
 43504	Twentieth Century Fox Film Corporation
 24749	Universal Pictures
 17657	Filmways Pictures
-32546	Instituto Nacional de Cine y Artes Audiovisuales (INCAA)
-32546	Televisión Española (TVE)
-32546	Instituto de la Cinematografía y de las Artes Audiovisuales (ICAA)
-32546	Adolfo Aristarain
-32546	Tornasol Films S.A.
 42390	Metro-Goldwyn-Mayer (MGM)
 26488	Vía Digital
 26488	Telespan 2000
@@ -19991,7 +19951,6 @@ id	company_name
 13073	
 35384	Stonehaven Media
 35384	Pure Entertainment
-113178	
 8976	Mile High Productions
 8976	Kevin Messick Productions
 8976	Touchstone Pictures
@@ -21305,7 +21264,6 @@ id	company_name
 14695	
 27031	Toho Company
 27031	Mifune Productions Co. Ltd.
-55396	Fennada-Film
 917	Mehboob Productions
 17595	
 43322	"Zespól Filmowy ""Kadr"""
@@ -21452,7 +21410,6 @@ id	company_name
 36380	Agencja Produkcji Filmowej
 36380	Canal+ Polska
 36380	Best Film
-68646	
 16433	
 30669	Splendid Pictures
 30669	Davis Entertainment Filmworks
@@ -23552,7 +23509,6 @@ id	company_name
 29965	Infinite Frameworks Pte. Ltd.
 29965	Zhao Wei Films
 13916	
-52920	
 48215	Madhouse
 48215	Kadokawa Haruki Jimusho
 22485	Cactus Three
@@ -24433,7 +24389,6 @@ id	company_name
 14123	Avi Arad & Associates
 88527	Shochiku
 88527	Shochiku Ofuna
-155386	
 4516	Fidélité Productions
 4516	Lucky Red
 4516	Wild Bunch
@@ -26717,8 +26672,6 @@ id	company_name
 102305	
 35854	Mandarin Films Distribution Co.
 14075	
-22554	Porkkana Ryhmä
-22554	Solar Films inc.
 18596	
 26431	HBO Films
 26431	Beacon Pictures
@@ -27321,7 +27274,6 @@ id	company_name
 9050	Film Workshop
 86082	
 79090	
-47499	
 60488	Walter Wanger Productions
 111302	Metro-Goldwyn-Mayer (MGM)
 112912	
@@ -28010,10 +27962,8 @@ id	company_name
 82962	Michelangelo
 22705	Lion Pictures
 16005	
-55748	
 39331	
 284117	
-55500	Dada-Filmi Oy
 14164	Ingenious Film Partners
 14164	Twentieth Century Fox Film Corporation
 14164	Dune Entertainment
@@ -28034,7 +27984,6 @@ id	company_name
 1940	Samuel Goldwyn Company
 1940	The
 33726	Twentieth Century Fox Film Corporation
-61070	
 93562	
 13557	Code Entertainment
 10041	Brand Mason
@@ -28195,7 +28144,6 @@ id	company_name
 15384	Metropolitan Filmexport
 15384	Lion Rock Productions
 15384	Showbox
-156908	
 48116	Libra Film
 48116	Multimedia Est
 15342	Warner Bros.
@@ -28203,7 +28151,6 @@ id	company_name
 17124	Mandalay Pictures
 17124	Lightning Entertainment
 17124	Mainline Releasing
-210487	
 64115	"Zespol Filmowy ""Plan"""
 17532	Newmarket Capital Group
 17532	Adam Fields Productions
@@ -28215,7 +28162,6 @@ id	company_name
 30416	Warner Bros.
 65503	RKO Radio Pictures
 65503	Frank Ross Productions
-38869	"Zespól Filmowy ""Kadr"""
 17027	Moody Street Pictures
 17027	Zero Gravity Management
 17027	Future Films
@@ -28322,7 +28268,6 @@ id	company_name
 18405	Rogue Pictures
 18405	Film Afrika
 18405	Sean S. Cunningham Films
-155426	Wytwórnia Filmów Dokumentalnych i Fabularnych (WFDiF)
 21832	TV Tokyo
 21832	Gainax
 21832	SEGA
@@ -28427,7 +28372,6 @@ id	company_name
 16345	Eros International
 81512	Metro-Goldwyn-Mayer (MGM)
 115306	Kinotar
-200796	
 27134	Element Films
 27134	Lunar Films
 27134	Irish Film Board
@@ -28436,7 +28380,6 @@ id	company_name
 761	Les Films Christian Fechner
 11914	Société Nouvelle de Cinématographie
 11914	Lira Films
-64968	
 34300	Emshell Producers
 58018	Telewizja Polska
 58018	Studio Filmowe Oko
@@ -28550,7 +28493,6 @@ id	company_name
 17610	Ocean Pictures
 17610	Apatow Productions
 8933	Bulbul Films
-156917	
 37911	Columbia Pictures
 37911	Dayle
 38773	Columbia Pictures Corporation
@@ -28971,7 +28913,6 @@ id	company_name
 15137	Studio Khara
 37047	TV Tokyo
 37047	Xebec
-66949	
 77285	Toho Company
 64728	Shôchiku Eiga
 11115	Andertainment Group
@@ -29004,7 +28945,6 @@ id	company_name
 13797	LivePlanet
 13797	Dimension Extreme
 12605	
-128856	
 145066	Channel Four Films
 145066	Pandora Cinema
 145066	Palace Pictures
@@ -29089,7 +29029,6 @@ id	company_name
 685	Olympia-Film GmbH
 92011	Alliance Communications Corporation
 92011	Turner Network Television (TNT)
-154430	
 49835	T-Stop Productions
 18759	New Line Cinema
 18759	Silverstein / Barder Company
@@ -29138,7 +29077,6 @@ id	company_name
 21371	ITVS
 21371	Noruz Films (I)
 23115	
-41427	
 184781	Metro-Goldwyn-Mayer (MGM)
 36108	Elzévir Films
 36108	Cannes Film Festival
@@ -29210,7 +29148,6 @@ id	company_name
 29914	Ginny Mule Pictures
 29914	Capricorn Pictures
 52710	
-140887	Mascot Pictures
 40979	Universal Pictures
 22494	BBC Films
 22494	Dog Lamp Films
@@ -29223,7 +29160,6 @@ id	company_name
 17899	Tornasol Films
 17899	Castafiore Films
 17899	Agrupación de Cine 001 AIE
-18120	Antena 3 Films / Cangrejo Films
 106006	
 17445	DC Comics
 17445	Warner Bros. Animation
@@ -29345,7 +29281,6 @@ id	company_name
 29963	Jan Chapman Pictures
 30685	Gold Circle Films
 25549	RKO Radio Pictures
-63615	
 26009	Columbia Pictures
 26009	Motion Picture Investors
 26500	
@@ -30080,7 +30015,6 @@ id	company_name
 82404	Ventura Film
 82404	Contracosta Produções
 128846	
-63764	Transcontinental Films
 148597	
 46886	Eetriüksus
 46886	Helsinki Filmi Oy
@@ -30256,7 +30190,6 @@ id	company_name
 149851	Davis Entertainment
 149851	Vestron Pictures
 14773	
-147683	Centrul de Productie Cinematografica Bucuresti
 25195	Universal Pictures
 25195	Spyglass Entertainment
 25195	Octagon Films
@@ -30347,7 +30280,6 @@ id	company_name
 101006	4L
 52429	Columbia Pictures
 81895	Gekko Film Corp.
-148435	
 46335	Procirep
 46335	MEDIA Programme of the European Union
 46335	Canal+
@@ -30415,8 +30347,6 @@ id	company_name
 83430	Wallimage
 83430	i2i Media Programme
 13634	Warner Bros.
-144089	Casa de Filme Trei
-144089	Centrul de Productie Cinematografica Bucuresti
 40229	VAE Productions
 10800	Futurikon
 277622	
@@ -30538,7 +30468,6 @@ id	company_name
 27567	Film Tank
 27567	Forastero
 27567	Diroriro
-147692	Filmstudio Bucuresti
 41787	Seven Arts Pictures
 41787	Carolco Pictures
 41787	New Visions Pictures
@@ -30580,7 +30509,6 @@ id	company_name
 46336	
 27569	Double Feature Films
 27569	CBS Films
-62775	
 120109	Columbia Pictures Corporation
 8349	Niama Film
 75877	Televisión Española (TVE)
@@ -30781,7 +30709,6 @@ id	company_name
 22166	
 408956	
 18489	Renegade Pictures
-120280	
 19962	Film Council
 19962	Hallmark Entertainment
 19962	Artists Independent Productions
@@ -30828,8 +30755,6 @@ id	company_name
 17473	Wiseau-Films
 200664	
 224642	Suomen Filmiteollisuus
-117499	FJ Filmi
-174748	
 26022	Fox Searchlight Pictures
 26022	Red Chillies Entertainment
 26022	Foxstar
@@ -31476,8 +31401,6 @@ id	company_name
 31345	Renn Productions
 31345	Parc Film
 31345	Parafrance Films
-21245	
-60677	
 52620	Little Fugitive Production Company
 34626	
 47737	Avton Films
@@ -31542,7 +31465,6 @@ id	company_name
 261538	
 253232	Shochiku Co.
 253232	Ltd.
-173865	Harlin/Selin Productions Oy
 225503	Great Western Productions
 29069	New World Pictures
 26962	ApolloProScreen Filmproduktion
@@ -31704,7 +31626,6 @@ id	company_name
 3589	Arnold Pressburger Films
 25869	Eros International
 25869	Orion Films
-30695	
 94225	Stanley Kramer Productions
 108224	Samuel Goldwyn Company
 108224	The
@@ -31816,7 +31737,6 @@ id	company_name
 37711	Ogura Jimusyo Co.
 110901	
 211256	Shôchiku Eiga
-46341	
 37414	Revolution Films
 37414	Indion Entertainment Group
 44680	
@@ -32485,7 +32405,6 @@ id	company_name
 54182	Shaw Brothers
 39786	
 50641	
-55403	
 46697	Skinny Nervous Guy
 23631	Dune Entertainment
 23631	Dune Entertainment III
@@ -32664,7 +32583,6 @@ id	company_name
 37596	Twentieth Century Fox Film Corporation
 41486	Katsu Production Co. Ltd.
 41482	Toho Company
-74714	
 35219	Strand Releasing
 35219	The 7th Floor
 35219	Apropos Films
@@ -32936,7 +32854,6 @@ id	company_name
 39514	Summit Entertainment
 39514	DC Entertainment
 213864	
-90930	
 86233	
 98364	Metro-Goldwyn-Mayer (MGM)
 44716	Zentropa Entertainments
@@ -32978,10 +32895,6 @@ id	company_name
 127083	Les Productions Artistes Associés
 127083	Avala Film
 4921	Elsani Film
-370264	Telewizja Polska
-370264	Mark Forstater Productions Ltd.
-370264	Pictus Ltd.
-370264	Filmcontract Ltd.
 11389	Nordisk Films Kompagni A/S
 45336	
 165911	
@@ -33181,7 +33094,6 @@ id	company_name
 38368	Kick the Machine
 112072	
 114444	British Film Institute (BFI)
-157178	
 68849	London Film Productions
 134569	
 44048	Twentieth Century Fox Film Corporation
@@ -33201,9 +33113,6 @@ id	company_name
 39210	Focus Features
 39210	Pathé!
 39210	Tohokushinsha
-72421	Westdeutscher Rundfunk (WDR)
-72421	MSM Studios
-72421	Trebitsch Entertainment
 62103	
 44147	Matador Pictures
 44147	Isle of Man Film
@@ -34184,12 +34093,9 @@ id	company_name
 44411	Eddie Saeta
 44411	Les Films de l’Après-Midi
 44411	Filmes do Tejo II
-71732	
 85550	ARTE France Cinéma
 85550	Centre National de la Cinématographie (CNC)
 85550	Eonwonsa
-116751	Agat Films & Cie
-116751	La Sept-Arte
 72852	Arte France Cinéma
 72852	3B Productions
 72852	C.R.R.A.V. Nord Pas de Calais
@@ -34235,10 +34141,7 @@ id	company_name
 13746	La Mouche du Coche Films
 44944	Lions Gate Films
 8418	
-65898	
 288183	Triangle British Films
-102527	
-148432	
 204040	Twentieth Century Fox Film Corporation
 50217	Lewis Gilbert Productions
 50217	Lionsgate
@@ -34616,7 +34519,6 @@ id	company_name
 58232	Prescience
 58232	Aegis Film Fund
 58232	Kaleidoscope Films
-53364	
 62342	Patagonik Film Group
 37534	Gold Circle Films
 37534	New Daughter Productions
@@ -34649,7 +34551,6 @@ id	company_name
 13413	Pixar Animation Studios
 159878	
 95242	Khanzhonkov
-81414	
 45189	Posa Films
 43418	New South Wales Film & Television Office
 43418	Pacific Film and Television Commission
@@ -34705,7 +34606,6 @@ id	company_name
 20995	Nordisk Film
 20995	Filmpool Stockholm Mälardalen
 20995	Gädda Five
-54354	
 68629	Keep Your Head Productions
 68629	IFC Productions
 82460	Seven Arts
@@ -34908,7 +34808,6 @@ id	company_name
 9511	barefoot films
 202241	Home Box Office (HBO)
 202241	Metro-Goldwyn-Mayer (MGM)
-72375	
 21508	
 76816	
 51520	
@@ -34923,7 +34822,6 @@ id	company_name
 87673	Shôchiku Eiga
 87673	Shochiku Kinema (Kamata)
 36290	
-4880	box! Film Hamburg
 28627	Bioskop-Film GmbH
 28627	Deutsche Bioscop GmbH
 239553	AVEK
@@ -35070,7 +34968,6 @@ id	company_name
 92341	RKO Radio Pictures
 47310	Metro-Goldwyn-Mayer (MGM)
 38944	Artista-Filmi
-55408	
 40041	Hemdale Film
 40041	Bannon Glen
 40041	Endeavour Productions
@@ -35243,7 +35140,6 @@ id	company_name
 38931	Rodger Pictures
 3107	Toho Company
 131880	
-145154	
 43692	Gaumont British Picture Corporation
 42889	Gary Sanchez Productions
 42889	Principato-Young Entertainment
@@ -35293,9 +35189,6 @@ id	company_name
 104505	Les Films à Paulo
 104505	Département des Landes
 83230	Instituto Português de Cinema (IPC)
-3962	Element e Filmproduktion
-142712	Kaminski.Stiehm.Film GmbH
-142712	Jumping Horse Film
 55700	
 80799	
 10420	Dschoint Ventschr Filmproduktion AG
@@ -35314,7 +35207,6 @@ id	company_name
 57059	Pupkin Film
 57059	Woestijnvis
 57059	Millstreet Films
-74183	
 51170	Sony Pictures Animation
 60164	Black Sand Pictures
 60164	Soho Screen Productions
@@ -35449,12 +35341,10 @@ id	company_name
 89688	Films de l'Archer
 89688	Caroni Films C.A.
 263532	
-55763	
 44912	De Line Pictures
 44912	Warner Bros.
 44912	DC Entertainment
 15766	Toho Company
-55761	
 57536	Televisió de Catalunya TV3
 57536	Cromosoma TV produccion
 57536	Televisión Española TVE
@@ -35523,7 +35413,6 @@ id	company_name
 18928	Chretien
 18928	Mancori
 429876	
-55754	
 61033	
 23190	Flight 33 Productions
 47975	
@@ -35536,7 +35425,6 @@ id	company_name
 125233	Hurry Up Productions
 125233	Lee Rose Productions
 85430	Goff-Kellam Productions
-148314	
 55502	
 32934	Institut del Cinema Català (ICC)
 32934	59 Films
@@ -35555,7 +35443,6 @@ id	company_name
 42368	The Harold Lloyd Corporation
 42150	Gaumont
 42150	Iterfilm
-289010	Provobis Film
 147846	Paramount Pictures
 27358	4321 Productions
 22907	Rainforest Films
@@ -35569,8 +35456,6 @@ id	company_name
 41593	
 12840	Pan Européenne Production
 169842	First National Pictures
-55756	National Filmi Oy
-55759	
 114514	
 126517	Shochiku Company
 126517	Shochiku Kinema (Kamata)
@@ -35665,10 +35550,6 @@ id	company_name
 32691	
 54690	Mirashin Korea
 37189	Compagnie Eric Rohmer
-177697	Pandora Filmproduktion
-177697	3L Filmverleih
-177697	Little Shark Entertainment GmbH
-177697	Torus
 24189	
 96105	PM Entertainment Group
 109048	Cinemasia
@@ -35745,14 +35626,12 @@ id	company_name
 63287	The Poker House
 27588	Capstone Entertainment Group
 27588	Vindicated Pictures
-404479	
 74946	Spirit Dance Entertainment
 74946	John Wilder Nightwatch Productions
 74946	Katherine Company
 74946	Feast Productions Limited
 62749	RKO Radio Pictures
 45801	RKO Radio Pictures
-55166	
 85367	Sol Lesser Productions
 85367	Sequoia Pictures
 85367	Gramercy Pictures (II)
@@ -35803,7 +35682,6 @@ id	company_name
 28039	Shaw Brothers
 46995	Cineguild
 60785	
-230680	
 57389	Vivo Film
 57389	Invisible Film
 26242	Samuel Fuller Productions
@@ -35983,8 +35861,6 @@ id	company_name
 35257	
 28793	UltraFilms
 26479	HBO Films
-92465	Mancantoo Oy
-92465	Inxpo Onnico Oy
 120995	Maymon Film Inc.
 49520	Universal Pictures
 49520	Original Film
@@ -36071,7 +35947,6 @@ id	company_name
 47261	Finecut
 56288	Dimension Films
 73930	Invicta Filmes
-105287	
 117412	Shôchiku Eiga
 98635	Shôchiku Eiga
 111960	Gainsborough Pictures
@@ -36414,7 +36289,6 @@ id	company_name
 13616	Cinergi
 13616	Flashback Productions
 38437	Paramount Pictures
-132227	Cinesur
 24428	Paramount Pictures
 24428	Marvel Studios
 82260	Warner Bros.
@@ -36516,7 +36390,6 @@ id	company_name
 13687	BaggyJoe Productions
 13687	Grovesnor Park Film
 13687	Thema Production
-72419	BR
 71905	
 114060	William Goetz Productions
 39861	Oakshire Productions
@@ -36658,7 +36531,6 @@ id	company_name
 91391	
 172004	
 162451	Werner Herzog Filmproduktion
-434973	Dada-Filmi Oy
 440178	
 49452	
 126732	Les Films de l'Après-Midi
@@ -36809,7 +36681,6 @@ id	company_name
 57602	Entre Chien et Loup
 57602	Goi-Goi Productions
 57602	Pili Films
-86126	
 28687	
 140003	Werner Herzog Filmproduktion
 140003	Süddeutscher Rundfunk (SDR)
@@ -36861,7 +36732,6 @@ id	company_name
 46934	Prescience
 46934	Lipsync Productions
 46934	Independent
-62614	
 82020	Gold-Gems Ltd.
 70196	Local Films
 70196	Premiere Picture
@@ -36879,12 +36749,6 @@ id	company_name
 79401	London Film Productions
 79401	The Archers
 69217	
-61121	Filmpool Nord
-61121	Filmlance International AB
-61121	Sveriges Television (SVT)
-61121	Canal+
-61121	Kinoproduction
-61121	Finlands Svenska Television (FST)
 28414	
 83147	United Artists
 83147	FP Films
@@ -37479,8 +37343,6 @@ id	company_name
 77866	Working Title Films
 77866	Blueeyes Productions
 14163	Yash Raj Films
-74878	Les Films du Siècle
-74878	Produzioni Artistiche Internazionali
 72821	Paramount Pictures
 389854	
 43984	Central Film Office of the Iranian Ministry of Culture
@@ -37546,7 +37408,6 @@ id	company_name
 72721	Blinker Filmproduktion GmbH
 72721	Atacama Productions
 72721	Cronomedia
-162374	Tu Vas Voir Productions
 72842	
 79465	IFC Films
 79465	Woodhaven Production Company
@@ -37590,7 +37451,6 @@ id	company_name
 8368	Devonshire Productions
 8368	Berwick Street Productions
 60938	Harlequin Productions Ltd
-145594	
 58194	
 70435	Irish Film Board
 70435	Relativity Media
@@ -37600,7 +37460,6 @@ id	company_name
 105548	Mary Pickford Company
 110139	Warner Bros.
 94741	Universal Pictures
-31337	LOTUS Film GmbH für ORF
 65760	First Generation Films
 65760	Mandalay Vision
 65760	Samuel Goldwyn Films
@@ -37905,7 +37764,6 @@ id	company_name
 29483	Doll Australia
 29483	New Town Films Pty. Ltd.
 88491	Passenger Film Studio
-79362	
 53174	barefoot films
 53174	Béla Jarzyk Production
 84259	Metro-Goldwyn-Mayer (MGM)
@@ -37946,8 +37804,6 @@ id	company_name
 81111	20th Century Pictures
 106199	
 147621	Dansk Biograf Compagni
-247500	At Productions
-247500	GTV
 29750	
 31400	Union film
 81716	
@@ -38050,7 +37906,6 @@ id	company_name
 17790	Altar Productions
 15086	
 48458	Shadow Theatre Films
-85883	SODEC
 25831	Walt Disney Pictures
 116231	ARP Sélection
 116231	Numéro 4 Production
@@ -38082,7 +37937,6 @@ id	company_name
 73937	Sunswept Entertainment
 73937	Red Hour Films
 214349	Hochschule für Fernsehen und Film München
-399229	
 18705	Twentieth Century Fox Film Corporation
 75674	Relativity Media
 75674	Bandito Brothers
@@ -38446,11 +38300,6 @@ id	company_name
 63310	Waterland Film
 63310	Artemis
 63310	Savage Films
-86727	Renn Productions
-86727	Bela Productions
-86727	AMLF
-86727	Lira Films
-86727	TF1
 84404	
 74447	
 18591	CiBy 2000
@@ -38542,9 +38391,6 @@ id	company_name
 91352	Elkcreek Cinema
 159900	Edison Manufacturing Company
 162284	Metro-Goldwyn-Mayer (MGM)
-61361	Film Par Film
-61361	TF1 Films Production
-61361	TPS Star
 57119	TriStar Pictures
 57119	Stage 6 Films
 57119	Sony Pictures Worldwide Acquisitions (SPWA)
@@ -38643,7 +38489,6 @@ id	company_name
 132122	Titanus
 132122	Labor Film
 110573	Les Films Raoul Ploquin
-362151	Suomi-Filmi
 288165	
 97038	Producciones Filmamento
 167408	The American Film Theatre
@@ -38971,7 +38816,6 @@ id	company_name
 105795	
 39104	Toei Animation
 34433	Toei Animation
-78999	
 76333	Antena 3 Films
 76333	Sayaka Producciones Audiovisuales
 76333	Apaches Entertainment
@@ -39223,7 +39067,6 @@ id	company_name
 77953	Gary Sanchez Productions
 77953	Warner Bros.
 77953	Location Gourmet
-116019	
 85414	Lightning Entertainment
 85414	La Costa Productions
 85414	Walking West Entertainment
@@ -39297,8 +39140,6 @@ id	company_name
 265579	
 36859	
 75680	
-458428	Video Flims
-458428	Vaco Moloco
 79224	Lotte Entertainment
 79224	Dasepo Club
 79224	DCG Plus
@@ -39391,7 +39232,6 @@ id	company_name
 48034	M6 Films
 48034	Les Productions du Trésor
 48034	EuropaCorp
-110491	
 79694	StudioCanal
 79694	Dark Castle Entertainment
 79694	Warner Bros.
@@ -39414,7 +39254,6 @@ id	company_name
 12677	Filmax Entertainment
 12677	Castelao Producciones
 12677	Monfort Producciones
-79034	
 27349	Universal Pictures
 27349	Robertson and Associates
 40629	
@@ -39429,10 +39268,6 @@ id	company_name
 84344	Minerva Film SpA
 84344	SF Film
 53336	Solar Productions
-35623	Norddeutscher Rundfunk (NDR)
-35623	Israfilm Ltd.
-35623	Relevant Film
-35623	Praxis Films
 86785	Federiz
 86785	As Films Producción
 27146	Films du Rond-Point
@@ -39576,8 +39411,6 @@ id	company_name
 19823	Prescience
 19823	Minds Eye Entertainment
 19823	Footprint Investments
-112973	Propaganda Films
-112973	PolyGram Filmed Entertainment
 38091	
 122930	Anchor Bay
 128280	Ambrosia Pictures
@@ -39647,8 +39480,6 @@ id	company_name
 101803	
 83589	
 38719	London Film Productions
-76703	Les Films Modernes
-76703	Productions Emile Natan
 97310	
 17165	Dentsu Inc.
 223195	Turner Entertainment
@@ -40077,8 +39908,6 @@ id	company_name
 87826	Columbia Pictures
 87826	Happy Madison Productions
 87826	Broken Road Productions
-262988	Turner Classic Movies (TCM)
-262988	Lorac Productions
 181628	
 288298	
 51911	
@@ -40377,7 +40206,6 @@ id	company_name
 49363	Toho Company
 49363	Mifune Productions Co. Ltd.
 108282	
-156180	
 13678	Sofica Valor 6
 13678	MC4 Productions
 13678	TF1 Films Production
@@ -40387,7 +40215,6 @@ id	company_name
 13678	Mikado Film
 13678	Fondation Gaz de France
 13678	Sogécinéma
-62012	BAC Films
 13728	France 2 Cinéma
 13728	Eskwad
 13728	Union Générale Cinématographique (UGC)
@@ -40460,7 +40287,6 @@ id	company_name
 75204	Capelight Pictures
 75204	Al!ve AG
 48161	Film Fund FUZZ
-328712	
 114490	
 288292	
 288296	
@@ -40509,10 +40335,6 @@ id	company_name
 220106	CinéCinéma
 220106	HPG Production
 220106	game productions
-26152	Wild Bunch
-26152	TF1 Films Production
-26152	Produire à Paris
-26152	Télégraphe
 13679	Les Armateurs
 13679	Armada Films
 51594	
@@ -40560,7 +40382,6 @@ id	company_name
 93289	alain poire
 104718	
 80220	
-128637	
 83389	Studio Ghibli
 83389	The Yomiuri Shimbun
 83389	Hakuhodo DY Media Partners
@@ -40595,7 +40416,6 @@ id	company_name
 18707	Bojon Films Company Ltd.
 125409	London Weekend Television (LWT)
 125409	A&E Television Networks
-64362	
 81850	Shueisha
 81850	Tokyo Movie Shinsha (TMS)
 34280	Les Productions Artistes Associés
@@ -40913,7 +40733,6 @@ id	company_name
 73283	
 18038	
 161273	
-177522	
 30252	StellaNova Film
 86819	UPP
 74726	Instituto Cubano del Arte e Industrias Cinematográficos (ICAIC)
@@ -40956,8 +40775,6 @@ id	company_name
 106344	Bandito Brothers
 94135	Hammer Film Productions
 77775	Twentieth Century Fox Film Corporation
-72678	
-57307	Canal+
 35436	France 2 Cinéma
 35436	StudioCanal
 35436	ADCB Films
@@ -41195,7 +41012,6 @@ id	company_name
 79983	Cinergi Pictures Entertainment
 79983	Panamax Films
 29630	
-128644	
 14078	Amagram
 134673	Fidélité Films
 32168	Zininsa Film Production
@@ -41314,7 +41130,6 @@ id	company_name
 118557	Vsesoyuznyj Gosudarstvennyj Institut Kinematografii (VGIK)
 288151	
 83125	
-76686	
 117974	Big Talk Productions
 117974	StudioCanal
 117974	British Film Institute (BFI)
@@ -41416,7 +41231,6 @@ id	company_name
 127505	Head Games the Film
 89750	National Film Board of Canada (NFB)
 114562	Makuhari Media
-334317	
 281007	Teamfilm AS
 57436	Zentropa Productions
 57436	Nordisk Film
@@ -41860,7 +41674,6 @@ id	company_name
 122081	Iconoclast
 30198	
 62301	
-81225	Nikolaus Geyrhalter Filmproduktion
 126186	
 144789	El Deseo S.A.
 80437	
@@ -41902,8 +41715,6 @@ id	company_name
 210621	
 130816	D.W. Griffith Productions
 130816	Feature Productions
-134806	Rosemont Productions International
-134806	Zeke Productions
 23524	
 68047	
 84316	
@@ -41918,7 +41729,6 @@ id	company_name
 188524	
 126748	
 247695	
-62130	
 119001	Allied Artists Pictures
 119001	Irwin Allen Productions
 43550	
@@ -41982,9 +41792,7 @@ id	company_name
 144340	Focus Features
 62878	Reunion Pictures
 160660	Warner Bros.
-131822	
 20989	
-142989	
 219302	Universal Pictures
 17501	Excel Entertainment
 17501	Eros International
@@ -42020,7 +41828,6 @@ id	company_name
 91694	Nippon Television Network Corporation (NTV)
 91694	Capcom Company
 91694	D.N. Dream Partners
-54356	
 14607	
 148034	Centar Film
 25516	Filmkraft Productions Pvt. Ltd
@@ -42128,7 +41935,6 @@ id	company_name
 103707	Afghan Luke Productions
 32599	Metro-Goldwyn-Mayer (MGM)
 32599	Coriander
-149469	
 110420	Madhouse
 110420	Studio Chizu
 110420	Eurozoom
@@ -42146,7 +41952,6 @@ id	company_name
 46451	Finish Films
 81623	Jaguar Films
 81623	El Bus Producciones
-65646	Films André Paulvé
 43023	Merton Park Studios
 43023	American International Pictures (AIP)
 43023	Anglo-Amalgamated Film Distributors
@@ -42224,7 +42029,6 @@ id	company_name
 50787	Starz Entertainment
 50787	Candy Heart Productions
 24133	
-55524	
 36549	
 130804	SIA Advertising
 130804	Nukleus Film
@@ -42285,7 +42089,6 @@ id	company_name
 156306	The Vitaphone Corporation
 103731	FilmNation Entertainment
 103731	Everest Entertainment
-82662	
 42587	Terra Filmkunst
 32100	Comedian International
 19989	
@@ -42470,7 +42273,6 @@ id	company_name
 27861	Mosfilm
 27861	Qartuli Pilmi
 97686	Good / Credit Productions
-38875	Vision
 156236	France 2 Cinéma
 156236	Les Films des Tournelles
 156236	Pathe
@@ -42752,7 +42554,6 @@ id	company_name
 6636	
 62211	Walt Disney Pictures
 62211	Pixar Animation Studios
-388046	
 192538	Vertigo Films
 112161	
 88057	
@@ -42871,7 +42672,6 @@ id	company_name
 174772	Wayfare Entertainment
 174772	Misher Films
 174772	Start Motion Pictures
-67272	Svensk Filmindustri
 179826	Future Films
 179826	Fusion Films
 179826	Sommers Company
@@ -42884,7 +42684,6 @@ id	company_name
 120303	Cinematográfica ABSA
 153420	
 55655	
-83342	Corazón International
 93456	Universal Pictures
 93456	Illumination Entertainment
 117251	Columbia Pictures
@@ -43045,7 +42844,6 @@ id	company_name
 106848	
 61330	
 178946	
-60824	
 111969	Informant Media
 111969	MICA Entertainment
 111969	Troy Entertainment
@@ -43061,7 +42859,6 @@ id	company_name
 5898	Concorde Pictures
 157354	Forest Whitaker's Significant Productions
 157354	OG Project
-173914	
 116432	Rigas Kinostudija
 247749	Rigas Kinostudija
 64519	
@@ -43432,7 +43229,6 @@ id	company_name
 115782	Dillywood
 115782	Five Star Institute
 115782	Silver Reel
-65958	
 215134	Xingu Films
 123553	Constantin Film Produktion
 123553	Don Carmody Productions
@@ -43554,8 +43350,6 @@ id	company_name
 39005	Universal Pictures
 39005	Celandine Films
 39005	The Monty Python Partnership
-217038	Yleisradio (YLE)
-217038	Filminoir
 140708	
 29231	Nu Image Films
 29231	Mondofin B.V.
@@ -43991,7 +43785,6 @@ id	company_name
 146238	Appian Way
 146238	Stone Village Pictures
 146238	New Regency Pictures
-77776	
 152584	Eurimages
 152584	Wild Bunch
 152584	Canal+
@@ -44037,10 +43830,6 @@ id	company_name
 1803	Adams Apple Film Company
 1803	Angel Venture
 49393	
-161073	Bizibi
-161073	Versus Production
-161073	El Campo Cine
-161073	Direct Cinéma
 65481	Westdeutscher Rundfunk (WDR)
 65481	Helma Sanders-Brahms Filmproduktion
 65481	Literarisches Colloquium
@@ -44135,7 +43924,6 @@ id	company_name
 293109	
 91745	Echo Lake Productions (I)
 91745	amber entertainment
-19623	
 38273	Universal Pictures
 214100	DNA Films
 10006	Beat Pirate Films
@@ -44265,7 +44053,6 @@ id	company_name
 81538	Yofi Films
 81538	Girls Club Film Project
 214217	Mad Dimension
-153196	
 55651	
 19241	
 15866	
@@ -44311,7 +44098,6 @@ id	company_name
 40221	Cannon Group
 40221	Vision Pictures
 50441	
-82627	
 103195	
 19594	Twentieth Century Fox Film Corporation
 19594	Fox Animation Studios
@@ -44443,7 +44229,6 @@ id	company_name
 96924	
 56579	Yerba Buena Productions Inc.
 127880	
-52045	Chapter 2
 85822	
 61936	Metro-Goldwyn-Mayer (MGM)
 121674	BBC Films
@@ -45047,7 +44832,6 @@ id	company_name
 158990	Rubber Films
 158990	Timwe
 27190	Walt Disney Studios Home Entertainment
-430985	
 154226	Creative Entertainment Group
 37168	Les Productions La Fête Inc.
 180894	Millennium Films
@@ -45088,7 +44872,6 @@ id	company_name
 91551	Bavaria Pictures
 91551	Grand Pictures
 91551	Picture Circle
-85469	
 79113	Motion Picture Corporation of America (MPCA)
 79113	Riviera Films
 233063	Rat Pack Filmproduktion
@@ -45100,11 +44883,9 @@ id	company_name
 189803	Nouveau Film
 118778	Local Films
 420743	
-388182	
 5995	
 246314	MR TV-Film
 203060	Edith Film Oy
-130233	
 130694	Riva Filmproduktion
 117467	Seven Pictures
 117467	Constantin Film Produktion
@@ -45211,7 +44992,6 @@ id	company_name
 13632	Gekko Film
 13632	Paramount Network Television
 76127	
-267219	
 183654	Film Finance Corporation (FFC)
 183654	Unit 3 mm
 257618	Hersua Interfilms
@@ -45333,7 +45113,6 @@ id	company_name
 173467	
 193638	Warner Bros.
 4949	Columbia Pictures Corporation
-110992	
 27093	M6 Métropole Télévision
 27093	Image et Compagnie
 225235	Marmot-film
@@ -45429,7 +45208,6 @@ id	company_name
 79316	TSG Entertainment
 242661	Sony Pictures Releasing
 163875	Sherpas Cinema
-81600	
 19551	Angel Entertainment
 19551	RMR Productions LLC
 31769	Bandai Visual Company
@@ -45437,11 +45215,9 @@ id	company_name
 31769	Shochiku Company
 31769	Gakken Co. Ltd.
 31769	Kugatsusha
-91380	Lambor Films
 2442	Keystone Entertainment
 2442	Cine Cut Films Inc.
 29403	William Castle Enterprises
-101352	
 55922	Minds Eye Entertainment
 55922	Studio Entertainment
 55922	Entersport Holdings
@@ -45490,7 +45266,6 @@ id	company_name
 31780	
 164353	
 255576	Producciones Yanco
-297560	Finos Film
 266549	
 134096	Patagonik Film Group
 134096	Pol-Ka Producciones
@@ -45517,14 +45292,12 @@ id	company_name
 177047	Unified Pictures
 177047	Decoding Annie Parker
 177047	Ozymandias Productions
-331958	Finos Films
 288526	Finos Film
 53063	
 72872	
 174344	Micro scope
 25003	Home Box Office (HBO)
 60976	
-52150	
 78308	
 114638	Paramount Pictures
 217993	DC Comics
@@ -45662,9 +45435,6 @@ id	company_name
 107203	O2 Filmes
 107203	Globo filmes
 112575	MGN Filmes
-216369	MGN Filmes
-216369	Instituto Português da Arte Cinematográfica e Audiovisual (IPACA)
-216369	Skylight Cinema Foto Art
 171540	United King Films
 171540	United Channel Movies
 164328	Deutsche Film- und Fernsehakademie Berlin (DFFB)
@@ -45810,7 +45580,6 @@ id	company_name
 219318	SCOPE Invest
 219318	Quad Productions
 219318	Scope Pictures
-172890	
 87358	
 106828	
 239155	
@@ -45826,7 +45595,6 @@ id	company_name
 4883	COMECI
 4883	Oceania Produzioni Internazionali Cinematografiche
 27952	Most Production
-52147	
 190341	Fennica-filmi
 174688	Kartemquin Films
 103717	Centre National de la Cinématographie
@@ -45854,7 +45622,6 @@ id	company_name
 146490	Frenetic Arts
 140873	New Wave Entertainment
 141043	BBC Films
-246320	Wild Bunch Distribution
 197082	R.P. Productions
 197082	A.S. Films
 197082	Monolith Films
@@ -45910,8 +45677,6 @@ id	company_name
 157847	Rough House Pictures
 31295	
 12124	
-32547	
-219931	
 162987	
 33563	Vulcan Productions Inc.
 33563	Pillar Squared
@@ -45926,8 +45691,6 @@ id	company_name
 103732	Window Pictures
 103732	Woodcreek Faction Productions
 237692	
-418029	TOHO
-418029	suburaya
 71055	Renn Productions
 210047	Whitewater Films
 210047	Sasquatch Films
@@ -45989,7 +45752,6 @@ id	company_name
 253046	The
 253046	Broken Films
 21474	Universal Studios Home Entertainment
-142984	
 13934	Walt Disney Pictures
 13934	Pixar Animation Studios
 13061	Pixar Animation Studios
@@ -46023,9 +45785,6 @@ id	company_name
 248507	Les Productions du Ch'timi
 248507	La Wallonie
 127847	Maneglia Schémbori Realizadores
-204765	Jerico
-204765	Vendôme Production
-204765	Siam Movies
 183836	Gaumont
 220286	Nostromo Pictures
 220286	Telefónica Producciones
@@ -46270,7 +46029,6 @@ id	company_name
 40346	
 45514	
 109404	
-68827	Gaumont
 182827	Little More Co.
 64047	
 74343	
@@ -46282,8 +46040,6 @@ id	company_name
 94331	
 24202	
 238972	Showtime Films
-116894	Hearst Entertainment Productions
-116894	TVA International
 145995	Metro-Goldwyn-Mayer (MGM)
 159464	
 68713	Epithète Films
@@ -46329,7 +46085,6 @@ id	company_name
 157690	Wild Bunch
 157690	Rhône-Alpes Cinéma
 157690	Fidélité Films
-55825	
 72962	Pixar Animation Studios
 186971	Les Films d'Ici
 199740	
@@ -46347,9 +46102,6 @@ id	company_name
 85620	Documento Film
 85620	Films EGE
 192577	Toei Animation Company
-394403	Westdeutscher Rundfunk (WDR)
-394403	ARD Degeto Film
-394403	RheinFilm TV - und Medienproduktionsgesellschaft mbH
 26286	Twentieth Century Fox Film Corporation
 45007	Levy-Gardner-Laven
 45007	Brighton Pictures
@@ -46728,7 +46480,6 @@ id	company_name
 172385	Twentieth Century Fox Animation
 262481	Left Turn Films
 262481	Pure Mutt Productions
-202183	
 196027	Yellow Bird Films
 226448	Night and Day Pictures
 226448	Bellwether Pictures
@@ -47096,9 +46847,7 @@ id	company_name
 171795	Predestinate Productions
 49514	Regent Entertainment
 49514	Media Asia Films Ltd.
-272543	
 213270	
-173151	
 232672	Happy Madison Productions
 232672	Karz Entertainment
 232672	Warner Bros.
@@ -47704,7 +47453,6 @@ id	company_name
 40222	Shapiro-Glickenhaus Entertainment
 106402	
 73250	
-206574	Rosecalypse
 71704	
 262267	Gothic Pictures International
 262267	Collective Development
@@ -47865,10 +47613,6 @@ id	company_name
 31896	Dave O Films
 70476	
 26566	
-60106	Gaumont
-60106	M6 Films
-60106	Canal+
-60106	Magouric Productions
 35837	
 82120	Lumière
 27906	Braeburn Entertainment
@@ -47898,7 +47642,6 @@ id	company_name
 169760	CoPilot Pictures
 262904	
 161056	Nordisk Film
-164419	
 243683	Summit Entertainment
 243683	Offspring Entertainment
 118953	Monogram Pictures
@@ -47940,10 +47683,6 @@ id	company_name
 261813	ESPN films
 4992	Cinematográfica Calderón S.A
 4992	Heritage Entertainment Inc.
-44155	Eskwad
-44155	M6 Films
-44155	Canal+
-44155	Pathé
 239566	Universal Studios
 239566	Imagine Films Entertainment
 239566	Jagged Films
@@ -47985,7 +47724,6 @@ id	company_name
 94196	Scope Pictures
 94196	Gkids
 94196	NYAV Post
-64934	
 84986	Salon Productions
 84986	Manson International
 18628	Gaumont
@@ -48257,7 +47995,6 @@ id	company_name
 38462	Monogram Pictures
 40951	Monogram Pictures
 47571	Fox Film Corporation
-74950	
 252956	Warner Bros.
 273656	
 242090	Radius-TWC
@@ -48272,7 +48009,6 @@ id	company_name
 247182	Ikiru Films
 247182	Vaca Films
 207780	
-2692	Neue Visionen
 254775	Media Education Foundation
 241848	HanWay Films
 241848	Snoot Entertainment
@@ -48286,7 +48022,6 @@ id	company_name
 402857	Dorothea G. Petrie Productions
 402857	Jaylar Productions
 94590	Cinemassacre
-76846	
 242683	Paramount Pictures
 98250	
 198567	Rajshri Productions Pvt Ltd
@@ -48309,7 +48044,6 @@ id	company_name
 242131	Columbia Pictures Corporation
 118245	Warner Bros.
 35568	
-329227	
 76047	
 291162	
 285946	Monogram Pictures
@@ -48426,7 +48160,6 @@ id	company_name
 179519	Casa de Filme 4
 16986	Alex Jones Productions
 79016	teamWorx
-343693	KNM Home Entertainment GmbH
 248504	The Asylum
 248504	Syfy
 270302	HanWay Films
@@ -48497,7 +48230,6 @@ id	company_name
 42553	
 111479	Rampart Films
 111479	Unclaimed Freight Productions
-182799	
 67493	Universal Television
 264656	The Javelina Film Company
 264656	EuropaCorp
@@ -48588,7 +48320,6 @@ id	company_name
 93115	
 179822	
 53042	Clap Filmes
-230295	LB Film & Video
 295507	Metro-Goldwyn-Mayer (MGM)
 15916	Tokuma Shoten
 15916	Studio DEEN
@@ -48619,7 +48350,6 @@ id	company_name
 246403	Demarest Films
 246403	SModcast Pictures
 246403	A24
-42416	
 37630	Negativ s.r.o.
 37630	HBO Česká republika
 37630	Media Plus
@@ -49150,7 +48880,6 @@ id	company_name
 89888	
 17082	Media Asia Films
 17082	Blue Fiction
-273510	
 103081	
 141950	
 93407	
@@ -49295,7 +49024,6 @@ id	company_name
 199336	
 293028	Central Independent Television
 256679	
-12076	
 55472	Warner Bros.
 51649	United Artists
 51649	Harry Sherman Productions
@@ -49940,7 +49668,6 @@ id	company_name
 7267	BNN TV
 7267	Pupkin Film
 15149	Fridthjof Film
-204768	Chic Films
 201759	TF1 Films Productions
 201759	Pathé Films
 202215	La Petite Reine
@@ -50113,13 +49840,6 @@ id	company_name
 293310	Participant Media
 293310	HBO Documentary Films
 293310	Praxis Films
-117678	
-129966	Canal+
-129966	Pathé
-198130	Gaumont
-198130	Avalon
-198130	Région Midi-Pyrénnées
-198130	22h22
 46473	Program 33
 21861	M6 Films
 21861	TF1 Films Production
@@ -50335,10 +50055,6 @@ id	company_name
 116149	Anton Capital Entertainment (ACE)
 116149	TF1
 116149	Amazon Prime Instant Video
-204965	Bayerischer Rundfunk (BR)
-204965	Hochschule für Fernsehen und Film München (HFF)
-204965	Kaissar Film
-204965	d.i.e. Film GmbH
 135714	
 203834	Lionsgate
 203834	Blumhouse Productions
@@ -50491,7 +50207,6 @@ id	company_name
 2139	Harbor Productions
 2139	Shaw Brothers
 2139	Warner Bros.
-151730	
 171357	Fandor
 17135	Largo Entertainment
 44503	
@@ -50557,9 +50272,7 @@ id	company_name
 99261	Produzioni Atlas Consorziate (P.A.C.)
 46570	Splendid Film
 46570	PAC
-124207	
 89652	European Inc.
-42438	
 99361	
 96477	
 74018	Warner Premiere
@@ -50574,12 +50287,8 @@ id	company_name
 58702	Rizzoli Film
 128555	
 42499	Phoenix Cinematografica
-56971	
 106970	PAC
 106970	Atlas Film
-42441	
-38366	
-121510	
 105398	Salaria Film
 105398	Dimitri Dimitriadis Film
 28844	Rekord Films
@@ -50588,7 +50297,6 @@ id	company_name
 260893	
 105906	Dania Film
 268662	
-48935	
 78566	
 101231	Compagnia Cinematografica Champion
 285423	Universal Pictures
@@ -50800,21 +50508,14 @@ id	company_name
 87093	Silverwood Films
 87093	Electric City Entertainment
 87093	Tim Burton Productions
-205349	
 224141	Walt Disney Pictures
 224141	Marc Platt Productions
 224141	Lucamar Productions
-285532	
 61925	Cinemaster S.r.l.
 52914	
-255906	
 50758	
 52913	Cinemaster S.r.l.
-52238	
-165159	Titanus
 62715	Cinemaster S.r.l.
-127760	
-62725	
 46001	Intercapital
 58083	Intercapital
 52113	
@@ -50887,12 +50588,10 @@ id	company_name
 81116	Paramount Pictures
 81116	Walter Wanger Productions
 274985	
-212503	Frisbeefilms
 142119	
 261820	Epoch Films
 261820	RC Pictures
 120605	1984 Private Defense Contractors
-307113	
 259018	Mad Chance
 259018	Starboard Entertainment
 175555	Lions Gate
@@ -50902,9 +50601,6 @@ id	company_name
 145162	Metro-Goldwyn-Mayer (MGM)
 145162	Jerry Gershwin-Elliott Kastner
 13759	
-129062	Constantin Film Produktion
-129062	Jolly Film
-129062	Trio Films
 241432	
 44936	JBF
 18755	Bad Monkey Productions
@@ -50945,7 +50641,6 @@ id	company_name
 81393	
 62836	Asylum Entertainment
 62836	Muse Entertainment Enterprises
-302118	Veit Helmer Filmproduktion
 33582	Leonine Verse
 145186	Barnholtz Entertainment
 145186	ARO Entertainment
@@ -51014,7 +50709,6 @@ id	company_name
 214761	Telecinco Cinema
 214761	Ikiru Films
 214761	El Toro Productions
-55553	
 278334	Bold Films
 176079	
 73661	
@@ -51093,18 +50787,11 @@ id	company_name
 64666	Dania Film
 64666	Medusa Distribuzione
 64666	Publikampas
-197335	
-82341	
 67221	Dania Film
 67221	National Cinematografica
 67221	Medusa Distribuzione
 84729	
 275239	
-48805	Dania Film
-48805	VIP Media
-48805	Rodeo Drive
-48805	Medusa Film
-48805	Sky
 272165	
 101125	
 75136	Carlton Film Export
@@ -51334,7 +51021,6 @@ id	company_name
 42012	Seasonal Film Corporation
 42012	Shapiro-Glickenhaus Entertainment
 81586	
-128946	AB Publikfilm
 42759	CCC Filmkunst GmbH
 42759	Ízaro Films
 42759	Universal Pictures France
@@ -51484,27 +51170,17 @@ id	company_name
 37768	Intercapital
 37768	RAI - Radiotelevisione Italiana
 37777	Intercapital
-59040	
 23273	scena film
 62491	C.G. Silver Film
 62491	Rai 1
-56825	
-60014	
-56551	
-58189	
 56804	
-58081	
-42674	Cecchi Gori Group Tiger Cinematografica
 44933	
 22728	Cecchi Gori Group Tiger Cinematografica
-43544	
 38327	
 20414	Filmauro
 36298	Warner Bros.
-93855	
 267573	Lotte Entertainment
 221437	Amuse Soft Entertainment
-255456	
 43477	
 261768	Avenue Picture
 199925	Celluloid Dreams
@@ -51515,7 +51191,6 @@ id	company_name
 199925	Kinoshita Group
 199925	Kôsuke
 199925	Shanghai Pengjin Entertainment Co.
-211710	
 267872	Motion Picture Group
 267872	The
 38187	
@@ -51526,8 +51201,6 @@ id	company_name
 38190	
 51939	
 38185	
-251555	Atresmedia Cine
-251555	Four Luck Banana
 132601	Wonderworld Studios
 132601	Animation Picture Company
 84197	
@@ -51783,7 +51456,6 @@ id	company_name
 118139	First National Pictures
 118139	Warner Bros.
 118139	The Vitaphone Corporation
-269165	TV-60 Filmproduktion
 185207	
 276819	Yoram Gross Films
 3483	Ada Films
@@ -51880,9 +51552,7 @@ id	company_name
 4344	Komplizen Film
 4344	Hochschule für Fernsehen und Film München
 4344	Zweites Deutsches Fernsehen (ZDF)
-3539	
 12115	
-80472	
 48193	Filmirage S.r.l.
 260872	Produzioni Atlas Consorziate (P.A.C.)
 292133	Nais Film
@@ -51899,7 +51569,6 @@ id	company_name
 96106	Cinematográfica Pelimex
 96106	Roas Produzioni
 105083	
-211179	
 112481	Boxoffice International Pictures (BIP)
 240334	
 48594	Televisión Española (TVE)
@@ -52088,7 +51757,6 @@ id	company_name
 3686	Société Nouvelle de Cinématographie
 3686	Atlantis Film
 3686	Rialto Film Preben-Philipsen
-241982	
 45752	Warner Home Video
 209401	British Film Institute (BFI)
 209401	Lipsync Productions
@@ -52106,7 +51774,6 @@ id	company_name
 75958	Rapid Film
 75958	Bercol Films
 161243	TLA Releasing
-129359	Nordisk Tonefilm
 315362	Nordisk Film
 315362	TV4 Sweden AB
 315362	TV2 Norge
@@ -52355,7 +52022,6 @@ id	company_name
 67659	Compagnie Internationale de Productions Cinématographiques (CIPRA)
 67659	Producciones Enríquez S.A.
 30027	
-30028	
 31277	Tag Entertainment
 73548	Tag Entertainment
 73548	Animal Film LLC
@@ -52642,7 +52308,6 @@ id	company_name
 33733	
 82868	
 155208	Warner Bros.
-58757	Praesens-Film
 53573	Metro-Goldwyn-Mayer (MGM)
 176627	Warner Bros.
 176627	The Vitaphone Corporation
@@ -52822,7 +52487,6 @@ id	company_name
 38808	Universal International Pictures (UI)
 66963	
 130633	
-79892	
 146926	Filmwerks
 76829	Lira Films
 76829	Produzioni Artistiche Internazionali
@@ -53064,7 +52728,6 @@ id	company_name
 166221	Yankee Entertainment Group
 44014	American World Pictures
 223497	RKO Radio Pictures
-10639	
 169832	Golan-Globus Productions
 190091	Gem-Film
 158114	First National Pictures
@@ -53327,7 +52990,6 @@ id	company_name
 95578	ApolloProScreen Filmproduktion
 85615	
 74550	Warner Bros.
-145194	
 128779	Sofracima
 91715	United Artists
 82418	
@@ -53688,7 +53350,6 @@ id	company_name
 70916	
 56412	
 38556	American Cinema Productions
-11719	
 63706	
 85768	
 31362	
@@ -53828,7 +53489,6 @@ id	company_name
 299104	Shochiku Co.
 299104	Ltd.
 218233	Shochiku Company
-168300	Shochiku Company
 168994	Shochiku Ofuna
 130241	Shochiku Co.
 130241	Ltd.
@@ -53914,7 +53574,6 @@ id	company_name
 51780	
 283536	Possible Films
 252637	Oh! Show Productions
-131503	
 203321	Synchronicity Films
 203321	British Film Company
 210860	Lionsgate
@@ -53970,7 +53629,6 @@ id	company_name
 234377	Warner Bros.
 44342	Star Film Company
 52207	DePatie-Freleng Enterprises (DFE)
-123283	Virgil Films
 197592	NBC Productions
 238090	NBC Productions
 81294	Jam Handy Organization (JHO)
@@ -54029,7 +53687,6 @@ id	company_name
 36003	
 190352	Hal Roach Studios
 69168	Shout! Factory
-58587	
 29286	Universal Pictures
 16048	Zentropa Productions
 16048	Innocent Pictures
@@ -54055,13 +53712,6 @@ id	company_name
 201561	Illumination Films
 201561	Go Paterson Films Pty Ltd
 130677	SeeThink Films
-72917	France 2 Cinéma
-72917	StudioCanal
-72917	Canal+
-72917	France Télévision Images
-72917	3B Productions
-72917	Centre National de la Cinématographie (CNC)
-72917	Studio Images 8
 76198	Gaumont
 76198	Euro International Film (EIA)
 76198	Productions 2000
@@ -54081,7 +53731,6 @@ id	company_name
 269714	B MediaExport
 269714	CN3 Productions
 269714	Indéfilms 2
-76642	
 20220	Telepool
 20220	Cinémax
 20220	Club Investissement Média
@@ -54089,11 +53738,9 @@ id	company_name
 20220	Télémax
 20220	Antenne-2 France
 31985	
-64357	
 77280	
 271327	
 79051	Nickel Odeon
-157787	EuropaCorp
 55638	
 226363	
 253851	
@@ -54159,7 +53806,6 @@ id	company_name
 250066	NGN Productions
 250066	Glacier Films
 250066	Maple Leaf Finance Primeredian Entertainment
-102534	
 248231	Item 7
 321130	"Studio ""Orlenok"""
 321130	Central Television USSR
@@ -54259,7 +53905,6 @@ id	company_name
 77331	Lefwander Kapitalförvaltning AB
 77331	Svensk Filmindustri (SF)
 77331	café opera
-30149	
 27599	SVT Drama
 27599	Svensk Filmindustri (SF)
 27599	Astrid Lindgrens Värld
@@ -54276,7 +53921,6 @@ id	company_name
 92690	Cooperativa Cinematográfica
 92690	Rofima Cinematografica
 92690	Lais S. A.
-28573	Rofima Cinematografica
 29167	Galassia Cinematografica
 29167	Lea Film
 267268	Filmadora Nacional
@@ -54609,8 +54253,6 @@ id	company_name
 254721	ARTE
 254721	UFA Fiction
 42316	Entre Chien et Loup
-226163	Verdeoro
-226163	Docksur Producciones
 223202	Rai Cinema
 223202	BD Cine
 223202	classic
@@ -54618,7 +54260,6 @@ id	company_name
 103758	Rai Cinema
 103758	Le Pacte
 103758	Archimede
-57342	
 3168	Lucky Red
 3168	Eyescreen S.r.l.
 3168	Ministero per i Beni e le Attività Culturali (MiBAC)
@@ -54745,7 +54386,6 @@ id	company_name
 274990	Nordisk Film- & TV-Fond
 274990	Norsk Film
 57438	
-62352	Sveriges Television (SVT)
 167810	Bold Films
 167810	Marc Platt Productions
 167810	Phantasma
@@ -54772,7 +54412,6 @@ id	company_name
 86598	
 320316	
 225184	Lux Film
-237171	
 146563	Paramount Pictures
 146563	Dino de Laurentiis Cinematografica
 73984	Universal Productions France S.A.
@@ -55027,7 +54666,6 @@ id	company_name
 273248	Double Feature Films
 273248	The Weinstein Company
 273248	FilmColony
-63775	
 251016	
 133459	Nordisk Film
 133459	Sveriges Television (SVT)
@@ -55275,7 +54913,6 @@ id	company_name
 259358	Mollywood
 259358	Ostlicht Filmproduktion
 259358	Hamster Film
-227383	
 315049	Nordisk Film
 130805	
 248933	Allegro-Film
@@ -55308,27 +54945,20 @@ id	company_name
 15468	TF1 Films Production
 15468	Cathala Productions
 88309	
-74822	
 5602	Sofracima
-152635	
 122229	International Apollo Films
 122229	Lira Films
-183962	
 91571	Greenwich Film Productions
-267654	
 3004	C.O.F.C.I.
 118150	Clesi Cinematografica
 118150	Les Films Copernic
 118150	Hanns Eckelkamp Filmproduktion
-287391	Hanns Eckelkamp Filmproduktion
 38421	Metro-Goldwyn-Mayer (MGM)
 142979	Francinex
 142979	Tempo Film
 142979	Cinematografica RI.RE
 163333	
-65718	
 44541	
-131507	
 213831	
 105403	
 127092	
@@ -55453,8 +55083,6 @@ id	company_name
 13587	
 88318	Craig Anderson Productions
 277686	Locomotive Productions
-288313	O' Groove
-288313	Tramp LTD
 326536	
 315010	BBC Worldwide
 315010	WGBH Boston
@@ -55485,8 +55113,6 @@ id	company_name
 287509	Forum Films [ca]
 95744	Enrique Cerezo Producciones Cinematográficas S.A.
 271164	City on a Hill Productions
-117913	Orbis Film
-242240	
 69974	
 42590	
 218262	
@@ -55535,7 +55161,6 @@ id	company_name
 4274	Société Française de Production (SFP)
 37455	Albina Productions S.a.r.l.
 37455	TIT Filmproduktion
-246049	
 96987	Duplass Brothers Productions
 243881	
 306293	Les Films de l'Atalante
@@ -55649,9 +55274,7 @@ id	company_name
 327924	MPI Home Video
 195382	Lux Film
 37028	Walt deFaria
-211561	
 26296	
-146596	
 89351	D&R
 104549	Art Theatre Guild
 104549	Jinriki Hikoki Sha
@@ -55668,7 +55291,6 @@ id	company_name
 243919	
 159652	
 253284	
-66584	
 57681	New Line Television
 282624	
 113655	Pacific Productions
@@ -55678,7 +55300,6 @@ id	company_name
 75086	B.R.C. Produzione S.r.l.
 46448	
 198326	
-121513	
 196421	
 198772	
 14505	Insomnia Entertainment
@@ -55698,7 +55319,6 @@ id	company_name
 40419	
 13643	Cable Stuff Productions
 65534	Gaumont
-70989	
 59163	Gaumont
 38017	J&M Entertainment
 54064	Pyramide Productions
@@ -55759,8 +55379,6 @@ id	company_name
 298396	Minds Meet
 63067	Cecchi Gori Group Tiger Cinematografica
 38396	
-50531	
-66700	
 79683	International Apollo Films
 79683	Les Productions Jacques Roitfeld
 79683	Zurbano Films
@@ -55856,8 +55474,6 @@ id	company_name
 260839	
 105145	Parva Cinematografica
 105145	Producciones Cinematográficas D.I.A.
-199985	Parva Cinematografica
-199985	Ministero del Turismo e dello Spettacolo
 157152	
 205865	Argomedia Productions
 174650	Manila Cinematografica
@@ -55944,8 +55560,6 @@ id	company_name
 137370	Canal+
 137370	TPS Star
 324279	Quiet Pictures
-330275	Flach Film Production
-142528	
 59346	Gaumont
 85025	Les Films de la Grande Ourse
 135281	Ciné@
@@ -56211,7 +55825,6 @@ id	company_name
 261375	Twenty Four 9 Films
 69619	Enlight Pictures
 71924	Anglo-EMI
-62243	Titanus
 252714	Aaron Spelling Productions
 252888	Metromedia Productions
 252888	Stonehenge Productions
@@ -56428,7 +56041,6 @@ id	company_name
 181283	Worldview Entertainment
 78402	Fulvia Film
 39041	
-105766	Rai Cinemafiction
 74119	TFI Films Productions
 74119	Sofimage
 74119	CinéCinéma
@@ -56483,7 +56095,6 @@ id	company_name
 80527	Metro-Goldwyn-Mayer (MGM)
 80527	Gekko Film Corp.
 80527	Double Secret Productions
-259616	DEFA
 35177	
 1269	GFP Medienfonds
 51450	Bishop Studios LLC
@@ -56504,7 +56115,6 @@ id	company_name
 150056	UFA Filmproduktion GmbH
 61104	Red Bull Media House
 11207	
-257734	
 16119	DisneyToon Studios
 167161	
 11651	Rat Pack Filmproduktion
@@ -56518,8 +56128,6 @@ id	company_name
 21385	Walt Disney Pictures
 21385	DisneyToon Studios
 33719	
-114438	Seven Pictures
-114438	Black Forest Films
 238302	Gateway Films
 238302	Prana Studios
 238302	Prana Animation Studios
@@ -56534,10 +56142,7 @@ id	company_name
 78694	
 333324	
 12128	Constantin Film Produktion
-71191	Europa Corp
-15713	Mars Distribution
 10659	
-96872	
 48411	Sidus Pictures
 1615	
 1616	
@@ -56792,7 +56397,6 @@ id	company_name
 142216	
 117509	
 46578	
-62545	
 177354	
 27200	
 12601	
@@ -56896,11 +56500,6 @@ id	company_name
 111149	Gruskoff-Venture-Linson
 276902	Kilburn Media
 276902	A24
-284189	CNC
-284189	France Télévisions
-284189	TV5 Monde
-284189	Radio Télévision Suisse (RTS)
-284189	M.F.P.
 51883	
 9803	
 332356	Scott Free Productions
@@ -56943,8 +56542,6 @@ id	company_name
 29108	Scottish Arts Council Lottery Fund
 29108	Young Lake
 47946	
-334651	Merlin Productions
-334651	TF1
 43030	Warner Bros.
 31344	Rome Paris Films
 31344	Producciones Benito Perojo
@@ -56997,7 +56594,6 @@ id	company_name
 37582	Aardvark Films
 37582	Broadbank Investments
 322460	Herman Cohen Productions
-107525	
 255157	Code Entertainment
 255157	Solution Entertainment Group
 255157	Freedom Media
@@ -57006,7 +56602,6 @@ id	company_name
 229328	British Film Institute (BFI)
 229328	Stone City Films
 136345	
-330588	ARD
 215658	
 283708	Procirep
 283708	Canal+
@@ -57031,11 +56626,7 @@ id	company_name
 208333	Universal Pictures
 208333	Playboy Enterprises
 208333	Jennings Lang
-289126	
-320299	
-335141	
 335145	Rysher Entertainment
-267623	
 74087	Balcázar Producciones Cinematográficas
 74087	Società Europea Films Internazionali Cinematografica (SEFI)
 292262	
@@ -57152,7 +56743,6 @@ id	company_name
 85184	John Lamond Motion Picture Enterprises
 274415	Lieblingsfilm
 274415	Fox International Productions (FIP)
-86258	
 94739	Million Dollar Productions
 299353	Bayerischer Rundfunk (BR)
 299353	Die Film GmbH
@@ -57170,7 +56760,6 @@ id	company_name
 20036	Nu Image Films
 20036	Millennium Films
 165321	
-275244	
 28855	Peppertree Productions Inc.
 128614	
 91683	August Entertainment
@@ -57210,10 +56799,6 @@ id	company_name
 94205	
 225982	
 139862	
-75066	Terra Film Produktion
-75066	Fidès
-75066	Cité Films
-75066	G.E.S.I. Cinematografica
 289720	Media Max Productions
 289720	22h22
 289720	Notorious Films
@@ -57261,14 +56846,8 @@ id	company_name
 284289	Furthur Films
 325382	
 284470	Xbox Entertainment Studios
-332759	Sat 1
 228381	Eyeworks Film
 228381	Südwestrundfunk (SWR)
-290043	Zweites Deutsches Fernsehen (ZDF)
-290043	ZDF Productions
-290043	ZDF/Arte
-290043	ZDF
-290043	ZDF Television
 254936	
 21461	
 295592	Disneynature
@@ -57361,7 +56940,6 @@ id	company_name
 60591	
 77128	
 27698	Showgate
-252845	
 250349	TF1 Films Production
 250349	Same Player
 250349	Studio Canal
@@ -57818,8 +57396,6 @@ id	company_name
 254470	Gold Circle Films
 254470	Brownstone Productions
 59839	
-62363	Les Productions Artistes Associés
-62363	Les Films Dargaud
 121927	Cee Note
 121927	Stranger Productions Inc.
 223895	Triglav Film
@@ -57843,7 +57419,6 @@ id	company_name
 97987	Devon Film
 97987	Tiki Film
 107193	
-218772	
 72949	Lenfilm
 94527	
 136368	Kantana Animation Studios
@@ -57864,7 +57439,6 @@ id	company_name
 261033	
 258099	Coquette Productions
 258099	New Artists Alliance
-337101	Productora Ocio
 90879	Rastar Pictures
 90879	Skatetown
 90879	KBC
@@ -57898,7 +57472,6 @@ id	company_name
 277662	BN Films
 277662	Yoruba Saxon Productions
 277662	Sea Smoke Entertainment
-66082	
 127142	Roser Film
 29846	Paramount Pictures
 208517	Kay-Bee Pictures
@@ -58179,7 +57752,6 @@ id	company_name
 20870	Киностудия «Мосфильм»
 95431	
 107705	Mosfilm
-156145	Mars Films
 46567	Les Productions Jacques Roitfeld
 46567	Sancrosiap
 46567	Atlántida Films
@@ -58208,7 +57780,6 @@ id	company_name
 64483	Channel 1+1
 64483	Prodyuserskaya Firma Igorya Tolstunova
 179288	
-41703	
 23898	
 25936	Central Partnership
 64268	
@@ -58300,7 +57871,6 @@ id	company_name
 27937	Mosfilm
 337789	Paramount Pictures
 337789	Hertlandy Productions
-89330	Yleisradio (YLE)
 154397	
 198240	Angel films
 122767	Burrowes Film Group
@@ -58324,9 +57894,6 @@ id	company_name
 169618	
 65651	Ealing Studios
 10986	Capital Film
-119409	Amiguetes Entertainment S.L.
-119409	Ensueño Films
-119409	Chapuzas Audiovisuales
 190940	Viacom 18 Motion Pictures
 19025	T-Series
 20359	
@@ -58382,39 +57949,24 @@ id	company_name
 26861	Grow Pictures
 26861	Scheherazade
 229702	Johnson Production Group
-58611	Faso Film
 43211	C.G. Silver Film
 38262	Cinecittà
 38262	Alexandra Film
 38262	C.G. Silver Film
-58615	
 58613	Reteitalia
 58613	Scena Film
-57918	Reteitalia
-57918	Gruppo Bema
 43646	
-173177	Cecchi Gori Group
 43648	
-61303	
 43649	
-75001	
 328720	Colorado Film Production
 58191	C.G. Silver Film
-38285	Faso Film
 43571	
-121516	
 75336	
 82066	Rizzoli Film
 279568	
-139563	
 49352	Visto International Inc.
 246917	Dudez Productions
 39895	Conquest Productions
-2197	Arte
-2197	Eurimages
-2197	Man's Films
-2197	Canal+
-2197	Centre National de la Cinématographie (CNC)
 101029	United Pictures Organization
 19095	Comptoir Français du Film Production (CFFP)
 19095	Brux International Pictures
@@ -58431,7 +57983,6 @@ id	company_name
 86700	
 222936	Scott Rudin Productions
 222936	Vinyl Films
-44486	
 39309	
 132551	Hrvatska Radiotelevizija (HRT)
 132551	Telefilm
@@ -58446,8 +57997,6 @@ id	company_name
 231625	
 98120	Cattleya
 135695	Palomar
-161545	Fandango
-161545	Rai Cinema
 250235	Medusa Film
 250235	Lotus Production
 173847	
@@ -58490,7 +58039,6 @@ id	company_name
 159967	Belle Epoque Films
 46923	Eesti Telefilm
 146045	Tallinnfilm
-221171	Tallinnfilm
 46809	Tallinnfilm
 146030	Tallinnfilm
 47150	Tallinnfilm
@@ -58518,9 +58066,6 @@ id	company_name
 76101	Vitamin A Films
 76101	Strategic Film Partners
 76101	Satori!films
-61035	Bavaria Filmverleih- und Produktions GmbH
-61035	Constantin Film.
-61035	Kiddinx Filmproduktion
 223932	United King Films
 2462	Gaumont
 2462	Rizzoli Films
@@ -58655,7 +58200,6 @@ id	company_name
 271714	John Wells Productions
 38248	Yodi Movie Craftsman
 122525	
-222517	Valiant
 59871	Cinevideo 80
 260899	
 157683	
@@ -58687,19 +58231,15 @@ id	company_name
 87851	
 39060	Miles Productions
 5302	Management Company Entertainment Group (MCEG)
-107052	
-59156	
 42220	
 68882	
 82114	Cooperativa 15 Maggio
-79750	Dino de Laurentiis Cinematografica
 108535	Marianne Productions
 108535	Castoro
 108535	Oceanic Filmproduktion GmbH
 103216	
 90659	
 68816	
-56369	
 58404	Paramount Pictures
 58404	Titanus Produzione
 193641	
@@ -58709,7 +58249,6 @@ id	company_name
 60063	
 55960	Titanus
 54398	
-82481	Film Costellazione Produzione
 199222	Films Metzger et Woog
 199222	Alessandro Iacovoni Produzione Cinematografica
 75442	
@@ -58717,18 +58256,13 @@ id	company_name
 189334	
 71063	
 105616	
-186630	Fair Film
-186630	Clemente Lococo
 81871	
-61911	
 221527	
 99916	
 63687	
-195413	
 62036	Titanus
 62036	Société Générale de Cinématographie (S.G.C.)
 62036	Vides Cinematografica
-48937	
 105778	
 32728	Center for the Study of Filmed History
 32728	Before Stonewall Inc.
@@ -58860,16 +58394,10 @@ id	company_name
 63774	Ecce Films
 63774	Rezina Productions
 63178	Lux Film
-80374	
 82113	
 43294	
 51912	Maxima Pictures
-56920	Titanus
-340961	France Cinéma Productions
-340961	Ital-Victoria Films
-340961	Consórcio Paulista de Co-Produção
 58701	Titanus
-54166	
 11048	Mondial Televisione Film
 11048	C.A.P.A.C.
 11053	Mondial Televisione Film
@@ -58918,9 +58446,6 @@ id	company_name
 223946	Récifilms
 14406	ADR Productions
 14406	Agence BJP
-44937	ADR Productions
-44937	SND
-44937	Agence BJP
 96382	Lifetime Television
 96382	Robert Greenwald Productions
 96382	Barbara Lieberman Productions
@@ -59061,7 +58586,6 @@ id	company_name
 38546	
 224087	Spinning Owls Productions
 224087	224 Entertainment
-13733	Téléma Productions
 38238	
 32782	Johnson Production Group
 32782	ITV Global Entertainment
@@ -59347,17 +58871,12 @@ id	company_name
 56341	Produzione Cinematografiche Inter.Ma.Co.
 146132	
 73827	Documento Film
-58188	Explorer Film '58
-58188	Euro Film
 221717	Documento Film
 221717	Columbia Films
 61799	Documento Films
 81831	
-162382	
-62397	Dino de Laurentiis Cinematografica
 56343	
 67377	Dino de Laurentiis Cinematografica
-60046	
 48955	
 59249	Società Generale Cinematografica
 59249	Chamartín Producciones y Distribuciones
@@ -59366,7 +58885,6 @@ id	company_name
 56340	
 56435	Titanus
 79025	
-60195	
 82470	
 20983	Bipolar Films
 20983	Entropy Entertainment
@@ -59423,13 +58941,10 @@ id	company_name
 323660	The Asylum
 57784	Destination Films
 57784	Shouldn't Throw Stones
-325780	
 281783	Arco Film
 281783	Cineriz
-60038	
 57999	
 47245	Scena Film
-82350	
 72886	Threshold Entertainment
 72886	New Line Home Video
 75101	
@@ -59440,7 +58955,6 @@ id	company_name
 297291	Universal Pictures
 302960	Warner Home Video
 32195	Buena Vista
-213095	
 90029	HIFI Stereo 70 Kg
 90029	Neptunia Film
 13354	Hanna-Barbera Productions
@@ -59481,8 +58995,6 @@ id	company_name
 3405	Paramount Pictures
 3405	Documento Film
 94770	bruguglio films
-105509	Lux Film
-105509	Ora Film
 19373	Film Communications Inc.
 92853	
 117890	Explorer Film '58
@@ -59586,13 +59098,9 @@ id	company_name
 225728	Film4
 225728	Anton Capital Entertainment (ACE)
 225728	DMC Films
-200117	
 208305	Item 7
 208305	P.S. Productions
-246422	
 182873	Tea Shop & Film Company
-202980	EuropaCorp
-202980	Rhamsa Productions
 61901	Onyx Films
 61901	Fidélité Films
 61901	Scope Pictures
@@ -59704,10 +59212,7 @@ id	company_name
 327833	SC International Pictures
 327833	Thor Pictures
 346838	
-82806	
 165790	
-64155	
-58525	
 39335	
 220471	LD Entertainment
 268508	Halcyon International Pictures
@@ -59723,7 +59228,6 @@ id	company_name
 128209	Contravia Films
 128209	Punto Guion Punto Producciones
 43371	
-84056	Medusa Film
 214146	Millennium Storm
 57967	
 38517	
@@ -59774,7 +59278,6 @@ id	company_name
 319986	Dolger Films
 319986	C Joy Productions
 4199	Norman Rosemont Productions
-285649	
 279984	MGM Television
 279984	Urich Productions
 279984	Stormy Weathers Production
@@ -59784,7 +59287,6 @@ id	company_name
 33723	Applause Pictures
 206237	
 38918	Rat Pack Filmproduktion
-217412	Olga Film GmbH
 213950	Chanticleer Films
 316776	Ramon Film Productions
 27717	Four Crown Productions
@@ -59915,7 +59417,6 @@ id	company_name
 18016	
 159763	
 103635	
-288668	
 69393	Nightstar Productions
 69393	Robert Greenwald Productions
 69393	Baumant Entertainment
@@ -60044,7 +59545,6 @@ id	company_name
 174350	
 189080	
 234555	
-209248	
 44647	
 240154	Broad Appeal Productions
 285024	
@@ -60106,7 +59606,6 @@ id	company_name
 124042	Michele Brustin Productions
 124042	Scripps Howard Entertainment
 202722	Red Valkyrie Studios
-58487	
 159389	Motion Picture Corporation of America (MPCA)
 159389	Sony Pictures Television
 159389	Silver Screen Pictures
@@ -60137,11 +59636,6 @@ id	company_name
 54099	
 49701	
 45948	Les Films de la Pléiade
-143344	Televisión Española (TVE)
-143344	Instituto de la Cinematografía y de las Artes Audiovisuales (ICAA)
-143344	Media Films
-143344	ICF Institut Català de Finances
-143344	Instituto de Crédito Oficial (ICO)
 49711	Les Films de la Pléiade
 43027	Satyajit Ray Productions
 45997	
@@ -60245,8 +59739,6 @@ id	company_name
 226188	Hybrid
 226188	Production Media Group
 137310	Larry Levinson Productions
-332354	RH Cinema
-332354	Frágil Zinema
 248426	
 107262	
 56608	
@@ -60307,7 +59799,6 @@ id	company_name
 82191	Rainbow Releasing
 169962	Universal Pictures
 344560	
-131830	
 37501	San Francisco Film
 156140	Rusconi Film
 87194	
@@ -60332,7 +59823,6 @@ id	company_name
 105087	Producciones Cinematográficas Orfeo
 105087	Eurovision Cinematografica
 27743	
-293270	
 124504	
 53121	Indion Entertainment Group
 114594	
@@ -60471,10 +59961,8 @@ id	company_name
 62134	Studio
 62134	Rigolo Film 2000
 62134	Rigolo Films 2000
-57311	
 54627	Alhena Films
 54627	C-Films AG
-77000	
 85038	Medusa Film
 85038	Cattleya
 61940	Cattleya
@@ -60489,8 +59977,6 @@ id	company_name
 56041	Pupkin Production
 56041	ITC Movie
 139504	
-63190	
-147868	Colorado Film Production
 63365	Rai Cinema
 63365	Apulia Film Commission
 63365	Bianca Film
@@ -60499,16 +59985,9 @@ id	company_name
 63365	Provincia di Lecce
 63365	Provincia di Brindisi
 63365	Comune di Cisternino
-133788	
-108664	
 23509	Filmauro
 73869	Fandango
 73869	Rai Cinema
-46128	
-57713	
-77944	Colorado Film Production
-77944	Film Commission Regione Valle d'Aosta
-58518	Fandango
 22182	
 56844	
 56014	Italian International Film
@@ -60516,9 +59995,7 @@ id	company_name
 56014	Film Commission Torino-Piemonte
 59570	Italian International Film
 59570	Rai Cinema
-58453	
 60650	Union Générale Cinématographique (UGC)
-145872	
 56400	cattleya
 58531	
 72057	Rai Cinema
@@ -60526,7 +60003,6 @@ id	company_name
 123375	Rai Cinema
 123375	Palomar
 123375	Ministero per i Beni e le Attività Culturali (MiBAC)
-160844	Mitar Group
 49850	EOS Entertainment
 49850	Rai Cinema
 49850	Babe Films
@@ -60539,36 +60015,19 @@ id	company_name
 169692	First Sun
 137315	Rai Cinema
 137315	Motorino Amaranto
-219067	
-166262	Italian International Film
-166262	Medusa Film
 141810	Rodeo Drive
-162282	
-58013	Medusa Film
-58013	Agidi
 146364	
-238705	
 195544	Rai Cinema
 195544	Regione Lazio
 195544	Wildside
 195544	Monte dei Paschi di Siena
-171826	Fandango
-171826	Regione Lazio
-171826	Ministero per i Beni e le Attività Culturali (MiBAC)
-171826	Direzione Generale Cinema
-171826	Fondo Regionale per il Cinema
 175116	
-156547	Italian International Film
 158182	
 184681	
-270479	
 178915	Indigo Film
 178915	Rai Cinema
 178915	Film Investment Piedmont (FIP)
 178915	Film Commission Torino-Piemonte
-186982	
-182415	Lux Vide
-169069	Warner Bros.
 201010	Babe Films
 201010	Bibi Film
 58204	allien
@@ -60577,8 +60036,6 @@ id	company_name
 250219	Regione Lazio
 250219	Ministero per i Beni e le Attività Culturali (MiBAC)
 250219	Ascent Film
-249457	Madeleine Films
-249457	Colorado Film Production
 191820	Dor Film Produktionsgesellschaft GmbH
 191820	Österreichischer Rundfunk (ORF)
 191820	ARTE
@@ -60591,59 +60048,34 @@ id	company_name
 262789	Lotus Productions
 262789	Elatos
 24243	Gullane Filmes
-247218	
-231565	Transmedia
-231565	Stargara
 197089	Centre National de la Cinématographie
 197089	Canal+
 197089	SBS Productions
 215628	
 226936	
-234356	
 56853	
-228290	Paco Cinematografica
-228290	Warner Bros.
-228290	Regione Lazio
-228290	Ministero per i Beni e le Attività Culturali (MiBAC)
-228290	Sardinian Film Commission
 235208	
 287935	Imagenation Abu Dhabi FZ
 287935	Media Max Productions
 287935	Hyde Park Entertainment
 287935	Rob Heydon Productions
-301272	
-262785	
 348544	BSDS Productions
-38328	
-57112	Medusa Film
-57112	Agidi
 42808	
-58703	
 57110	
-58714	Cattleya
-62349	
 84739	
-42675	Filmauro
-42675	Ministero per i Beni e le Attività Culturali (MiBAC)
 56994	Rai Cinema
 56994	Duea Film
 51917	Medusa Film
 51917	Motorino Amaranto
 56974	
 23619	
-58011	
 58400	
 15681	Paradis Films
 15681	Italian International Film
 15681	Rai Cinema
 15681	Mes Films
 15681	Ministero per i Beni e le Attività Culturali (MiBAC)
-53957	Medusa Film
-53957	Sky Cinema
-53957	Tramp LTD
 56339	Rai Cinema
-35554	Apulia Film Commission
-35554	Taodue Film
 58060	BIM Distribuzione
 58060	MEDIA Programme of the European Union
 58060	Indigo Film
@@ -60654,9 +60086,7 @@ id	company_name
 58060	Film Commission Torino-Piemonte
 58060	Ministero per i Beni e le Attività Culturali (MiBAC)
 58060	Eurimages Council of Europe
-78854	ITC Movie
 62029	Intercapital
-105884	
 165550	Via Appia Communications
 85009	21st Century Film Corporation
 85009	Moviestore Entertainment
@@ -60675,7 +60105,6 @@ id	company_name
 82115	
 89847	
 273084	
-128625	
 191094	
 38162	Millennium Films
 38162	Nu Image / Millennium Films
@@ -60737,7 +60166,6 @@ id	company_name
 18618	Gettin It The Movie LLC
 18618	Second Slate Films
 54155	Les Films du Losange
-284362	Cusicanqui Films
 293299	Walt Disney Pictures
 293299	Walt Disney Animation Studios
 44869	Metro-Goldwyn-Mayer (MGM)
@@ -60966,12 +60394,9 @@ id	company_name
 348892	Salman Khan Films
 76850	Company Productions
 342003	
-267557	Rai Cinema
-267557	IBC Movie
 329134	
 55951	Red Giant Movies
 55951	Ayngaran International
-62713	
 42129	
 143754	Hercules Cinematografica
 143754	Films Montana
@@ -61077,8 +60502,6 @@ id	company_name
 57052	Rai Cinema
 57052	Ministero per i Beni e le Attività Culturali (MiBAC)
 55717	
-44211	Secol Superbo e Sciocco Produzioni
-44211	Ambra Produzioni
 24169	
 59582	Les Films du Kiosque
 29804	
@@ -61220,7 +60643,6 @@ id	company_name
 197297	Dadaş Film
 257249	KTF Films
 342052	
-108497	
 244776	Tandem Pictures
 244776	4 1/2 Film
 339065	
@@ -61240,7 +60662,6 @@ id	company_name
 273481	Thunder Road Pictures
 273481	Black Label Media
 212996	Win's Movie Productions Ltd.
-218688	Senator Film
 350931	Shadowlands Productions
 350931	Reel One Entertainment
 122320	
@@ -61313,7 +60734,6 @@ id	company_name
 348857	
 67362	Timbergrove Entertainment
 67362	Chaillot Films
-262987	
 162954	Shochiku Kinema (Kamata)
 38812	Joseph M. Schenck Production
 311615	Awesomeness Films
@@ -61429,29 +60849,23 @@ id	company_name
 197276	Plate of Peas Productions
 42727	Standard Club of California Productions Inc.
 236329	
-325645	
 49321	Fair Film
 49321	Cecchi Gori Group
 246457	
 42395	Trio International
 42395	Andrea Leone Films
-120922	
 43592	
-41669	
 41668	
 64822	
-41665	
 37770	Cecchi Gori Group
 52106	
 41664	
-38315	Reteitalia
 82080	Reteitalia
 82080	Scena Film
 38313	Maura International Films
 30459	Faso Film
 38310	
 26285	
-106256	
 41610	
 342896	Bleiberg Entertainment
 342896	Ministry of Content
@@ -61460,7 +60874,6 @@ id	company_name
 329289	Mosaic Films
 329289	Institution Post
 24161	
-58070	
 63274	
 37765	
 11441	
@@ -61581,7 +60994,6 @@ id	company_name
 264644	No Trace Camping
 264644	A24
 264644	Elevation Pictures
-204771	
 135697	
 79456	
 295723	Matchbox Pictures
@@ -61594,7 +61006,6 @@ id	company_name
 49672	
 192911	Mattel Playground Productions
 102831	
-238925	
 226458	GO Productions
 226458	Vicarious Entertainment
 226458	Bloodline Productions
@@ -61631,7 +61042,6 @@ id	company_name
 328425	STX Entertainment
 328425	Ahimsa Films
 18380	Cité-Amérique
-171873	
 137853	Brooklyn Underground Films
 80648	
 277847	Masnomis
@@ -61725,7 +61135,6 @@ id	company_name
 85411	Interscope Communications
 7092	Universal Pictures
 35178	Signboard Hill Productions
-60071	
 86543	Hallmark Hall of Fame Productions
 86543	Boys Next Door Productions Inc.
 50503	L.A. Film Partners
@@ -61757,7 +61166,6 @@ id	company_name
 121001	Paramount Pictures
 121959	
 106355	Republic Pictures
-124523	World Wide Productions
 142064	DC Comics
 25180	Public Broadcasting Service (PBS)
 25180	Canadian Broadcasting Corporation (CBC)
@@ -61867,7 +61275,6 @@ id	company_name
 107427	Universal Pictures International (UPI)
 105687	Corona Filmproduktion
 105687	Filmalpha
-276155	Lux Film
 15531	Mosaic Media Group
 15531	Mad Chance
 15531	Warner Premiere
@@ -62019,7 +61426,6 @@ id	company_name
 284674	Oddfellows Entertainment
 39773	Jerry Leider Productions
 39773	Pheonix Entertainment
-307293	RTL Entertainment
 259300	Ishinomori Productions
 56672	
 42053	
@@ -62027,9 +61433,6 @@ id	company_name
 216580	Raven Banner Entertainment
 216580	Green Dog Films
 216580	Cart Before The Horse Productions
-8930	Arte France
-8930	Palmeraie et Désert
-8930	France 2 Cinéma
 319337	Lucky Bird Pictures
 319337	Philipp Filmproduction
 319337	Delphi Medien
@@ -62073,8 +61476,6 @@ id	company_name
 202456	Mil Nubes-Cine
 202456	Áurea Digital
 107039	Les Films de l'Ange
-292387	France 3 Cinema
-292387	24 Mai Productions
 297641	Lunafilms Audiovisual
 297641	CEPA Audiovisual
 297641	Abaca Films
@@ -62105,9 +61506,6 @@ id	company_name
 256836	K5 International
 256836	Agile fims
 256836	Archer's Mark
-64383	Studio Canal
-64383	Pan Européenne Productions
-64383	France2 Cinéma
 351043	Infra-Red Pictures
 150191	
 260891	
@@ -62146,8 +61544,6 @@ id	company_name
 274820	One Square Mile Management Company
 274820	Phoenix Rising Motion Pictures
 26189	
-243059	
-231009	
 339327	
 91624	Magirus Film
 287628	Immortal Entertainment
@@ -62156,19 +61552,13 @@ id	company_name
 336251	
 325263	Giant Screen Films
 325263	K2 Films
-76871	Lira Films
-76871	Pegaso Cinematografica
 353898	
 336203	Drishyam Films
 306543	
-316170	RAI
 50341	Cinema Service
 50341	CJ Entertainment
 50341	KnJ Entertainment
 65628	Dino de Laurentiis Cinematografica
-116236	Dino de Laurentiis Cinematografica
-116236	Lux Film
-116236	Umbria Film
 297505	Fair Film
 297505	Ital-Noleggio Cinematografico
 289679	
@@ -62375,7 +61765,6 @@ id	company_name
 295111	Hugo Films S.A.
 260313	Irusoin
 260313	Moriarti Produkzioak
-284048	
 320643	
 58858	Pathe
 32671	Pasidg Productions Inc.
@@ -62490,8 +61879,6 @@ id	company_name
 191718	CNAP/Image-Mouvement
 330421	Wide Angle Creations
 330421	Rajkumar Theatres
-177104	Virtus Film
-177104	Volonteri Film
 348296	Tiger Aspect Productions
 26847	
 287241	Front Street Pictures
@@ -62632,8 +62019,6 @@ id	company_name
 266433	Foresight Features
 347328	
 319910	Reliance Entertainment
-252773	Why Not Productions
-252773	Wild Bunch Distribution
 284279	Filmkameratene A/S
 313922	Film Science
 313922	Broad Green Pictures
@@ -62916,9 +62301,6 @@ id	company_name
 358982	Lost Boy Pictures
 218576	
 356149	
-315335	Little Shark Entertainment GmbH
-315335	Seven Pictures Film
-315335	Constantin Film Produktion
 81704	Boogiefilm
 81704	Das Kleine Fernsehspiel (ZDF)
 81704	Enigma Film
@@ -62944,7 +62326,6 @@ id	company_name
 139156	TF1 Films Production
 100243	Filmakademie Baden-Württemberg
 100243	Hessischer Rundfunk (HR)
-68023	
 28538	Mercury Film International
 91265	Balcázar Producciones Cinematográficas
 91265	BGA
@@ -62955,7 +62336,6 @@ id	company_name
 22726	
 35611	Titanus
 35611	Ultra Film
-46436	
 27909	
 150839	Ascot Film
 150839	Prestige Films
@@ -63008,7 +62388,6 @@ id	company_name
 340382	Licri
 332839	Manis Film
 332839	Papagjika Salloway Productions
-63276	
 84858	Dharma Productions
 118051	Eros International
 118051	Illuminati Films Pvt Ltd
@@ -63137,7 +62516,6 @@ id	company_name
 321228	Cine Plus Filmproduktion
 321228	Otomat
 321228	Sommerhaus Filmproduktionen
-257237	
 239523	
 19430	
 109632	Jesse L. Lasky Feature Play Company
@@ -63161,15 +62539,12 @@ id	company_name
 157843	Raslan Company of America
 353686	Blumhouse Productions
 353686	Chapter One Films
-300839	Pathe
 359105	Artikulo Uno Productions
-154671	Sveriges Radio (SR)
 315841	Office Kitano
 91007	Wong Jing's Workshop
 11142	Action concept &fims
 11142	Action Concept cinema
 11142	Action Concept cinema & company
-243473	
 18303	TF1 International
 42427	Les Films Manuel Munz
 322434	
@@ -63255,7 +62630,6 @@ id	company_name
 65092	Personafilm
 84449	
 61502	Transglobe-Film Inc.
-66447	
 119478	Player Entertainment Group
 119478	Matchbox Pictures Inc.
 87706	Film Ventures International (FVI)
@@ -63368,7 +62742,6 @@ id	company_name
 20361	Fono Roma
 20361	Les Films Copernic
 20361	Loisirs du Monde
-295314	Dharamsala
 337730	Fin Août Productions
 95807	TNT Originals
 95807	Head First Productions
@@ -63506,7 +62879,6 @@ id	company_name
 85207	Hawthorne Productions
 204582	
 224778	Kingdom of Light Entertainment
-142982	
 91926	Epic Pictures Group
 179847	
 39793	
@@ -63567,7 +62939,6 @@ id	company_name
 241573	
 295317	T&C Film AG
 339320	
-292539	
 301228	T Squared Film
 330112	Head Gear Films
 330112	Metrol Technology
@@ -63615,7 +62986,6 @@ id	company_name
 326333	Origo Film Group
 326333	FilmTeam
 250535	Film i Väst
-320028	
 250230	Pyramide Productions
 250230	Corazón International
 250230	Pandora Filmproduktion
@@ -63725,7 +63095,6 @@ id	company_name
 55011	
 99760	Ópalo Films
 133560	Shôchiku Eiga
-338312	
 273197	
 67977	
 295799	
@@ -63835,13 +63204,11 @@ id	company_name
 217185	Twentieth Century Fox Film Corporation
 85285	Les Films Concordia
 85285	Compagnia Cinematografica Champion
-322453	Fortuna Films Co.
 118876	Rizzoli Film
 118876	Capital
 4196	TF1 Films Productions
 4196	RAI
 4196	Österreichischer Rundfunk (ORF)
-64526	
 106944	Fono Roma
 106944	Filmena
 58658	Les Films Corona
@@ -63914,7 +63281,6 @@ id	company_name
 73455	Producciones Amaranta
 73455	Cero en conducta S.L.
 199184	
-60193	
 105529	
 106224	
 198661	
@@ -63952,22 +63318,12 @@ id	company_name
 92572	
 56287	Titanus
 61829	
-82368	Société Générale de Cinématographie (S.G.C.)
-82368	CEI Incom
-82368	Maxima Film Compagnia Cinematografica
-92586	
 76575	
-193732	Fair Film
-193732	Incei Film
-193732	Cinétel
-193732	Montfluor Film
 45005	
 2969	Amalia Film GmbH
-273868	
 231304	Cineriz
 231304	Teseo
 36817	
-337014	
 47158	
 270487	Universal Pictures
 270487	Mike Zoss Productions
@@ -64085,11 +63441,9 @@ id	company_name
 122787	Tefi Film
 122787	Chretien
 122787	Mancori
-80443	Napoleon Film
 136572	titania produzioni
 136572	Film 87
 136572	Plaza Production International
-107035	
 74656	Cooperativa Spettatori Produttori Cinematografici
 291866	Midnight Road Entertainment
 38201	
@@ -64160,9 +63514,6 @@ id	company_name
 248417	
 190250	
 165181	
-268212	Paris-Europa Productions
-268212	Rapid Film
-268212	Figet
 262945	
 37679	Sage Productions
 27364	Tolda Productions
@@ -64617,9 +63968,7 @@ id	company_name
 72664	Carthago Films S.a.r.l.
 28416	Gatlin Pictures
 292035	
-172396	
 76040	Roadshow Productions
-160106	
 798	Rhombus Ringfilm
 356161	Lunanime
 356161	Coproducción Francia-Bélgica
@@ -64742,8 +64091,6 @@ id	company_name
 53689	Svensk Filmindustri
 53689	Kulturtuben
 314462	
-77241	
-52183	
 239534	
 236317	TMC
 171160	
@@ -64836,9 +64183,6 @@ id	company_name
 287636	New Films International
 287636	Rabbit Bandini Films
 117435	Metro-Goldwyn-Mayer (MGM)
-5881	Loma Nasha Films
-5881	Poisson Rouge Pictures
-5881	Tigerfish
 55240	Warner Bros.
 4893	
 291540	Don Ferguson Productions
@@ -64890,7 +64234,6 @@ id	company_name
 294016	Inimitable Pictures
 294016	ShivHans Pictures
 324178	Gordon Films
-121329	
 96368	Terra-Filmkunst
 96368	Euro International Film (EIA)
 96368	Produzioni Cinematografiche Europee (P.C.E.)
@@ -64899,7 +64242,6 @@ id	company_name
 129851	National Cinematografica
 156988	
 156995	
-146970	
 157724	Dania Cinematografica
 179178	Dania Film
 179178	Medusa Distribuzione
@@ -65004,7 +64346,6 @@ id	company_name
 139945	Werner Herzog Filmproduktion
 97632	The Asylum
 258075	
-310126	
 37055	BBC Northern Ireland
 107596	
 79329	Yer Dead Productions
@@ -65036,7 +64377,6 @@ id	company_name
 321039	PCB Entertainment
 321039	Concourse Media
 148451	
-267389	
 37216	Paramount Pictures
 37216	Independent Artists
 37216	Sydney Box Productions
@@ -65195,7 +64535,6 @@ id	company_name
 56598	Columbia Pictures Corporation
 266764	
 325690	
-42436	
 127017	
 225403	
 78329	BBC
@@ -65285,9 +64624,6 @@ id	company_name
 169090	Lasse Forsberg Produktion AB
 228198	Zeugma Produções
 299851	Heco Produções
-367006	Sandrews
-367006	Finnish Film Foundation
-367006	Orsans Productions
 277435	
 365188	Marianna Films
 355436	
@@ -65350,7 +64686,6 @@ id	company_name
 362077	
 171174	Lietuvos Kinostudija
 171174	Lithuanian Film Studio
-365340	
 44282	Universidad del Cine
 44282	Rendez-vous Pictures
 44282	Brainjaus Producciones
@@ -65401,7 +64736,6 @@ id	company_name
 25354	
 306952	
 347258	Instinct Entertainment
-50189	Clan Celentano
 60810	
 280182	
 63825	Madras Talkies
@@ -65463,7 +64797,6 @@ id	company_name
 58720	
 14558	
 39317	
-74922	
 251584	Polski Instytut Sztuki Filmowej
 251584	Profil Film
 167424	Komplizen Film
@@ -65498,9 +64831,6 @@ id	company_name
 56978	
 57310	
 57914	
-45990	
-60018	
-64948	
 60191	Penta Films
 60191	Duea Film
 60191	Istituto Luce-Italnoleggio Cinematografico
@@ -65512,12 +64842,10 @@ id	company_name
 78812	Cineriz
 121464	
 8430	Orizzonte 2000
-61217	
 75532	Ponti-De Laurentiis Cinematografica
 75532	Golden Film
 155956	Franco London Films
 155956	Produzioni Cinematografiche Associate
-42579	
 56922	
 293264	Rai Cinema
 157827	Motlys
@@ -65554,10 +64882,6 @@ id	company_name
 200823	TF1 Films Productions
 200823	StudioCanal
 200823	Made in PM
-327383	Tornasol Films
-327383	Foresta Films
-327383	Hernández y Fernández Producciones Cinematográficas
-327383	La Ignorancia de la Sangre
 287426	Bifrost Pictures
 287426	The Bridge Finance Company
 23857	Zone Films
@@ -65584,22 +64908,16 @@ id	company_name
 11530	Les Films Christian Fechner
 207402	Integral Film
 207402	Hardy Pictures
-49907	
-67177	
 107812	
 198474	
-183964	
 24195	
 71995	
 274131	
-62034	Rosa Film
 220565	
-217648	Cineriz
 63074	
 60175	
 24260	Renn Productions
 24260	France 3 Cinema
-53179	Renn Productions
 58833	Renn Productions
 52557	Renn Productions
 271388	HomeComing RC
@@ -65615,7 +64933,6 @@ id	company_name
 39850	Cité Films
 39850	Jet Tone Films
 79212	EFLATUN FILM
-332534	Besiktas Kültür Merkezi (BKM)
 27721	
 193544	EFLATUN FILM
 297308	
@@ -65685,10 +65002,6 @@ id	company_name
 329724	Cinéfrance 1888
 4228	Films A2
 4228	Laura Films
-59349	TF1 Films Production
-59349	Gemini Filmproduktion
-59349	G.P.F.I.
-59349	Camera Noire
 76793	
 50213	
 71767	Hesperia Films S.A.
@@ -65720,7 +65033,6 @@ id	company_name
 42952	Studio Trite
 64046	
 64044	
-84774	Kievnauchfilm
 65099	Lenfilm
 65099	Gosteleradio
 140966	Gorky Film Studio
@@ -65728,7 +65040,6 @@ id	company_name
 80746	
 364684	
 37015	
-207696	
 63537	Mosfilm
 63537	Zhanr
 72888	Mosfilm
@@ -65786,14 +65097,12 @@ id	company_name
 92737	
 62040	Triple Peak Productions
 59455	
-263873	
 80386	
 77720	Mosfilm
 83614	Lenfilm
 74852	Odessa Film Studios
 126846	
 72093	
-72095	Lenfilm
 60199	Propaganda Films
 60199	Asymmetrical Productions
 116544	
@@ -65853,14 +65162,10 @@ id	company_name
 43456	RKO Radio Pictures
 43456	Jesse L. Lasky Productions
 43503	RKO Radio Pictures
-265351	M3
-265351	U10
 333886	
 268413	Insignia Productions
 268413	CaglarArts Entertainment
 64433	
-30634	
-49828	
 320349	
 352327	Classic Films
 352327	Mano a Mano Films
@@ -65906,7 +65211,6 @@ id	company_name
 335869	Metropolitan Entertainment
 51403	A + C Reuter New Cinema
 369230	
-257593	
 324259	100% Halal
 324259	Vice Media
 188981	
@@ -65942,7 +65246,6 @@ id	company_name
 334527	May Day Movies
 60836	
 161620	Warner Bros. Television
-166207	Producciones A.S.H. Films S.A.
 356898	Pica Pica Media Limited
 293982	Akson Studio
 293982	Alvernia Studios
@@ -66088,7 +65391,6 @@ id	company_name
 49722	Micro scope
 42809	Nikkatsu
 341895	Anwar Rasheed Entertainment
-48845	
 345575	Filmkameratene AS
 345575	Sveriges Television (SVT)
 345575	Norsk Rikskringkasting (NRK)
@@ -66117,8 +65419,6 @@ id	company_name
 130754	
 336884	Filmkompaniet MadMonkey
 339751	Cohen Media Group
-295748	CMYLMZ Fikirsanat
-295748	warner bross Turkey
 34666	T&C Film AG
 299687	Columbia Pictures
 299687	GK Films
@@ -66158,8 +65458,6 @@ id	company_name
 321666	Lucía Films
 307103	Labyrinthe Films
 307103	Cinéfrance 1888
-326874	Hérodiade
-326874	Alvy Développement
 103012	Out of Africa Entertainment
 103012	How Town Film Productions
 255869	
@@ -66192,11 +65490,7 @@ id	company_name
 161076	TFT Productions
 16422	
 272255	King Brothers Productions
-285908	Lions Gate Films
 254918	Identity Films
-358980	A Major Films
-358980	Unipictures
-358980	Ciné Lyre
 13591	Ella Communications
 345637	Pixar Animation Studios
 336882	Fantefilm
@@ -66209,7 +65503,6 @@ id	company_name
 256546	
 105085	Cinemar
 105085	Atlántida Films
-279179	ARD
 61535	Centre National de la Cinématographie
 61535	Canal+
 61535	Chrysalide Film
@@ -66218,7 +65511,6 @@ id	company_name
 79435	
 334028	Caliber Media Company
 334028	Revek Entertainment
-152539	
 58384	
 68437	Sveriges Television (SVT)
 68437	Svensk Filmindustri (SF)
@@ -66279,7 +65571,6 @@ id	company_name
 23166	TYPE-MOON
 23167	ufotable
 23167	TYPE-MOON
-366548	Suricate
 351694	Hengdian Chinese Film Production Co.
 351694	Beijing Weiyingshidai Culture & Media
 260928	Neil Breen
@@ -66294,8 +65585,6 @@ id	company_name
 301816	Cinetel Films
 301816	Reel One Entertainment
 301816	Ice Cap Pictures Inc
-338438	Romana Film
-338438	Société Nouvelle de Cinématographie (SNC)
 107100	
 81409	Uneurop Film
 74082	Fox Europa Produktion
@@ -66341,7 +65630,6 @@ id	company_name
 333968	Hidden Rooster Films
 17223	
 72246	
-248706	
 347969	Happy Madison Productions
 166178	
 338930	Aashirvad Cinemas
@@ -66411,14 +65699,8 @@ id	company_name
 156135	Cinecittà
 78101	Jadran Film
 78101	Prima Cinematografica
-163706	Les Films Ariane
-163706	France 3 Cinema
 73954	
-182843	
-162056	Medusa Distribuzione
-162056	RAI Radiotelevisione Italiana
 93064	
-150958	
 27009	
 30922	
 25568	IMAX
@@ -66493,7 +65775,6 @@ id	company_name
 326425	Twirly Films Limited
 180929	Brut Productions
 105153	Edison Manufacturing Company
-299165	Films Zodíaco
 303867	Bitter Films
 103502	Metafilms
 28138	
@@ -66620,7 +65901,6 @@ id	company_name
 140733	Česká televize
 346472	CINEMA 6K
 30644	Ansor International
-131897	
 282069	Dentsu
 282069	KDDI Corporation
 282069	GyaO
@@ -66630,16 +65910,9 @@ id	company_name
 373541	Nevermore Films
 373541	Atlantic & Pacific Pictures
 373541	Cafe Oscuro Films
-252028	Fobic Films
-252028	Vlaamse Radio en Televisie (VRT)
 299585	Unity Pictures Group
 36771	
-55254	
 62900	Spede-Team
-55776	
-62898	
-62896	
-62897	
 62894	
 145912	Funny-Films Oy
 36772	Funny-Films Oy
@@ -66650,9 +65923,7 @@ id	company_name
 322270	
 40836	
 351819	Open Road Films (II)
-58074	Cineriz
 56975	Cecchi Gori Group Tiger Cinematografica
-56068	D.D.L.
 66177	
 94641	Paramount Pictures
 53834	Nunnally Johnson Productions
@@ -66880,15 +66151,6 @@ id	company_name
 43020	Produzioni Atlas Consorziate (P.A.C.)
 127642	ABS-CBN Film Productions
 127642	Star Cinema Productions
-315319	
-298722	Medusa Film
-298722	Colorado Film Production
-298722	Regione Lazio
-298722	Wildside
-298722	Ministero per i Beni e le Attività Culturali (MiBAC)
-298722	Credit Agricole Vita
-298722	Black Rock
-298722	Valmora Acqua Minerale
 370835	Sudden Storm Productions
 370835	Ezeqial Productions
 61464	
@@ -66928,8 +66190,6 @@ id	company_name
 342927	The Asylum
 342927	Syfy
 68507	
-272426	Pro7
-272426	Rat Pack Filmproduktion
 357940	Huayi Brothers Media
 41032	British Broadcasting Corporation (BBC)
 292523	BBC
@@ -66937,8 +66197,6 @@ id	company_name
 73976	E.H. Filmes
 37817	Globo Filmes
 37817	Dueto Filmes
-82745	Aurora Filmes
-82745	Olhar Imaginário
 85389	
 73919	Warner Bros.
 73919	Casa de Cinema de Porto Alegre
@@ -66972,7 +66230,6 @@ id	company_name
 352200	Agav Films
 352200	​LGM CINEMA
 352200	HAMON HAFAKOT
-366566	Pan Européenne Production
 337075	Pixel Veil
 309811	
 281291	Filmline International Inc.
@@ -67036,10 +66293,6 @@ id	company_name
 99729	The Vitaphone Corporation
 181426	Principal Productions Inc.
 44459	
-153717	Moviepool GmbH
-153717	Pro Vobis - Gesellschaft für Film und Fernsehen
-153717	SK Film- und Fernsehproduktionsges.m.b.H.
-153717	ZDF
 289673	
 337208	Oracle Film Group
 262234	Fox Film Corporation
@@ -67072,11 +66325,6 @@ id	company_name
 44751	Phanta Vision
 44751	Eén
 44751	Bridge Entertainment Group
-68360	Motel Films
-68360	Versus Production
-68444	MMG Film & TV Production
-68444	Phanta Vision Film International B.V.
-68444	Klas Film
 276608	
 12135	Caviar Films
 12135	Vlaams Audiovisueel Fonds
@@ -67118,7 +66366,6 @@ id	company_name
 52738	
 22454	
 141145	
-73628	
 86482	Belgische Radio en Televisie (BRT)
 86482	Ministerie van Nationale Opvoeding en Kultuur
 164366	Independent Productions
@@ -67127,7 +66374,6 @@ id	company_name
 280437	Corsan Productions
 280437	Sigma Film Productions
 287344	
-374698	
 218238	
 73222	
 142085	
@@ -67136,12 +66382,10 @@ id	company_name
 15994	
 36712	Favourite Films NV
 36712	Phantom Films
-182545	
 35639	Studio 100
 63044	
 74436	
 255647	Intermedia Network
-54832	
 111480	
 44478	P.A.C.
 44478	Champs-Élysées Productions
@@ -67172,7 +66416,6 @@ id	company_name
 129119	The
 129119	Catherine Dussart Productions (CDP)
 328480	Incendo Productions
-284250	
 82655	
 325134	
 159109	Also Known As Pictures
@@ -67219,7 +66462,6 @@ id	company_name
 329440	Phantom Four Films
 41518	UTV Motion Pictures
 41518	SLB Films
-277934	
 141901	
 94555	
 46494	United Artists
@@ -67262,7 +66504,6 @@ id	company_name
 284050	Baobab Films
 284050	Expresso Films
 284050	Salado Media
-105991	
 287497	Little Wing Productions
 287497	Abraxas Film
 287497	Graal Films
@@ -67379,7 +66620,6 @@ id	company_name
 294825	Bearfruit Films
 61662	
 31343	
-150049	J.E.M. Productions
 13713	Fidélité Productions
 13713	StudioCanal
 13713	TF1 Films Production
@@ -67395,7 +66635,6 @@ id	company_name
 84782	Lenfilm
 277631	
 329407	
-135307	DUNE/Canal+
 212753	Téléfilm Canada
 212753	The Harold Greenberg Fund
 212753	Angel Entertainment
@@ -67410,7 +66649,6 @@ id	company_name
 86232	Paramount Pictures
 139712	
 106739	
-372113	
 150054	
 321974	Jigsaw Productions
 321974	Disarming Films
@@ -67500,12 +66738,10 @@ id	company_name
 176535	Wytwórnia Filmów Dokumentalnych i Fabularnych (WFDiF)
 176535	ITI Film Studio
 176535	Studio Filmowe Zebra
-74921	
 153266	Agencja Produkcji Filmowej
 153266	HBO Polska
 153266	Vilm Production
 78326	
-58553	
 36626	Österreichischer Rundfunk (ORF)
 36626	Opus Film
 36626	Telewizja Polska (TVP)
@@ -67527,11 +66763,7 @@ id	company_name
 36377	
 144942	BBC
 176037	
-329550	Figaro Film Production Ltd.
-329550	Non Stop Film Service (koprodukcja)
-329550	Arek Trawiński & Co (koprodukcja)
 38941	
-282768	
 90909	
 93862	Joseph Shaftel Productions
 152388	
@@ -67542,7 +66774,6 @@ id	company_name
 285011	L.C. Borden Productions
 285011	Goldport Productions
 110372	
-48431	
 108246	Metro-Goldwyn-Mayer (MGM)
 133255	Hollywood Pictures Corporation
 63654	R.S. Entertainment
@@ -67578,13 +66809,11 @@ id	company_name
 115162	Société Nouvelle Pathé Cinéma
 115162	Pans-Interopa
 5067	Comacico
-84035	
 76777	
 76775	Panitalia
 76775	Paris Film Productions
 76772	Société Nouvelle Pathé Cinéma
 76772	Les Films Agiman
-147360	
 4709	Regina Films
 68754	Filmsonor
 68754	Regina Films
@@ -67626,7 +66855,6 @@ id	company_name
 47360	Concorde-New Horizons
 47363	Concorde-New Horizons
 28920	
-359807	
 56589	Productions 2000
 259835	Copro Films
 259835	wonder films
@@ -67645,9 +66873,7 @@ id	company_name
 312669	Round Films
 312669	Rachael Horovitz Productions
 377565	Onion Films
-53301	
 47367	
-59264	
 27069	Jürgen Brüning Filmproduktion
 366924	DC Comics
 366924	Warner Bros. Animation
@@ -67665,7 +66891,6 @@ id	company_name
 158431	Blue Rider Pictures
 158431	Two Drivers Productions
 158431	Morlaw Films
-46442	
 53290	Neue Sentimental Film
 53290	Brandstorm Entertainment
 53290	Cine Cartoon Filmproduktion
@@ -67716,10 +66941,8 @@ id	company_name
 74197	Junior Film
 149691	
 150708	
-222619	
 26703	EMI Television
 26703	VIC Productions
-264036	
 104081	
 64462	
 65795	
@@ -67727,7 +66950,6 @@ id	company_name
 161024	Film Suez
 35411	
 109690	Nadie es Perfecto
-222030	
 42107	
 331962	Emmett/Furla Films
 331962	PalmStar Media
@@ -67789,7 +67011,6 @@ id	company_name
 97666	Mosfilm
 220029	
 157293	UTV Motion Pictures
-187737	
 220176	Pan Entertainment
 220176	Showbox/Mediaplex
 220176	Jupiter Films
@@ -67880,15 +67101,9 @@ id	company_name
 76851	Constantin Film Produktion
 76851	Jolly Film
 76851	Coral Producciones Cinematográficas
-235450	
 58500	
 376530	Kissaki Films
 376530	Stacey Reiss Productions
-365065	Life & Pictures
-365065	Lifeboat Productions
-365065	Scott Free Films
-365065	Cine de Garage
-365065	Entropy Studio
 67844	
 334918	France 3 Cinéma
 334918	Le Pacte
@@ -67975,7 +67190,6 @@ id	company_name
 300673	Red Hawk Entertainment
 18874	Production I.G.
 347495	
-171902	
 11089	Zero Film GmbH
 301325	AST Studios
 301325	Lowland Pictures
@@ -68071,7 +67285,6 @@ id	company_name
 43735	
 298986	Cinemaundici
 298986	Ipotesi Cinema
-333888	Goods film
 332709	BiBi Film
 18230	BBC Films
 18230	Mediaset
@@ -68116,7 +67329,6 @@ id	company_name
 336663	Cinémage 9
 336663	Proximus
 17720	Ealing Studios
-335031	
 42526	Scimitar Productions
 42526	Elliott Kastner-Jay Kanter-Alan Ladd Jnr Productions
 76200	Cinegai S.p.A.
@@ -68217,7 +67429,6 @@ id	company_name
 348674	Nordisk Film Production A/S
 348674	AZ Celtic Films
 164443	Hallmark Hall of Fame Productions
-61314	
 282084	
 342381	Optimum Productions
 92060	Optimum Productions
@@ -68247,7 +67458,6 @@ id	company_name
 360387	ETA films
 366249	Nordisk Film
 366249	Yellow Film & TV
-78340	
 257081	Twentieth Century Fox Film Corporation
 228647	Metro-Goldwyn-Mayer (MGM)
 87612	First National Pictures
@@ -68334,17 +67544,10 @@ id	company_name
 76282	Day 1 Films
 44637	
 86186	NBC Studios
-84865	
-359154	Televisió de Catalunya
-359154	Batabat
-359154	Lastor Media
 33842	
-82157	ZDF Productions
-82157	Kinderfilm GmbH
 124480	
 157447	
 110395	Miramax Films
-43292	
 211317	
 278514	
 100669	Larry Levinson Productions
@@ -68381,7 +67584,6 @@ id	company_name
 56309	George Minter Productions
 127688	
 93193	Figaro
-128866	Edgewood Entertainment
 161374	Alan Landsburg Productions
 18044	Insight Film Studios
 4289	Concorde-New Horizons
@@ -68410,7 +67612,6 @@ id	company_name
 27674	ACH
 27674	Regent Productions
 27674	Christopher Filmcapital
-370168	
 58769	
 125087	
 74942	Home Box Office
@@ -68423,7 +67624,6 @@ id	company_name
 57568	Pranakorn Films
 47655	
 85512	
-27941	
 28686	Curb Entertainment International
 44385	Synthetic Cinema International
 96334	Crown International Pictures
@@ -68479,7 +67679,6 @@ id	company_name
 82094	Krátký Film Praha
 82094	Jiří Trnka Studio
 82094	TV 2000 Film- und Fernsehproduktions GmbH
-367492	Mahzen's Film
 100275	Det Danske Filminstitut
 100275	Téléfilm Canada
 100275	Fridthjof Film
@@ -68496,14 +67695,12 @@ id	company_name
 23529	Warner Bros.
 23529	Tequila Gang
 23529	Manga Films
-54769	
 20221	
 114922	
 182219	UGC
 81666	
 290365	MIG Film GmbH
 46258	
-225244	Hans Domnick Filmproduktion
 253395	Solar Films inc.
 82153	
 77585	Fortress Features
@@ -68521,7 +67718,6 @@ id	company_name
 278771	
 353609	WWE Studios
 208431	
-331354	A Contracorriente Films
 9321	
 183176	
 228204	
@@ -68542,14 +67738,12 @@ id	company_name
 30909	
 114354	Clasa Films Mundiales
 112631	Alameda Films
-234815	
 240628	Producciones Yanco
 258450	A.T.P.I.P. Producciones
 258450	Latin Cinema Group
 258450	La Ducha Fria Producciones
 312101	
 186066	Producciones Escorpión
-82265	
 157153	Instituto Mexicano de Cinematografía
 157153	Estudios Churubusco Azteca
 157153	Centro de Capacitación Cinematográfica (CCC)
@@ -68605,15 +67799,11 @@ id	company_name
 104548	Matsumoto Production Company
 313108	CJ Entertainment
 382155	
-74919	Agencja Produkcji Filmowej
-74919	ATM Grupa S.A.
-74919	Dziki Film
 139635	
 44528	Echo Bridge Home Entertainment
 127329	Mega-Vision Pictures (MVP)
 85580	
 9939	
-379873	Filmauro
 137269	
 44239	Pensylvania Academy of Fine Arts
 20534	
@@ -68650,17 +67840,9 @@ id	company_name
 184522	
 161898	
 303982	Conspiração Filmes
-228184	Casé Filmes
-228184	Telecine
-228184	Lereby Productions
-228184	Globo Filmes
-228184	Itaca Films
-228184	Riofilme
-228184	Imagem Filmes
 153695	
 300602	Lightbox Entertainment
 300602	4 Cats Pictures
-258585	Lasihelmi Filmi
 41093	
 53871	BBC Films
 53871	Newhouse Nitrate
@@ -68758,7 +67940,6 @@ id	company_name
 217247	
 27598	Artfilm
 27598	Svensk Filmindustri (SF)
-245324	DEM Film
 78547	
 73094	Cosgrove Hall Films
 175380	Allegro Films
@@ -68803,7 +67984,6 @@ id	company_name
 155052	Zero Film GmbH
 155052	The Northern Fund
 155052	Eskomfilm
-92988	Prisma Film
 45204	Lemming Film
 45204	Vrijzinnig Protestantse Radio Omroep (VPRO)
 10500	Distant Dreams Filmproduktion
@@ -68835,16 +68015,12 @@ id	company_name
 108639	Ultima Vez
 80990	Les Cinémas de la Zone
 56487	
-66541	France 3 (FR 3)
-66541	Cinéproduction
 65504	Institut National de l'Audiovisuel (INA)
 65504	Acteurs Auteurs Associés (AAA)
 65504	Production du Cirque
 85904	Zanzibar Films
 85904	Capital Cinéma
 85904	Open Films
-152653	
-185153	Merchant Ivory Productions
 70503	De Productie
 70503	Moskito Film
 121740	Sveriges Television (SVT)
@@ -68927,7 +68103,6 @@ id	company_name
 64944	Prince Film
 88302	Gruzia-Film
 180695	
-218728	
 70794	
 1837	Les Productions Bagheera
 98642	Pandora Filmproduktion
@@ -68941,9 +68116,7 @@ id	company_name
 89757	
 35749	Unit Ten Productions
 302436	Lenfilm
-49941	
 189556	
-89560	
 136141	Vostokkino
 47900	Como Film
 47900	Štúdio hraných filmov Bratislava
@@ -68989,7 +68162,6 @@ id	company_name
 198450	
 16403	Blue Pen Ltd.
 16403	EuropaCorp
-79048	
 106538	Saga Film
 106538	RTL-TVi
 361980	Kinoproduction
@@ -68998,13 +68170,11 @@ id	company_name
 65120	
 293313	Artista Filmi Oy
 140278	
-353641	Artista Filmi Oy
 270936	
 293471	Zodiak Finland Oy
 364387	Zodiak Finland Oy
 52775	Cinematográfica Filmex S.A.
 52775	Sapphire Filmproduktiemaatschappij
-64504	
 61320	
 61313	
 69120	
@@ -69038,14 +68208,11 @@ id	company_name
 352720	MA.JA.DE Fiction
 352720	Passenger Film Studio
 352720	Sota Cinema Group
-316111	Italian International Film
-316111	Transeuropa Film
 260163	Splendid Film
 286367	Old Jim Productions
 178687	
 52416	CJ Entertainment
 51205	
-280045	Procusa
 205943	Jeridoo Productions
 205943	Severed Productions
 169865	
@@ -69068,7 +68235,6 @@ id	company_name
 28389	Maljack Productions
 28389	Shapiro-Glickenhaus Entertainment
 72661	
-41078	Pannónia Filmstúdió
 73129	Proton Cinema
 61552	
 103539	Kazakhfilm Studios
@@ -69082,13 +68248,10 @@ id	company_name
 47723	Nordiska TV-Samarbetsfonden
 47723	RAI Radiotelevisione Italiana
 21751	Lemming Film
-104172	Zweites Deutsches Fernsehen (ZDF)
-104172	LERM-Film
 318851	Scorpio
 118727	
 150578	
 291122	
-319179	
 121754	
 162458	Elena Films
 242289	Animatógrafo II
@@ -69159,7 +68322,6 @@ id	company_name
 70967	
 105033	
 161535	
-71630	
 145909	Fantasiafilmi Oy
 384262	Fuglene AS
 384262	Monami Agency
@@ -69175,7 +68337,6 @@ id	company_name
 341007	SOC Films
 241927	Whizbang Films
 241927	Storyteller Pictures
-77958	Film Kairòs
 20294	A.G. Films
 36204	
 20454	
@@ -69212,9 +68373,6 @@ id	company_name
 55376	
 21822	
 36919	Filmové Studio Barrandov
-342163	Patagonik Film Group
-342163	Tornasol Films
-342163	MyS Producciones
 106414	
 371462	Fastnet Films
 371462	Rinkel Film
@@ -69249,18 +68407,9 @@ id	company_name
 69016	Sonar Productions
 38668	Deutsche Film Gesellschaft (DFG)
 83299	
-44517	El Deseo
-44517	Altavista Films
-44517	Canal+ España
-44517	Tequila Gang
-44517	Corfo
-44517	Wood Producciones S.A.
-44517	Paraïso Productions
-44517	Fondart
 61699	
 182768	Toho Company
 182768	Kaname Productions
-96497	
 10129	Perathon Film-und Fernsehproduktions GmbH
 76350	Les Films 13
 76350	Sofimage
@@ -69323,23 +68472,16 @@ id	company_name
 20891	Gorky Film Studios
 117790	
 112346	Motel Films
-199879	
-96594	
 52073	
-308671	
 97547	
 189420	Mezhrabpom-Rus
-284620	France 2 (FR2)
-284620	Adrénaline
 76099	Les Films Du Fleuve
 209312	
-238456	
 24603	Ajay Devgn Films
 82409	Gloria Films
 82409	Ravina Filmes
 20507	UTV Motion Pictures
 82279	Státní fond ČR pro podporu a rozvoj české kinematografie
-267035	
 74661	Meteor Film Productions
 138449	
 50730	
@@ -69377,10 +68519,8 @@ id	company_name
 354388	Liaison Cinématographique
 112947	
 88377	Filmark International Ltd
-79836	
 61540	Zodiac Produzioni
 61540	Producciones Internacionales Cinematográficas Asociadas (PICASA)
-73835	Italian International Film
 81521	
 61203	
 56901	
@@ -69433,22 +68573,15 @@ id	company_name
 64190	
 41039	Frenzy Productions
 64935	
-2764	
-286512	France 2 Cinéma
-286512	ARTE France Cinéma
-286512	Septembre Productions
 17302	
 326305	Kamoli Films
 57983	Filmové Studio Barrandov
 48489	R.S. Film
 78539	
-296225	
 369366	Living Condition LLC
 64649	Nikkatsu
 75179	
 72615	Olympic Film
-71496	Les films singuliers
-53472	Meteor Film Productions
 3048	
 78072	
 201214	
@@ -69474,7 +68607,6 @@ id	company_name
 321377	Darkstone Entertainment
 288286	
 16803	
-347465	
 173421	Village Roadshow Productions
 48128	
 48122	
@@ -69498,11 +68630,8 @@ id	company_name
 73123	Fu Works
 73123	Algemene Vereniging Radio Omroep (AVRO)
 107767	
-220154	
-119816	
 47231	Verenigde Nederlandsche Filmcompagnie (VNF)
 9084	
-324408	
 50294	Biograf Jan Svěrák
 50294	Phoenix Film Investments
 50294	RWE
@@ -69529,9 +68658,7 @@ id	company_name
 53524	Portobello Pictures
 53524	Thames Television
 53524	Children's Film Foundation (CFF)
-70119	France 2 (FR2)
 267415	Bavaria Film
-85690	
 21070	Orex Films
 38553	The 7th Floor
 15201	
@@ -69546,8 +68673,6 @@ id	company_name
 8651	Salzgeber & Co. Medien GmbH
 361181	Turkey Films
 127286	
-51839	
-164288	
 85787	
 50179	
 88580	III Lions
@@ -69587,9 +68712,7 @@ id	company_name
 96496	
 37600	
 253072	
-24199	
 49323	
-295782	
 52088	
 9608	
 52371	BNN TV
@@ -69611,7 +68734,6 @@ id	company_name
 168712	Daniel L. Paulson Productions
 168712	MTM Entertainment
 50583	Five Star Production
-153541	Ferris & Brockman
 12495	Deutsche Film (DEFA)
 97138	CinéGroupe
 97138	Lifetime Television
@@ -69637,9 +68759,6 @@ id	company_name
 15838	SF Film
 53463	Saylors Brothers Entertainment
 53463	Blue Voo Doo Technologies
-19812	ASA Film Produktion ApS
-19812	Easy Film
-19812	Scanbox Entertainment
 135204	Eesti Joonisfilm
 61863	
 49877	
@@ -69649,7 +68768,6 @@ id	company_name
 24285	
 27730	Samouraï Films
 18265	
-56344	Cine 3 S.r.l.
 349008	
 111114	Hot Property Films
 111114	Illuminations Films
@@ -69728,12 +68846,10 @@ id	company_name
 42647	Soyuzmultfilm
 45490	
 297288	
-297745	
 24235	
 57394	Cowell
 57394	Sidus Pictures
 57394	Zininsa Film Production
-274110	
 64304	Shaw Brothers
 43833	Irving Asher Productions
 193460	Monogram Pictures
@@ -69781,16 +68897,13 @@ id	company_name
 31957	
 116318	Sanrio Communications
 128061	
-211158	
 361131	Super Cassettes Industries Limited (T-Series)
 105304	Thelma Films
 257095	Ceskoslovenský Státní Film
-64437	
 357959	Armenfilm
 45205	
 76784	M&B FILM3 BV
 317988	
-142406	
 263627	Fool's Film
 355211	Tsentr tvorcheskoj initsiativy Leningradskogo otdeleniya sovetskogo fonda kultury
 261562	
@@ -69849,7 +68962,6 @@ id	company_name
 302528	Egoli Tossell Film AG
 302528	A24
 137200	
-262713	
 130993	Sveriges Television (SVT)
 256316	CJ Entertainment
 121998	Fandango
@@ -69868,18 +68980,11 @@ id	company_name
 258210	The Asylum
 159630	
 89337	
-69610	
 42911	
 163313	
 347835	Love Project Films
-187238	
-383809	Mille et Une Productions
-383809	Jour2Fête
-383809	Fakir
-135536	
 101553	Balcázar Producciones Cinematográficas
 101553	Tigielle S.R.L.
-138273	
 137599	
 50268	
 37265	Faso Film
@@ -69898,12 +69003,10 @@ id	company_name
 329010	Sandbar Pictures
 329010	Uncorked Productions
 324340	
-367596	
 27836	Concorde-New Horizons
 27836	Butterfly Productions
 27836	Crow Productions
 96161	Warner Bros.
-297207	
 26329	The Rank Organisation
 367275	
 77829	Spectacle Films
@@ -69995,10 +69098,6 @@ id	company_name
 144436	Edison Manufacturing Company
 94702	Edison Manufacturing Company
 85220	Vitagraph Company of America
-140554	Corazón International
-140554	Arte
-140554	Dorje Film
-140554	Norddeutscher Rundfunk (NDR)
 277796	Film Movement
 277796	Pierrot Le Fou Filmvertriebs-GmbH
 263976	
@@ -70023,7 +69122,6 @@ id	company_name
 333352	Moonlighting Films
 333352	Raindog Films
 367524	Mandalay Sports Media (MSM)
-64407	
 63224	
 98302	
 359025	
@@ -70135,8 +69233,6 @@ id	company_name
 347689	Netflix
 339984	TriStar Pictures
 339984	Sony Pictures Entertainment
-54566	
-55495	Filmituotanto Spede Pasanen
 379925	
 347881	Lighthouse Pictures
 359549	
@@ -70170,9 +69266,7 @@ id	company_name
 315664	BBC Films
 315664	Qwerty Films
 315664	Pathé
-49834	Besiktas Kültür Merkezi (BKM)
 24258	
-47683	
 258800	Finos Film
 163018	
 377799	France 3 Cinéma
@@ -70319,9 +69413,6 @@ id	company_name
 123680	British Broadcasting Corporation (BBC)
 34158	
 214170	Pulse Films
-341745	Phoenix Film
-341745	ARD Degeto Film
-276157	
 122544	Bagboy Productions
 122544	Gratwick Films
 122544	Prime Films
@@ -70344,7 +69435,6 @@ id	company_name
 239367	Japan Association of Music Enterprises (JAME)
 60410	Vista Organization
 33419	Universal Pictures
-76746	Paradis Films
 36818	Warner Bros.
 242631	Warner Bros.
 134238	Warner Bros.
@@ -70387,16 +69477,13 @@ id	company_name
 304869	
 251220	
 229353	
-302802	
 204506	
 387893	Blue Sky Studios
 387893	Twentieth Century Fox Animation
 387893	House of Cool Studios
-109261	Estrella Productions
 287717	
 45103	
 27923	Mosfilm
-74705	
 334629	Turner Entertainment
 334629	Jack Haley Jr. Productions
 246415	Zyzak Film Company
@@ -70404,7 +69491,6 @@ id	company_name
 125531	Nikolaus Geyrhalter Filmproduktion
 125531	firstchoicefilms
 163042	
-177714	Estudios Cruz Delgado
 131027	Hunnia Filmstúdió
 131027	Mafilm
 83234	Qartuli Pilmi
@@ -70596,7 +69682,6 @@ id	company_name
 29490	Larry Darmour Productions
 29829	Larry Darmour Productions
 46196	Universal International Pictures (UI)
-206099	
 29390	William Castle Productions
 29398	Paramount Pictures
 29398	William Castle Productions
@@ -70685,7 +69770,6 @@ id	company_name
 200558	
 26768	Avton Films
 354924	Centron Pictures
-254439	
 96186	Star-Film
 52854	Shaw Brothers
 227077	ProJa Filmgyár
@@ -70777,7 +69861,6 @@ id	company_name
 356090	
 290188	Marvista Entertainment
 290188	LeGrand Productions
-87992	Helsinki Filmi Oy
 54440	Paramount Pictures
 340187	BoulderLight Pictures
 340187	Stag Pictures
@@ -70806,7 +69889,6 @@ id	company_name
 23854	Mixer
 62132	Vestron Pictures
 62132	PMS Filmworks
-75537	
 333123	
 39899	Hemdale Film
 39899	FGH
@@ -70818,7 +69900,6 @@ id	company_name
 1652	Senator Film Produktion
 1655	
 38243	
-279090	
 348025	ARP Sélection
 348025	Poisson Rouge Pictures
 56948	
@@ -70876,7 +69957,6 @@ id	company_name
 375572	Fandango
 375572	Rai Cinema
 51393	Cinema Service
-102444	
 114394	
 168616	
 37048	Sunrise
@@ -70910,7 +69990,6 @@ id	company_name
 51298	Walt Disney Studios Home Entertainment
 83266	
 38995	
-343042	
 206630	Universal TV
 202637	Universal Television
 39704	Hanna-Barbera Productions
@@ -70953,7 +70032,6 @@ id	company_name
 53999	
 140652	
 320639	
-220515	
 142611	Nukleus Film
 142611	Sutor Kolonko
 142611	Studio Virc
@@ -71220,10 +70298,7 @@ id	company_name
 390520	
 392891	Black Flint Productions
 306523	01 Distribution
-306555	
 305455	Mars Distribution
-265717	
-264454	
 234004	Rainmaker Entertainment
 234004	Blockade Entertainment
 234004	Sony Computer Entertainment
@@ -71233,7 +70308,6 @@ id	company_name
 114521	
 25019	
 97943	Hubert Bals Fund
-14263	
 323262	XYZ Films
 323262	Distant Corners Entertainment Group Inc.
 214187	
@@ -71252,8 +70326,6 @@ id	company_name
 65887	
 210615	Les Films Pomereu
 210615	Medusa Distribuzione
-66187	Jupiter Generale Cinematografica
-66187	Les Films de Montfort
 271919	UGC
 271919	Lira Films
 271919	parma films
@@ -71272,13 +70344,9 @@ id	company_name
 33827	
 59126	Badbird
 41617	
-120268	Zweites Deutsches Fernsehen (ZDF)
-120268	La Sept Cinéma
-120268	Popolar-Film
 342850	
 313511	
 184561	
-231540	
 107248	Shaw Brothers
 235690	
 277459	
@@ -71301,7 +70369,6 @@ id	company_name
 200868	
 355890	
 127259	Beijing Film Studio
-388055	Earthome Productions
 245013	
 97253	
 202515	
@@ -71332,7 +70399,6 @@ id	company_name
 47096	
 305815	
 94709	
-119820	Terra Film Produktion
 323573	
 379387	
 211337	
@@ -71413,7 +70479,6 @@ id	company_name
 97844	Oliane Productions
 97844	Sofica Investimage
 97844	FR3 Films Production
-124013	
 45537	
 189996	
 255511	
@@ -71499,13 +70564,9 @@ id	company_name
 11767	Arco Films
 119433	Irwin Entertainment
 119433	3 Arts Productions
-288694	BIM Distribuzione
-288694	Secol Superbo e Sciocco Produzioni
-288694	QMedia
 96958	
 371695	World Wrestling Entertainment (WWE)
 11681	Dino de Laurentiis Cinematografica
-155011	Medusa Film
 219247	
 41808	Lifetime TV
 303360	
@@ -71679,9 +70740,7 @@ id	company_name
 66944	Vans
 66944	Interfilm
 284154	Cinema Design
-112931	
 61711	
-58007	Titanus
 61532	
 216138	Thinkfactory Media
 16280	Crotalus Productions
@@ -71856,8 +70915,6 @@ id	company_name
 145840	Hitching Road Productions
 211125	Larry Levinson Productions
 85887	The Hallmark Channel
-227552	Larry Levinson Productions
-227552	The Hallmark Channel
 81416	PixL Entertainment
 208035	
 389995	Patagonik
@@ -72230,7 +71287,6 @@ id	company_name
 41149	Thames Television
 25787	Hugo Haas Productions
 280178	
-269306	
 109380	Filmové Studio Barrandov
 103941	
 361146	
@@ -72398,7 +71454,6 @@ id	company_name
 75198	Same Player
 75198	Pathé
 75198	Appaloosa Films
-51334	
 94659	
 117472	Shochiku Company
 117767	"ZRF ""Kadr"""
@@ -72421,7 +71476,6 @@ id	company_name
 281238	
 145244	Euroatlantica
 87335	Metro-Goldwyn-Mayer (MGM)
-205557	
 61581	Uranos Cinematografica
 389427	Yellow Cote Productions
 144341	Mila Cinematografica
@@ -72471,7 +71525,6 @@ id	company_name
 25079	Triangle Staff
 25079	Bandai Visual
 80699	
-130638	
 363889	Petri Entertainment
 355598	GIW
 355598	Yield Entertainment
@@ -72537,7 +71590,6 @@ id	company_name
 258322	R&C Produzioni
 258322	Faros Film
 324181	
-63398	
 4948	Corona Cinematografica
 4948	Opera Film
 51444	Zagreb Film
@@ -72637,7 +71689,6 @@ id	company_name
 267192	Pinewood Pictures
 267192	Riverstone Pictures
 110490	
-278935	
 183855	Embrafilme
 183855	Filmes do Equador
 183855	Luiz Carlos Barreto Produções Cinematográficas
@@ -72690,7 +71741,6 @@ id	company_name
 323426	Hope Productions
 68256	Fox Star Studios
 85043	
-202984	
 324820	Česká televize
 337965	
 360606	Disney Channel
@@ -72775,8 +71825,6 @@ id	company_name
 55035	S.F.P.C.
 12529	San Marco S.P.A./Crono S.P.A
 9031	Denver Film Productions
-259634	
-46572	
 315439	Showbox
 302161	
 340611	Likely Story
@@ -72802,11 +71850,9 @@ id	company_name
 369228	
 367999	
 356758	
-371942	Duea Film
 359156	Rai Cinema
 359156	Kimera Film
 359156	Taodue Film
-359152	
 343173	Creative Scotland
 343173	Black Camel Pictures
 343173	Umedia
@@ -72888,7 +71934,6 @@ id	company_name
 254664	Woohoo Pictures
 137308	
 156967	
-156954	Limbo Film AG
 66780	
 137826	Twentieth Century Fox Film Corporation
 262829	Dalia Productions
@@ -73033,14 +72078,12 @@ id	company_name
 93091	
 44510	American Film Institute (AFI)
 376812	Yash Raj Films
-342213	IFI Producción S.A.
 148615	Finnegan Associates
 148615	David Paradine Television
 389180	Cinak Compagnie Cinématographique
 262542	
 16909	
 372297	Finding Cinema
-126043	
 405621	
 103396	Divina-Film GmbH & Co. KG (München)
 130957	Bosna Film
@@ -73053,14 +72096,12 @@ id	company_name
 366514	Gaumont
 366514	Creative Andina
 366514	VVZ Productions
-63989	
 328901	KSM
 388862	WWE Studios
 263416	Dead Sea Films
 150871	
 316268	Solid Weld Production
 316268	Savage Beast Film
-293516	
 360249	Newgrange Pictures
 360249	Paradox Film 3
 28406	Maxper Producciones Cinematográficas (Maximiliano Pérez Flórez)
@@ -73134,7 +72175,6 @@ id	company_name
 392885	Tosh Company Inc.
 28073	Tigon British Film Productions
 175427	Oscilloscope Laboratories
-237799	AMLF
 40585	Gaumont International
 40585	Les Productions de la Guéville
 318052	United Channel Movies
@@ -73170,7 +72210,6 @@ id	company_name
 17288	Anit Ticaret
 8383	Independent Film
 325240	Universal Television
-112675	
 46879	
 162874	Cosmopolitan Productions
 162874	Metro-Goldwyn-Mayer (MGM)
@@ -73277,8 +72316,6 @@ id	company_name
 73772	Piccadilly Pictures
 73772	The Oxford Film Company
 38622	
-183073	Ágata Films S.A.
-183073	Produzione Dario Sabatello
 76199	
 38494	Monogram Pictures
 161796	Mascot Picture Corp.
@@ -73322,7 +72359,6 @@ id	company_name
 397365	Dore Films
 397365	Miraj Entertainment
 397365	Paramhans Creations
-208173	
 190326	Sakhkinmrestsvi
 140423	Noah Films
 140423	Leisure Media
@@ -73401,17 +72437,14 @@ id	company_name
 368940	nWave Pictures
 368940	Illuminata Pictures
 118195	Aries Cinematográfica Argentina
-338079	
 334304	Epithète Films
 334304	Radar Films
 334304	Gaumont (co-production)
-340119	
 62009	Gaumont
 54107	Walt Disney Studios Home Entertainment
 49855	
 408140	
 369605	FilmBuff
-378607	
 228496	La.Lune Entertainment
 228496	Aeroplano
 268893	Big Idea Productions
@@ -73593,7 +72626,6 @@ id	company_name
 407389	EBF Productions
 407389	Diablo Entertainment
 384111	Filmivabrik
-256916	
 31111	Roissy Films
 31111	Rai Cinema
 31111	R&C Produzioni
@@ -73751,7 +72783,6 @@ id	company_name
 270774	Talent International Media
 270774	Talent International Film Cultural Company
 33317	Edison Manufacturing Company
-144421	Skladanowsky Film
 29890	
 99313	
 207413	
@@ -73774,8 +72805,6 @@ id	company_name
 87343	Once Upon a Time Films
 87343	L.A. Ca
 82686	
-267497	
-267506	
 260916	ITC Entertainment
 69870	Paramount Pictures
 69870	Kingsmere Productions Ltd.
@@ -73979,7 +73008,6 @@ id	company_name
 403936	Cole Blooded Inc.
 403936	Kirsten Ames Mgmt + Prdctns (KAMP)
 297399	Irwin Entertainment
-262786	
 231145	New Wave Entertainment
 231145	Epix
 370664	Nightwatcher Films
@@ -74076,12 +73104,10 @@ id	company_name
 287603	New Wave Entertainment Television
 48250	Fandango
 48250	Studio Uno
-279842	
 142966	
 347105	Comedy Central
 336736	
 33495	Rai Cinema
-246829	
 239783	
 77137	
 77147	
@@ -74089,10 +73115,6 @@ id	company_name
 46028	Colorado Film Production
 58773	
 41583	Columbia Films Productions
-124202	Cinemaster S.r.l.
-73755	Italian International Film
-73755	Ypsilon Cinematografica
-38289	
 42290	RAI
 42290	Eidoscope S.r.l.
 45037	
@@ -74103,8 +73125,6 @@ id	company_name
 125926	Svenska Filminstitutet (SFI)
 125926	Filmhuset AS
 125926	Scentext
-105734	Svensk Filmindustri (SF)
-105734	Svenska Ord
 139195	Stockholm Film
 139195	Inge Ivarsson Filmproduction
 162818	SVT Drama
@@ -74183,13 +73203,11 @@ id	company_name
 280416	Breakdown Productions
 65755	
 238204	
-407965	Lillród Film
 358807	Oscilloscope Laboratories
 358807	Yes Ma'am Productions
 352890	INDI Film GmbH
 352890	Beachside Films
 352890	Lichtblick Media GmbH
-59858	
 310442	Carnival Films & Television
 310442	Free Range Films
 360321	Hollywood Media Bridge
@@ -74238,7 +73256,6 @@ id	company_name
 54837	Together Brothers Productions
 270251	
 16257	Studio 4°C
-320037	Sabre Films
 63186	Gaumont
 63186	Opera Film Produzione
 36163	Soyuzmultfilm
@@ -74301,7 +73318,6 @@ id	company_name
 44868	Twentieth Century Fox Film Corporation
 413232	Suffolk Productions
 413235	Universal International Pictures (UI)
-372640	
 295621	
 382873	Zillion Films
 382873	Interfilm
@@ -74430,7 +73446,6 @@ id	company_name
 334461	
 390782	
 30858	Andreevsky Flag Film Company
-413430	Vegetarian Films
 218993	Samsa Film
 218993	Canal+
 218993	TF1 Droits Audiovisuels
@@ -74534,7 +73549,6 @@ id	company_name
 88535	
 91088	Studio Dadashow
 334175	
-244971	Stellar Mega Films
 414827	
 250388	Boll Kino Beteiligungs GmbH & Co. KG
 250388	Studio West Productions(VCC)
@@ -74693,7 +73707,6 @@ id	company_name
 355066	Kare Kare Film Yapim
 24007	
 46149	Nikkatsu
-162899	
 40653	British Broadcasting Corporation (BBC)
 40653	BFI Experimental Film Fund
 191595	American Mutoscope & Biograph
@@ -74729,7 +73742,6 @@ id	company_name
 390669	
 412093	
 352199	
-375167	
 393857	
 365707	
 28659	Insignia Films
@@ -74753,11 +73765,8 @@ id	company_name
 376166	C-Films AG
 35701	
 329802	Garagefilm International
-347666	Atípica Films
-347666	Atresmedia Cine
 39922	Scandica Film
 81477	Hemisphere Pictures
-413806	
 40216	
 72733	GMM Tai Hub (GTH)
 18486	GMM Pictures Co.
@@ -74865,10 +73874,6 @@ id	company_name
 98277	Le Cercle
 98277	Direct Cinéma
 98277	Lorette Production
-132608	Warner Bros.
-132608	Globo Filmes
-132608	Natasha Filmes
-73160	
 103785	Istisnai Filmler ve Reklamlar (IFR)
 38156	TBIA Flix
 38156	Robert Fucilla Company
@@ -75032,9 +74037,6 @@ id	company_name
 391486	Conflict Pictures
 345924	
 292022	Retromedia Entertainment
-321779	Czech Television
-321779	Česká televize
-321779	Lucky Man Films
 411009	NetFlix
 295886	
 253154	Netflix
@@ -75043,13 +74045,9 @@ id	company_name
 159432	Nimbus Film Productions
 410455	
 160821	1.85 Films
-175791	
 295832	Lux Vide
 363757	Italian International Film
 363757	Rai Cinema
-333884	
-53805	Italian International Film
-53805	Rai Cinema
 414719	WWE Studios
 130885	Universal International Pictures (UI)
 285398	Paramount Pictures
@@ -75060,12 +74058,9 @@ id	company_name
 321497	Atlantic Pictures
 321497	Arcadia Motion Pictures
 321497	Viracocha Films
-378087	El Terrat
-378087	Atresmedia Cine
 356189	Irish Film Board
 356189	Newgrange Pictures
 356189	Kennedy Films
-359483	Zeitsprung Pictures
 117592	Pathé-Natan
 162686	
 413834	ShowTime
@@ -75096,8 +74091,6 @@ id	company_name
 148558	Fleischer Studios
 388243	Spitfire Studios
 376565	Non-Stop Productions
-322455	Cobra Films
-322455	Irrintzi Zinema
 382170	Rockwell Eyes
 84195	Globo filmes
 377492	Lionsgate
@@ -75121,9 +74114,6 @@ id	company_name
 390376	Koktebel Film Company
 370203	Fasad
 185564	Larry Levinson Productions
-352917	KMH One
-352917	Budapest Film Produkciós
-402612	Inzert44
 363383	Új Budapest Filmstudió
 29211	
 412437	Solar Films inc.
@@ -75262,7 +74252,6 @@ id	company_name
 79737	
 407655	Film Afrika Worldwide
 407655	Warner Bros.
-34092	Shooting Star Filmcompany BV
 39772	Shooting Star Filmcompany BV
 35840	
 24862	Full Moon Entertainment
@@ -75307,7 +74296,6 @@ id	company_name
 155191	
 407806	NetFlix
 407806	Kandoo Films
-318184	Kuukulgur Film
 53216	Theatre Junkies
 40470	Metro-Goldwyn-Mayer (MGM)
 70278	
@@ -75568,9 +74556,6 @@ id	company_name
 243987	
 403330	
 290100	Caviar Films
-420703	Paramount Pictures
-420703	Globo filmes
-420703	ATC Entretenimento
 385737	Nice Dissolve
 385737	Little Teeth Pictures
 385737	Reality Pictures
@@ -75597,10 +74582,6 @@ id	company_name
 291356	Blumhouse Productions
 109841	Paramount Pictures
 121111	Rosebud Films
-421958	MOOVIE - the art of entertainment GmbH
-421958	Beta Film
-421958	ARD Degeto Film
-421958	Rundfunk Berlin-Brandenburg (RBB)
 333072	Kadokawa Pictures
 269057	JoBro Productions & Film Finance
 269057	Scythia Films
@@ -75611,8 +74592,6 @@ id	company_name
 348320	Farmhouse Film
 348320	Marmalade Films
 87035	Shooting Star Filmcompany BV
-315252	
-258113	
 111457	John McCormick Productions
 81420	
 120055	Front Street Pictures
@@ -75624,12 +74603,10 @@ id	company_name
 61736	
 22579	GMA Films
 22579	Regal Films
-263260	Fritz Genschow Films
 419771	Etalon film
 405656	
 339894	
 421281	Quorum Films
-366887	Kaap Holland Film
 421619	Hrvatska Radiotelevizija (HRT)
 421619	Film and Music Entertainment (F&ME)
 421619	SEVER & SEVER
@@ -75932,9 +74909,6 @@ id	company_name
 393158	Euskal Irrati Telebisa (EITB)
 393158	Lamia Producciones
 417406	
-393407	Wild Bunch
-393407	La Petite Reine
-393407	Canal+
 375082	Rhino Films
 336445	Endgame Entertainment
 336445	Kasbah-Film Tanger
@@ -76117,24 +75091,8 @@ id	company_name
 279229	Geißendörfer Film- und Fernsehproduktion (GFF)
 279229	ARRI Film & TV Services
 316015	Reel One Entertainment
-203539	Splendid Film
-226001	ZDF
-266568	ARD
-266568	Askania Media Filmproduktion GmbH
 410314	
-410774	
 149786	Hallmark Hall of Fame Productions
-216647	
-51959	
-313896	Mitteldeutscher Rundfunk (MDR)
-313896	Radio Bremen
-313896	Norddeutscher Rundfunk (NDR)
-313896	Bremedia Produktion
-374319	
-279558	ARD
-268712	ARD
-268712	NDR
-374247	
 6103	
 329981	Canal+
 329981	EuropaCorp
@@ -76159,7 +75117,6 @@ id	company_name
 387558	Rum Jam Films
 167644	
 59853	Mario e Vittorio Cecchi Gori - C.E.I.A.D.
-73077	
 41599	Twentieth Century Fox Film Corporation
 41599	Twentieth Century-Fox Productions
 150065	
@@ -76188,8 +75145,6 @@ id	company_name
 383807	
 402693	Filmax
 402693	Castelao Pictures
-41619	VIP Medienfonds 2 & 3 Filmgeschäftsführungs GmbH
-41619	Constantin Film Produktion
 63244	Isis Productions
 40690	British Broadcasting Corporation (BBC)
 40690	Isis Productions
@@ -76211,7 +75166,6 @@ id	company_name
 125578	First National Pictures
 254047	Freefall Films
 128104	micro_scope
-64965	
 396232	Met Film Production
 378480	
 393961	
@@ -76377,7 +75331,6 @@ id	company_name
 121173	APT Entertainment
 121173	Star Cinema Productions
 121173	Cinemalaya Foundation
-148479	Yleisradio (YLE)
 346347	Believerville Productions
 414977	Sitting Cat Productions
 31245	Rick Sloane Productions
@@ -76418,9 +75371,6 @@ id	company_name
 381284	Fox 2000 Pictures
 381284	Chernin Entertainment
 381284	Levantine Films
-297298	
-371153	
-140485	
 378435	
 425498	Broadway Video
 359246	Cognetti Films
@@ -76434,10 +75384,6 @@ id	company_name
 77862	
 57739	
 161808	
-223551	BNN TV
-223551	Pupkin Film
-223551	Nederlands Fonds voor de Film
-223551	CoBo Fonds
 45017	Screen Australia
 272072	Willing Suspension Films
 137619	Films 59
@@ -76464,7 +75410,6 @@ id	company_name
 332979	Bruce Cohen Productions
 187897	Shaw Brothers
 424889	Illumination Entertainment
-80961	
 217672	Warner Bros.
 215736	
 21752	Total Entertainment
@@ -76569,7 +75514,6 @@ id	company_name
 311324	Legendary East
 311324	Kava Productions
 283146	Nina Paley
-56486	
 99004	
 401593	Jax Media
 85944	New Wave Entertainment
@@ -76594,7 +75538,6 @@ id	company_name
 36123	Warner Bros.
 36123	Imax Filmed Entertainment
 36123	Howard Hall Productions
-59046	
 409447	NBC Productions
 409447	Universal Television
 332746	
@@ -76651,11 +75594,9 @@ id	company_name
 1608	Pint O'Bitter Productions
 1608	Guild
 203059	
-365544	
 248946	
 110549	Comedy Central
 110549	Irwin Entertainment
-290911	Roxy Film
 298522	
 323690	New Wave Entertainment Television
 38610	Lakeview Productions
@@ -76691,7 +75632,6 @@ id	company_name
 411632	Grindstone Entertainment Group
 411632	Lionsgate Home Entertainment
 411632	Actionhouse Pictures
-361340	
 296288	
 324263	
 160372	
@@ -76777,7 +75717,6 @@ id	company_name
 391004	Toei
 259468	P.P. Film Polski
 259468	Film Polski
-53693	Regner Grasten Film
 30124	BrownBag Productions (II)
 227668	Viacom Productions
 227668	Dean Hargrove Productions
@@ -76869,9 +75808,6 @@ id	company_name
 315112	Rundfunk Berlin-Brandenburg (RBB)
 315112	Filmuniversität Babelsberg Konrad Wolf
 315112	Almost Famous Film- und Medienproduktion
-430514	Les Films du Poisson
-430514	ARTE F
-430514	Les Films du Bois Sacré
 382127	Bayerischer Rundfunk
 382127	Schiwago Film
 94105	Dean Hargrove Productions
@@ -76945,11 +75881,6 @@ id	company_name
 81440	Salty Pictures
 87852	Reel Life Productions
 415396	Friday Films
-390547	Televisió de Catalunya
-390547	El Terrat
-390547	Lastor Media
-390547	ICEC
-390547	Moiré Films
 388399	CBS Films
 388399	Closest to the Hole Productions
 388399	Leverage Entertainment
@@ -77010,8 +75941,6 @@ id	company_name
 342473	Caramel Films
 342473	Quad Productions
 342473	Main Journey
-356461	
-392832	
 369059	
 26630	TLA Releasing
 161246	TLA Releasing
@@ -77044,7 +75973,6 @@ id	company_name
 372490	Incendo Productions
 403570	Woss Group Film Productions
 431742	
-424014	
 356324	
 124101	
 210079	Collective Pictures
@@ -77085,8 +76013,6 @@ id	company_name
 382501	Nord-Ouest Films
 173189	New Wave Entertainment
 134680	
-375872	Kowalski Films
-375872	Atresmedia Cine
 404791	Nice Flxpictures AB
 369698	Studio Trite
 369698	Direktsiya Kino
@@ -77150,8 +76076,6 @@ id	company_name
 269246	Warner Bros. Animation
 264170	DC Comics
 256421	Warner Bros. Animation
-327083	Tenth Planet Productions
-327083	Intimate Brands Inc.
 148039	
 16487	
 16486	
@@ -77293,9 +76217,6 @@ id	company_name
 393658	Johnson Production Group
 411081	
 369054	
-254299	ZDF
-82716	Česká televize
-4652	Deutsche Film (DEFA)
 80544	Halestorm entertainment
 360365	Walt Disney Company
 360365	Gloriamundi Producciones
@@ -77411,10 +76332,6 @@ id	company_name
 236655	Leon Schlesinger Studios
 24439	
 424661	
-83271	Vía Digital
-83271	Televisión Española (TVE)
-83271	Etb (Euskal Telebista)
-83271	Asegarce Zinema
 378485	Detalle Films
 378485	Piano
 378485	Sedna Films
@@ -77438,8 +76355,6 @@ id	company_name
 382125	Motlys
 35992	Universal Pictures
 332665	
-428645	Downtown Filmes
-409082	
 380622	Les Films du Losange
 380622	Wild Bunch
 380622	Canal+
@@ -77495,7 +76410,6 @@ id	company_name
 263115	TSG Entertainment
 293167	Legendary Pictures
 293167	Warner Bros.
-43989	
 201430	Broadway Video
 201430	Viacom Productions
 408626	BBC Films
@@ -77545,8 +76459,6 @@ id	company_name
 183388	
 57305	Finos Film
 301491	Finos Film
-369603	Finos Films
-297342	
 328216	Adrian Țofei
 31142	
 109074	JTP Productions
@@ -77570,7 +76482,6 @@ id	company_name
 369778	Mandarin Cinéma
 125114	National Film Board of Canada (NFB)
 125114	Salter Street Films International
-376188	Sverdlovskaya Kinostudiya
 416988	
 388586	
 274857	Village Roadshow Pictures
@@ -77607,10 +76518,6 @@ id	company_name
 380124	The Tyler Perry Company
 388235	
 18955	Légende Films
-72822	ARP Sélection
-72822	TF1 Films Production
-72822	Canal+
-72822	TPS Star
 295693	Twentieth Century Fox Film Corporation
 295693	DreamWorks Animation
 408220	Warner Bros. Animation
@@ -77642,8 +76549,6 @@ id	company_name
 280723	KeyFilm
 421365	Green Dragon Movies
 421365	Blonde Audiovisual Productions
-437253	Odeon
-47241	
 35396	
 87908	
 136339	Odeon Film
@@ -77685,9 +76590,6 @@ id	company_name
 174487	
 123846	
 371806	
-394723	Telefe
-394723	MyS Producción
-394723	DEMENTE CONTENIDOS
 416680	
 132298	Bueprint Pictures
 132298	Patagonik Film Group
@@ -77700,7 +76602,6 @@ id	company_name
 362227	White Lightning Productions
 362227	Hurricane Bridge Entertainment
 416635	Alarahastatud Filmikompanii
-437838	
 414779	
 40895	Fastnet Films
 86556	
@@ -77713,8 +76614,6 @@ id	company_name
 418378	Regal Entertainment
 418378	Octobertrain Films
 418378	The IdeaFirst Company
-384373	Goya Producciones Cinematográficas S.A.
-384373	ThreeColumnsEntertainment
 382212	Nikolaus Geyrhalter Filmproduktion
 382212	Filmfonds Wien
 382212	ORF Film/Fernseh-Abkommen
@@ -77760,14 +76659,11 @@ id	company_name
 328840	Bright Cloud Productions
 429698	Four Knights Film
 429698	Southern Light Films
-58928	
 396920	UFO
 396920	Envie de tempête Productions
 396920	Bobi Lux
 437752	Comedy Dynamics
 437752	Netflix
-357155	CMC Producciones
-357155	Creando Cine
 380623	Rectangle Productions
 374251	Magic Light Pictures
 81556	C-FILMS AG
@@ -77803,7 +76699,6 @@ id	company_name
 30253	Schweizer Fernsehen
 30253	Catpics Co Productions AG
 208366	DEFA
-265432	
 15642	Kontraproduktion AG
 15642	Schweizer Fernsehen (FS)
 15642	Impuls Pictures
@@ -77811,10 +76706,7 @@ id	company_name
 29896	Peace Arch Entertainment Group
 29896	Reel One Entertainment
 29896	Grodfilm
-83729	Claussen Wöbke Putz Filmproduktion
 30680	
-177979	WDR
-177979	Delta Film GmbH
 85699	herbX film GmbH
 85699	Diana Film
 10248	
@@ -77825,7 +76717,6 @@ id	company_name
 341174	Universal Pictures
 341174	Perfect World Pictures (Beijing)
 346681	Ad Hominem Enterprises
-407430	
 173494	Sakhkinmretsvi
 389272	Gearshift Films
 401513	Art Pictures Studio
@@ -78082,9 +76973,6 @@ id	company_name
 385761	dogwoof films
 201752	
 174371	
-320318	Samsa Film
-320318	Nord-Ouest Productions
-320318	Artémis Productions
 416688	
 178222	Jadran Film
 178222	Hirschberg Productions
@@ -78497,8 +77385,6 @@ id	company_name
 375355	Don't Hang Up Films
 336000	Lionsgate
 336000	Netter Productions
-439263	Suomen Filmiteollisuus
-442752	National Filmi Oy
 393732	Woods Entertainment
 393732	JoBro Productions & Film Finance
 393732	Euclid 431 Pictures
@@ -78592,11 +77478,6 @@ id	company_name
 317560	Braveart Films
 75944	Film Par Film
 75944	M.D.G. Productions
-56947	Les Films Alain Sarde
-56947	TF1 Films Production
-56947	RAI Radiotelevisione Italiana
-56947	Leader Cinematografica
-56947	Rai 2
 327231	Nordisk Film
 416166	Redwire Pictures
 416166	Campbell Grobman Films
@@ -78629,16 +77510,13 @@ id	company_name
 261461	Globo Filmes
 261461	Glaz Entretenimento
 132518	Come On Sweet Film
-224233	Donau Filmproduktion
 345938	Summit Entertainment
 345938	Netter Productions
-278475	
 334939	Algemene Vereniging Radio Omroep (AVRO)
 334939	Living Stone
 334939	Bijker Productions
 203273	
 422715	Focus Plus Cinema
-408550	
 172297	Office national du film du Canada (ONF)
 172297	National Film Board of Canada (NFB)
 395992	Columbia Pictures
@@ -78722,7 +77600,6 @@ id	company_name
 423536	Strong Oak Pictures
 126204	
 390930	Toho
-346758	Aparte Film
 53962	
 115161	
 305470	Lionsgate
@@ -78731,7 +77608,6 @@ id	company_name
 126889	Scott Free Productions
 126889	Brandywine Productions
 126889	TSG Entertainment
-419522	Italian International Film
 173631	Telefilm Saar GmbH
 173631	Saarländischer Rundfunk (SR)
 154718	Sender Freies Berlin (SFB)
@@ -78946,10 +77822,8 @@ id	company_name
 298920	Pilgrim Studios
 364834	
 22450	
-342011	
 112293	Nordisk Film
 269572	
-391438	Clasa Films Mundiales
 227627	
 77451	Compañía Iberoamericana de TV
 77451	Televisión Española (TVE)
@@ -78965,7 +77839,6 @@ id	company_name
 430156	
 408435	Bautafilm
 408435	Nordisk Film Production Sverige AB
-416569	Oy Future Film Ab
 28264	Film Limited Partnership
 84167	Michaelgion
 444193	Vision Films
@@ -79057,7 +77930,6 @@ id	company_name
 380075	StudioCanal
 336956	
 409820	British Broadcasting Corporation (BBC)
-109861	
 52655	
 256921	
 57088	
@@ -79082,16 +77954,9 @@ id	company_name
 73541	
 418718	Metaluna Productions
 418718	Latina Estúdio
-362617	Marta Cabrera
-362617	Horizonte 6 Quince
 14681	Ariztical Entertainment
 17028	
 25833	
-227964	Downtown Filmes
-227964	Telecine
-227964	Riofilme
-227964	Paris Filmes
-227964	MPC Filmes
 326198	Ulula  Films
 326198	El Niño Producciones
 326198	La Competencia
@@ -79121,9 +77986,6 @@ id	company_name
 420648	Atresmedia Cine
 420648	Pokeepsie Films
 420648	El Bar Producciones
-342684	Televisió de Catalunya TV3
-342684	Ran Entertainment
-342684	Radio Televisión Española (RTVE)
 4882	American International Pictures (AIP)
 60415	Shaw Brothers
 334299	Arte France Cinéma
@@ -79136,7 +77998,6 @@ id	company_name
 334299	Cinémage 9
 334299	Soficinéma 10
 334299	K Films Amerique
-359413	Téléfiction Distribution
 295049	
 152611	
 20105	Johnson and Gibson
@@ -79165,7 +78026,6 @@ id	company_name
 341445	
 43685	Goskino Productions
 66085	
-77564	
 104376	Centre National de la Cinématographie
 104376	Bioskop Film
 104376	Lenfilm
@@ -79212,7 +78072,6 @@ id	company_name
 219924	Productions Corniglion-Molinier
 219924	Les Productions André Malraux
 219924	Subsecretaría de Propaganda del Ministerio de Estado
-327909	
 430419	Longview Pictures
 310814	Golden Gate Pictures
 22984	
@@ -79248,8 +78107,6 @@ id	company_name
 37520	Angel City
 37520	Angel City Media
 186292	Gnu Films
-449863	Wanda Films
-449863	Bitis
 32635	Transmundo Films
 172705	MD Pictures
 43144	
@@ -79268,7 +78125,6 @@ id	company_name
 128169	Cine Bazar
 128169	Protean Image Group
 74312	
-142478	Columbia TriStar Home Entertainment
 14606	Picture Farm
 14606	Grandville Pictures
 283591	Ferndale Films
@@ -79381,7 +78237,6 @@ id	company_name
 407757	Greyshack Films
 407757	Budderfly Productions
 407757	Goodnight Film
-41663	
 61541	Metro-Goldwyn-Mayer (MGM)
 386172	Media Plus
 386172	Viktorija Film
@@ -79445,7 +78300,6 @@ id	company_name
 435737	Nickelodeon Productions
 382614	Sidney Kimmel Entertainment
 382614	Double Nickel Entertainment
-185180	
 420714	BBC
 420714	France Télévisions
 420714	ZDF
@@ -79469,7 +78323,6 @@ id	company_name
 361617	
 411013	Altimeter Films
 453062	
-428950	
 18334	Sai Enterprise
 375898	2.4.7. Films
 24177	
@@ -79487,11 +78340,6 @@ id	company_name
 345906	Black María
 345906	Amondo Films
 345906	Terminal
-440508	Cleopatra
-152100	Medusa Film
-152100	MTV Italia
-152100	Taodue Film
-152100	GPeeS
 258116	
 278901	Adult Swim
 278901	Williams Street
@@ -79528,7 +78376,6 @@ id	company_name
 436769	
 30655	
 256283	Hot Property Films
-167330	WDR
 412202	Treasure Entertainment
 70665	Flatland Productions
 104391	
@@ -79568,7 +78415,6 @@ id	company_name
 401689	Arrowstorm Entertainment
 156045	Century Motion Picture & Dist. Co.
 156045	Ltd.
-220669	
 271404	Hydraulx
 271404	Infinite Frameworks Pte. Ltd.
 271404	Mirabelle Pictures
@@ -79645,7 +78491,6 @@ id	company_name
 305198	Outpost Entertainment
 445605	Indigo Film
 445605	Rai Cinema
-240992	Filmadora Panamericana
 413782	Sedic International
 413782	Farallon Films
 413782	Creative Associates Limited (CAL)
@@ -79682,34 +78527,17 @@ id	company_name
 279965	Red Giant Media
 79009	Filmové studio Barrandov
 402455	Toei
-38547	
 157559	
-366759	
-148697	
-49833	
 220002	Yeni Stüdyo
 64468	
 296901	Akün Film
 236041	
-48763	
-452606	Arzu Film
-65010	Arzu Film
-101217	
 53206	
-236053	
-123592	
-109671	Arzu Film
-109671	Fida Film
-69319	
 110029	Arzu Film
 38614	
-74171	
-327935	
 110040	
-123601	
 86256	Arzu Film
 307020	
-123611	
 38794	Arzu Film
 49057	Level Path Productions
 49057	Whitlow Films
@@ -79769,7 +78597,6 @@ id	company_name
 268652	Elías Querejeta P.C.
 268652	Delta Films
 85971	New World Pictures
-453596	BKM Film
 31059	
 231510	
 24149	
@@ -79798,7 +78625,6 @@ id	company_name
 194089	Edison Manufacturing Company
 36566	
 110486	
-142802	
 56746	
 14243	Wild Style
 52805	
@@ -79850,10 +78676,6 @@ id	company_name
 441652	National Film Board of Canada
 34325	
 34521	
-439998	Leone Film
-439998	Medusa Film
-439998	Lotus Production
-77534	
 20543	
 72386	John Magnuson Associates
 183339	Vivendi Entertainment
@@ -79878,7 +78700,6 @@ id	company_name
 371859	Rosa Filmes
 54514	Gorky Film Studios
 54514	Compagnie des Films
-143883	
 61672	Pathé Distribution
 227334	
 44265	
@@ -79961,7 +78782,6 @@ id	company_name
 67308	Local Production
 55429	
 109354	
-354133	East of L.A. Productions
 371833	Bentley Productions
 76638	
 41581	"ZAO Studia ""F.A.F"""
@@ -79971,7 +78791,6 @@ id	company_name
 79234	A.L. Production
 79234	Filmstudio 12A
 79234	Stargaze Productions
-191486	
 63572	Lenfilm
 27316	Key Plus Pictures
 33045	Fuji Television Network
@@ -80012,7 +78831,6 @@ id	company_name
 381518	Baby Cow Films
 381518	Pinewood Pictures
 35967	Downtown Filmes
-127803	DAVED Productions
 398798	
 450530	Left Bank Pictures
 450530	Amazon Studios
@@ -80075,7 +78893,6 @@ id	company_name
 227717	Metro-Goldwyn-Mayer (MGM)
 119855	
 401150	
-271495	
 11070	
 409903	
 295588	Toy Gun Films
@@ -80360,7 +79177,6 @@ id	company_name
 39962	
 118015	Modern Family Productions
 20946	Mosfilm
-244575	
 8128	Süddeutscher Rundfunk
 8128	Bavaria Atelier
 8128	Krátký Film Praha
@@ -80372,7 +79188,6 @@ id	company_name
 177950	
 332512	CTB Film Company
 347382	Mars Media Entertainment
-246438	
 80178	
 59529	Studio Trite
 248223	Central Partnership
@@ -80400,7 +79215,6 @@ id	company_name
 398920	Umedia
 398920	uFund
 398920	NoLITa Cinema
-362844	
 429107	
 164144	
 425931	Casual Productions
@@ -80416,8 +79230,6 @@ id	company_name
 266135	
 51299	
 117878	
-36264	Hunnia Filmstúdió
-36264	Studio Filmowe Zodiak
 57813	
 203665	Mandarin Films
 47033	Mosfilm
@@ -80427,7 +79239,6 @@ id	company_name
 114047	Antena 3 Televisión
 51000	Folimage
 65595	
-270908	
 63899	Gorky Film Studios
 138724	Enjoy Movies
 98581	Etalon film
@@ -80449,8 +79260,6 @@ id	company_name
 37656	
 16269	Win's Movie Productions Ltd.
 16322	
-14210	Camera
-14210	L&P Productions
 41978	Film Direction
 41978	20th Century Fox Russia
 456781	Killion Street
@@ -80469,7 +79278,6 @@ id	company_name
 375746	
 102935	Naked Edge Films
 102935	Racing Horse Productions
-376934	
 87296	Toho Company
 62978	Filmograph S.A.
 62978	Forum Films
@@ -80489,7 +79297,6 @@ id	company_name
 145760	Ekran
 62688	Slovo
 30619	Централ Партнершип
-213321	Союзмультфильм
 72203	Soyuzmultfilm
 77759	
 77762	
@@ -80540,13 +79347,11 @@ id	company_name
 384371	Nac Films
 384371	Someci
 384371	NT1
-380438	
 17101	Studio Pierrot
 153556	
 320311	
 456187	
 203780	Bazelevs Production
-41493	
 71186	NTV-PROFIT
 62999	
 41957	
@@ -80558,7 +79363,6 @@ id	company_name
 16331	New Crime Productions
 10917	Von Zerneck Sertner Films
 10917	Frank & Bob Films II
-93461	
 62643	Artes Productions
 62643	New Century Pictures
 288126	Promark Entertainment Group
@@ -80607,7 +79411,6 @@ id	company_name
 143380	Ladoga
 71382	Russkoe Schastie Entertainment
 71382	Studiya Cherepakha
-63838	Kinokompaniya CTB
 62721	Rekun TV
 20884	
 64805	Corps à corps
@@ -80625,15 +79428,11 @@ id	company_name
 25571	Overseas FilmGroup
 25571	NEO Motion Pictures
 82077	The Königsberg Company
-197057	Роскинопрокат
-197057	Флагман-Трейд
-143005	
 53086	MB Productions
 53086	Stimul M Production
 62997	Globus Film Studio
 62997	Cinemotion Group
 62731	
-336484	Наше Кино
 160046	Soyuzmultfilm
 90001	Soyuzmultfilm
 186766	
@@ -80655,11 +79454,6 @@ id	company_name
 37695	Kino Bez Granits
 17210	Pioneer Productions
 17210	National Geographic
-159810	EOS Entertainment
-159810	Televisió de Catalunya (TV3)
-159810	GMT Productions
-159810	Institut del Cinema Català (ICC)
-159810	titania produzioni
 95190	ABC Productions
 195065	Soyuzmultfilm
 227462	Pilot Moscow Animation Studio
@@ -80679,11 +79473,8 @@ id	company_name
 19312	Equity Pictures Medienfonds GmbH & Co. KG III
 57207	Paradiz Prodakshnz
 62787	Sataifilm
-51275	Pravoslavnaya Encyclopaedia
 111332	Lightstorm Entertainment
 34417	Shadowlight Productions
-420481	
-69976	
 35908	
 30203	NBC Universal Television
 30203	The Sci-Fi Channel
@@ -80711,8 +79502,6 @@ id	company_name
 148347	Living Films
 148347	Galaxy Vision
 107170	Ubisoft
-26792	Вертикаль
-37603	
 444623	
 79833	Hallmark Entertainment
 196633	Soyuzmultfilm
@@ -80839,7 +79628,6 @@ id	company_name
 31244	Berton Films
 31244	Brencam Entertainment
 31134	
-48209	Bavaria Atelier
 31392	
 77889	Hemisphere Pictures
 423988	FilmNation Entertainment
@@ -80910,7 +79698,6 @@ id	company_name
 15449	
 187672	Wild Bunch
 187672	Les Films Manuel Munz
-57382	EuropaCorp
 297680	Lipsync Productions
 297680	Newscope Films
 297680	Bigscope Films
@@ -80976,14 +79763,12 @@ id	company_name
 2104	Canal+
 66926	
 447236	
-110131	Hunnia Filmgyár
 41075	
 37587	Budapest Film
 37587	Hajdu Film
 37587	Pannónia Filmstúdió
 41055	
 8776	MAFILM Stúdió 1
-41689	
 60800	
 354296	CTB Film Company
 165095	Armenfilm
@@ -81010,7 +79795,6 @@ id	company_name
 49168	Marisa Films
 356167	
 404518	
-458808	
 272610	Hollywood Storm
 272610	Czar Pictures
 144804	
@@ -81029,7 +79813,6 @@ id	company_name
 44458	Morgan & Chan Films
 392734	The Orchard
 392734	CNN Films
-400552	
 54000	United Artists
 54000	Société Française de Production (SFP)
 121888	Cine Duck
@@ -81081,10 +79864,6 @@ id	company_name
 76812	Compadre Entertainment
 76812	Paradox Studios
 430448	50 Eggs
-419601	Mosfilm
-419601	Gaumont International
-419601	Deutsche Film AG
-419601	ИКАИК
 59738	Concepts Unlimited
 210183	Grand National Pictures
 210183	International Film Corporation
@@ -81100,11 +79879,6 @@ id	company_name
 24230	Shah/Jensen
 44268	
 12816	Dschoint Ventschr Filmproduktion AG
-14644	Novo Arturo Films
-14644	DD Productions
-14644	TF1 Films Production
-14644	Pathé
-14644	GMT Productions
 205908	Blood & Bullets Productions
 198951	Киевнаучфильм
 198951	Kievnauchfilm
@@ -81117,7 +79891,6 @@ id	company_name
 57757	Mosfilm
 193288	Star Media
 36695	
-82495	
 135210	Arnold and Gregor Production
 6436	
 95197	
@@ -81133,7 +79906,6 @@ id	company_name
 81509	Telecine
 64278	
 41237	
-64827	
 76012	The Asylum
 76012	Asylum Entertainment
 48584	Film and Co.
@@ -81192,7 +79964,6 @@ id	company_name
 22099	
 333953	
 275054	Lenfilm
-103301	Goskino Productions
 62664	Real Dakota
 62664	Interfest
 62664	Vox Film
@@ -81291,7 +80062,6 @@ id	company_name
 326011	Art Pictures Studio
 326011	Corner Work
 456098	
-301876	
 83413	
 41961	Gorky Film Studios
 41961	Kinostudiya imeni M. Gorkogo
@@ -81303,15 +80073,12 @@ id	company_name
 391700	Rézo Productions
 391700	Bonne Pioche
 72811	Lenfilm
-73545	
 63299	Lenfilm
 109262	First National Pictures
 63584	Gorky Film Studios
 204802	Mosfilm
 195503	Lenfilm
-448879	
 37174	Gorky Film Studios
-457307	
 381525	
 336549	Mosfilm
 340027	Denver and Delilah Productions
@@ -81337,7 +80104,6 @@ id	company_name
 460024	Vangard Productions
 460024	PraxiScope Productions
 448763	Total Entertainment
-396987	
 84016	
 43464	RKO Radio Pictures
 426469	
@@ -81465,7 +80231,6 @@ id	company_name
 360007	Infinite Lives Entertainment
 431490	
 104694	Star-Film
-153561	
 336890	Caramel Film
 262447	Mosfilm
 324631	Česká televize
@@ -81536,7 +80301,6 @@ id	company_name
 49270	Biograph Company
 174565	
 176896	BBC
-366860	Producciones Brooks
 336544	
 67488	
 155169	
@@ -81556,7 +80320,6 @@ id	company_name
 179549	Williamson Kinematograph Company
 192301	
 298296	
-202865	
 204611	
 434758	Luna Films
 345915	Voltage Pictures
@@ -81565,7 +80328,6 @@ id	company_name
 407173	
 53355	Omega Entertainment
 138943	Slaughter FX
-9765	
 461805	Ixtlan Productions
 461805	Showtime Documentary Films
 461805	New Element Media
@@ -81597,8 +80359,6 @@ id	company_name
 455963	
 429713	
 291495	
-213683	
-57770	
 338546	
 63540	Pushkin-Pictures
 49169	
@@ -81680,7 +80440,6 @@ id	company_name
 116753	
 411007	Kartemquin Films
 56784	Cecchi Gori Group Tiger Cinematografica
-142320	Italian International Film
 142830	Gorky Film Studios
 142830	Zodiak
 218901	Tiger Productions
@@ -81758,7 +80517,6 @@ id	company_name
 441728	Ecosse Films
 441728	Scope Pictures
 441728	Motion Picture Capital
-430058	Aetios Production
 143876	EGO Production
 50196	Filmes Cinematografica
 50196	Clan Film
@@ -81770,7 +80528,6 @@ id	company_name
 460822	Radical Media
 457470	Muse Entertainment
 36464	
-54309	
 167556	LMN Productions
 408024	Canal+
 408024	Ciné+
@@ -81825,7 +80582,6 @@ id	company_name
 331110	Chester Media Producciones S.L.
 436882	Farmhouse Film & TV
 184363	Kultkino
-445840	
 92475	Mezhrabpomfilm
 189505	
 176407	Goskino
@@ -81879,7 +80635,6 @@ id	company_name
 217917	Republic Pictures (I)
 42616	Paramount Pictures
 74384	
-64043	
 70207	Robert Greenwald Productions
 29458	Rai Cinemafiction
 29458	Titti Film
@@ -81887,7 +80642,6 @@ id	company_name
 29458	Ministero per i Beni e le Attività Culturali (MiBAC)
 160788	
 38286	Rodeo Drive
-73649	Palomar
 38397	
 238008	U.S. Army Signal Corps
 373546	Campbell Grobman Films
@@ -81899,10 +80653,6 @@ id	company_name
 269795	Lightstream Entertainment
 71133	Rizzoli Film
 71133	M.B. Film
-57996	Ponti-De Laurentiis Cinematografica
-57996	Lux Film
-57996	Rosa Film
-63179	Titanus
 398924	TF1 Films Productions
 398924	Forecast Pictures
 398924	Quad Films
@@ -81958,7 +80708,6 @@ id	company_name
 45877	Scissors Stone Productions Ltd.
 412204	
 59423	Cineline
-353713	Suevia Films - Cesáreo González
 51946	
 390526	
 98870	Votiv Films
@@ -82012,7 +80761,6 @@ id	company_name
 353491	Weed Road Pictures
 353491	Media Rights Capital
 353491	Sony Pictures Entertainment
-458335	Ananã Produções
 369406	Screen Australia
 369406	Film Victoria
 369406	Matchbox Pictures
@@ -82085,7 +80833,6 @@ id	company_name
 65104	
 79701	
 419786	
-298207	
 429918	
 194097	
 20110	
@@ -82094,7 +80841,6 @@ id	company_name
 51962	Bullitt Film
 42642	Lenfilm
 256520	Gorky Film Studio
-382995	Capital Films
 290217	Enlight Pictures
 444902	Lionsgate Television
 54988	
@@ -82119,7 +80865,6 @@ id	company_name
 76498	Crimson Productions
 413049	Bow and Arrow Entertainment
 413049	Patna Pictures
-422005	Dionysos Films Oy
 393945	France 2 Cinéma
 393945	Haut et Court
 297956	
@@ -82139,13 +80884,11 @@ id	company_name
 62447	
 168235	
 52803	UCLA School of Film and Television
-26969	Tesela P.C. / Impala
 196649	Armenfilm
 196649	Armenfilm Studios
 196649	Gosteleradio
 51212	Renn Productions
 51212	Les Films Christian Fechner
-91673	
 130278	
 51195	Gaumont
 51195	TF1 Films Production
@@ -82229,7 +80972,6 @@ id	company_name
 153100	
 137180	Viacom 18 Motion Pictures
 137180	Anurag Kashyap Films
-68063	
 369363	
 395834	Thunder Road Pictures
 395834	Star Thrower Entertainment
@@ -82327,10 +81069,6 @@ id	company_name
 82029	Elia Films
 33704	France 2 Cinéma
 33704	Source Films
-103344	StudioCanal
-103344	Canal+
-275272	France 2 Cinéma
-275272	Rendez-Vous Production
 68637	Union Générale Cinématographique (UGC)
 454774	Mayo Productions
 454774	ESCAC Films
@@ -82352,7 +81090,6 @@ id	company_name
 36885	Rapid Film
 12097	
 280640	Princes Films
-231216	
 66247	Kavithalayaa Productions
 49074	Sathya Movies
 47940	
@@ -82424,7 +81161,6 @@ id	company_name
 10819	Telewizja Polska - Agencja Filmowa
 31856	
 358511	Balapolis
-79343	
 155939	
 56350	
 25667	Banana Split Polska
@@ -82449,10 +81185,8 @@ id	company_name
 168819	Zespół Filmowy TOR
 108331	
 291224	
-418757	
 103462	
 38876	
-369444	
 81318	Heritage Films
 152912	Slovenská filmová tvorba Koliba (SFT)
 152912	Wytwórnia Filmów Fabularnych (WFF) Wroclaw
@@ -82510,9 +81244,6 @@ id	company_name
 430365	Pulsar Productions
 430365	W9
 50977	Moon Productions
-395767	2425 PRODUCTION
-199887	Fox Television Studios
-199887	Universal Cable Productions
 248705	Gaumont
 90063	Instituto Cubano del Arte e Industrias Cinematográficos (ICAIC)
 90063	Radio Televisión Española (RTVE)
@@ -82559,8 +81290,6 @@ id	company_name
 413421	Fox Star Studios
 413421	Clean Slate Films
 261871	Wise Vision
-317389	Roas Produzioni
-317389	Buton Film
 91563	
 227143	
 432789	
@@ -82586,9 +81315,6 @@ id	company_name
 97797	Central Partnership
 149946	
 61385	Pygmalion Production
-468707	Elokuvayhtiö Oy Aamu
-280422	Кинокомпания «Lunapark»
-280422	Инвада фильм
 38326	
 240789	Central Partnership
 240789	Amkart Studios
