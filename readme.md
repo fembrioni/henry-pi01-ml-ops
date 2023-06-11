@@ -113,3 +113,6 @@ Sin cambios.
 
 Sin cambios.
 
+# Estructura de directorios y contenido de los archivos
+
+TODO
