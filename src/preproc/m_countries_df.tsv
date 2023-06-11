@@ -1883,7 +1883,6 @@ id	country_name
 1811	France
 109614	United States of America
 60082	
-105045	Germany
 53023	France
 64802	United States of America
 11239	Japan
@@ -11598,8 +11597,6 @@ id	country_name
 21644	Australia
 21644	Belgium
 21644	Netherlands
-5511	France
-5511	Italy
 12485	United States of America
 49745	
 62825	
@@ -11820,10 +11817,6 @@ id	country_name
 10943	United Kingdom
 125842	
 100973	Sweden
-23305	France
-23305	Germany
-23305	India
-23305	United Kingdom
 21707	South Korea
 10981	Canada
 10918	Germany
@@ -17291,7 +17284,6 @@ id	country_name
 48350	United Kingdom
 97915	
 15003	Thailand
-141971	Finland
 24194	United States of America
 14851	United Kingdom
 14851	Ireland
@@ -21546,7 +21538,6 @@ id	country_name
 48988	United States of America
 49494	United States of America
 46529	United States of America
-141971	Finland
 49637	United States of America
 37714	France
 37714	United States of America
@@ -26940,7 +26931,6 @@ id	country_name
 117251	United States of America
 107985	United Kingdom
 118690	United Kingdom
-119916	
 139329	China
 136418	United States of America
 136418	United Kingdom
@@ -27761,12 +27751,6 @@ id	country_name
 34023	United States of America
 81622	Serbia
 154795	
-152795	Belgium
-152795	France
-152795	Germany
-152795	Israel
-152795	Luxembourg
-152795	Poland
 43115	United States of America
 113194	United States of America
 166879	United States of America
@@ -28130,7 +28114,6 @@ id	country_name
 215739	Denmark
 215739	Finland
 215739	Sweden
-18440	United States of America
 136850	United States of America
 134366	Canada
 134366	United States of America
@@ -29252,8 +29235,6 @@ id	country_name
 31214	Spain
 31214	Italy
 109891	United States of America
-25541	Sweden
-25541	Denmark
 80992	Netherlands
 248390	France
 71996	United States of America
@@ -31455,7 +31436,6 @@ id	country_name
 273922	United States of America
 91316	
 34650	United States of America
-11115	United States of America
 42734	United States of America
 62804	United States of America
 22515	
@@ -36252,7 +36232,6 @@ id	country_name
 69165	United States of America
 167951	United States of America
 87122	
-168538	
 5896	United States of America
 31281	United States of America
 23504	Japan
@@ -36827,8 +36806,6 @@ id	country_name
 281180	United States of America
 134693	United States of America
 46915	United Kingdom
-42495	Denmark
-42495	United Kingdom
 91472	United States of America
 52212	Italy
 301229	
@@ -49331,15 +49308,6 @@ id	country_name
 296865	Mexico
 394051	China
 379887	South Korea
-298721	United Kingdom
-298721	United States of America
-298721	France
-298721	Thailand
-298721	Germany
-298721	Malaysia
-298721	South Korea
-298721	Mexico
-298721	Norway
 382399	Romania
 382399	United States of America
 247414	Indonesia

@@ -3510,8 +3510,6 @@ id	genre_name
 109614	Romance
 60082	Comedy
 60082	Romance
-105045	Drama
-105045	Romance
 53023	Drama
 53023	Romance
 64802	Drama
@@ -22028,9 +22026,6 @@ id	genre_name
 9597	Mystery
 21644	Drama
 21644	Foreign
-5511	Crime
-5511	Drama
-5511	Thriller
 12485	Fantasy
 12485	Horror
 49745	Horror
@@ -22417,11 +22412,6 @@ id	genre_name
 125842	Drama
 100973	Drama
 100973	Thriller
-23305	Adventure
-23305	Animation
-23305	Drama
-23305	Action
-23305	Foreign
 21707	Action
 21707	Comedy
 10981	Comedy
@@ -31802,8 +31792,6 @@ id	genre_name
 15003	Action
 15003	Comedy
 15003	Crime
-141971	Thriller
-141971	Mystery
 24194	Horror
 24194	Science Fiction
 24194	Thriller
@@ -39146,8 +39134,6 @@ id	genre_name
 46529	Thriller
 46529	Science Fiction
 46529	Adventure
-141971	Thriller
-141971	Mystery
 49637	Documentary
 37714	Action
 37714	Drama
@@ -47756,9 +47742,6 @@ id	genre_name
 107985	Action
 107985	Science Fiction
 118690	Comedy
-119916	Fantasy
-119916	Drama
-119916	Science Fiction
 139329	Drama
 136418	Action
 136418	Thriller
@@ -49105,9 +49088,6 @@ id	genre_name
 34023	Horror
 81622	Documentary
 154795	
-152795	Drama
-152795	Science Fiction
-152795	Animation
 43115	Horror
 43115	Science Fiction
 113194	Fantasy
@@ -49676,9 +49656,6 @@ id	genre_name
 180048	Romance
 209282	Drama
 215739	Drama
-18440	Action
-18440	Horror
-18440	Science Fiction
 136850	Crime
 136850	Thriller
 134366	Horror
@@ -51395,7 +51372,6 @@ id	genre_name
 31214	Drama
 109891	Drama
 109891	Comedy
-25541	Drama
 80992	Drama
 248390	Comedy
 71996	Drama
@@ -54885,8 +54861,6 @@ id	genre_name
 34650	Thriller
 34650	Mystery
 34650	Romance
-11115	Comedy
-11115	Drama
 42734	Comedy
 62804	Drama
 62804	Crime
@@ -62713,8 +62687,6 @@ id	genre_name
 69165	Horror
 167951	Drama
 87122	Comedy
-168538	Drama
-168538	Comedy
 5896	Drama
 5896	Romance
 31281	Fantasy
@@ -63630,8 +63602,6 @@ id	genre_name
 134693	Action
 134693	Western
 46915	Drama
-42495	Drama
-42495	Foreign
 91472	Western
 52212	Comedy
 52212	Romance
@@ -83550,8 +83520,6 @@ id	genre_name
 394051	Mystery
 379887	Romance
 379887	Comedy
-298721	Drama
-298721	Fantasy
 382399	Drama
 382399	Music
 382399	Romance
