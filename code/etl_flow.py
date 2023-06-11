@@ -128,6 +128,9 @@ def preprocesar_dataframes() -> bool:
        # Libero espacio de memoria (Requerido por Render)
        del movies_df
 
+       # Drop de duplicados
+       m_df.drop_duplicates(inplace=True)
+       
        # Drops de registros
        m_df.dropna(subset=['production_companies'], inplace=True)
        m_df.dropna(subset=['spoken_languages'], inplace=True)
