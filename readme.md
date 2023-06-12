@@ -58,7 +58,7 @@ Endpoint 5 : https://henry-pi01-ml-ops-fer.onrender.com/get_actor/Tom%20Hanks
 
 Endpoint 6 : https://henry-pi01-ml-ops-fer.onrender.com/get_director/James%20Cameron
 
-Endpoint Recomendacion : TODO
+Endpoint Recomendacion : https://henry-pi01-ml-ops-fer.onrender.com/recomendacion/The%20Godfather
 
 Video en youtube mostrando que funciona correctamente
 
@@ -66,7 +66,7 @@ TODO
 
 # Anexos
 
-# Despliegue en Render
+## Despliegue en Render
 
 La siguiente información se brinda como sugerencia para el despliegue en Render ( https://dashboard.render.com/ ) como Servicio Web.
 
@@ -113,6 +113,43 @@ Sin cambios.
 
 Sin cambios.
 
-# Estructura de directorios y contenido de los archivos
+## Estructura de directorios y contenido de los archivos
 
-TODO
+El proyecto está estructurado bajo el siguiente esquema de directorios.
+
+### Directorio raiz
+
+Contiene archivos relacionados con la configuracion y el despliegue.
+
+`.gitattributes y .gitignore` relacionados con git.
+
+`compose-dev.yaml` es el archivo de configuracion del ambiente de desarrollo.
+
+`readme.md` es el documento que usted está leyendo ahora.
+
+`requirements.txt` contiene las dependencias requeridas por el proyecto.
+
+`deploy-script.sh` contiene las instrucciones para desplegar el proyecto en un ambiente Linux (Se puede armar un .bat con su contenido para hacer el despliegue en Windows).
+
+### Directorio ./src
+
+Contiene archivos relacionados con el origen de los datos. Dado que los archivos `"credits.csv" y "movies_dataset.csv"` son muy voluminosos, decidí no incluirlos en este repositorio. Sin embargo, más arriba se provee un link para descargar los mismos. En el modo de ejecución "PROD" los mismos no son necesarios.
+
+`Diccionario_de_datos_movies.tsv` contiene las descripciones de los campos en "movies_dataset.csv".
+
+### Directorio ./src/preproc
+
+Contiene `archivos con extensión "tsv"`. Los mismos se corresponden con el preprocesamiento (ETL) de los archivos originales.
+Además, en este directorio, una vez se ejecute por primera vez el proyecto, se crearán dos archivos con extensión "ser" que se corresponden con la serializacion de dos objetos que componen el modelo de recomendación de películas.
+
+### Directorio ./code
+
+Contiene los archivos de programa de este proyecto.
+
+Los `archivos con extensión "ipynb"` son archivos de Jupyter Notebook y contienen Análisis Exploratorios de Datos, como así también pruebas de concepto.
+
+`main.py` es el archivo mediante el cual se procesa la información y se proveen los servicios de API. Si la variable de ambiente "AMBIENTE" tiene valor "DEV" se procesarán los archivos "credits.csv" y "movies_dataset.csv" por lo que asegurese de haber copiado los mismos al directorio ./src antes de ejecutar main.py.
+
+`ml_model_generator.py` contiene las funciones de preprocesamiento de texto y el entrenamiento del modelo de recomendación basado en similaridad coseno vía TFIDF (Term Frequency-Inverse Document Frequency). El entrenamiento se almacena en dos archivos serializados vía pickle.
+
+`etl_flow.py` junto con el soporte de `etl_functions.py` contiene las funciones de ETL. Su ejecucion produce un lote de archivos en la carpeta ./src/preproc con extensión "tsv". Los mismos se corresponden con diversos dataframes que comparten el "id" de la película para luego hacer join entre los mismos.
