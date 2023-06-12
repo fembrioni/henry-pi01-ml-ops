@@ -130,7 +130,9 @@ Sin cambios.
 
 > Settings > Health & Alerts
 
-Sin cambios.
+Health Check Path : "/health_check".
+
+Service Failure Notifications : Dejar en "Use account notification settings".
 
 ## Estructura de directorios y contenido de los archivos
 
