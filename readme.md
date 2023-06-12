@@ -4,6 +4,25 @@ Alumno: Fernando Embrioni.
 
 Junio de 2023.
 
+Dados dos datasets, uno contieniendo registros de películas con información como id de la película, título, descripción y otros datos, y otro dataset conteniendo información de actores y actrices por película, y directores(as) por película, se solicita:
+
+- Procesar la información para limpiar la misma y dejarla en formatos que luego puedan ser utilizados con facilidad
+- Entrenar un modelo de Machine Learning que permita realizar recomendaciones de películas sobre la base de un título dado
+- Desplegar una API con 7 endpoints para resolver las siguientes consultas
+
+    > Cantidad de filmaciones por mes dado el nombre del mes en español
+
+    > Cantidad de filmaciones por día dado el nombre del día en español
+
+    > Conocer año de estreno y popularidad de un título dado
+
+    > Conocer año de estreno, la cantidad de votos y valoración promedio para un título dado
+
+    > Conocer cantidad de filmaciones y otros datos del actor/actriz dado el nombre del mismo / de la misma
+
+    > Conocer datos del director(a) y sus producciones dado el nombre del mismo / de la misma
+
+    > Obtener recomendaciones de películas para ver dado el título de una película
 
 MVP
 
