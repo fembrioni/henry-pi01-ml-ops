@@ -5,4 +5,4 @@ fastapi
 seaborn
 nltk
 scikit-learn
-scipy
+python3-scipy
