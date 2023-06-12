@@ -81,7 +81,7 @@ Endpoint Recomendacion : https://henry-pi01-ml-ops-fer.onrender.com/recomendacio
 
 Video en youtube mostrando que funciona correctamente
 
-TODO
+https://youtu.be/LA0Znz6GvM8
 
 # Anexos
 
