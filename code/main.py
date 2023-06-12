@@ -5,6 +5,7 @@
 import os
 import pandas as pd
 from fastapi import FastAPI
+from fastapi.responses import HTMLResponse
 import uvicorn
 import etl_flow as etlflow
 import api_functions as apif
@@ -34,6 +35,11 @@ mlmodel.generar_modelo()
 #  5 - /get_actor/{nombre_actor}
 #  6 - /get_director/{nombre_director}
 # ML - /recomendacion/{titulo}
+
+# Health check
+@fastAPIApp.get("/health_check")
+def health_check():
+    return HTMLResponse(content=None, status_code=204)
 
 # Endpoint 1
 @fastAPIApp.get("/cantidad_filmaciones_mes/{mes}")
