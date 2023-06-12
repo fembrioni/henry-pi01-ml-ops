@@ -128,8 +128,8 @@ def deserealizar(nombre_objeto: str):
               print('Error: El objeto no esta en la lista de serializables preprocesados')
               return None
 
-# Procesamiento
-if __name__ == '__main__':
+# Generar el modelo
+def generar_modelo():
 
     # Recupero el movies dataset preprocesado
     m_df = etlflow.obtener_df_preprocesado('m_df')
@@ -150,3 +150,7 @@ if __name__ == '__main__':
     # Serializo el vectorizador entrenado y la matriz TFIDF para su uso en la API
     serializar('vec_tfidf', tfidf_vectorizer)
     serializar('mtx_tfidf', tfidf_matrix)
+     
+# Procesamiento
+if __name__ == '__main__':
+     generar_modelo()
