@@ -268,9 +268,8 @@ def recomendacion(titulo:str):
         idx_pelicula_consultada = registro.index.values[0]
 
         # Recupero el vectorizador entrenado y la matriz TFIDF para realizar las recomendaciones
-        tupla_tfidf = mlmodel.deserealizar('mtx_tfidf')
-        tfidf_vectorizer = tupla_tfidf[0] # Instancio el vectorizador entrenado
-        mtx_tfidf = tupla_tfidf[1] # Instancio la matriz preprocesada
+        tfidf_vectorizer = mlmodel.deserealizar('vec_tfidf')
+        mtx_tfidf = mlmodel.deserealizar('mtx_tfidf')
 
         # Elijo el titulo de este film como query document
         query_document = registro['overview'].values[0]

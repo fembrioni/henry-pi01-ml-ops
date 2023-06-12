@@ -87,7 +87,8 @@ def tokenizar_limpiar_y_obtener_string(texto: str):
     return t_str
 
 # Serializador / Deserializador de objetos
-serializados_d = {'mtx_tfidf' : ['src/preproc/mtx_tfidf.ser', '\t']}
+serializados_d = {'mtx_tfidf' : ['src/preproc/mtx_tfidf.ser', '\t'],
+                  'vec_tfidf' : ['src/preproc/vec_tfidf.ser', '\t']}
 
 def serializar(nombre_objeto: str, objeto: any):
        
@@ -147,4 +148,5 @@ if __name__ == '__main__':
     tfidf_matrix = tfidf_vectorizer.fit_transform(documentos)
 
     # Serializo el vectorizador entrenado y la matriz TFIDF para su uso en la API
-    serializar('mtx_tfidf', (tfidf_vectorizer, tfidf_matrix))
+    serializar('vec_tfidf', tfidf_vectorizer)
+    serializar('mtx_tfidf', tfidf_matrix)
