@@ -3,7 +3,6 @@
 
 # Imports
 import os
-import json
 import pandas as pd
 from fastapi import FastAPI
 import uvicorn
