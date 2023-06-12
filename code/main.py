@@ -24,6 +24,9 @@ if ambiente == 'DEV':
     etlflow.preprocesar_credits_dataframes()
     etlflow.preprocesar_dataframes()
 
+# Proceso el Modelo de Machine Learning
+mlmodel.generar_modelo()
+
 # Endpoints
 #  1 - /cantidad_filmaciones_mes/{mes}
 #  2 - /cantidad_filmaciones_dia/{dia}
