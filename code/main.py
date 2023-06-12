@@ -9,6 +9,9 @@ from fastapi import FastAPI
 import uvicorn
 import etl_flow as etlflow
 import api_functions as apif
+import ml_model_generator as mlmodel
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 
 # Declaro la App de FastAPI
 fastAPIApp = FastAPI()
@@ -245,13 +248,53 @@ def get_director(nombre_director):
         # Respondo
         return rta
 
-# Endpoint recomendacion ML
+# Endpoint 7 - recomendacion ML
 @fastAPIApp.get('/recomendacion/{titulo}')
 def recomendacion(titulo:str):
     '''Ingresas un nombre de pelicula y te recomienda las similares en una lista'''
     # El 9/6 pidieron return {'lista recomendada': respuesta}
-    # TODO
-    return 'TODO'
+
+    # Evaluo la cantidad de registros con ese nombre de pelicula
+    m_df = etlflow.obtener_df_preprocesado('m_df')
+    q = m_df[m_df['title'] == titulo].title.count()
+
+    # Si no hay registros se informa tal situacion
+    if q < 1:
+        return 'No se encuentran registros con el siguiente nombre de filmación: {}'.format(titulo)
+    else:
+        # Existe al menos un registro. Me quedo con el primero de ellos
+        registros = m_df[m_df['title'] == titulo]
+        registro = registros.head(1)
+        idx_pelicula_consultada = registro.index.values[0]
+
+        # Recupero el vectorizador entrenado y la matriz TFIDF para realizar las recomendaciones
+        tupla_tfidf = mlmodel.deserealizar('mtx_tfidf')
+        tfidf_vectorizer = tupla_tfidf[0] # Instancio el vectorizador entrenado
+        mtx_tfidf = tupla_tfidf[1] # Instancio la matriz preprocesada
+
+        # Elijo el titulo de este film como query document
+        query_document = registro['overview'].values[0]
+
+        # Sobre la base de la matriz TFIDF busco los indices de documentos similares
+        query_tfidf = tfidf_vectorizer.transform([query_document])
+        similarity_scores = cosine_similarity(query_tfidf, mtx_tfidf)
+        similarity_scores = similarity_scores.flatten()  # Convierto a un 1D array
+        related_documents_indices = similarity_scores.argsort()[::-1]  # Ordeno los indices por orden descendente
+
+        # Preparo la respuesta
+        rta = {'lista recomendada' : None}
+        lista_recom = []
+        top_titulos = 5
+        for idx_label in related_documents_indices:
+            if idx_label != idx_pelicula_consultada:
+                lista_recom.append(m_df.loc[idx_label].title)
+                top_titulos = top_titulos - 1
+                if top_titulos < 1:
+                    break
+        rta['lista recomendada'] = lista_recom
+
+        # Respondo
+        return rta
 
 if __name__ == "__main__":
     uvicorn.run(fastAPIApp, host="0.0.0.0", port=8000)
